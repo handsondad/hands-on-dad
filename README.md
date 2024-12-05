@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce077d34-4ac3-4d68-8579-df7f4457fc38)![image](https://github.com/user-attachments/assets/843053b0-8c42-41de-9735-f65f22dd4b2c)# Hands-On Dad
+![image](https://github.com/user-attachments/assets/383d3322-5390-4a35-ae08-45ee9677e399)![image](https://github.com/user-attachments/assets/c29223d6-4e77-4dfd-8c29-74d4807714e2)![image](https://github.com/user-attachments/assets/65f6ccd3-2505-4198-a71c-0d9a182e5899)![image](https://github.com/user-attachments/assets/45f37578-8e26-4256-83d1-5c4c6ad6adaa)![image](https://github.com/user-attachments/assets/bf5ab033-9ef0-4461-aca4-8941929574e1)![image](https://github.com/user-attachments/assets/19e94d13-39f1-498f-84c0-fc06976e0b21)![image](https://github.com/user-attachments/assets/88a2bcc0-2adc-4f28-a4fb-023b44b82843)![image](https://github.com/user-attachments/assets/ba579e01-4db2-4b77-9314-cff3723f3a9b)# Hands-On Dad
 
 一个新手爸爸的育儿宝库！
 
@@ -14,10 +14,12 @@
   - [15-17岁发展阶段](#15-17岁发展阶段)
 - [家庭教育](#家庭教育)
 - [学校教育](#学校教育)
-- [STEM 教育](#STEM 教育)
+- [社会教育](#社会教育)
+- [STEAM](#STEAM)
   - [科学（Science）](#Science)
   - [技术（Technology）](#Technology)
   - [工程（Engineering）](#Engineering)
+  - [艺术（Arts）](#Arts)
   - [数学（Mathematics）](#Mathematics)
 
 ## 儿童发展阶段
@@ -90,6 +92,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 家庭活动
 
+#### 游戏
+
+- [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
+- [Foldit Puzzles](https://fold.it/puzzles) - 一个关于蛋白质结构的拼图游戏。
+
 #### 读书
 
 - [鲁滨逊漂流记](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
@@ -101,23 +108,71 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [飞屋环游记](https://www.bilibili.com/video/BV1eimHYyEkc) - 旭亮讲述《飞屋环游记》有一种力量让我泪流满面，以历险（adventure）为主题的故事里，不动声色地建立起值得普世观众投资情感的角色动机，并让主人公在一系列与其他角色和环境的互动中，最终勇敢地做出那个最为艰难的、关于终极真善美的选择，揭晓了这个世界和我们内心真相的答案。
 - [指环王](https://www.bilibili.com/video/BV1ja41157Eo) - 旭亮解读《指环王》是文学和电影里的山巅之城，下面有无穷宝藏，上面有属天智慧。
 
+#### 手动制作
+
+- [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
+- [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
+- [事物如何工作和引擎](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
+
+#### 观察自然
+
+- [精美植物摄影集](https://www.robertllewellyn.com/) - 著名摄影师罗伯特•卢埃林的个人网站是一个展示他四十余年摄影生涯成果的平台。
+
 ## 学校教育
 
-## STEM
+### 教学资源
+
+#### 教学创意
+
+- [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
+
+#### 化学
+
+- [化学自习室](https://www.hxzxs.cn/index.html) - 一个关于中学化学丰富的教学资料的公益网站。
+- [化学元素之书](https://home.theodoregray.com/blog/2020/9/28/the-kids-book-of-the-elements) - The Kid's Book of The Elements!
+
+#### 物理
+
+- [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
+
+#### 生物
+
+- [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
+
+## 社会教育
+
+### 公益组织
+
+- [ NASA Kids' Club](https://www.nasa.gov/) - NASA对孩子开放讲解的天文知识和各类活动。
+
+
+
+## STEAM
 
 ### Science
 
 ### Technology
 
+- [Make](https://makezine.com/) - 一个DIY手动进行创意制作的网站。
+
 ### Engineering
 
 - [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
+- [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
+- [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
+- [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
 
+### Arts
+
+- [Midwest data artist and designer](https://www.c82.net/) - 著名设计师及艺术家Nicholas Rougeux的个人设计工作的作品展示。
 
 
 ### Mathematics
 
+- [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
+- [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。
+- [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
