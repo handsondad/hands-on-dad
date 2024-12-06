@@ -139,6 +139,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
 
+#### 语言
+
+- [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
+
 ## 社会教育
 
 ### 公益组织
@@ -162,11 +166,13 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
 - [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
 - [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
+- [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[GitHub开源](https://github.com/soulscircuit/pilet)
 
 ### Arts
 
 - [Midwest data artist and designer](https://www.c82.net/) - 著名设计师及艺术家Nicholas Rougeux的个人设计工作的作品展示。
-
+- [In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
+- [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
 
 ### Mathematics
 
