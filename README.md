@@ -13,8 +13,14 @@
   - [12-14岁发展阶段](#12-14岁发展阶段)
   - [15-17岁发展阶段](#15-17岁发展阶段)
 - [家庭教育](#家庭教育)
+  - [教育理论](#教育理论)
+  - [家庭活动](#家庭活动)
+  - [写给孩子的信](#写给孩子的信)
 - [学校教育](#学校教育)
+  - [教学资源](#教学资源)
 - [社会教育](#社会教育)
+  - [公益组织](#公益组织)
+  - [儿童网站](#儿童网站)
 - [STEAM](#STEAM)
   - [科学（Science）](#Science)
   - [技术（Technology）](#Technology)
@@ -90,12 +96,19 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ## 家庭教育
 
+### 教育理论
+
+#### 快乐教育
+- [《斯宾塞的快乐教育》](https://weread.qq.com/web/bookDetail/8b332640813ab83cbg017c89) - 是一本运用教育学知识讲述如何让孩子爱上学习的书。
+
 ### 家庭活动
 
 #### 游戏
 
 - [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 - [Foldit Puzzles](https://fold.it/puzzles) - 一个关于蛋白质结构的拼图游戏。
+- [7 Family Games to Play Anywhere](https://parents.highlights.com/7-family-games-to-play-anywhere) - 7个最常用的家庭游戏。
+- [21 kids' party games ideas](https://www.goodto.com/family/kids-party-games-32207) - Goodto网站提供的一个孩子聚会游戏。
 
 #### 读书
 
@@ -108,15 +121,32 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [飞屋环游记](https://www.bilibili.com/video/BV1eimHYyEkc) - 旭亮讲述《飞屋环游记》有一种力量让我泪流满面，以历险（adventure）为主题的故事里，不动声色地建立起值得普世观众投资情感的角色动机，并让主人公在一系列与其他角色和环境的互动中，最终勇敢地做出那个最为艰难的、关于终极真善美的选择，揭晓了这个世界和我们内心真相的答案。
 - [指环王](https://www.bilibili.com/video/BV1ja41157Eo) - 旭亮解读《指环王》是文学和电影里的山巅之城，下面有无穷宝藏，上面有属天智慧。
 
+#### 礼物
+
+-[Gift-Guides](https://www.hgtv.com/shopping/gift-guides) - 来自HGTV网站（是一家专注于家居装修和园艺）的礼物制作。
+
 #### 手动制作
 
 - [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
 - [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - [事物如何工作和引擎](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
+- [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 
 #### 观察自然
 
 - [精美植物摄影集](https://www.robertllewellyn.com/) - 著名摄影师罗伯特•卢埃林的个人网站是一个展示他四十余年摄影生涯成果的平台。
+
+### 写给孩子的信
+
+#### 家书
+
+- [《洛克菲勒家书》](https://weread.qq.com/web/reader/55632e80537b48556e231a4) - 本书是洛克菲勒写给儿子的38封家书。
+- [《伯爵家书》](https://weread.qq.com/web/reader/217323307169fc882174a89) - 是一本关于如何教育孩子健康成长的亲子家教著作。
+
+#### 信件
+
+- [《给青年的十二封信》](https://weread.qq.com/web/reader/02432ad071f01ba102469b9) - 朱光潜先生旅欧期间写给国内青年朋友的十二封信，信中所说多为青年们所关心和应该关心的事项，如读书、修身、作文、社会运动、爱恋、哲理，凡此种种。
+- [《曾国藩给孩子的117封信》](https://weread.qq.com/web/bookDetail/33532c50813ab86c9g019883) - 是后人择选的曾国藩教子书信集，这些书信集中体现了曾国藩的教育思想。
 
 ## 学校教育
 
@@ -125,6 +155,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### 教学创意
 
 - [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
+- [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school
 
 #### 化学
 
@@ -147,9 +178,13 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 公益组织
 
+- [联合国儿童基金会](https://www.unicef.cn/) - 联合国儿童基金会-中国
 - [ NASA Kids' Club](https://www.nasa.gov/) - NASA对孩子开放讲解的天文知识和各类活动。
 
+### 儿童网站
 
+- [Highlights](https://parents.highlights.com/) - 一个著名的儿童教育品牌，提供多种资源帮助家长激发孩子的阅读兴趣。
+- [GoodToKnow](https://www.goodto.com/) - 在该网站上，您将找到幸福、健康的家庭生活所需的一切。
 
 ## STEAM
 
@@ -173,6 +208,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Midwest data artist and designer](https://www.c82.net/) - 著名设计师及艺术家Nicholas Rougeux的个人设计工作的作品展示。
 - [In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 - [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
+- [Crafts For Kids](https://www.pinterest.com/fortmagicfun/crafts-for-kids/) - Pinterest网站上一个展示各种儿童工艺品的博主的内容（Inspiring Craft Ideas For Children）。
+- [31 Arts and Crafts for Kids to Make at Home](https://parents.highlights.com/31-arts-and-crafts-kids-to-make-home) - Highlights网站上的一个儿童工艺品的内容。
+- [60 Fun and Easy Kids' Crafts](https://www.hgtv.com/design/make-and-celebrate/handmade/20-fun-and-easy-kids-crafts-pictures) - 来自HGTV网站（是一家专注于家居装修和园艺）的儿童工艺品。
+- [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 
 ### Mathematics
 
