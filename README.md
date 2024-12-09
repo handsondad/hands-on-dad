@@ -130,6 +130,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
 - [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - [事物如何工作和引擎](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
+- [引擎运作机制](https://mechanicalgifs.com/) - 动画演示各类引擎运作机制。
 - [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 
 #### 观察自然
@@ -169,10 +170,12 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### 生物
 
 - [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
+- [GrowSmartGrowSafe](https://www.growsmartgrowsafe.org/) - A gardener's guide to choosing saferpesticides and garden products.
 
 #### 语言
 
 - [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
+- [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 
 ## 社会教育
 
