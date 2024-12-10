@@ -32,7 +32,9 @@
 
 儿童的定义：根据联合国《[儿童权利公约](https://zh.wikipedia.org/wiki/%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84)》的定义，儿童是指 18 岁以下人口，即 0-17 周岁的人口。
 
-
+- [Early_Brain_Development](https://www.researchgate.net/publication/12089227_Developmental_Science_and_the_Media_Early_Brain_Development) - 生命早期是大脑快速发育阶段。
+- [0～6岁儿童发展的里程碑](https://www.unicef.cn/reports/developmental-milestone-children-0-6-years) - 教育部和联合国儿童基金会推出的0～6岁儿童发展的里程碑。
+- [0-6岁儿童监护人健康教育小册子](https://www.unicef.cn/reports/0-6-children-guardian-health-education-booklet) - 联合国儿童基金会和中国健康教育中心推出的。
 - [Official Site](https://github.com/features/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
@@ -44,16 +46,20 @@
 
 ### 新生儿发展阶段
 
+- [婴幼儿喂养咨询培训包](https://www.unicef.cn/iycf) - 本书以联合国儿童基金会和世界卫生组织2010年发布的婴幼儿喂养咨询包为基础。
+
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Starter workflow management.
 - [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
 
 ### 1-2岁发展阶段
 
 <!--lint disable no-dead-urls-->
+- [儿童早期发展](https://www.unicef.cn/reports/early-childhood-development-ecd) - 联合国儿童基金会资料。
 
 ### 3-5岁发展阶段
 
 <!--lint disable no-dead-urls-->
+- [《3—6岁儿童学习与发展指南》]() - 教育部和联合国儿童基金会推出的3—6岁儿童学习与发展指南。
 
 ### 6-11岁发展阶段
 
@@ -101,6 +107,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### 快乐教育
 - [《斯宾塞的快乐教育》](https://weread.qq.com/web/bookDetail/8b332640813ab83cbg017c89) - 是一本运用教育学知识讲述如何让孩子爱上学习的书。
 
+### 养育指南
+
+- [婴幼儿喂养咨询培训包](https://www.unicef.cn/iycf) - 本书以联合国儿童基金会和世界卫生组织2010年发布的婴幼儿喂养咨询包为基础。
+- [儿童早期发展科学培训资源包](https://www.unicef.cn/reports/secd-resource-kit) - 联合国儿童基金会和多所大学提供的资源。
+- [0-6岁儿童监护人健康教育小册子](https://www.unicef.cn/reports/0-6-children-guardian-health-education-booklet) - 联合国儿童基金会和中国健康教育中心推出的。
+- [积极养育指南](https://www.unicef.cn/documents/positive-parenting-guide) - 联合国儿童基金会推出的儿童积极养育指南。
+- [社会情感学习资源](https://www.unicef.cn/documents/sel-resources) - 联合国儿童基金会与教育部于2011年引入的社会情感学习项目。
+
 ### 家庭活动
 
 #### 游戏
@@ -115,6 +129,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [鲁滨逊漂流记](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
 - [魔戒](https://book.douban.com/subject/36437523/) - 《魔戒》是一部关于中洲伟大的想象力和动人的故事集，蕴含对世间万物最本真的好奇心与最深刻的洞察力。奇幻文学无法超越的经典之作！
 
+#### 绘本
+
+- [《阿狸和会飞的湖》英文版绘本](https://www.unicef.cn/documents/english-book-ali-and-flying-lake) - 一本关于水、环境和气候变化的儿童书。
 
 #### 电影
 
@@ -156,7 +173,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### 教学创意
 
 - [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
-- [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school
+- [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school.
+- [社会情感学习资源](https://www.unicef.cn/documents/sel-resources) - 联合国儿童基金会与教育部于2011年引入的社会情感学习项目。
 
 #### 化学
 
@@ -177,6 +195,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 - [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 
+### 教学评估
+
+- [评价青少年参与结果的概念框架](https://www.unicef.cn/documents/conceptual-framework-measuring-outcomes-adolescent-participation)
+
 ## 社会教育
 
 ### 公益组织
@@ -188,6 +210,24 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Highlights](https://parents.highlights.com/) - 一个著名的儿童教育品牌，提供多种资源帮助家长激发孩子的阅读兴趣。
 - [GoodToKnow](https://www.goodto.com/) - 在该网站上，您将找到幸福、健康的家庭生活所需的一切。
+
+### 报告
+
+#### 世界儿童状况
+
+- [《2011年世界儿童状况：青少年期-充满机遇的年代》](https://www.unicef.cn/reports/state-worlds-children-2011)
+- [《2017年世界儿童状况：数字时代的儿童》](https://www.unicef.cn/reports/state-worlds-children-2017)
+- [《2019年世界儿童状况：儿童、食物与营养》](https://www.unicef.cn/reports/sowc-2019-executive-summary)
+- [《2021年世界儿童状况：心之所想：促进、保护和关爱儿童心理健康》](https://www.unicef.cn/reports/sowc-2021-executive-summary)
+- [《2023年世界儿童状况：为每一名儿童接种疫苗》](https://www.unicef.cn/reports/sowc-2023-executive-summary)
+
+#### 中国儿童人口
+
+- [2020年中国儿童人口状况](https://www.unicef.cn/reports/population-status-children-china-2020-census)
+
+#### 儿童早期发展研究
+
+- [中国儿童早期发展研究报告 2019](http://www.sanyfoundation.org/wp-content/uploads/2020/07/%E4%B8%89%E4%B8%80%E5%9F%BA%E9%87%91%E4%BC%9A%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
 ## STEAM
 
