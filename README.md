@@ -135,6 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 🕮 [《斯波克育儿经》](https://weread.qq.com/web/reader/9ed32860813ab7377g010983) - 被公认为20世纪最可信的育儿手册，凝结了“育儿之父”斯波克医生经60年考验行之有效的育儿经验。
 - 🕮 [《西尔斯亲密育儿百科》](https://weread.qq.com/web/reader/660320e071629618660cafc) - 西尔斯博士根据近40年的儿科临床实践，以及与妻子玛莎共同养育8个子女的经验，结合发展心理学的“亲密理论”，总结出了一套亲密育儿法。
+- 🕮 [《定本育儿百科》](https://weread.qq.com/web/reader/0ee3262071c5f3560eed165) - 从婴儿诞生前一直写到孩子上小学，全面周到的育儿知识。
 
 
 ### 👩🏼‍🔬 心理学家说教育
@@ -146,6 +147,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 🕮 [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，他认为没有什么比父母教育孩子更加需要智慧的了，我一生都在努力探求这种智慧。
 - 🕮 [《教养的迷思》](https://weread.qq.com/web/reader/bf032ad0719230adbf0f346) - 在《教养的迷思》一书中，作者用众多的证据证明，在孩童的成长过程中，父母的影响力并没有大家想象中的大，真正具有影响力的是孩童在家庭之外的同辈群体。
+- [《爱和自由》](https://weread.qq.com/web/reader/86c32cc0813ab7e7ag013b5a) - 全面讲述了孙瑞雪教育机构“爱和自由”的教育理念和方法。
 
 ## ➡️ 养育指南
 
@@ -336,7 +338,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 💅 个人成长
 
-- 🕮 [<绿山墙的安妮>](https://weread.qq.com/web/reader/b21324e0716395deb21aecf) -是一部最甜蜜的描写儿童生活的小说，也是一本可以让家长、老师和孩子都能从中获得感悟的心灵读物。
+- 🕮 [《绿山墙的安妮》](https://weread.qq.com/web/reader/b21324e0716395deb21aecf) -是一部最甜蜜的描写儿童生活的小说，也是一本可以让家长、老师和孩子都能从中获得感悟的心灵读物。
 - 🕮 [《秘密花园》](https://weread.qq.com/web/reader/e4e3288071e8eefee4e4bcf) - 讲述了一个关于友谊、决心和毅力的故事。
 
 
@@ -516,12 +518,20 @@ STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://e
 
 ## 🔬 Science
 
+### 🏛️ 科学史
+
+- 🕮 [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
+- 🕮 [《科学的故事》](https://weread.qq.com/web/reader/b6e3217071e92091b6eef43) - 科学并不是高深莫测，也不应该烧脑。相反，科学的故事就是人类追求真理的故事，精彩纷呈，引人入胜。
+- 🕮 [《科学的历程》](https://weread.qq.com/web/reader/39332d60716516c8393abcb) - 一部普及性的世界科学通史。以东方文明和科学技术对人类进步的影响为开端，以西方文明和科学的发展历程为核心，同时探讨了科学精神的本质和推动科学发展的力量。
+- 🕮 [《万物简史》](https://weread.qq.com/web/reader/af832e60813ab6d90g01048f) - 书中回溯了科学史上那些伟大与奇妙的时刻，引用了近年来发现的最新科学史料。讲述了人类文明发展进程中所发生的繁多妙趣横生的故事。
+
 ### 🏆 科学组织
 
 - [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 
 ### 🌕 天文历法
 
+- 🕮 [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 
 
 ## 📡 Technology
@@ -534,6 +544,7 @@ STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://e
 ### 🎟️ 古代技术
 
 - 🕮 [《天工开物》](https://weread.qq.com/web/reader/a8232ec0813ab7a2dg012c49) - 全书较全面系统地记述了中国古代农业和手工业的生产技术及经验。
+- 🕮 [《营造法式》](https://weread.qq.com/web/reader/2e132f00720527a12e1e573) - 《营造法式》是我国古代*为完整的建筑技术书籍。
 
 ## 🩺 Engineering
 
