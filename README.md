@@ -78,6 +78,7 @@
 - 👉 [3~6岁儿童学习与发展指南](https://www.unicef.cn/reports/3-6-children-learn-and-development-guide) - 教育部和联合国儿童基金会推出的3~6岁儿童学习与发展指南。
 - 🕮 [《魔法岁月：0~6岁孩子的精神世界》](https://book.douban.com/subject/26352480/) - 本书可以帮你了解0~6岁孩子的生理与心理变化，放下对孩子的过度保护，帮助孩子解决焦虑、排便、自律等问题，详细分析了对孩子进行管教的必要性。
 - 🕮 [《0~6岁，抓住孩子的语言关键期》](https://weread.qq.com/web/reader/2cb326b0813ab6f99g018786) - 作者还认为，0~6岁是孩子学习言语的关键期，错过这个时期，语言装置系统将完全卸载。因此，父母应该牢牢抓住这个阶段，适时引导，帮助孩子发现自己的语言天赋。
+- 🕮 [《理解孩子的语言》](https://weread.qq.com/web/reader/d673255071cc8a24d677d2c) - 只要我们稍微懂得倾听孩子，并理解他们的语言，他们会在自己发展的每个阶段，都把他们的任何需要都告诉我们。
 
 ## 🧒 6-11岁发展阶段
 
@@ -123,17 +124,28 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ## 📓 教育理论
 
-### 😄 快乐教育
+### 🤱🏼 父母说教育
 
 - 🕮 [《斯宾塞的快乐教育》](https://weread.qq.com/web/bookDetail/8b332640813ab83cbg017c89) - 一本运用教育学知识讲述如何让孩子爱上学习的书。
+- 🕮 [《卡尔•威特的教育》](https://weread.qq.com/web/reader/be9328c0718ea4fbbe96fa8) - 200年前的教育方法如何与今天的家庭教育结合起来？今天中国的父母如何体会200年前老卡尔的教育理念的精髓？
+- 🕮 [《海蒂育儿大百科（0-1岁）》](https://weread.qq.com/web/reader/89b32250813ab805cg0189a5) - 0~1岁丰富实用的育儿知识。
+- 🕮 [《海蒂育儿大百科（1-3岁）》](https://book.douban.com/subject/25859575/) - 1~3岁丰富实用的育儿知识。
 
-### 🤗 积极心理学
+### 👨‍⚕️ 医生说教育
+
+- 🕮 [《斯波克育儿经》](https://weread.qq.com/web/reader/9ed32860813ab7377g010983) - 被公认为20世纪最可信的育儿手册，凝结了“育儿之父”斯波克医生经60年考验行之有效的育儿经验。
+- 🕮 [《西尔斯亲密育儿百科》](https://weread.qq.com/web/reader/660320e071629618660cafc) - 西尔斯博士根据近40年的儿科临床实践，以及与妻子玛莎共同养育8个子女的经验，结合发展心理学的“亲密理论”，总结出了一套亲密育儿法。
+
+
+### 👩🏼‍🔬 心理学家说教育
 
 - 🕮 [《教出乐观的孩子： 让孩子受用一生的幸福经典》](https://weread.qq.com/web/reader/611325805ae2c561133540c) - 积极心理学之父马丁•塞利格曼集30年、千百个成人及儿童研究之精华著成的教育经典。书中重墨提及积极心理教育在学校实践中的成功应用，富有借鉴意义。
-
-### 😤 儿童教育心理学
-
 - 🕮 [《儿童教育心理学：阿德勒关于儿童心理发展、性格与人格养成的秘密》](https://weread.qq.com/web/reader/46532be0718247e74656296) - 本书以个体心理学理论为基础，以经过实践检验的教育方法为指导，从人格统一性、自卑感、卓越感、社会情感、学校教育、家庭氛围等几个贯穿始终的关键词出发，旨在破解儿童的心理行为密码。
+
+### 👩‍🏫 教育学家说教育
+
+- 🕮 [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，他认为没有什么比父母教育孩子更加需要智慧的了，我一生都在努力探求这种智慧。
+- 🕮 [《教养的迷思》](https://weread.qq.com/web/reader/bf032ad0719230adbf0f346) - 在《教养的迷思》一书中，作者用众多的证据证明，在孩童的成长过程中，父母的影响力并没有大家想象中的大，真正具有影响力的是孩童在家庭之外的同辈群体。
 
 ## ➡️ 养育指南
 
@@ -153,7 +165,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 👨🏻‍❤‍👨🏼 情感教育
 
 - 👉 [社会情感学习资源](https://www.unicef.cn/documents/sel-resources) - 联合国儿童基金会与教育部于2011年引入的社会情感学习项目。
-
+- 🕮 [《理解孩子的语言：孩子的笑、哭泣和害怕》](https://weread.qq.com/web/reader/d673255071cc8a24d677d2c) - 书中分析了恐惧、愤怒、喜悦和悲伤几种情绪，通过这些分析来帮助家长和孩子相互了解，坚定父母的信心，提高孩子的情商。
 
 ### 🚑️ 健康安全
 
@@ -173,6 +185,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《一千零一夜》](https://book.douban.com/subject/30355859/) - 本书精选《一千零一夜》中最脍炙人口也最为有趣的十个故事。
 - 🕮 [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。
 - 🕮 [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 面对困难，我永不妥协，因为我有一颗敢于冒险的心！
+- 🕮 [《绿野仙踪》](https://weread.qq.com/web/reader/173328a0526dd91736ad263) - 奇幻冒险童书《绿野仙踪》，带给孩子爱与勇气，永葆梦想与善良！
+- 🕮 [《彼得·潘》](https://weread.qq.com/web/reader/08f325d05c668d08f419bb1) - 讲述了小女孩温蒂和两个弟弟约翰、迈克尔跟随小飞侠彼得·潘来到神奇之境梦幻岛并在那里生活的故事。
 
 
 ### 🖼️ 绘本图册
@@ -188,10 +202,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《房子：世界插画大师英诺森提作品》](https://book.douban.com/subject/19974155/) - 来自世界插画大师英诺森提的作品。🕮 [《世界插画大师英诺森提作品（套装共7册）》](https://book.douban.com/series/14381)
 - 🕮 [《调皮的建筑师》](https://book.douban.com/subject/36092608/) - 建筑不仅是遮风挡雨的地方，也是激发无限想象与可能的造梦之地。
 - 🕮 [《阿狸和会飞的湖》英文版绘本](https://www.unicef.cn/documents/english-book-ali-and-flying-lake) - 一本关于水、环境和气候变化的儿童书。
-- 👉 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册
-  - 🕮 [《歌谣》](https://book.douban.com/subject/35799865/)
-  - 🕮 [《四季》](https://book.douban.com/subject/35542802/)
-  - 🕮 [《人们》](https://book.douban.com/subject/36062733/)
+- 🕮 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册：[《歌谣》](https://book.douban.com/subject/35799865/)、[《四季》](https://book.douban.com/subject/35542802/)和[《人们》](https://book.douban.com/subject/36062733/)
 
 ### 🏬 走进生活
 
@@ -267,6 +278,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 🐌 昆虫
 
+- 🕮 [《昆虫的奇妙生活》](https://weread.qq.com/web/reader/f483214071fbe09cf48fa04) -本书邀你进入奇妙的昆虫世界！就数量而言，地球上的每个人，都对应着2亿只昆虫。
+- [《奇妙的昆虫图鉴》](https://book.douban.com/subject/36439621/) - 用趣味漫画展现昆虫的神奇生活。
 - 🕮 [《昆虫Q&A》](https://book.douban.com/subject/26589043/) - 通过作者的丰富学养及生花妙笔，140则令人好奇的问题及其解答，汇集成一本可以学习、可以典藏、可以省思的经典之作。
 - 🕮 [《鸣虫音乐国》](https://book.douban.com/subject/26893009/) - 书里收录了台湾32种蟋蟀和螽斯的鸣声和图片，除了声音、声谱，还有细腻的文字介绍。解翔实、活泼，录音的清晰度亦质量良好。
 - 🕮 [《昆虫家谱》](https://book.douban.com/subject/25933432/) - 本书提供了410科昆虫的简便鉴别方法，这些方法源于作者在昆虫分类与野外识别领域的长期实践与探索，实用性极强。
@@ -303,6 +316,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### 👁️ 认识身体
 
 - 🕮 [《给孩子的身体书》](https://weread.qq.com/web/reader/e77326b07155597ae776f7f) - 用孩子易懂的语言来讲述人体知识，用孩子爱看的图画来展现身体构造，让孩子学做自己的小医生！
+- 👉 [比尔·布莱森推出的人体简史三册](https://www.douban.com/personage/27277868/)
+    - 🕮 [《人体简史：你的身体30亿岁了》](https://weread.qq.com/web/reader/698326e071eda5e269837c3) - 一部从头讲到脚、从里讲到外、从30亿年前讲到今天的人体百科全书！
+    - 🕮 [《人体简史：全彩插图版》](https://weread.qq.com/web/reader/ef6321d0813ab8cf4g011fa3) - 全彩插图版！430张图片详解人体运行！
+    - 🕮 [《人体简史：少儿彩绘版》](https://weread.qq.com/web/reader/ccd32fd0813ab91e6g017392) - 图文并茂，让儿童从头到脚、从体表到体内，踏上一段奇妙的人体之旅，探索身体奥秘，领略生命奇迹，开启健康人生。
+- 🕮 [《疯狂人类进化史》](https://weread.qq.com/web/reader/d5232d105cd6e6d52b141ef) - 以宇宙的视角来看地球，它是渺小到极致的存在；以地球的角度来看人类，我们是渺小存在中的超级幸运儿。
 
 #### 🗺️ 奇幻之旅
 
@@ -314,6 +332,13 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 🕮 [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
 - 🕮 [《发现之旅：历史上最伟大的十次自然探险》](https://book.douban.com/subject/10439064/) - 世界历史上最著名的探险家、科学家、艺术家联袂演绎一幕幕迷人的自然历史冒险故事，三百年历史的时间隧道，携您加入未知领域的探险与历史伟人一起遨游世界
+
+
+#### 💅 个人成长
+
+- 🕮 [<绿山墙的安妮>](https://weread.qq.com/web/reader/b21324e0716395deb21aecf) -是一部最甜蜜的描写儿童生活的小说，也是一本可以让家长、老师和孩子都能从中获得感悟的心灵读物。
+- 🕮 [《秘密花园》](https://weread.qq.com/web/reader/e4e3288071e8eefee4e4bcf) - 讲述了一个关于友谊、决心和毅力的故事。
+
 
 #### 🧘 爱与治愈
 
@@ -331,6 +356,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 👣 生命奇迹
 
+生命的16种模式：1.生命构造从简到繁 2.生命把自己组装成链 3.生命需要内外之分 4.生命用有限的主题塑造无穷的变化 5.生命靠信息来组织 6.生命通过重组信息促进多样性 7.生命通过差错进行创造 8.生命在水中起源 9.生命由糖来驱动 10.生命循环运转 11.生命回收用过的一切 12.生命靠更新来维护 13.生命寻求最优而不是最多 14.生命是机会主义者 15.生命在合作的主题下竞争 16.生命相互联系又相互依存。
+
+![关于生命应该知道的16件事](./images/关于生命应该知道的16件事.jpg)
+
+- 🕮 [《生命的运作方式》](https://weread.qq.com/web/reader/a5a32ee0729ac57aa5aa741) - 本书用通俗易懂的文字和风趣幽默的漫画，将基因和蛋白质的微观世界与生物个体的宏观世界紧密地联系起来，从细胞内部的原子和分子开始讲述生命的奥秘。
 - 🕮 [《演化：跨越40亿年的生命记录》](https://book.douban.com/subject/6750347/) - 讲述的是地球上一切生命的进化史，从早期原始生命的产生到物种大爆炸又大灭绝的原因，从雄性和雌性的共同进化到寄主和寄生物之间的进化比赛，当然更包括了十分详细的、关于我们人类自身的进化历程。
 - 🕮 [《新生命史：生命起源和演化的革命性解读》](https://book.douban.com/subject/35097469/) - 生命的发展并不是一个庄严的、渐进的过程，大灾难对生命历史的影响超过了所有其他力量的总和。
 
@@ -382,7 +412,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 🕮 [《给青年的十二封信》](https://weread.qq.com/web/reader/02432ad071f01ba102469b9) - 朱光潜先生旅欧期间写给国内青年朋友的十二封信，信中所说多为青年们所关心和应该关心的事项，如读书、修身、作文、社会运动、爱恋、哲理，凡此种种。
 - 🕮 [《曾国藩给孩子的117封信》](https://weread.qq.com/web/bookDetail/33532c50813ab86c9g019883) - 是后人择选的曾国藩教子书信集，这些书信集中体现了曾国藩的教育思想。
-- 🕮 [《宝贵的人生建议：我希望早点知道的智慧》](https://weread.qq.com/web/reader/a2c32190813ab822fg014a9a) - 凯文·凯利给孩子的一些人生建议
+- 🕮 [《宝贵的人生建议：我希望早点知道的智慧》](https://weread.qq.com/web/reader/a2c32190813ab822fg014a9a) - 凯文·凯利给孩子的一些人生建议。
+- 🕮 [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，内部附有他给子女的31封信。
 
 ###
 # 🎓 学校教育
@@ -393,13 +424,19 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 👉 [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
 - 👉 [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school.
-- 👉 [社会情感学习资源](https://www.unicef.cn/documents/sel-resources) - 联合国儿童基金会与教育部于2011年引入的社会情感学习项目。
 
 ### 🧪 化学
 
+- 👉 [元素周期表网站](https://periodictable.com/) - 一个提供元素周期表相关信息和化学元素数据的在线平台‌。
 - 👉 [化学自习室](https://www.hxzxs.cn/index.html) - 一个关于中学化学丰富的教学资料的公益网站。
 - 👉 [化学元素之书](https://home.theodoregray.com/blog/2020/9/28/the-kids-book-of-the-elements) - The Kid's Book of The Elements!
-- 👉 [Beautiful Chemistry](https://www.beautifulchemistry.net/) - 一个可以展示化学反应可视化的网站。
+- 👉 [Beautiful Chemistry](https://www.beautifulchemistry.net/) - 一个可以展示化学反应可视化的网站。作者梁琰推出的[《美丽的化学反应》](https://weread.qq.com/web/reader/35f32140719dab2235f73b1)和[《美丽的化学结构》](https://weread.qq.com/web/reader/55532690719dab2c555105d)两册图书。
+- 🕮 [《元素周期表何以解释一切》](https://weread.qq.com/web/bookDetail/acd3283071c0aeccacd6798) - 对于宇宙而言，元素是“烹饪”最基础的食材，从甜菜根到自行车，世间的一切都是由元素这种最纯净的物质组成的。研究和使用这些元素的科学，我们称之为化学。
+- 🕮 [《元素的盛宴：元素周期表中的化学探险史与真实故事》](https://weread.qq.com/web/reader/74b324c0813ab8300g018716) - 在这本书中，作者以极具张力的叙述节奏，追溯了元素周期表背后精彩的化学探险史，将一个个元素的传奇故事与奇妙化学性质讲述得麻辣鲜活，极具吸引力。
+- 👉 [西奥多•格雷的化学三部曲](https://home.theodoregray.com/)
+    - 🕮 [视觉之旅：神奇的化学元素](https://book.douban.com/subject/5985153/) - 将用有史以来的最华丽的视觉盛宴带你踏上美丽的化学之旅。
+    - 🕮 [视觉之旅：化学世界的分子奥秘](https://book.douban.com/subject/26353234/) - 阐释分子之间是如何相互作用的，我们的世界的本质又是什么样的。
+    - 🕮 [视觉之旅：奇妙的化学反应](https://weread.qq.com/web/reader/a6632aa0718bc4c7a66887b) - 用化学背后的故事与震撼的图片于一体，讲述了化学反应类型相关的基本概念。
 
 ### 🔭 物理
 
@@ -473,7 +510,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ###
 # 👨‍💻 STEAM
-🧑 STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
+STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
 
 ![STEAM的含义](./images/STEAM.png)
 
