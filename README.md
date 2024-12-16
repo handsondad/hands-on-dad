@@ -235,14 +235,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《园丁手册：花园里的奇趣问答》](https://book.douban.com/subject/35307158/) - 英国皇家园艺学会（RHS）首席顾问盖伊·巴特（Guy Barter）在其数十年园艺实践中收集和归纳的129个典型问题及其既简单明了又出乎意料的解答。
 - 🕮 [《鲜花帝国：鲜花育种、栽培与售卖的秘密》](https://book.douban.com/subject/25876757/) - 花卉贸易已经形成规模庞大的产业，鲜花都是实验室制造、试管育种、工厂种植、机器收割，接着被打包装箱、拍卖出售，然后搭乘飞机漂洋过海走进大型超市或当地花店。
 
-#### 钱的运转
+#### 💰️ 钱的运转
 
-人类金钱世界宛如一个巨大的水厂，管道纵横交错，里面流淌着金钱。这幅作品把整个体系隐喻成一个水厂系统，旨在通过简单易懂的画面让金钱世界变得触手可及。揭示：金钱如水，金钱即权力！
+人类金钱世界宛如一个巨大的水厂，管道纵横交错，里面流淌着金钱。这幅作品把整个体系隐喻成一个水厂系统，旨在通过简单易懂的画面让金钱世界变得触手可及。揭示：**金钱如水，金钱即权力！**
 
 ![像水厂的金钱世界](./images/The%20Waterworks%20of%20Money.png)
 
-- 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，👉 [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，👉 [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
-- 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。[B站搬运](https://www.bilibili.com/video/BV1Ab4y1p7nd)
+- 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，📺️ [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，📺️ [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
+- 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Ab4y1p7nd)
 
 
 ### 🏕️ 观察自然
@@ -332,6 +332,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
 - 👉 [引擎运作机制](https://mechanicalgifs.com/) - 动画演示各类引擎运作机制。
+- 👉 [PlayDNA](https://www.carolina.com/genetic-dna-models/playdna-dna-model-kit-intro-pack/211490.pr?question=dna+model) - PlayDNA! classroom kits (and compatible RNA parts) will be available from Carolina Science.
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 
 #### 🎯 危险的事
@@ -420,13 +421,13 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 👉 [Scholastic学乐选出的100部经典儿童电影](https://www.douban.com/doulist/138197352/) - 全球最大的儿童图书出版机构Schoolastic旗下的《父母与儿童》杂志于2013年1月23日发布了100部最佳儿童影片推荐名单。
 - 👉 [最经典的20部儿童电影（203部）](https://www.douban.com/doulist/44514376/) - 豆瓣用户发起的一个儿童电影推荐。
-- 👉 [The 50 Most Life-Changing Movies Ever Made by Like Stories of Old](https://www.bilibili.com/video/BV1aEBSYtEgQ/) - 旭亮讲解。另外[YouTube原作者讲解](https://www.youtube.com/watch?v=ZYp7EmEgxg0)
-- 👉 [值得反复观看的21部电影](https://www.bilibili.com/video/BV1x14y1D7L1/) - 旭亮推荐值得反复观看的21部电影，我用余生和你一起解读。[豆瓣](https://www.douban.com/doulist/155307846/)
-- 👉 [豆瓣电影Top250](https://movie.douban.com/top250)
+- 📺️ [The 50 Most Life-Changing Movies Ever Made by Like Stories of Old](https://www.bilibili.com/video/BV1aEBSYtEgQ/) - 旭亮讲解。另外[YouTube原作者讲解](https://www.youtube.com/watch?v=ZYp7EmEgxg0)
+- 📺️ [值得反复观看的21部电影](https://www.bilibili.com/video/BV1x14y1D7L1/) - 旭亮推荐值得反复观看的21部电影，我用余生和你一起解读。[豆瓣](https://www.douban.com/doulist/155307846/)
+- 👉 [豆瓣电影Top250](https://movie.douban.com/top250) - 豆瓣Top250电影推荐。
 
 #### 💡 启示
 
-- 👉 [指环王](https://www.bilibili.com/video/BV1ja41157Eo) - 旭亮解读《指环王》是文学和电影里的山巅之城，下面有无穷宝藏，上面有属天智慧。
+- 📺️ [指环王](https://www.bilibili.com/video/BV1ja41157Eo) - 旭亮解读《指环王》是文学和电影里的山巅之城，下面有无穷宝藏，上面有属天智慧。
   - 👉 [指环王1：护戒使者](https://movie.douban.com/subject/1291571/)
   - 👉 [指环王2：双塔奇兵](https://movie.douban.com/subject/1291572/)
   - 👉 [指环王3：王者无敌](https://movie.douban.com/subject/1291552/)
@@ -434,11 +435,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 🚵 历险
 
-- 👉 [飞屋环游记](https://www.bilibili.com/video/BV1eimHYyEkc) - 旭亮讲述《飞屋环游记》有一种力量让我泪流满面，以历险（adventure）为主题的故事里，不动声色地建立起值得普世观众投资情感的角色动机，并让主人公在一系列与其他角色和环境的互动中，最终勇敢地做出那个最为艰难的、关于终极真善美的选择，揭晓了这个世界和我们内心真相的答案。
+- 📺️ [飞屋环游记](https://www.bilibili.com/video/BV1eimHYyEkc) - 旭亮讲述《飞屋环游记》有一种力量让我泪流满面，以历险（adventure）为主题的故事里，不动声色地建立起值得普世观众投资情感的角色动机，并让主人公在一系列与其他角色和环境的互动中，最终勇敢地做出那个最为艰难的、关于终极真善美的选择，揭晓了这个世界和我们内心真相的答案。
 
 #### 👬 友情
 
-- 👉 [第一头牛](https://www.bilibili.com/video/BV1P4SKYWE1F/) - 旭亮讲述《第一头牛》是慢电影，有诗意的电影。[豆瓣](https://movie.douban.com/subject/30368608/)
+- 📺️ [第一头牛](https://www.bilibili.com/video/BV1P4SKYWE1F/) - 旭亮讲述《第一头牛》是慢电影，有诗意的电影。[豆瓣](https://movie.douban.com/subject/30368608/)
 
 
 ### 🎁 礼物
@@ -491,6 +492,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 👉 [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
 - 👉 [GrowSmartGrowSafe](https://www.growsmartgrowsafe.org/) - A gardener's guide to choosing saferpesticides and garden products.
+- 👉 [TeachDNA](https://www.teachdna.net/) - DNA、RNA和蛋白质分子的教学模型。
 
 ### 🎤 语言
 
@@ -500,6 +502,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🌏 地理
 
 - 👉 [查看地震带工具](https://seismic-explorer.concord.org/) - 一个查看不同年份地震发生地点，可以标注出地球上各个地震带。
+
+### 🧫 实验室
+
+- 👉 [Carolina科学实验室](https://www.carolina.com/) - Find the Perfect Science Kit! Whether it's hands-on, digital or a bit of both, get the right fit for your class.
 
 ## 🧭 教学评估
 
@@ -520,6 +526,20 @@ Set up your GitHub Actions workflow with a specific version of your programming 
   - 🕮 [《让学校重生》](https://weread.qq.com/web/reader/1da329507169805a1da7a62) - 每个学生都是一个独立的个体，因此，我们需要构建面向每一个孩子的个性化教育，使他们通过学习成为真正的自己。
 
 - 🕮 [《翻转课堂的可汗学院》](https://book.douban.com/subject/25886309/) - 当教育没有了贫富之分，课堂没有了年龄之别，实习没有了假期之限，当学生开始为自己的兴趣和未来而学习，教育才能最终达成其目标。
+
+### 🏫 研究机构
+
+- 👉 [斯坦福大学的孩子和认知实验室](https://langcog.stanford.edu/) - 斯坦福大学的LangCog项目，主要研究语言与认知之间的关系。
+- 👉 [未来教育高精尖创新中心](https://aic-fe.bnu.edu.cn/) - 是北京市政府支持建设的首批高精尖中心之一，是以重大教育实践问题为导向、以教育科技创新为核心方向的高水平国际化创新平台，面向全国提供教育公共服务智能平台与教育专家智库服务，推动教育的智能化转型，助力中国教育现代化建设。
+
+### 🖧 创新实践
+
+- 👉 [K-College Programs](https://www.carolina.com/) - K-College products and support materials that impact student learning (Innovative Solutions & Exclusive Products)
+  - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/)
+  - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
+  - 👉 [Distance Learning Kits](https://carolinadistancelearning.com/) - Distance Learning Course Labs.
+  - 👉 [Three-Dimensional Learning](https://www.carolina.com/carolinakits3d) - 3D-学习方法指导和实践。 🗐 [Guide_to_3D_Learning](https://www.carolina.com/pdf/ebooks/Guide_to_3D_learning.pdf)
+- 👉 [Mixly图文混合编程工具](https://mixly.org/) - 北京师范大学教授关于STEM实践的开源项目。
 
 ## 🌐 公益组织
 
@@ -579,7 +599,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ## 📡 Technology
 
+### 💍 技术指导
+
 - 👉 [Make](https://makezine.com/) - 一个DIY手动进行创意制作的网站。
+- 👉 [Carolina Science](https://www.carolina.com/) - 一个关于生活中的科学作品和制作指导。Carolina covers the world of life science with everything from slides and kits to Agricultural and Vet Science.
 - 👉 [507 Mechanical Movements](https://507movements.com/) - 一个可以展示机械方面运动的网站。
 - 👉 [Plugs And Sockets](https://www.worldstandards.eu/electricity/plugs-and-sockets/) - 全世界共有15种"插头 + 插座"组合，这个网页把它们全列出来。
 - 👉 [关于汉字编码的一些技术](https://spectrum.ieee.org/chinese-keyboard) - The Forgotten History of Chinese Keyboards.
@@ -597,7 +620,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 📚 作品
 
-- 👉 [In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
+- 👉 [In Pieces-30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
@@ -673,4 +696,9 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 📊 数据
 
+- 🧾 [CHILDES](https://childes.talkbank.org/) - 一个总结儿童语言的数据库。
 - 🧾 [Open Weather Map](https://openweathermap.org/) - 一个开源的天气数据。
+
+## 👑 实践
+
+- [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
