@@ -222,6 +222,15 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《园丁手册：花园里的奇趣问答》](https://book.douban.com/subject/35307158/) - 英国皇家园艺学会（RHS）首席顾问盖伊·巴特（Guy Barter）在其数十年园艺实践中收集和归纳的129个典型问题及其既简单明了又出乎意料的解答。
 - 🕮 [《鲜花帝国：鲜花育种、栽培与售卖的秘密》](https://book.douban.com/subject/25876757/) - 花卉贸易已经形成规模庞大的产业，鲜花都是实验室制造、试管育种、工厂种植、机器收割，接着被打包装箱、拍卖出售，然后搭乘飞机漂洋过海走进大型超市或当地花店。
 
+#### 钱的运转
+
+人类金钱世界宛如一个巨大的水厂，管道纵横交错，里面流淌着金钱。这幅作品把整个体系隐喻成一个水厂系统，旨在通过简单易懂的画面让金钱世界变得触手可及。揭示：金钱如水，金钱即权力！
+
+![像水厂的金钱世界](./images/The%20Waterworks%20of%20Money.png)
+
+- 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，👉 [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，👉 [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
+- 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。[B站搬运](https://www.bilibili.com/video/BV1Ab4y1p7nd)
+
 
 ### 🏕️ 观察自然
 
@@ -512,7 +521,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ###
 # 👨‍💻 STEAM
-STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
+STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
 
 ![STEAM的含义](./images/STEAM.png)
 
@@ -539,7 +548,7 @@ STEAM的含义：根据美国国家科学委员会《[STEAM_education](https://e
 - 👉 [Make](https://makezine.com/) - 一个DIY手动进行创意制作的网站。
 - 👉 [507 Mechanical Movements](https://507movements.com/) - 一个可以展示机械方面运动的网站。
 - 👉 [Plugs And Sockets](https://www.worldstandards.eu/electricity/plugs-and-sockets/) - 全世界共有15种"插头 + 插座"组合，这个网页把它们全列出来。
-- [关于汉字编码的一些技术](https://spectrum.ieee.org/chinese-keyboard) - The Forgotten History of Chinese Keyboards.
+- 👉 [关于汉字编码的一些技术](https://spectrum.ieee.org/chinese-keyboard) - The Forgotten History of Chinese Keyboards.
 
 ### 🎟️ 古代技术
 
