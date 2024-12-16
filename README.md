@@ -383,6 +383,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
   - 🕮 [《箴言集：只要风经过他就会歌唱》](https://book.douban.com/subject/26958656/) - 散落于世界各处的格言、谚语和箴言串成珍珠，凝练到极致的智慧火花，可以承载如此丰厚的人生内容。
   - 🕮 [《苏爷爷的哲理故事：把问题提出来》](https://book.douban.com/subject/26958656/) - 讲故事，并不是为了摆道理，而只是把问题提出来。这些问题本身的价值，超过了所有确信和真理。
   - 🕮 [《希腊神话：命运的囚徒》](https://book.douban.com/subject/26958656/) - 来认识一下希腊神话中的伟大英雄，看看他们充满传奇色彩的故事和不可思议的命运吧。越是古老的故事，越是蕴含着历久弥新的哲学思辨。
+- 👉 [普莱希特哲学史](https://book.douban.com/series/61318) - 德国当代哲学家普莱希特哲学史两册。
+    - 🕮 [《认识世界：古代与中世纪哲学》](https://weread.qq.com/web/reader/b2232e807249dd65b226ae4) - 从西方哲学的发源地美丽的小亚细亚海岸，一直到中世纪后期的修道院和书斋、教堂和大学，一代代著名哲学家轮番登上历史舞台，对世界、对自我、对生活进行着探寻与思考。
+    - 🕮 [《认识你自己：近代哲学四百年》](https://weread.qq.com/web/reader/26232f10813ab70cbg010c5e) - 讲述西方哲学的黄金年代，名家辈出的近代哲学四百年。
 
 
 #### 🧘 爱与治愈
