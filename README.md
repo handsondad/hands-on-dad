@@ -21,6 +21,7 @@
   - 🧧 [写给孩子的信](#-写给孩子的信)
 - 🎓 [学校教育](#-学校教育)
   - 🗃️ [教学资源](#-教学资源)
+  - ✨ [教学标准](#-教学标准)
   - 🧭 [教学评估](#-教学评估)
 - 🏫 [社会教育](#-社会教育)
   - 📢 [创新教育](#-创新教育)
@@ -33,6 +34,7 @@
   - 🩺 [工程（Engineering）](#-Engineering)
   - 🎨 [艺术（Arts）](#-Arts)
   - 📐 [数学（Mathematics）](#-Mathematics)
+  - 👑 [实践](#-实践)
 
 ###
 # 🚣 儿童发展阶段
@@ -175,6 +177,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《理解孩子的语言：孩子的笑、哭泣和害怕》](https://weread.qq.com/web/reader/d673255071cc8a24d677d2c) - 书中分析了恐惧、愤怒、喜悦和悲伤几种情绪，通过这些分析来帮助家长和孩子相互了解，坚定父母的信心，提高孩子的情商。
 - 🕮 [《我什么办法都试过了！：理解一至五岁孩子》](https://book.douban.com/subject/27154263/) - 如何理解一至五岁的孩子？运用神经科学和实验心理学的科学发现来理解。
 - 🕮 [《他怎么总找我麻烦？：理解六至十一岁孩子》](https://book.douban.com/subject/27054213/) - 如何理解六至十一岁的孩子？运用神经科学和实验心理学的科学发现来理解。
+- 🕮 [《心理学与生活》](https://weread.qq.com/web/reader/a6c32000813ab6c04g013ced) - 是一部心理学经典教科书，心理学导论类教材的典范之作。
+- 🕮 [《津巴多普通心理学》](https://weread.qq.com/web/reader/631324c0813ab735bg01382c) - 普通心理学的经典教材。
+
 
 ### 🚑️ 健康安全
 
@@ -318,13 +323,43 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ![水文循环](./images/水文循环.png)
 
 - 👉 [The Economic of Water](https://watercommission.org/) - 涉及水文循环的方方面面。Valuing the Hydrological Cycle as a Global Common Good.
+- 🕮 [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
+- 🕮 [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
 
 #### 📼 记录片
 
 - 📺️ [地球脉动](https://www.bilibili.com/bangumi/media/md20302) - BBC历时4年拍摄的鸿篇巨制——纪录片《地球脉动》（Planet Earth），通过开创性的拍摄技术，用镜头记录下了地球上那些美妙至极又令人惊叹的神奇画面。
 - 🕮 [《地球脉动：前所未见的自然之美》](https://book.douban.com/subject/36906512/) - 我们生活的这个星球从未被我们真正地欣赏过，人们尚未充分领略它的美好。本书是纪录片《地球脉动》的同名图书。
 
+### 🏟️ 城市空间
+
+#### 🏞️ 公园
+
+- 🕮 [《国家公园》](https://book.douban.com/subject/3993770/) - 本书将带领我们穿越自然，探险最为美丽的自然保护区。
+- 🕮 [《江南园林志》](https://book.douban.com/subject/26291942/) - 论述中国造园的传统特色和一般原则，阐释假山艺术，介绍江南各地著名园林的沿革、现状、艺术特点并作出评价。
+
+#### 🏺 博物馆
+
+法国的卢浮宫、英国的大英博物馆、美国的大都会博物馆以及俄罗斯的艾尔米塔什博物馆并称为世界四大博物馆。
+
+- 🕮 [《大英博物馆世界简史（全3册）》](https://book.douban.com/subject/25746578/) - 由大英博物馆和BBC联合打造，由大英博物馆馆长尼尔•麦格雷戈亲自撰写，动员100多名馆员、400多名专家，编撰时间长达4年，从大英博物馆800万件馆藏中精选了100件最具代表性的物品，全面展现了人类200万年文明史。
+- 🕮 [《大都会艺术博物馆指南》](https://book.douban.com/subject/26845199/) - 美国大都会艺术博物馆新版指南，一览600件世界艺术精华。
+- 🕮 [《艾尔米塔什博物馆》](https://book.douban.com/subject/35079616/) - 国家艾尔米塔什博物馆富丽堂皇。其收藏于1764年由俄国女皇凯瑟琳大帝起始，发展至今已经包含了300多万件艺术品和工艺品。
+- 🕮 [《卢浮宫：历史及馆藏珍品450件》](https://book.douban.com/subject/37025619/) - 一部卢浮宫官方授权的大型馆藏图录，精选450件艺术珍品，为你打开法国巴黎唯一的万宝之宫。
+- 🕮 [《艺术博物馆》](https://book.douban.com/subject/27047564/) - 世界知名艺术出版机构英国费顿出版社历时13年打造而成，从世界各地超过650家博物馆获取艺术品授权和图片，囊括近3000件作品，逾3000幅彩色图片。
+
 ### ✍ 动手制作
+
+#### 🌈 制作图鉴
+
+- 👉 [实用百科图鉴](https://book.douban.com/series/1617) - 丛书共7本，由接力出版社从日本福音馆书店引进，为日本厚生省中央儿童福利审议会推荐图书。
+  - 🕮 [《实用生活图鉴》](https://book.douban.com/subject/1082345/) -  
+  - 🕮 [《实用手工图鉴》](https://book.douban.com/subject/1082359/) - 
+  - 🕮 [《实用探险图鉴》](https://book.douban.com/subject/1082346/) - 
+  - 🕮 [《实用自然图鉴》](https://book.douban.com/subject/1184293/) - 
+  - 🕮 [《实用游戏图鉴》](https://book.douban.com/subject/1082360/) - 
+  - 🕮 [《实用趣味实验图鉴》](https://book.douban.com/subject/1082347/) - 
+  - 🕮 [《实用饲养栽培图鉴》](https://book.douban.com/subject/1256887/) - 
 
 #### 🚀 有趣的事
 
@@ -413,6 +448,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《演化：跨越40亿年的生命记录》](https://book.douban.com/subject/6750347/) - 讲述的是地球上一切生命的进化史，从早期原始生命的产生到物种大爆炸又大灭绝的原因，从雄性和雌性的共同进化到寄主和寄生物之间的进化比赛，当然更包括了十分详细的、关于我们人类自身的进化历程。
 - 🕮 [《新生命史：生命起源和演化的革命性解读》](https://book.douban.com/subject/35097469/) - 生命的发展并不是一个庄严的、渐进的过程，大灾难对生命历史的影响超过了所有其他力量的总和。
 
+
 #### 💪 榜样的力量
 
 - 🕮 [《人类群星闪耀时：十四篇历史特写》](https://weread.qq.com/web/reader/8e0321c0718a6c928e0ab0e) - 十四个生死攸关、超越时代的故事，如群星般璀璨而不渝地照耀着暂时的黑夜。
@@ -490,12 +526,15 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🔭 物理
 
 - 👉 [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
+🕮 [《天文学与生活》](https://book.douban.com/subject/30470522/) - 硬核的天文学知识，全书通过紧密联系星空与地球的关系，说明了天文学对人类生活的影响，以及人类的未来。
 
 ### 🧬 生物
 
 - 👉 [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
 - 👉 [GrowSmartGrowSafe](https://www.growsmartgrowsafe.org/) - A gardener's guide to choosing saferpesticides and garden products.
 - 👉 [TeachDNA](https://www.teachdna.net/) - DNA、RNA和蛋白质分子的教学模型。
+- 🕮 [生物学与生活](https://book.douban.com/subject/26882918/) - 非常硬核的生物学知识，是一本在美国大学生中享有盛誉的通识读物。
+- 🕮 [《生物学之书从生命的起源到实验胚胎，生物学史上的250个里程碑》](https://weread.qq.com/web/reader/7f7322d0725f98bf7f77c54) - 探讨了生物学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 
 ### 🎤 语言
 
@@ -505,10 +544,22 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🌏 地理
 
 - 👉 [查看地震带工具](https://seismic-explorer.concord.org/) - 一个查看不同年份地震发生地点，可以标注出地球上各个地震带。
+- 🕮 [《十二幅地图中的世界史》](https://book.douban.com/subject/26816981/) - 地图不仅仅是帮助我们从甲地到乙地的工具，更是伟大历史时刻的缩影，是政治权力的强大手段。地图可以给人们美好的愿景，却又可以是极具毁灭性的政治势力的工具，能引起偏见，使世界扭曲变形。
+- 🕮 [《地球之书》](https://book.douban.com/subject/35716683/) - 跨越了地球的整个历史，从46亿年前地球的诞生到未来数十亿年后必然的灭亡。
 
 ### 🧫 实验室
 
 - 👉 [Carolina科学实验室](https://www.carolina.com/) - Find the Perfect Science Kit! Whether it's hands-on, digital or a bit of both, get the right fit for your class.
+
+## ✨ 教学标准
+
+### 🗽 美国科学教育标准
+
+- 👉 [科学发现者](https://book.douban.com/series/7070) - 一组依据《美国科学教育标准》而编写的中学生优秀教科书。
+  - 🕮 [《地理（全三册）：地质学、环境与宇宙》](https://book.douban.com/subject/3246317/)
+  - 🕮 [《化学（全三册）：概念与应用》](https://book.douban.com/subject/3246318/)
+  - 🕮 [《物理（全三册）: 原理与问题》](https://book.douban.com/subject/3246319/)
+  - 🕮 [《生物：生命的动力》](https://book.douban.com/subject/3207629/)
 
 ## 🧭 教学评估
 
@@ -556,6 +607,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 👉 [Highlights](https://parents.highlights.com/) - 一个著名的儿童教育品牌，提供多种资源帮助家长激发孩子的阅读兴趣。
 - 👉 [GoodToKnow](https://www.goodto.com/) - 在该网站上，您将找到幸福、健康的家庭生活所需的一切。
+- 👉 [Children’s Discovery Museum of San Jose](https://www.cdm.org/) - 圣何塞儿童探索博物馆（Children's Discovery Museum of San Jose）提供丰富多样的展览和互动体验，旨在激发儿童的创造力、好奇心和终身学习的兴趣。
 
 ## ☑️ 机构报告
 
@@ -586,6 +638,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🏛️ 科学史
 
+正如在拉斐尔那里，哲学总是像永恒的仙境、思想的圣地。求真的沉思上百年甚至上千年地在此之中碰撞交织，如同成对的蜻蜓。或许，正是如此神圣的非现实化，使得这幅画直到今天依然散发着魅力！
+
+![雅典学院](./images/雅典学院.jpg)
+
+- 👉 [雅典学院](https://zh.wikipedia.org/zh-cn/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_%28%E7%95%AB%E4%BD%9C%29) - Wikipedia上的拉斐尔画作雅典学院的人物介绍。
 - 🕮 [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
 - 🕮 [《科学的故事》](https://weread.qq.com/web/reader/b6e3217071e92091b6eef43) - 科学并不是高深莫测，也不应该烧脑。相反，科学的故事就是人类追求真理的故事，精彩纷呈，引人入胜。
 - 🕮 [《科学的历程》](https://weread.qq.com/web/reader/39332d60716516c8393abcb) - 一部普及性的世界科学通史。以东方文明和科学技术对人类进步的影响为开端，以西方文明和科学的发展历程为核心，同时探讨了科学精神的本质和推动科学发展的力量。
@@ -593,10 +650,15 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🏆 科学组织
 
-- [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
+- 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
+- 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
+- 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
 
 ### 🌕 天文历法
 
+- 🕮 [《DK宇宙大百科](https://book.douban.com/subject/26259174/) - 由NASA、NOAO等权威机构提供1000多幅震撼图片与精美图表，通过最权威的提供机构，和最先进的观测技术，助你领略宇宙的壮美多姿，认识宇宙及宇宙学的历史与发展，激发人类对宇宙与自身的思索。
+- 🕮 [《剑桥天文爱好者指南》](https://book.douban.com/subject/35562183/) - 无论初级爱好者还是观测老手们，这都是一部很好的指南。读完这本书，你能够知道天文爱好者大概是怎么样的一个群体，他们的主要活动是干什么，天文学的一些历史和基础概念等。
+- 🕮 [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 🕮 [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 
 
@@ -614,6 +676,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 🕮 [《天工开物》](https://weread.qq.com/web/reader/a8232ec0813ab7a2dg012c49) - 全书较全面系统地记述了中国古代农业和手工业的生产技术及经验。
 - 🕮 [《营造法式》](https://weread.qq.com/web/reader/2e132f00720527a12e1e573) - 《营造法式》是我国古代*为完整的建筑技术书籍。
+- 🕮 [《工程学之书》](https://weread.qq.com/web/reader/55632e70725f98cb556641d) - 探讨了工程学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 
 ## 🩺 Engineering
 
@@ -651,9 +714,17 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📸 摄影
 
 - 👉 [iGoTerra](https://igoterra.com/dashboard) - 一个提供植物、鸟类、昆虫图片和摄影者排名的网站。
+- 🕮 [《热带雨林》](https://book.douban.com/subject/1902741/) - 自然摄影师托马斯·马伦特花费16年的心血，足迹踏遍五大洲，艰苦但吸引人的冒险历程最终集结成这本热带雨林图集。
+- 🕮 [《地球之光》](https://book.douban.com/subject/5924706/) - 《地球之光——BBC野生生物摄影年赛二十年精选》是近年来发表的最出色的一本自然摄影作品集。
+- 🕮 [《世界最美飞鸟》](https://book.douban.com/subject/26387128/) - 200幅最美飞鸟写真，配合日本著名图集出版公司X-Knowledge的精心编著，为你还原那些飞翔在我们身边的飞鸟最真实、最精彩、最美丽的身姿。
+- 🕮 [《艾略特 厄威特：快照集》](https://book.douban.com/subject/26636418/) - 这本厚达544页的《快照集》涵盖了厄威特一生的重要作品，它们来自两架相机——一架用于工作、一架用于爱好。两架相机的作品一同向世人展现了人间悲喜剧。
+- 🕮 [《寂静》](https://book.douban.com/subject/26306353/) - 《寂静》中的作品由摄影师采用4*5大画幅相机自然光拍摄，无任何辅助设备，也未经后期制作。这部耗时数年的拍摄项目共分为6个主题，通过图像在指涉时间流逝上的喻意性作用，从过去，到现在，再向未来，展现了当代废墟美学的新高度。
+- 🕮 [《卡什肖像经典》](https://book.douban.com/subject/5906083/) - 透过优素福·卡什的双眼，透过他的视角以及他在拍摄伟人肖像时的娴熟技巧，我们得以看到20 世纪全球最著名的人物。
 
-### 🖌️ 插画
+### 🖌️ 绘画
 
+- 🕮 [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
+- [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 🕮 [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
 
 ### 🔍 纹样
@@ -690,6 +761,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📏 度量
 
 - 🕮 [《度量：一首献给数学的情歌》](https://weread.qq.com/web/reader/7d5328c0813ab87e0g010df9) - 介绍了对形状和运动的度量。
+- 🕮 [《数学之书》](https://book.douban.com/subject/35626482/) - 为我们展示了数学发展史最重要的里程碑事件背后的魔力与神奇，包括人类曾经思索过的最古怪的问题，从公元前一亿五千万年到最新的前沿突破。
 
 ### 🖱️ 动画
 
@@ -704,4 +776,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ## 👑 实践
 
-- [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
+### 🌼 开放内容
+
+- 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
+- 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
