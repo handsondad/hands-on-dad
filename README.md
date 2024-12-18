@@ -326,16 +326,12 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
 - 🕮 [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
 
-#### 📼 记录片
-
-- 📺️ [地球脉动](https://www.bilibili.com/bangumi/media/md20302) - BBC历时4年拍摄的鸿篇巨制——纪录片《地球脉动》（Planet Earth），通过开创性的拍摄技术，用镜头记录下了地球上那些美妙至极又令人惊叹的神奇画面。
-- 🕮 [《地球脉动：前所未见的自然之美》](https://book.douban.com/subject/36906512/) - 我们生活的这个星球从未被我们真正地欣赏过，人们尚未充分领略它的美好。本书是纪录片《地球脉动》的同名图书。
 
 ### 🏟️ 城市空间
 
 #### 🏞️ 公园
 
-- 🕮 [《国家公园》](https://book.douban.com/subject/3993770/) - 本书将带领我们穿越自然，探险最为美丽的自然保护区。
+- 🕮 [《国家公园》](https://book.douban.com/subject/3993770/) - 本书将带领我们穿越自然，探险最为美丽的自然保护区。 📺️ [黄石公园纪录片](https://www.bilibili.com/video/av10803474/)
 - 🕮 [《江南园林志》](https://book.douban.com/subject/26291942/) - 论述中国造园的传统特色和一般原则，阐释假山艺术，介绍江南各地著名园林的沿革、现状、艺术特点并作出评价。
 
 #### 🏺 博物馆
@@ -347,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《艾尔米塔什博物馆》](https://book.douban.com/subject/35079616/) - 国家艾尔米塔什博物馆富丽堂皇。其收藏于1764年由俄国女皇凯瑟琳大帝起始，发展至今已经包含了300多万件艺术品和工艺品。
 - 🕮 [《卢浮宫：历史及馆藏珍品450件》](https://book.douban.com/subject/37025619/) - 一部卢浮宫官方授权的大型馆藏图录，精选450件艺术珍品，为你打开法国巴黎唯一的万宝之宫。
 - 🕮 [《艺术博物馆》](https://book.douban.com/subject/27047564/) - 世界知名艺术出版机构英国费顿出版社历时13年打造而成，从世界各地超过650家博物馆获取艺术品授权和图片，囊括近3000件作品，逾3000幅彩色图片。
+- 📺️ [博物馆的秘密](https://www.bilibili.com/video/av14434734/) - 一口气走完16个国家的22家顶级博物馆，听专业考古学家、博物馆员娓娓道来。颠覆传统记录片形式，通过多条线索探秘解惑，以悬疑、暗黑的视角探查历史秘密。
 
 ### ✍ 动手制作
 
@@ -484,6 +481,25 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🎁 礼物
 
 - 👉 [Gift-Guides](https://www.hgtv.com/shopping/gift-guides) - 来自HGTV网站（是一家专注于家居装修和园艺）的礼物制作。
+
+### 📼 记录片
+
+- 📺️ [地球脉动](https://www.bilibili.com/bangumi/media/md20302) - BBC历时4年拍摄的鸿篇巨制——纪录片《地球脉动》（Planet Earth），通过开创性的拍摄技术，用镜头记录下了地球上那些美妙至极又令人惊叹的神奇画面。
+- 🕮 [《地球脉动：前所未见的自然之美》](https://book.douban.com/subject/36906512/) - 我们生活的这个星球从未被我们真正地欣赏过，人们尚未充分领略它的美好。本书是纪录片《地球脉动》的同名图书。
+- 📺️ [蓝色星球](https://v.qq.com/x/cover/t6udtxyvbhbbxv2/e0025oknrqk.html) - 是历年来首套全面探索海洋世界的自然历史专辑。
+- 📺️ [冰冻星球](https://v.qq.com/x/page/l0159uyxljx.html) - 真实的展现了正在逐渐溶解的地球两极，以及生活在这里的各种生物，片中种种景象让人叹为观止。
+- 📺️ [人类星球](https://v.qq.com/x/page/n0105n9en8e.html) - 不仅立足于自然，上山下海，给我们展现了在不同的视角下，这些景色有多壮阔，更重要的是，也给我们展现了不同文化背景中，人类如何积极地求生，如何为了自己的信念不懈奋斗。
+- 📺️ [地球的力量](https://www.bilibili.com/bangumi/play/ep119173) - 在地球形成的45亿年中，是什么力量塑造了地球如今的模样？
+- 📺️ [太阳系的奇迹](https://v.qq.com/x/page/k0131xxhpjo.html) - 纪录片展示了太阳系的绝美景观。借助航天探测器，太空望远镜和太空探险队发回的最新科学知识，带我们踏上前所未有外太空之旅。
+
+- 📺️ [《数学漫步之旅](https://www.bilibili.com/bangumi/play/ss42185) - 以趣味动漫的形式，浅显易懂地讲通一个数学概念，让孩子对一些看似深奥的数学内容，不再感到陌生、遥远。👉 数学天才陶哲轩的[大师课](https://www.bilibili.com/video/BV1wa41187Wf/)
+- 📺️ [Crash Course Kids](https://www.bilibili.com/video/BV1kS4y1Y7LY/) - Crash Course Kids系列视频是YouTube网站上最火的教学频道之一，也是一个专门拍给孩子的通识教育系列课。
+- 📺️ [美丽中国](https://www.bilibili.com/video/BV1nM4y1K7eW/) - 这是一部用英语介绍中国的“系列短视频”，配有中英文字幕，以绝佳的视听盛宴，展现了中国的地貌奇迹，以及独有的自然、生态、人文景观。
+- 📺️ [Science show Kids](https://www.bilibili.com/video/BV1bg4y1U73c/) - 这是一部专为儿童设计的科学启蒙节目，涉及一切让孩子感到好奇的话题，轻松满足孩子们的所有好奇心和求知欲，被誉为绝佳的儿童科学实验启蒙课。👉 另一档给中学生看的[SciShow](https://www.bilibili.com/video/BV1cx4y1i7BX)
+- 📺️ [Crash Course Geography](https://www.bilibili.com/video/BV1p64y137cr/) - 这一宝藏“地理课”，也是为数不多配有中英文双语字幕的Crash Course课程视频，“地理爱好者”千万不要错过。
+- 📺️ [文明的崛起](https://www.bilibili.com/bangumi/play/ss27216) - 这部纪录片对于想要系统了解欧洲历史和欧洲文明诞生过程的孩子们，是一堂精彩的历史通识教育课。
+- 📺️ [欧洲历史](https://www.bilibili.com/bangumi/play/ss28183) - 我们将跟随剑桥大学历史学家克里斯托弗·克拉克的步伐，前往欧洲各国，了解丰富有趣的西方历史知识和文化脉络。
+- 📺️ [王朝](http://v.qq.com/detail/2/28wj897frl5hj40.html) - 记录了世界上最具标志性的动物的故事，在世界最知名的地点，他们为了维系自己的王朝而努力奋斗着。在每一集里面，他们每个个体的故事都会通过激烈的、引人入胜的戏剧情节展开。
 
 
 ## 🧧 写给孩子的信
@@ -724,7 +740,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🖌️ 绘画
 
 - 🕮 [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
-- [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
+- 🕮 [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 🕮 [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
 
 ### 🔍 纹样
