@@ -129,6 +129,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ###
 # 👨‍👩‍👧‍👦 家庭教育
 
+- 👉 [全国家庭教育指导大纲](http://zgggw.gov.cn/zhengcefagui/gzzd/zgggw/13792.html) - 中国关心下一代工作委员会修订的《全国家庭教育指导大纲》，适用于各级各类家庭教育指导机构、相关职能部门、社会团体、宣传媒体和家庭教育指导者，对新婚夫妇、孕妇、18 岁以下儿童家长（父母或其他监护人）开展的家庭教育指导服务行为。
+
 ## 📓 教育理论
 
 ### 🤱🏼 父母说教育
@@ -147,7 +149,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 👩🏼‍🔬 心理学家说教育
 
-- 🕮 [《教出乐观的孩子： 让孩子受用一生的幸福经典》](https://weread.qq.com/web/reader/611325805ae2c561133540c) - 积极心理学之父马丁•塞利格曼集30年、千百个成人及儿童研究之精华著成的教育经典。书中重墨提及积极心理教育在学校实践中的成功应用，富有借鉴意义。
+- 🕮 [《教出乐观的孩子：让孩子受用一生的幸福经典》](https://weread.qq.com/web/reader/611325805ae2c561133540c) - 积极心理学之父马丁•塞利格曼集30年、千百个成人及儿童研究之精华著成的教育经典。书中重墨提及积极心理教育在学校实践中的成功应用，富有借鉴意义。
 - 🕮 [《儿童教育心理学：阿德勒关于儿童心理发展、性格与人格养成的秘密》](https://weread.qq.com/web/reader/46532be0718247e74656296) - 本书以个体心理学理论为基础，以经过实践检验的教育方法为指导，从人格统一性、自卑感、卓越感、社会情感、学校教育、家庭氛围等几个贯穿始终的关键词出发，旨在破解儿童的心理行为密码。
 
 ### 👩‍🏫 教育学家说教育
@@ -222,7 +224,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《24个菜市场的环球之旅》](https://book.douban.com/subject/36209327/) - 本书带领我们开启了一场历时12个月的旅行，每个月会到访1个国家的2个菜市场。
 - 🕮 [《调皮的建筑师》](https://book.douban.com/subject/36092608/) - 建筑不仅是遮风挡雨的地方，也是激发无限想象与可能的造梦之地。
 - 🕮 [《房子：世界插画大师英诺森提作品》](https://book.douban.com/subject/19974155/) - 来自世界插画大师英诺森提的作品。🕮 [《世界插画大师英诺森提作品（套装共7册）》](https://book.douban.com/series/14381)
-- 🕮 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册：[《歌谣》](https://book.douban.com/subject/35799865/)、[《四季》](https://book.douban.com/subject/35542802/)和[《人们》](https://book.douban.com/subject/36062733/)
+- 👉 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册：🕮 [《歌谣》](https://book.douban.com/subject/35799865/)、🕮 [《四季》](https://book.douban.com/subject/35542802/)和 🕮 [《人们》](https://book.douban.com/subject/36062733/)
 
 ### 🏬 走进生活
 
@@ -271,13 +273,12 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 🌲 植物
 
-- 👉 [精美植物摄影集](https://www.robertllewellyn.com/) - 著名摄影师罗伯特•卢埃林的个人网站是一个展示他四十余年摄影生涯成果的平台。
 - 🕮 [《植物Q&A》](https://book.douban.com/subject/26901213/) - 植物专家郑元春老师打开了植物教室的门，提200多个问题给你，也帮你解答了200多个问题。现在就开始吧！
 - 🕮 [《传粉的力量》](https://book.douban.com/subject/35085866/) - 传粉总是静悄悄地发生，这一看似毫不起眼的过程却堪称自然界的奇迹。
 - 🕮 [《种子的故事》](https://book.douban.com/subject/25876107/) - 作者从种子的起源谈起，向读者描述了，在万物并茂的地球上，种子所具有的不可磨灭的重要地位。
-- 🕮 [《怎样观察一粒种子》](https://book.douban.com/subject/33372572/) - 《怎样观察一粒种子》一次进入种穗、种荚和果实世界的旅程
-- 🕮 [《怎样观察一朵花》](https://book.douban.com/subject/26924202/) - 通过作者的出色文字，我们进入了一个绝妙无比的领域——那里花瓣变成了色彩艳丽的山洞的岩壁，柱头和雄蕊则成了奇异华丽的雕塑。
-- 🕮 [《怎样观察一棵树》](https://book.douban.com/subject/26901529/) - 《怎样观察一棵树》邀你将细致敏锐的目光投向身边常见的树木，并关注一些罕见却易于观察的树木特征。
+- 🕮 [《怎样观察一粒种子》](https://book.douban.com/subject/33372572/) - 《怎样观察一粒种子》一次进入种穗、种荚和果实世界的旅程。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/SEED/1/caption)
+- 🕮 [《怎样观察一朵花》](https://book.douban.com/subject/26924202/) - 通过作者的出色文字，我们进入了一个绝妙无比的领域——那里花瓣变成了色彩艳丽的山洞的岩壁，柱头和雄蕊则成了奇异华丽的雕塑。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/FLOWERS-ONE/1/caption)
+- 🕮 [《怎样观察一棵树》](https://book.douban.com/subject/26901529/) - 《怎样观察一棵树》邀你将细致敏锐的目光投向身边常见的树木，并关注一些罕见却易于观察的树木特征。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/TREE/1/caption)
 - 🕮 [《看不见的森林》](https://book.douban.com/subject/25876750/) - 这是一本森林观测笔记。 在这本书里，一位生物学家以一年的时间为主线，在每次的观测中，为我们揭开藏森林一平方米地域里的秘密。
 - 🕮 [《蕨类植物的秘密生活》](https://book.douban.com/subject/35479478/) - 蕨类植物是一类特殊类型的植物，它们和种子植物不同，不依靠种子而是靠孢子繁殖。正因如此，它们的成长周期中存在两个世代，有着两种形态。
 - 🕮 [《苔藓森林》](https://book.douban.com/subject/36392391/) - 苔藓不会开花结果，甚至没有根系，却在地球上兴旺繁盛了四亿年：岩崖表面、倒木裂缝、砖瓦沟隙皆为领地；失水高达98%也能“死而复生”；就算在嘈杂城市也能活得很好，甚至懂得利用人类脚步传播后代。
@@ -344,19 +345,20 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《卢浮宫：历史及馆藏珍品450件》](https://book.douban.com/subject/37025619/) - 一部卢浮宫官方授权的大型馆藏图录，精选450件艺术珍品，为你打开法国巴黎唯一的万宝之宫。
 - 🕮 [《艺术博物馆》](https://book.douban.com/subject/27047564/) - 世界知名艺术出版机构英国费顿出版社历时13年打造而成，从世界各地超过650家博物馆获取艺术品授权和图片，囊括近3000件作品，逾3000幅彩色图片。
 - 📺️ [博物馆的秘密](https://www.bilibili.com/video/av14434734/) - 一口气走完16个国家的22家顶级博物馆，听专业考古学家、博物馆员娓娓道来。颠覆传统记录片形式，通过多条线索探秘解惑，以悬疑、暗黑的视角探查历史秘密。
+- 🕮 [《博物馆里看文明：图解中国建筑》](https://book.douban.com/subject/36867994/) - 让我们和孩子一起了解人类发展历史的另一面，体会劳动人民勤劳与智慧的结晶，领略中国优秀传统文化的独特魅力与中华文明的伟大意义。
 
 ### ✍ 动手制作
 
 #### 🌈 制作图鉴
 
 - 👉 [实用百科图鉴](https://book.douban.com/series/1617) - 丛书共7本，由接力出版社从日本福音馆书店引进，为日本厚生省中央儿童福利审议会推荐图书。
-  - 🕮 [《实用生活图鉴》](https://book.douban.com/subject/1082345/) -  
-  - 🕮 [《实用手工图鉴》](https://book.douban.com/subject/1082359/) - 
-  - 🕮 [《实用探险图鉴》](https://book.douban.com/subject/1082346/) - 
-  - 🕮 [《实用自然图鉴》](https://book.douban.com/subject/1184293/) - 
-  - 🕮 [《实用游戏图鉴》](https://book.douban.com/subject/1082360/) - 
-  - 🕮 [《实用趣味实验图鉴》](https://book.douban.com/subject/1082347/) - 
-  - 🕮 [《实用饲养栽培图鉴》](https://book.douban.com/subject/1256887/) - 
+  - 🕮 [《实用生活图鉴》](https://book.douban.com/subject/1082345/) 
+  - 🕮 [《实用手工图鉴》](https://book.douban.com/subject/1082359/)
+  - 🕮 [《实用探险图鉴》](https://book.douban.com/subject/1082346/)
+  - 🕮 [《实用自然图鉴》](https://book.douban.com/subject/1184293/)
+  - 🕮 [《实用游戏图鉴》](https://book.douban.com/subject/1082360/)
+  - 🕮 [《实用趣味实验图鉴》](https://book.douban.com/subject/1082347/) 
+  - 🕮 [《实用饲养栽培图鉴》](https://book.douban.com/subject/1256887/)
 
 #### 🚀 有趣的事
 
@@ -394,9 +396,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### 🗺️ 奇幻之旅
 
-- 🕮 [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。
+- 🕮 [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。👉 [纳尼亚传奇的艺术设计](https://www.thelionscall.com/art-of-narnia/)
 - 🕮 [《霍比特人》](https://book.douban.com/subject/36838881/) - 《霍比特人》是托尔金为自己孩子写的炉边故事，但从此开始你便踏入他构造的中洲这一奇幻世界。
-- 🕮 [《魔戒》](https://book.douban.com/subject/36437523/) - 《魔戒》是一部关于中洲伟大的想象力和动人的故事集，蕴含对世间万物最本真的好奇心与最深刻的洞察力。奇幻文学无法超越的经典之作！[魔戒中文维基](https://lotr.huijiwiki.com/)
+- 🕮 [《魔戒》](https://book.douban.com/subject/36437523/) - 《魔戒》是一部关于中洲伟大的想象力和动人的故事集，蕴含对世间万物最本真的好奇心与最深刻的洞察力。奇幻文学无法超越的经典之作！👉 [魔戒中文维基](https://lotr.huijiwiki.com/)
 
 #### ⛷️ 天性冒险
 
@@ -477,6 +479,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 📺️ [第一头牛](https://www.bilibili.com/video/BV1P4SKYWE1F/) - 旭亮讲述《第一头牛》是慢电影，有诗意的电影。[豆瓣](https://movie.douban.com/subject/30368608/)
 
+#### 👽 科幻
+
+- 📺️ [E.T.外星人 E.T.](https://movie.douban.com/subject/1294638/) - 最富温情的科幻片，
 
 ### 🎁 礼物
 
@@ -549,7 +554,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 👉 [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
 - 👉 [GrowSmartGrowSafe](https://www.growsmartgrowsafe.org/) - A gardener's guide to choosing saferpesticides and garden products.
 - 👉 [TeachDNA](https://www.teachdna.net/) - DNA、RNA和蛋白质分子的教学模型。
-- 🕮 [生物学与生活](https://book.douban.com/subject/26882918/) - 非常硬核的生物学知识，是一本在美国大学生中享有盛誉的通识读物。
+- 🕮 [《生物学与生活》](https://book.douban.com/subject/26882918/) - 非常硬核的生物学知识，是一本在美国大学生中享有盛誉的通识读物。
 - 🕮 [《生物学之书从生命的起源到实验胚胎，生物学史上的250个里程碑》](https://weread.qq.com/web/reader/7f7322d0725f98bf7f77c54) - 探讨了生物学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 
 ### 🎤 语言
@@ -571,6 +576,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 🗽 美国科学教育标准
 
+- 👉 [A Framework for K–12 Science Education](http://sites.nationalacademies.org/dbasse/bose/framework_k12_science/index.htm) - 2011年，美国国家科学院的国家研究委员会（NRC）2011年7月颁布了K-12科学教育框架：实践、跨学科概念和核心概念。⏬ [Download the Framework](https://nap.nationalacademies.org/catalog/13165/a-framework-for-k-12-science-education-practices-crosscutting-concepts)
+- 👉 [Next Generation Science Standard (NGSS)](https://www.nextgenscience.org/) - 2013年，基于《K-12科学教育框架》的研究成果，美国成就公司资助并组织相关机构共同制定了《新一代科学教育标准》（NGSS）。中文翻译[《新一代科学教育标准：学科核心概念序列和主题序列》](https://book.douban.com/subject/35161721/)、👉 [关键内容](https://mp.weixin.qq.com/s?__biz=MzA4MDk4Njg1Nw==&mid=2247488070&idx=2&sn=b5a871a06811ad31ebe1b08e1cbd108d)
+- 🗐 [NGSS Screening Tool](https://www.nextgenscience.org/sites/default/files/NGSSScreeningTool-2.pdf) - NGSS课程设计指导，NGSS Lesson Screener, A Quick Look at Potential NGSS Lesson Design.
 - 👉 [科学发现者](https://book.douban.com/series/7070) - 一组依据《美国科学教育标准》而编写的中学生优秀教科书。
   - 🕮 [《地理（全三册）：地质学、环境与宇宙》](https://book.douban.com/subject/3246317/)
   - 🕮 [《化学（全三册）：概念与应用》](https://book.douban.com/subject/3246318/)
@@ -596,6 +604,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
   - 🕮 [《让学校重生》](https://weread.qq.com/web/reader/1da329507169805a1da7a62) - 每个学生都是一个独立的个体，因此，我们需要构建面向每一个孩子的个性化教育，使他们通过学习成为真正的自己。
 
 - 🕮 [《翻转课堂的可汗学院》](https://book.douban.com/subject/25886309/) - 当教育没有了贫富之分，课堂没有了年龄之别，实习没有了假期之限，当学生开始为自己的兴趣和未来而学习，教育才能最终达成其目标。
+- 👉 [Next Generation Science Standard](https://www.nextgenscience.org/) - 介绍《新一代科学教育标准》（NGSS），该标准旨在改善K-12年级学生的科学教育。这些标准包括三个重要维度：[跨学科概念、科学与工程实践以及学科核心理念](https://www.nextgenscience.org/three-dimensional-learning)，这些维度共同帮助学生构建对科学的整体理解。
 
 ### 🏫 研究机构
 
@@ -605,7 +614,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🖧 创新实践
 
 - 👉 [K-College Programs](https://www.carolina.com/) - K-College products and support materials that impact student learning (Innovative Solutions & Exclusive Products)
-  - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/)
+  - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/) - 史密森学会的科学项目。
   - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
   - 👉 [Distance Learning Kits](https://carolinadistancelearning.com/) - Distance Learning Course Labs.
   - 👉 [Three-Dimensional Learning](https://www.carolina.com/carolinakits3d) - 3D-学习方法指导和实践。 🗐 [Guide_to_3D_Learning](https://www.carolina.com/pdf/ebooks/Guide_to_3D_learning.pdf)
@@ -711,6 +720,9 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🤖 AI
 
+- 🕮 [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生理解人工智能的基本原理，特别是数据、算法与应用之间的相互关系。
+- 🕮 [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归、决策树、神经网络、计算机视觉、自然语言处理、强化学习，特别归纳了其中适合中学阶段学习的关键知识点。
+- 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 
 ### 🛠️ 工具
 
@@ -730,10 +742,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📸 摄影
 
 - 👉 [iGoTerra](https://igoterra.com/dashboard) - 一个提供植物、鸟类、昆虫图片和摄影者排名的网站。
+- 👉 [摄影师罗伯特•卢埃林作品集](https://www.robertllewellyn.com/) - 著名摄影师罗伯特•卢埃林的个人网站展示他四十余年摄影生涯成果。
 - 🕮 [《热带雨林》](https://book.douban.com/subject/1902741/) - 自然摄影师托马斯·马伦特花费16年的心血，足迹踏遍五大洲，艰苦但吸引人的冒险历程最终集结成这本热带雨林图集。
 - 🕮 [《地球之光》](https://book.douban.com/subject/5924706/) - 《地球之光——BBC野生生物摄影年赛二十年精选》是近年来发表的最出色的一本自然摄影作品集。
 - 🕮 [《世界最美飞鸟》](https://book.douban.com/subject/26387128/) - 200幅最美飞鸟写真，配合日本著名图集出版公司X-Knowledge的精心编著，为你还原那些飞翔在我们身边的飞鸟最真实、最精彩、最美丽的身姿。
-- 🕮 [《艾略特 厄威特：快照集》](https://book.douban.com/subject/26636418/) - 这本厚达544页的《快照集》涵盖了厄威特一生的重要作品，它们来自两架相机——一架用于工作、一架用于爱好。两架相机的作品一同向世人展现了人间悲喜剧。
+- 🕮 [《艾略特•厄威特：快照集》](https://book.douban.com/subject/26636418/) - 这本厚达544页的《快照集》涵盖了厄威特一生的重要作品，它们来自两架相机——一架用于工作、一架用于爱好。两架相机的作品一同向世人展现了人间悲喜剧。
 - 🕮 [《寂静》](https://book.douban.com/subject/26306353/) - 《寂静》中的作品由摄影师采用4*5大画幅相机自然光拍摄，无任何辅助设备，也未经后期制作。这部耗时数年的拍摄项目共分为6个主题，通过图像在指涉时间流逝上的喻意性作用，从过去，到现在，再向未来，展现了当代废墟美学的新高度。
 - 🕮 [《卡什肖像经典》](https://book.douban.com/subject/5906083/) - 透过优素福·卡什的双眼，透过他的视角以及他在拍摄伟人肖像时的娴熟技巧，我们得以看到20 世纪全球最著名的人物。
 
@@ -796,3 +809,4 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
 - 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
+- 👉 [STCMS](https://smithsonianstc.com/stcms/) - Science You Can Trust. Results You Can See. 👉 [STCMS™ Learning Framework](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/smithsonians-stcms-curriculum/27701.ct) 遵循了NGSS标准。
