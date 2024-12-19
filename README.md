@@ -89,17 +89,9 @@
 
 ## 🧒 6-11岁发展阶段
 
-<!--lint disable no-dead-urls-->
+- 🕮 [《我最想要的记忆魔法书》](https://weread.qq.com/web/reader/dcc32ad0813ab6fd1g0123a4) - 人的记忆潜能实际上是没有极限的； 记忆力与学习能力直接相关，一旦记忆力提高，一个人的学习能力自然水涨船高： 大脑本身不会随着年龄增加而衰退，人的记忆力之所以衰退，主要是因为缺乏动力。
 
-Tool actions for your workflow.
 
-<!--lint ignore awesome-spell-check-->
-
-- 👉 [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
-- 👉 [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
-- 👉 [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
-- 👉 [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
-- 👉 [actions/github-script](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
 
 ## 👦 12-14岁发展阶段
 
@@ -188,6 +180,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 👉 [婴幼儿喂养咨询培训包](https://www.unicef.cn/iycf) - 本书以联合国儿童基金会和世界卫生组织2010年发布的婴幼儿喂养咨询包为基础。
 - 👉 [3岁以下婴幼儿健康养育照护指南](http://www.nhc.gov.cn/fys/s3585/202211/22e3f33c47f54f2c81c28db4e8ee7723.shtml) - 国家卫生健康委办公厅关于印发3岁以下婴幼儿健康养育照护指南。
 - 👉 [0-6岁儿童监护人健康教育小册子](https://www.unicef.cn/reports/0-6-children-guardian-health-education-booklet) - 联合国儿童基金会和中国健康教育中心推出的。
+- 🕮 [《薄世宁医学通识讲义：一生需要上一次医学院》](https://book.douban.com/subject/34842793/) - 人在一生中，难免要面对疾病的来临与生命的诘问，以医学的思维面对自我，以科学的方式关爱家人，才是对自己与家人真正的爱。
 
 
 ## 👨‍👦 亲子时间
@@ -198,11 +191,47 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 🧟 睡前故事
 
+#### 🦄 奇幻故事
+
 - 🕮 [《一千零一夜》](https://book.douban.com/subject/30355859/) - 本书精选《一千零一夜》中最脍炙人口也最为有趣的十个故事。
-- 🕮 [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。
+- 🕮 [《纳尼亚传奇》](https://weread.qq.com/web/reader/2de32c307192f4302de525e) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。
+- 🕮 [《霍比特人》](https://weread.qq.com/web/reader/ebf326c0813ab8e6cg0126da) - 《霍比特人》是托尔金为自己孩子写的炉边故事，但从此开始你便踏入他构造的中洲这一奇幻世界。
+- 🕮 [《魔戒》](https://weread.qq.com/web/reader/1e5323c058a8531e55ae435) - 《魔戒》是一部关于中洲伟大的想象力和动人的故事集，蕴含对世间万物最本真的好奇心与最深刻的洞察力。
+
+#### 🏛︎ 历史故事
+
+- 🕮 [《荷马史诗》](https://weread.qq.com/web/reader/58f32590718b66a158fc59f) - 《伊利亚特》为古希腊不朽英雄史诗，西方古典文化基石。
+- 🕮 [《希腊人的故事》](https://weread.qq.com/web/reader/6bc32a60716aed026bcc085) - 日本女作家盐野七生，将我们带回那个人与神共处同一片天地的传奇时代，冷静透彻地将视角集中于多元文明如何共存，场景再现般地讲述在一次次改变世界格局的决策中，性格迥异的英雄们如何引领国家走向巅峰。
+- 🕮 [《罗马人的故事》](https://weread.qq.com/web/reader/9c03231072051fc49c0e3b3) - 日本女作家盐野七生，15年写就15册巨著《罗马人的故事》，还原一个意大利半岛的小国成为世界帝国，持续1300年的辉煌历程，再现一个英雄辈出的时代。作者真是大爱罗马！至今定居罗马。
+
+#### 🔮 冒险故事
+
 - 🕮 [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 面对困难，我永不妥协，因为我有一颗敢于冒险的心！
 - 🕮 [《绿野仙踪》](https://weread.qq.com/web/reader/173328a0526dd91736ad263) - 奇幻冒险童书《绿野仙踪》，带给孩子爱与勇气，永葆梦想与善良！
 - 🕮 [《彼得·潘》](https://weread.qq.com/web/reader/08f325d05c668d08f419bb1) - 讲述了小女孩温蒂和两个弟弟约翰、迈克尔跟随小飞侠彼得·潘来到神奇之境梦幻岛并在那里生活的故事。
+
+#### ♥️ 暖心故事
+
+- 🕮 [《草房子》](https://weread.qq.com/web/reader/e9a32d80813ab8540g012d73) - 感动百万中国人的儿童文学经典，被无数老师、家长和孩子爱若珍宝、贴心收藏的男孩桑桑的童年记忆。
+- 🕮 [《秘密花园》](https://weread.qq.com/web/reader/e4e3288071e8eefee4e4bcf) - 讲述了一个关于友谊、决心和毅力的故事。被盛赞为20世纪最具创造性和最卓越的童书。
+
+#### 🎍 自然之美
+
+- 🕮 [《德雷尔一家》](https://weread.qq.com/web/reader/1d032280813ab8c2ag01770d) - 书中讲述的人与大自然的故事让人神往，是中小学生学习自然文学写作不可多得的范本。更有百余种动植物生活习性的精彩描述，为我们提供了一场自然观察和科普的知识盛宴。
+- 🕮 [《八堂自然课：大自然教给我们的生存之道》](https://weread.qq.com/web/reader/2e832730728aa8bc2e84144) - 这本书就像一只手，牵着我们走进大自然。接着它又教我们如何用眼、用耳、用心去体会。
+- 🕮 [《夏日走过山间》](https://weread.qq.com/web/reader/1c132bc0715379441c15d42) - 以其优美、细腻的文风而被称为“感动一个国家的文字”，开启了20世纪自然文学创作的新方式。
+- 🕮 [《人间草木》](https://weread.qq.com/web/reader/236321107156f80e23656b5) - 用极简的笔，极淡的墨写出了草木山川、花鸟虫鱼的人味，写出了乡情民俗、凡人小事温润的乡土味；以一颗从容豁达的心写出了世间的美好与灵动。
+- 🕮 [《萝西与苹果酒》](https://weread.qq.com/web/reader/36032fd071705838360669c) - 一本宛如田园诗般优美的天才自传体小说，向童年与故乡致敬。如诗如画的语言，充沛真挚的情感，仿若穿越岁月的烟云，深情回望往昔时光。
+- 🕮 [《边城》](https://weread.qq.com/web/reader/64232900722e9c376424aff) - 小溪，白塔，墨竹，渡口，独户的人家……故事在静美中拉开帷幕。
+- 🕮 [《冯骥才散文精选集：灵魂需要独处》](https://weread.qq.com/web/reader/b633232072182affb63c528) - 冯骥才的文字细腻灵动，平缓舒畅，往往将生活细节放大、重组，在点滴中发现生命的美好，让心灵重获自由的同时，感受灵魂的坚韧与顽强。
+
+#### 🎉 知识之妙
+
+- 🕮 [《文心》](https://weread.qq.com/web/reader/bfd326205e195cbfd4e4e69) - 知识是枯燥的，故事是有趣的。把知识巧妙地融进有趣的故事，读故事时习得许多知识，无疑是最理想的学习方法。《文心》就是这一成功方法的典范。
+- 🕮 [《中国少年儿童百科全书》](https://book.douban.com/subject/1028409/) - 林崇德主编的《中国少年儿童百科全书》，共四册。
+- 🕮 [《十万个为什么》](https://book.douban.com/subject/2160556/) - 这是《十万个为什么》的经典版本。
+- 🕮 [《DK博物大百科：自然界的视觉盛宴》](https://book.douban.com/subject/30384279/) - 本书的出版是史密森博物院国家自然历史博物馆的一个里程碑，本书展示了对地球自然历史的无与伦比的视觉盛宴。
+- 🕮 [《极简宇宙史》](https://book.douban.com/subject/26697350/) - 夏夜，你躺在沙滩上，仰望夜空。一颗小小的流星安静滑过，还来不及许愿，不可思议的事情发生了：你一下子穿越五十亿年，走进时光的旅行。 
 
 
 ### 🖼️ 绘本图册
@@ -254,6 +283,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 🏕️ 观察自然
 
+- 🕮 [《笔记大自然：找寻一种探索周围世界的新途径》](https://book.douban.com/subject/3131814/) - 《笔记大自然》是一本指导如何给大自然书写日记的入门书。他们用两种指尖艺术——书写与绘画，来传递大自然的色彩与神奇。
+
 #### 🧩 合集
 
 - 👉 [自然文库](https://book.douban.com/series/23677) - 商务印书馆出版的自然文库丛书。共58册，精品很多！
@@ -282,9 +313,12 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《看不见的森林》](https://book.douban.com/subject/25876750/) - 这是一本森林观测笔记。 在这本书里，一位生物学家以一年的时间为主线，在每次的观测中，为我们揭开藏森林一平方米地域里的秘密。
 - 🕮 [《蕨类植物的秘密生活》](https://book.douban.com/subject/35479478/) - 蕨类植物是一类特殊类型的植物，它们和种子植物不同，不依靠种子而是靠孢子繁殖。正因如此，它们的成长周期中存在两个世代，有着两种形态。
 - 🕮 [《苔藓森林》](https://book.douban.com/subject/36392391/) - 苔藓不会开花结果，甚至没有根系，却在地球上兴旺繁盛了四亿年：岩崖表面、倒木裂缝、砖瓦沟隙皆为领地；失水高达98%也能“死而复生”；就算在嘈杂城市也能活得很好，甚至懂得利用人类脚步传播后代。
+- 🕮 [《百合圣经：世界最伟大的图谱丛书》](https://book.douban.com/subject/1000284/) - 尽现了20余科193种被当时的西方人统统视为百合的所有美丽花卉。
 
 #### 🐶 动物
 
+- 🕮 [《所罗门王的指环》](https://book.douban.com/subject/1024846/) - 大自然的真实面貌，比起诗人所能描摹的境界，更要美上千百倍。
+- 🕮 [《地球上最孤单的动物：43种濒危动物插画集》](https://book.douban.com/subject/34897038/) - 本书介绍了来自世界八大栖息地的43 种野生濒危动物，讲述了它们的生存状态、生活习性，以及面临的威胁和困境。
 - 🕮 [《动物的秘密语言》](https://book.douban.com/subject/36915334/) - 在本书中，动物的这些基本行为被一一讲述。作者用风趣、生动的语言，精准、有趣的插图把动物心理与其行为之间的微妙关系展现得淋漓尽致。
 - 🕮 [《地球上的性：动物繁殖那些事》](https://book.douban.com/subject/30312164/) - 研究动物性学的专家们为读者开启了一段神秘的旅程。让我们摘下有“色”眼镜，好好享受这段旅程吧！
 - 🕮 [《中国兽类图鉴》](https://book.douban.com/subject/30447034/) - 一部完全使用野外生态照片展示中国哺乳动物物种多样性的著作，由国内顶级的分类学、野外摄影师、野生动物保护团队和动物保护NGO组织联合打造。
@@ -393,6 +427,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
     - 🕮 [《人体简史：全彩插图版》](https://weread.qq.com/web/reader/ef6321d0813ab8cf4g011fa3) - 全彩插图版！430张图片详解人体运行！
     - 🕮 [《人体简史：少儿彩绘版》](https://weread.qq.com/web/reader/ccd32fd0813ab91e6g017392) - 图文并茂，让儿童从头到脚、从体表到体内，踏上一段奇妙的人体之旅，探索身体奥秘，领略生命奇迹，开启健康人生。
 - 🕮 [《疯狂人类进化史》](https://weread.qq.com/web/reader/d5232d105cd6e6d52b141ef) - 以宇宙的视角来看地球，它是渺小到极致的存在；以地球的角度来看人类，我们是渺小存在中的超级幸运儿。
+- 🕮 [《上帝的手术刀：基因编辑简史》](https://weread.qq.com/web/reader/838327105d2063838af2860) - 打开基因科学深奥的硬壳，展现人类探索自身的的历史进程。
 
 #### 🗺️ 奇幻之旅
 
@@ -426,6 +461,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 🕮 [《小王子》](https://book.douban.com/subject/1084336/) - 《小王子》不仅赢得了儿童读者，也为成年人所喜爱，作品凝练的语言渗透了作者对人类及人类文明深邃的思索。
 - 🕮 [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 关于静下来，看见平凡生活的美好，治愈自己，以及重新出发。
+- 🕮 [《蛤蟆先生去看心理医生》](https://weread.qq.com/web/reader/66832530721e777066806c9) - 这并不是一本写给孩子看的书，而是一本非常有深度的心理疗愈读物。出版20多年来，已成为英国国民级心理咨询入门书。
 
 #### 🚵‍♀️ 人与自然
 
@@ -577,7 +613,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🗽 美国科学教育标准
 
 - 👉 [A Framework for K–12 Science Education](http://sites.nationalacademies.org/dbasse/bose/framework_k12_science/index.htm) - 2011年，美国国家科学院的国家研究委员会（NRC）2011年7月颁布了K-12科学教育框架：实践、跨学科概念和核心概念。⏬ [Download the Framework](https://nap.nationalacademies.org/catalog/13165/a-framework-for-k-12-science-education-practices-crosscutting-concepts)
-- 👉 [Next Generation Science Standard (NGSS)](https://www.nextgenscience.org/) - 2013年，基于《K-12科学教育框架》的研究成果，美国成就公司资助并组织相关机构共同制定了《新一代科学教育标准》（NGSS）。中文翻译[《新一代科学教育标准：学科核心概念序列和主题序列》](https://book.douban.com/subject/35161721/)、👉 [关键内容](https://mp.weixin.qq.com/s?__biz=MzA4MDk4Njg1Nw==&mid=2247488070&idx=2&sn=b5a871a06811ad31ebe1b08e1cbd108d)
+- 👉 [Next Generation Science Standard (NGSS)](https://www.nextgenscience.org/) - 2013年，基于[《K-12科学教育框架》](https://www.nsta.org/science-standards)的研究成果，美国成就公司资助并组织相关机构共同制定了《新一代科学教育标准》（NGSS）。中文翻译[《新一代科学教育标准：学科核心概念序列和主题序列》](https://book.douban.com/subject/35161721/)可以参考这些[核心内容](https://mp.weixin.qq.com/s?__biz=MzA4MDk4Njg1Nw==&mid=2247488070&idx=2&sn=b5a871a06811ad31ebe1b08e1cbd108d)
 - 🗐 [NGSS Screening Tool](https://www.nextgenscience.org/sites/default/files/NGSSScreeningTool-2.pdf) - NGSS课程设计指导，NGSS Lesson Screener, A Quick Look at Potential NGSS Lesson Design.
 - 👉 [科学发现者](https://book.douban.com/series/7070) - 一组依据《美国科学教育标准》而编写的中学生优秀教科书。
   - 🕮 [《地理（全三册）：地质学、环境与宇宙》](https://book.douban.com/subject/3246317/)
@@ -683,6 +719,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 🕮 [《DK宇宙大百科](https://book.douban.com/subject/26259174/) - 由NASA、NOAO等权威机构提供1000多幅震撼图片与精美图表，通过最权威的提供机构，和最先进的观测技术，助你领略宇宙的壮美多姿，认识宇宙及宇宙学的历史与发展，激发人类对宇宙与自身的思索。
 - 🕮 [《剑桥天文爱好者指南》](https://book.douban.com/subject/35562183/) - 无论初级爱好者还是观测老手们，这都是一部很好的指南。读完这本书，你能够知道天文爱好者大概是怎么样的一个群体，他们的主要活动是干什么，天文学的一些历史和基础概念等。
+- 🕮 [《夜观星空：天文观测实践指南》](https://book.douban.com/subject/10808841/) - 针对天文爱好者，从宇宙结构讲起，详细介绍了夜空中著名的恒星、行星、星团、星系以及彗星、流星和极光等，并介绍了各种观测方法，既包括目视观测，也包括使用双筒望远镜和天文望远镜观测。
 - 🕮 [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 🕮 [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 
@@ -744,11 +781,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [iGoTerra](https://igoterra.com/dashboard) - 一个提供植物、鸟类、昆虫图片和摄影者排名的网站。
 - 👉 [摄影师罗伯特•卢埃林作品集](https://www.robertllewellyn.com/) - 著名摄影师罗伯特•卢埃林的个人网站展示他四十余年摄影生涯成果。
 - 🕮 [《热带雨林》](https://book.douban.com/subject/1902741/) - 自然摄影师托马斯·马伦特花费16年的心血，足迹踏遍五大洲，艰苦但吸引人的冒险历程最终集结成这本热带雨林图集。
-- 🕮 [《地球之光》](https://book.douban.com/subject/5924706/) - 《地球之光——BBC野生生物摄影年赛二十年精选》是近年来发表的最出色的一本自然摄影作品集。
+- 🕮 [《地球之光》](https://book.douban.com/subject/5924706/) - 《地球之光—BBC野生生物摄影年赛二十年精选》是近年来发表的最出色的一本自然摄影作品集。
 - 🕮 [《世界最美飞鸟》](https://book.douban.com/subject/26387128/) - 200幅最美飞鸟写真，配合日本著名图集出版公司X-Knowledge的精心编著，为你还原那些飞翔在我们身边的飞鸟最真实、最精彩、最美丽的身姿。
 - 🕮 [《艾略特•厄威特：快照集》](https://book.douban.com/subject/26636418/) - 这本厚达544页的《快照集》涵盖了厄威特一生的重要作品，它们来自两架相机——一架用于工作、一架用于爱好。两架相机的作品一同向世人展现了人间悲喜剧。
 - 🕮 [《寂静》](https://book.douban.com/subject/26306353/) - 《寂静》中的作品由摄影师采用4*5大画幅相机自然光拍摄，无任何辅助设备，也未经后期制作。这部耗时数年的拍摄项目共分为6个主题，通过图像在指涉时间流逝上的喻意性作用，从过去，到现在，再向未来，展现了当代废墟美学的新高度。
-- 🕮 [《卡什肖像经典》](https://book.douban.com/subject/5906083/) - 透过优素福·卡什的双眼，透过他的视角以及他在拍摄伟人肖像时的娴熟技巧，我们得以看到20 世纪全球最著名的人物。
+- 🕮 [《卡什肖像经典》](https://book.douban.com/subject/5906083/) - 透过优素福·卡什的双眼，透过他的视角以及他在拍摄伟人肖像时的娴熟技巧，我们得以看到20世纪全球最著名的人物。
 
 ### 🖌️ 绘画
 
@@ -771,6 +808,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Emojiall](https://www.emojiall.com/) - 一个表情符号检索网站。
 - 👉 [Emojipedia](https://emojipedia.org/) - 一个关于表情符号的百科全书式网站。
 
+### 🏘︎ 建筑
+
+- 🕮 [《建筑的故事》](https://book.douban.com/subject/33476150/) - 一部手绘全球建筑史，剖面图大师图解16座传世建筑。
+- 🕮 [《认识建筑》](https://book.douban.com/subject/34974775/) - 全球首部以体验为核心的建筑类入门读物，精选五千年来72座建筑典范，开启环球云游建筑之旅。
+
 ### 📦 工艺品
 
 - 👉 [Midwest data artist and designer](https://www.c82.net/) - 著名设计师及艺术家Nicholas Rougeux的个人设计工作的作品展示。
@@ -786,11 +828,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🛠️ 工具
 
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。
+- 👉 [Taichi](https://taichi-lang.cn/) - Taichi用Python轻松玩转并行编程，实现大规模仿真和动画。
 
-### 📏 度量
+### 📏 著作
 
 - 🕮 [《度量：一首献给数学的情歌》](https://weread.qq.com/web/reader/7d5328c0813ab87e0g010df9) - 介绍了对形状和运动的度量。
 - 🕮 [《数学之书》](https://book.douban.com/subject/35626482/) - 为我们展示了数学发展史最重要的里程碑事件背后的魔力与神奇，包括人类曾经思索过的最古怪的问题，从公元前一亿五千万年到最新的前沿突破。
+- 🕮 [《什么是数学：对思想和方法的基本研究》](https://book.douban.com/subject/1320282/) - 书中搜集了许多经典的数学珍品，给出了数学世界的一组有趣的、深入浅出的图画，对整个数学领域中的基本概念与方法，做了精深而生动的阐述。
 
 ### 🖱️ 动画
 
