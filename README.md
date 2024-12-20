@@ -570,6 +570,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🧪 化学
 
 - 👉 [元素周期表网站](https://periodictable.com/) - 一个提供元素周期表相关信息和化学元素数据的在线平台‌。
+- 👉 [IUPAC命名法](https://iupac.org/) - IUPAC命名法是系统命名化学物质的方法。该命名法是由国际纯粹与应用化学联合会（IUPAC）规定的。国内出版[《有机化合物命名原则2017》](https://www.chemsoc.org.cn/library/copy/24.html)
+- 👉 [中国化学会](https://www.chemsoc.org.cn/) - 中国化学学会。化学会科普项目[重现化学](https://www.chemsoc.org.cn/popular/envisioning/)展示化学反应之美！
 - 👉 [化学自习室](https://www.hxzxs.cn/index.html) - 一个关于中学化学丰富的教学资料的公益网站。
 - 👉 [化学元素之书](https://home.theodoregray.com/blog/2020/9/28/the-kids-book-of-the-elements) - The Kid's Book of The Elements!
 - 👉 [Beautiful Chemistry](https://www.beautifulchemistry.net/) - 一个可以展示化学反应可视化的网站。作者梁琰推出的[《美丽的化学反应》](https://weread.qq.com/web/reader/35f32140719dab2235f73b1)和[《美丽的化学结构》](https://weread.qq.com/web/reader/55532690719dab2c555105d)两册图书。
@@ -607,6 +609,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🧫 实验室
 
 - 👉 [Carolina科学实验室](https://www.carolina.com/) - Find the Perfect Science Kit! Whether it's hands-on, digital or a bit of both, get the right fit for your class.
+- 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
+- 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 
 ## ✨ 教学标准
 
@@ -656,7 +660,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
   - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
   - 👉 [Distance Learning Kits](https://carolinadistancelearning.com/) - Distance Learning Course Labs.
   - 👉 [Three-Dimensional Learning](https://www.carolina.com/carolinakits3d) - 3D-学习方法指导和实践。 🗐 [Guide_to_3D_Learning](https://www.carolina.com/pdf/ebooks/Guide_to_3D_learning.pdf)
-- 👉 [Mixly图文混合编程工具](https://mixly.org/) - 北京师范大学教授关于STEM实践的开源项目。
+- 👉 [探月学校](https://moonshotacademy.cn/) - 探月学校是根植中国、面向未来的创新教育、素质教育、全人教育项目，致力于培养内心丰盈的个体，积极行动的公民。
+
+## 🎒 慕课资源
+
+- 👉 [Coursera](https://www.coursera.org/) - 提供了许多由顶尖大学（如斯坦福大学、麻省理工学院）开设的在线课程。
+- 👉 [edX](https://www.edx.org/) - 一个由麻省理工和哈佛大学于2012年联手创建的大规模开放在线课堂平台。
+- 👉 [Udacity](https://www.udacity.com/) - 一个专注于提供前沿技术领域在线课程的教育平台。
+- 👉 [网易公开课](https://open.163.com/) - 国内知名的在线教育平台，也提供了不少优质的在线课程。
 
 ## 🌐 公益组织
 
@@ -717,6 +728,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
 - 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
+- 👉 [美丽科学]( https://www.beautyofscience.cn/) - 专注于科学可视化前沿技术创新与产业化应用，打造融合科学与艺术之美的系列内容与软硬件产品，服务于科技文化数字展示与青少年科学素质教育。
+- 👉 [连线](https://www.wired.com/) - 专注于新兴技术及其对社会、文化、经济和政治影响的美国月刊杂志，并拥有相应的在线网站。
 
 ### 🌕 天文历法
 
@@ -743,6 +756,12 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🕮 [《营造法式》](https://weread.qq.com/web/reader/2e132f00720527a12e1e573) - 《营造法式》是我国古代*为完整的建筑技术书籍。
 - 🕮 [《工程学之书》](https://weread.qq.com/web/reader/55632e70725f98cb556641d) - 探讨了工程学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 
+### 🔢 数字工程
+
+- 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
+- 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
+- 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
+
 ## 🩺 Engineering
 
 ### 📑 教程
@@ -765,6 +784,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
+- 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
+- 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
+- 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. 
+- 👉 [Towards Data Science](https://towardsdatascience.com/) - 一个专注于数据科学和机器学习的博客平台。
+- 👉 [Medium](https://medium.com/) - 提供了许多关于机器学习的文章和教程。
 - 🕮 [《统计学习方法》](https://weread.qq.com/web/reader/c0032560813ab6c02g010482) - 李航老师编写的机器学习。👉 [开源代码](https://github.com/fengdu78/lihang-code)
 - 🕮 [《动手学习机器学习》](https://hml.boyuai.com/) - 上海交通大学推出的机器学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
 - 🕮 [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
@@ -775,9 +799,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
 - 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
+- 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialsproject/pymatgen)
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## 🎨 Arts
