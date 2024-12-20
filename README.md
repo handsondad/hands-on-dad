@@ -36,7 +36,8 @@
   - 📐 [数学（Mathematics）](#-Mathematics)
   - 👑 [实践](#-实践)
 
-###
+<br/>
+
 # 🚣 儿童发展阶段
 
 🧑 儿童的定义：根据联合国《[儿童权利公约](https://zh.wikipedia.org/wiki/%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84)》的定义，儿童是指18岁以下人口，即0~17周岁的人口。
@@ -92,33 +93,16 @@
 - 🕮 [《我最想要的记忆魔法书》](https://weread.qq.com/web/reader/dcc32ad0813ab6fd1g0123a4) - 人的记忆潜能实际上是没有极限的； 记忆力与学习能力直接相关，一旦记忆力提高，一个人的学习能力自然水涨船高： 大脑本身不会随着年龄增加而衰退，人的记忆力之所以衰退，主要是因为缺乏动力。
 
 
-
 ## 👦 12-14岁发展阶段
 
-Automate management for issues, pull requests, and releases.
 
-- 👉 [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API.
-- 👉 [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API.
-- 👉 [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
-- 👉 [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
-- 👉 [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
-- 👉 [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
 
 ## 🧑 15-17岁发展阶段
 
-Set up your GitHub Actions workflow with a specific version of your programming languages.
 
-- 👉 [actions/setup-node: Node.js](https://github.com/actions/setup-node)
-- 👉 [actions/setup-python: Python](https://github.com/actions/setup-python)
-- 👉 [actions/setup-go: Go](https://github.com/actions/setup-go)
-- 👉 [actions/setup-dotnet: .NET core sdk](https://github.com/actions/setup-dotnet)
-- 👉 [actions/setup-haskell: Haskell (GHC and Cabal)](https://github.com/actions/setup-haskell)
-- 👉 [actions/setup-java: Java](https://github.com/actions/setup-java)
-- 👉 [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
-- 👉 [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
-- 👉 [actions/setup-julia: Julia](https://github.com/julia-actions/setup-julia)
 
-###
+<br/>
+
 # 👨‍👩‍👧‍👦 家庭教育
 
 - 👉 [全国家庭教育指导大纲](http://zgggw.gov.cn/zhengcefagui/gzzd/zgggw/13792.html) - 中国关心下一代工作委员会修订的《全国家庭教育指导大纲》，适用于各级各类家庭教育指导机构、相关职能部门、社会团体、宣传媒体和家庭教育指导者，对新婚夫妇、孕妇、18 岁以下儿童家长（父母或其他监护人）开展的家庭教育指导服务行为。
@@ -557,7 +541,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🕮 [《宝贵的人生建议：我希望早点知道的智慧》](https://weread.qq.com/web/reader/a2c32190813ab822fg014a9a) - 凯文·凯利给孩子的一些人生建议。
 - 🕮 [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，内部附有他给子女的31封信。
 
-###
+<br/>
+
 # 🎓 学校教育
 
 ## 🗃️ 教学资源
@@ -630,7 +615,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 👉 [评价青少年参与结果的概念框架](https://www.unicef.cn/documents/conceptual-framework-measuring-outcomes-adolescent-participation)
 - 👉 [EQuIP](https://www.achieve.org/our-initiatives/equip/equip) - 教育工作者评估教学产品品质（Educators Evaluating the Quality of Instructional Products）是一项旨在识别与共同核心州标准（CCSS）或下一代科学标准（NGSS）相匹配的高质量材料的倡议。
 
-###
+<br/>
+
 # 🏫 社会教育
 
 ## 📢 创新教育
@@ -703,7 +689,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - 🗐 [中国儿童发展报告 2017](https://www.cdrf.org.cn/jjh/pdf/fazhanbaogao.pdf)
 - 🗐 [中国儿童早期发展研究报告 2019](http://www.sanyfoundation.org/wp-content/uploads/2020/07/%E4%B8%89%E4%B8%80%E5%9F%BA%E9%87%91%E4%BC%9A%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
-###
+<br/>
+
 # 👨‍💻 STEAM
 STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
 
@@ -767,6 +754,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📑 教程
 
 - 🤗 [计算机自学课程集合](https://github.com/ForrestKnight/open-source-cs) - 这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
+- 🤗 [VisualSorting](https://github.com/mszula/visual-sorting) - 排序算法可视化。
 
 ### 📚 作品
 
@@ -776,6 +764,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
 
 ### 🤖 AI
 
@@ -805,6 +794,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+- 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
 
 ## 🎨 Arts
 
@@ -849,6 +839,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 🕮 [《建筑的故事》](https://book.douban.com/subject/33476150/) - 一部手绘全球建筑史，剖面图大师图解16座传世建筑。
 - 🕮 [《认识建筑》](https://book.douban.com/subject/34974775/) - 全球首部以体验为核心的建筑类入门读物，精选五千年来72座建筑典范，开启环球云游建筑之旅。
+- 👉 [Parametric Architecture](https://parametric-architecture.com/) - Explore the transformative impact of AI and technology in architecture and design, shaping innovative, sustainable, and efficient built environments.
 
 ### 📦 工艺品
 
@@ -858,6 +849,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [31 Arts and Crafts for Kids to Make at Home](https://parents.highlights.com/31-arts-and-crafts-kids-to-make-home) - Highlights网站上的一个儿童工艺品的内容。
 - 👉 [60 Fun and Easy Kids' Crafts](https://www.hgtv.com/design/make-and-celebrate/handmade/20-fun-and-easy-kids-crafts-pictures) - 来自HGTV网站（是一家专注于家居装修和园艺）的儿童工艺品。
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - 我们分享适合孩子们的简易手工艺品，从自制的彩泥到点画艺术，浏览我们精心挑选的50个最佳手工艺品。
+
+### 3D打印
+
+- 👉 [沙子国际象棋](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/) - 一位英国设计师用沙子作为材料，3D打印了一套国际象棋。
 
 
 ## 📐 Mathematics
