@@ -283,7 +283,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### 🏕️ 观察自然
 
-- 🕮 [《笔记大自然：找寻一种探索周围世界的新途径》](https://book.douban.com/subject/3131814/) - 《笔记大自然》是一本指导如何给大自然书写日记的入门书。他们用两种指尖艺术——书写与绘画，来传递大自然的色彩与神奇。
+- 🕮 [《笔记大自然：找寻一种探索周围世界的新途径》](https://book.douban.com/subject/3131814/) - 《笔记大自然》是一本指导如何给大自然书写日记的入门书。他们用两种指尖艺术——书写与绘画，来传递大自然的色彩与神奇。现在作者更新了新的笔记了[《新笔记大自然》](https://book.douban.com/subject/21357312/)
 
 #### 🧩 合集
 
@@ -624,6 +624,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ## 🧭 教学评估
 
 - 👉 [评价青少年参与结果的概念框架](https://www.unicef.cn/documents/conceptual-framework-measuring-outcomes-adolescent-participation)
+- 👉 [EQuIP](https://www.achieve.org/our-initiatives/equip/equip) - 教育工作者评估教学产品品质（Educators Evaluating the Quality of Instructional Products）是一项旨在识别与共同核心州标准（CCSS）或下一代科学标准（NGSS）相匹配的高质量材料的倡议。
 
 ###
 # 🏫 社会教育
@@ -645,6 +646,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### 🏫 研究机构
 
 - 👉 [斯坦福大学的孩子和认知实验室](https://langcog.stanford.edu/) - 斯坦福大学的LangCog项目，主要研究语言与认知之间的关系。
+- 👉 [哈佛大学儿童发展中心](https://developingchild.harvard.edu/) - 是一个专注于儿童早期发展的网站，由哈佛大学的儿童发展中心运营。
 - 👉 [未来教育高精尖创新中心](https://aic-fe.bnu.edu.cn/) - 是北京市政府支持建设的首批高精尖中心之一，是以重大教育实践问题为导向、以教育科技创新为核心方向的高水平国际化创新平台，面向全国提供教育公共服务智能平台与教育专家智库服务，推动教育的智能化转型，助力中国教育现代化建设。
 
 ### 🖧 创新实践
@@ -668,6 +670,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - 👉 [Highlights](https://parents.highlights.com/) - 一个著名的儿童教育品牌，提供多种资源帮助家长激发孩子的阅读兴趣。
 - 👉 [GoodToKnow](https://www.goodto.com/) - 在该网站上，您将找到幸福、健康的家庭生活所需的一切。
+- 👉 [Achieve3000](https://www.achieve.org/) - 是一个提供教育服务的网站，专注于提高学生的阅读和写作能力。
 - 👉 [Children’s Discovery Museum of San Jose](https://www.cdm.org/) - 圣何塞儿童探索博物馆（Children's Discovery Museum of San Jose）提供丰富多样的展览和互动体验，旨在激发儿童的创造力、好奇心和终身学习的兴趣。
 
 ## ☑️ 机构报告
@@ -751,15 +754,22 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [In Pieces-30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
-- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
-- 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[GitHub开源](https://github.com/soulscircuit/pilet)
+- 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
+- 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 
 ### 🤖 AI
 
 - 🕮 [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生理解人工智能的基本原理，特别是数据、算法与应用之间的相互关系。
 - 🕮 [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归、决策树、神经网络、计算机视觉、自然语言处理、强化学习，特别归纳了其中适合中学阶段学习的关键知识点。
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
+- 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
+- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
+- 🕮 [《统计学习方法》](https://weread.qq.com/web/reader/c0032560813ab6c02g010482) - 李航老师编写的机器学习。👉 [开源代码](https://github.com/fengdu78/lihang-code)
+- 🕮 [《动手学习机器学习》](https://hml.boyuai.com/) - 上海交通大学推出的机器学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
+- 🕮 [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
+- 🕮 [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
+- 🕮 [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ### 🛠️ 工具
 
@@ -768,6 +778,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## 🎨 Arts
 
@@ -854,3 +865,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
 - 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
 - 👉 [STCMS](https://smithsonianstc.com/stcms/) - Science You Can Trust. Results You Can See. 👉 [STCMS™ Learning Framework](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/smithsonians-stcms-curriculum/27701.ct) 遵循了NGSS标准。
+
+### 🖳 个人博客
+
+- 👉 [Theodore Gray](https://home.theodoregray.com/) - 一位杰出的化学家和科普作家，以其对元素的狂热收藏和创新的科普方式闻名于世。
+- 👉 [Nicholas Rougeux](https://www.c82.net/) - 一位才华横溢的芝加哥设计师和数据艺术家，专注于网页和用户体验设计
+- 👉 [Robert Llewellyn](https://www.robertllewellyn.com/) - 一位杰出的摄影师，展示了他令人惊艳的摄影作品。
+- 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
+- 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
