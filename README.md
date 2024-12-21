@@ -1,6 +1,18 @@
 <div align="center"><a name="readme-top"></a>
 
-![遇见孩子](./images/遇见孩子.png)
+<!-- ![遇见孩子](./images/遇见孩子.png) -->
+
+<style>
+    .circle-img {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%; /* 将图片裁剪为圆形 */
+        object-fit: cover; /* 保持图片的比例 */
+    }
+</style>
+
+<img src="./images/遇见孩子.png" alt="遇见孩子" class="circle-img">
+
 
 <h3>遇见孩子，遇见更好的自己 🚀</h3>
 <h3>欢迎来到一个新手爸爸的育儿宝库 💎</h3>
