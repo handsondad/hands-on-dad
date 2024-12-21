@@ -244,6 +244,8 @@
 - 🕮 [《调皮的建筑师》](https://book.douban.com/subject/36092608/) - 建筑不仅是遮风挡雨的地方，也是激发无限想象与可能的造梦之地。
 - 🕮 [《房子：世界插画大师英诺森提作品》](https://book.douban.com/subject/19974155/) - 来自世界插画大师英诺森提的作品。🕮 [《世界插画大师英诺森提作品（套装共7册）》](https://book.douban.com/series/14381)
 - 👉 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册：🕮 [《歌谣》](https://book.douban.com/subject/35799865/)、🕮 [《四季》](https://book.douban.com/subject/35542802/)和 🕮 [《人们》](https://book.douban.com/subject/36062733/)
+- 👉 [英文绘本集合](https://bit.ly/kidsbooklib) - 开源的上千本英文绘本，可以使用[Readtogether](https://readtogether.ai/)数字化实体书工具实现多媒体形式阅读。
+
 
 ### 🏬 走进生活
 
@@ -256,12 +258,12 @@
 - 🕮 [《菜市场水果图鉴》](https://book.douban.com/subject/26446737/) - 同《菜市场蔬菜图鉴》
 - 🕮 [《菜市场鱼图鉴》](https://book.douban.com/subject/34841109/) - 鱼鲜不仅仅作为食物，更是海洋生态系统的重要一员，而生活中对鱼鲜的认识，更有助于拉近我们与海洋之间的浩瀚距离。
 
-#### 🎍 园艺
+#### 🎍 种植
 
 - 🕮 [《园丁手册：花园里的奇趣问答》](https://book.douban.com/subject/35307158/) - 英国皇家园艺学会（RHS）首席顾问盖伊·巴特（Guy Barter）在其数十年园艺实践中收集和归纳的129个典型问题及其既简单明了又出乎意料的解答。
 - 🕮 [《鲜花帝国：鲜花育种、栽培与售卖的秘密》](https://book.douban.com/subject/25876757/) - 花卉贸易已经形成规模庞大的产业，鲜花都是实验室制造、试管育种、工厂种植、机器收割，接着被打包装箱、拍卖出售，然后搭乘飞机漂洋过海走进大型超市或当地花店。
 
-#### 💰️ 钱的运转
+#### 💰️ 金钱
 
 人类金钱世界宛如一个巨大的水厂，管道纵横交错，里面流淌着金钱。这幅作品把整个体系隐喻成一个水厂系统，旨在通过简单易懂的画面让金钱世界变得触手可及。揭示：**金钱如水，金钱即权力！**
 
@@ -269,6 +271,8 @@
 
 - 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，📺️ [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，📺️ [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
 - 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Ab4y1p7nd)
+- 🕮 [《金钱心理学：财富、人性和幸福的永恒真相》](https://book.douban.com/subject/36415996/) - 给孩子一个正确看待金钱的起点！
+- 🕮 [《经济学的思维方式》](https://weread.qq.com/web/reader/8c332830813ab7ebdg013f1c) - 经济学通识教育的经典之作。它所传达的思维方式，有助于每个人过上更好的生活。
 
 
 ### 🏕️ 观察自然
@@ -567,6 +571,7 @@
 - 👉 [化学元素之书](https://home.theodoregray.com/blog/2020/9/28/the-kids-book-of-the-elements) - The Kid's Book of The Elements!
 - 👉 [Beautiful Chemistry](https://www.beautifulchemistry.net/) - 一个可以展示化学反应可视化的网站。作者梁琰推出的[《美丽的化学反应》](https://weread.qq.com/web/reader/35f32140719dab2235f73b1)和[《美丽的化学结构》](https://weread.qq.com/web/reader/55532690719dab2c555105d)两册图书。
 - 🕮 [《元素周期表何以解释一切》](https://weread.qq.com/web/bookDetail/acd3283071c0aeccacd6798) - 对于宇宙而言，元素是“烹饪”最基础的食材，从甜菜根到自行车，世间的一切都是由元素这种最纯净的物质组成的。研究和使用这些元素的科学，我们称之为化学。
+- 🕮 [《元素的故事》](https://weread.qq.com/web/reader/81e32520726da69c81ef143) - 作者以生动有趣的故事，别出心裁的写作手法，层层铺设谜团，阅读的过程就像是随着侦探在破案解谜，一点点地揭示宇宙万物的奥秘，为孩子带来一场元素的盛宴。 
 - 🕮 [《元素的盛宴：元素周期表中的化学探险史与真实故事》](https://weread.qq.com/web/reader/74b324c0813ab8300g018716) - 在这本书中，作者以极具张力的叙述节奏，追溯了元素周期表背后精彩的化学探险史，将一个个元素的传奇故事与奇妙化学性质讲述得麻辣鲜活，极具吸引力。
 - 👉 [西奥多•格雷的化学三部曲](https://home.theodoregray.com/)
     - 🕮 [视觉之旅：神奇的化学元素](https://book.douban.com/subject/5985153/) - 将用有史以来的最华丽的视觉盛宴带你踏上美丽的化学之旅。
@@ -752,7 +757,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🔢 数字工程
 
-
+- 👉 [儿童绘本数字化](https://readtogether.ai/) - 李沐开发的儿童绘本实体书转化为电子书并转化为可朗读版本。 开源的上千本英文绘本[网盘地址](https://bit.ly/kidsbooklib)，可以加入到该数字化产品中。
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
@@ -786,7 +791,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. 
 - 👉 [Towards Data Science](https://towardsdatascience.com/) - 一个专注于数据科学和机器学习的博客平台。
 - 👉 [Medium](https://medium.com/) - 提供了许多关于机器学习的文章和教程。
-- 👉 [DeepLearning.AI](https://www.deeplearning.ai/) - 专注于深度学习和人工智能教育的在线平台。 📺️ [[B站吴恩达AI课程研究院](https://space.bilibili.com/96499511)
+- 👉 [DeepLearning.AI](https://www.deeplearning.ai/) - 专注于深度学习和人工智能教育的在线平台。 📺️ [B站吴恩达AI课程研究院](https://space.bilibili.com/96499511)
 - 🕮 [《统计学习方法》](https://weread.qq.com/web/reader/c0032560813ab6c02g010482) - 李航老师编写的机器学习。👉 [开源代码](https://github.com/fengdu78/lihang-code)
 - 🕮 [《动手学习机器学习》](https://hml.boyuai.com/) - 上海交通大学推出的机器学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
 - 🕮 [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺️ [B站跟李沐学AI](https://space.bilibili.com/1567748478/)
