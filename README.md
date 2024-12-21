@@ -1,6 +1,11 @@
-# Hands-On Dad
+<div align="center"><a name="readme-top"></a>
 
-一个新手爸爸的育儿宝库！💎
+![遇见孩子](./images/遇见孩子.png)
+
+<h3>遇见孩子，遇见更好的自己 🚀</h3>
+<h3>欢迎来到一个新手爸爸的育儿宝库 💎</h3>
+
+</div>
 
 # 📇 目录
 
@@ -25,9 +30,10 @@
   - 🧭 [教学评估](#-教学评估)
 - 🏫 [社会教育](#-社会教育)
   - 📢 [创新教育](#-创新教育)
+  - 🎒 [慕课资源](#-慕课资源)
   - 🌐 [公益组织](#-公益组织)
   - 🙆🏼 [儿童网站](#-儿童网站)
-  - ☑️ [机构报告](#️-机构报告)
+  - ☑️ [机构报告](#-机构报告)
 - 👨‍💻 [STEAM](#-STEAM)
   - 🔬 [科学（Science）](#-Science)
   - 📡 [技术（Technology）](#-Technology)
@@ -584,6 +590,7 @@
 
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
+- 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTobe视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
 
 ### 🌏 地理
 
@@ -745,6 +752,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🔢 数字工程
 
+
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
@@ -764,7 +772,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
-- [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
+- 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
 
 ### 🤖 AI
 
@@ -778,9 +786,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. 
 - 👉 [Towards Data Science](https://towardsdatascience.com/) - 一个专注于数据科学和机器学习的博客平台。
 - 👉 [Medium](https://medium.com/) - 提供了许多关于机器学习的文章和教程。
+- 👉 [DeepLearning.AI](https://www.deeplearning.ai/) - 专注于深度学习和人工智能教育的在线平台。 📺️ [[B站吴恩达AI课程研究院](https://space.bilibili.com/96499511)
 - 🕮 [《统计学习方法》](https://weread.qq.com/web/reader/c0032560813ab6c02g010482) - 李航老师编写的机器学习。👉 [开源代码](https://github.com/fengdu78/lihang-code)
 - 🕮 [《动手学习机器学习》](https://hml.boyuai.com/) - 上海交通大学推出的机器学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
-- 🕮 [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
+- 🕮 [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺️ [B站跟李沐学AI](https://space.bilibili.com/1567748478/)
 - 🕮 [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 🕮 [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
