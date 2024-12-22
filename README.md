@@ -683,13 +683,19 @@
   - 👉 [Three-Dimensional Learning](https://www.carolina.com/carolinakits3d) - 3D-学习方法指导和实践。 🗐 [Guide_to_3D_Learning](https://www.carolina.com/pdf/ebooks/Guide_to_3D_learning.pdf)
 - 👉 [探月学校](https://moonshotacademy.cn/) - 探月学校是根植中国、面向未来的创新教育、素质教育、全人教育项目，致力于培养内心丰盈的个体，积极行动的公民。
 
+## 👩🏼‍🏫 在线教育
+
+- 👉 [可汗学院](https://zh.khanacademy.org/) - 可汗学院（Khan Academy）是一个非营利性的在线教育平台，提供免费的教育资源，涵盖从基础教育到大学水平的各种学科。
+- 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
+- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
+- 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
+
 ## 🎒 慕课资源
 
 - 👉 [Coursera](https://www.coursera.org/) - 提供了许多由顶尖大学（如斯坦福大学、麻省理工学院）开设的在线课程。
 - 👉 [edX](https://www.edx.org/) - 一个由麻省理工和哈佛大学于2012年联手创建的大规模开放在线课堂平台。
 - 👉 [Udacity](https://www.udacity.com/) - 一个专注于提供前沿技术领域在线课程的教育平台。
 - 👉 [网易公开课](https://open.163.com/) - 国内知名的在线教育平台，也提供了不少优质的在线课程。
-
 
 ## 🌐 公益组织
 
