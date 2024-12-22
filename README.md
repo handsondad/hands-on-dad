@@ -2,16 +2,7 @@
 
 <!-- ![遇见孩子](./images/遇见孩子.png) -->
 
-<style>
-    .circle-img {
-        width: 300px;
-        height: 300px;
-        border-radius: 50%; /* 将图片裁剪为圆形 */
-        object-fit: cover; /* 保持图片的比例 */
-    }
-</style>
-
-<img src="./images/遇见孩子.png" alt="遇见孩子" class="circle-img">
+<img src="./images/遇见孩子.png" alt="遇见孩子" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
 
 
 <h3>遇见孩子，遇见更好的自己 🚀</h3>
@@ -902,6 +893,16 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🕮 [《度量：一首献给数学的情歌》](https://weread.qq.com/web/reader/7d5328c0813ab87e0g010df9) - 介绍了对形状和运动的度量。
 - 🕮 [《数学之书》](https://book.douban.com/subject/35626482/) - 为我们展示了数学发展史最重要的里程碑事件背后的魔力与神奇，包括人类曾经思索过的最古怪的问题，从公元前一亿五千万年到最新的前沿突破。
 - 🕮 [《什么是数学：对思想和方法的基本研究》](https://book.douban.com/subject/1320282/) - 书中搜集了许多经典的数学珍品，给出了数学世界的一组有趣的、深入浅出的图画，对整个数学领域中的基本概念与方法，做了精深而生动的阐述。
+- 🕮 [《数学也可以这样学：自然、空间和时间里的数学》](https://weread.qq.com/web/reader/cff321b07193f21acff90ed) - 本书汲取原始的经验，从生活出发，通过有趣的画图练习和模型制作等，向读者展示自然、空间以及时间里的数学知识。
+- 🕮 [《数学也可以这样学：大自然中的几何学》](https://weread.qq.com/web/reader/b5d3207071cfc36eb5d2a7f) - 大量彩图和手绘图引导读者观察大自然中的事物，并从中发现几何学的身影。
+- 🕮 [《代数的历史：人类对未知量的不舍追踪》](https://weread.qq.com/web/reader/8eb326c0723be76c8ebd4a5) - 深受读者喜爱的数学经典。
+- 👉 [盖尔范德中学生数学思维丛书](https://book.douban.com/series/54852)
+  - 🕮 [《代数》](https://book.douban.com/subject/35320798/)
+  - 🕮 [《函数和图像》](https://book.douban.com/subject/35320796/)
+  - 🕮 [《三角函数》](https://book.douban.com/subject/35320797/)
+  - 🕮 [《坐标方法》](https://book.douban.com/subject/35320795/)
+  - 🕮 [《几何》](https://book.douban.com/subject/36670122/)
+
 
 ### 🖱️ 动画
 
