@@ -626,7 +626,10 @@
 - 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 
+### 🏢 知识库
 
+- 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
+- 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 
 ## ✨ 教学标准
 
