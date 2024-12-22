@@ -666,6 +666,9 @@
 
 ### 🖧 创新实践
 
+- 👉 [可汗学院](https://zh.khanacademy.org/) - 可汗学院（Khan Academy）是一个非营利性的在线教育平台，提供免费的教育资源，涵盖从基础教育到大学水平的各种学科。
+- 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
+- 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
 - 👉 [K-College Programs](https://www.carolina.com/) - K-College products and support materials that impact student learning (Innovative Solutions & Exclusive Products)
   - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/) - 史密森学会的科学项目。
   - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
@@ -938,13 +941,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🎡 科学里程碑
 
-- [牛顿提出万有引力定律]() - 1687年，艾萨克·牛顿在《自然哲学的数学原理》中提出了万有引力定律。这一理论解释了天体运动和地球上的物体运动，奠定了经典力学的基础。
-- [达尔文提出进化论](https://www.allaboutscience.org/chinese/darwins-theory-of-evolution.htm) - 1859年，查尔斯·达尔文在《物种起源》中提出了自然选择的进化理论。这一理论解释了生物多样性的起源和演化，深刻影响了生物学和其他科学领域。
+- 👉 [牛顿提出万有引力定律](https://wuli.wiki/online/NEWW.html) - 1687年，艾萨克·牛顿在《自然哲学的数学原理》中提出了万有引力定律。这一理论解释了天体运动和地球上的物体运动，奠定了经典力学的基础。
+- 👉 [达尔文提出进化论](https://www.allaboutscience.org/chinese/darwins-theory-of-evolution.htm) - 1859年，查尔斯·达尔文在《物种起源》中提出了自然选择的进化理论。这一理论解释了生物多样性的起源和演化，深刻影响了生物学和其他科学领域。
 - 👉 [孟德尔揭示遗传密码](https://blog.sciencenet.cn/blog-2237-381628.html) - 孟德尔通过豌豆从1856年至1864年实验揭示了遗传规律，奠定了现代遗传学的基础。他的发现解释了遗传特性如何从一代传递到下一代，开启了遗传学研究的新纪元。📺️ [B站饶毅讲孟德尔的故事](https://www.bilibili.com/video/BV1Zv411h7nb)
-- [爱因斯坦提出相对论]() - 1905年，爱因斯坦提出了狭义相对论，1915年提出了广义相对论。相对论改变了我们对时间、空间和引力的理解，成为现代物理学的基石。
-- [青霉素的发现]() - 1928年，弗莱明发现了青霉素。青霉素的发现和应用开启了抗生素时代，极大地提高了人类对抗感染性疾病的能力。
+- 👉 [爱因斯坦提出相对论]() - 1905年，爱因斯坦提出了狭义相对论，1915年提出了广义相对论。相对论改变了我们对时间、空间和引力的理解，成为现代物理学的基石。
+- 👉 [青霉素的发现]() - 1928年，弗莱明发现了青霉素。青霉素的发现和应用开启了抗生素时代，极大地提高了人类对抗感染性疾病的能力。
 - 👉 [DNA双螺旋结构的发现](https://m.thepaper.cn/baijiahao_5302155) - 1953年，詹姆斯·沃森和弗朗西斯·克里克发现了DNA的双螺旋结构。这一发现揭示了遗传信息的存储和传递机制，对分子生物学和基因工程的发展具有深远影响。👉 [论文](https://www.nature.com/articles/d41586-019-02554-z)
 - 👉 [人类第一次成功的登月任务](https://blog.sciencenet.cn/blog-39026-1021834.html) - 1969年，阿波罗11号任务成功将人类送上月球，阿姆斯特朗成为第一个踏上月球的人。这是人类航天史上的重大成就，标志着人类探索太空的新高度。这是一个人的一小步，却是人类的一大步。📺️ [阿波罗11号登月完整视频](https://v.qq.com/x/page/c089731blet.html) 
-- [互联网的诞生]() - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
+- 👉 [互联网的诞生]() - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
 - 👉 [AlphaGO围棋战胜人类](https://deepmind.google/research/breakthroughs/alphago/) - 2016年，DeepMind开发的AlphaGO在围棋比赛中战胜了世界冠军李世石。这一事件展示了人工智能在复杂策略游戏中的强大能力，推动了AI技术的发展。📺️ [AlphaGO电影](https://www.bilibili.com/video/BV1Rg4y1o7H5)
 - 👉 [ChatGPT突破自然语言处理瓶颈](https://openai.com/chatgpt/overview/) - OpenAI开发的ChatGPT展示了在自然语言理解和生成方面的卓越能力。ChatGPT的成功标志着自然语言处理技术的重大突破，广泛应用于各个领域，提升了人机交互体验。
