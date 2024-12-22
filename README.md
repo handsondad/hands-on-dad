@@ -417,6 +417,7 @@
 
 ### 🎮 游戏
 
+- 👉 [BritannicaGame](https://www.britannica.com/quiz/browse) - 大英百科全书网站推出分不同年龄的游戏和小测验。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 - 👉 [Foldit Puzzles](https://fold.it/puzzles) - 一个关于蛋白质结构的拼图游戏。
 - 👉 [7 Family Games to Play Anywhere](https://parents.highlights.com/7-family-games-to-play-anywhere) - 7个最常用的家庭游戏。
@@ -577,6 +578,7 @@
 
 - 👉 [元素周期表网站](https://periodictable.com/) - 一个提供元素周期表相关信息和化学元素数据的在线平台‌。
 - 👉 [IUPAC命名法](https://iupac.org/) - IUPAC命名法是系统命名化学物质的方法。该命名法是由国际纯粹与应用化学联合会（IUPAC）规定的。国内出版[《有机化合物命名原则2017》](https://www.chemsoc.org.cn/library/copy/24.html)
+- 👉 [美国化学会](https://www.acs.org/) - 美国化学会（American Chemical Society，简称 ACS）是全球最大的科学组织之一，致力于化学科学的进步和传播。
 - 👉 [中国化学会](https://www.chemsoc.org.cn/) - 中国化学学会。化学会科普项目[重现化学](https://www.chemsoc.org.cn/popular/envisioning/)展示化学反应之美！
 - 👉 [化学自习室](https://www.hxzxs.cn/index.html) - 一个关于中学化学丰富的教学资料的公益网站。
 - 👉 [化学元素之书](https://home.theodoregray.com/blog/2020/9/28/the-kids-book-of-the-elements) - The Kid's Book of The Elements!
@@ -592,8 +594,10 @@
 ### 🔭 物理
 
 - 👉 [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
+- 👉 [oPhysics](https://www.ophysics.com/) - oPhysics是一个专注于物理学教育的在线资源网站，提供各种交互式模拟和动画，帮助学生和教师理解和教授物理学概念。还提供丰富的动画作品资源。
 - 👉 [LibreTexts.Physics](https://phys.libretexts.org/) - 提供高质量的免费教育资源，支持物理学的教学和学习，促进知识的自由传播。
 - 👉 [PhysicsClassroom](https://www.physicsclassroom.com/) Physics Classroom是一个在线教育资源网站，专注于物理学的教学和学习。还发布有大量[YouTube视频](https://www.youtube.com/physicsclassroomLIVE)
+- 📺️ [二次元的中科院物理所](https://space.bilibili.com/407045223) - 中科院物理所的B站官方号。其中曹泽贤老师的[中国科学院跨年科学演讲](https://www.bilibili.com/video/BV1Dt4y1o736/)讲得非常非常好！
 - 🕮 [《天文学与生活》](https://book.douban.com/subject/30470522/) - 硬核的天文学知识，全书通过紧密联系星空与地球的关系，说明了天文学对人类生活的影响，以及人类的未来。
 
 ### 🧬 生物
@@ -622,7 +626,13 @@
 - 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 
+
+
 ## ✨ 教学标准
+
+### 🀄 中国教育信息化网
+
+- 👉 [中国教育信息化网](https://ict.edu.cn/) - 教育部教育管理信息中心指导，教育信息化综合服务网站。
 
 ### 🗽 美国科学教育标准
 
@@ -666,16 +676,12 @@
 
 ### 🖧 创新实践
 
-- 👉 [可汗学院](https://zh.khanacademy.org/) - 可汗学院（Khan Academy）是一个非营利性的在线教育平台，提供免费的教育资源，涵盖从基础教育到大学水平的各种学科。
-- 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
-- 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
 - 👉 [K-College Programs](https://www.carolina.com/) - K-College products and support materials that impact student learning (Innovative Solutions & Exclusive Products)
   - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/) - 史密森学会的科学项目。
   - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
   - 👉 [Distance Learning Kits](https://carolinadistancelearning.com/) - Distance Learning Course Labs.
   - 👉 [Three-Dimensional Learning](https://www.carolina.com/carolinakits3d) - 3D-学习方法指导和实践。 🗐 [Guide_to_3D_Learning](https://www.carolina.com/pdf/ebooks/Guide_to_3D_learning.pdf)
 - 👉 [探月学校](https://moonshotacademy.cn/) - 探月学校是根植中国、面向未来的创新教育、素质教育、全人教育项目，致力于培养内心丰盈的个体，积极行动的公民。
-- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
 
 ## 🎒 慕课资源
 
@@ -684,12 +690,14 @@
 - 👉 [Udacity](https://www.udacity.com/) - 一个专注于提供前沿技术领域在线课程的教育平台。
 - 👉 [网易公开课](https://open.163.com/) - 国内知名的在线教育平台，也提供了不少优质的在线课程。
 
+
 ## 🌐 公益组织
 
 - 👉 [联合国儿童基金会](https://www.unicef.cn/) - 联合国儿童基金会-中国。
 - 👉 [ZERO TO THREE](https://www.zerotothree.org/) - ZERO TO THREE是一家专注于0至3岁儿童早期发展的非营利组织(The first three years of life are the most important for lifelong mental health and well-being)。
 - 👉 [NASA Kids' Club](https://www.nasa.gov/) - NASA对孩子开放讲解的天文知识和各类活动。
 - 👉 [Van Leer Foundation](https://vanleerfoundation.org/) - Van Leer 基金会一直致力于支持全球的幼儿、看护者和社区。确立在幼儿发展、人文科学和艺术领域的领导地位。
+- 👉 [恒晖公益基金会](https://www.ihenghui.cn/) - 由陈行甲老师发起的恒晖公益基金会，专注青少年心理健康和教育关怀等方面的公益创新项目。
 - 👉 [北京三一公益基金会](http://www.sanyfoundation.org/) - 是一家非公募基金会，以推动科学公益为使命，致力于建构和推广科学公益理论体系、支持专业有效的公益实践行动、培养和提升公众意识。
 
 ## 🙆🏼 儿童网站
@@ -742,6 +750,9 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🏆 科学组织
 
 - 👉 [科学网](https://www.sciencenet.cn/) - 科学网，构建全球华人科学社区。
+- 👉 [中国科学院](https://www.cas.cn/) - 中国科学院官网。
+- 👉 [科普中国](https://www.kepuchina.cn/) - 科普中国（KepuChina）是一个专注于科学普及和教育的在线平台，致力于传播科学知识，提升公众的科学素养。
+- 👉 [世界科学](https://worldscience.cn/) - 《世界科学》是中国大陆地区的一家科学传播媒体，致力于提供高质量的科学新闻和科普内容。
 - 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
 - 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
@@ -755,6 +766,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🕮 [《夜观星空：天文观测实践指南》](https://book.douban.com/subject/10808841/) - 针对天文爱好者，从宇宙结构讲起，详细介绍了夜空中著名的恒星、行星、星团、星系以及彗星、流星和极光等，并介绍了各种观测方法，既包括目视观测，也包括使用双筒望远镜和天文望远镜观测。
 - 🕮 [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 🕮 [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
+- 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
 
 
 ## 📡 Technology
@@ -913,6 +925,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🖱️ 动画
 
+- 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！
 - 👉 [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
 - 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 这是一个傅里叶级数的动画课程。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
@@ -941,13 +954,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 🎡 科学里程碑
 
-- 👉 [牛顿提出万有引力定律](https://wuli.wiki/online/NEWW.html) - 1687年，艾萨克·牛顿在《自然哲学的数学原理》中提出了万有引力定律。这一理论解释了天体运动和地球上的物体运动，奠定了经典力学的基础。
+- 👉 [牛顿提出万有引力定律](https://wuli.wiki/online/NEWW.html) - 1687年，艾萨克·牛顿在《自然哲学的数学原理》中提出了万有引力定律。这一理论解释了天体运动和地球上的物体运动，奠定了经典力学的基础。👉 [一个有趣的讲解](https://www.geeksforgeeks.org/universal-law-of-gravitation/)
 - 👉 [达尔文提出进化论](https://www.allaboutscience.org/chinese/darwins-theory-of-evolution.htm) - 1859年，查尔斯·达尔文在《物种起源》中提出了自然选择的进化理论。这一理论解释了生物多样性的起源和演化，深刻影响了生物学和其他科学领域。
 - 👉 [孟德尔揭示遗传密码](https://blog.sciencenet.cn/blog-2237-381628.html) - 孟德尔通过豌豆从1856年至1864年实验揭示了遗传规律，奠定了现代遗传学的基础。他的发现解释了遗传特性如何从一代传递到下一代，开启了遗传学研究的新纪元。📺️ [B站饶毅讲孟德尔的故事](https://www.bilibili.com/video/BV1Zv411h7nb)
-- 👉 [爱因斯坦提出相对论]() - 1905年，爱因斯坦提出了狭义相对论，1915年提出了广义相对论。相对论改变了我们对时间、空间和引力的理解，成为现代物理学的基石。
-- 👉 [青霉素的发现]() - 1928年，弗莱明发现了青霉素。青霉素的发现和应用开启了抗生素时代，极大地提高了人类对抗感染性疾病的能力。
+- 👉 [爱因斯坦提出相对论](https://worldscience.cn/c/2005-02-25/605786.shtml) - 1905年，爱因斯坦提出了狭义相对论，1915年提出了广义相对论。相对论改变了我们对时间、空间和引力的理解，成为现代物理学的基石。
+- 👉 [青霉素的发现](https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin/flemingpenicillin-mandarin.html) - 1928年，弗莱明发现了青霉素。青霉素的发现和应用开启了抗生素时代，极大地提高了人类对抗感染性疾病的能力。
 - 👉 [DNA双螺旋结构的发现](https://m.thepaper.cn/baijiahao_5302155) - 1953年，詹姆斯·沃森和弗朗西斯·克里克发现了DNA的双螺旋结构。这一发现揭示了遗传信息的存储和传递机制，对分子生物学和基因工程的发展具有深远影响。👉 [论文](https://www.nature.com/articles/d41586-019-02554-z)
 - 👉 [人类第一次成功的登月任务](https://blog.sciencenet.cn/blog-39026-1021834.html) - 1969年，阿波罗11号任务成功将人类送上月球，阿姆斯特朗成为第一个踏上月球的人。这是人类航天史上的重大成就，标志着人类探索太空的新高度。这是一个人的一小步，却是人类的一大步。📺️ [阿波罗11号登月完整视频](https://v.qq.com/x/page/c089731blet.html) 
-- 👉 [互联网的诞生]() - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
+- 👉 [互联网的诞生](https://baike.baidu.com/item/互联网/199186) - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
 - 👉 [AlphaGO围棋战胜人类](https://deepmind.google/research/breakthroughs/alphago/) - 2016年，DeepMind开发的AlphaGO在围棋比赛中战胜了世界冠军李世石。这一事件展示了人工智能在复杂策略游戏中的强大能力，推动了AI技术的发展。📺️ [AlphaGO电影](https://www.bilibili.com/video/BV1Rg4y1o7H5)
 - 👉 [ChatGPT突破自然语言处理瓶颈](https://openai.com/chatgpt/overview/) - OpenAI开发的ChatGPT展示了在自然语言理解和生成方面的卓越能力。ChatGPT的成功标志着自然语言处理技术的重大突破，广泛应用于各个领域，提升了人机交互体验。
