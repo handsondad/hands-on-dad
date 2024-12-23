@@ -33,6 +33,7 @@
   - 🧭 [教学评估](#-教学评估)
 - 🏫 [社会教育](#-社会教育)
   - 📢 [创新教育](#-创新教育)
+  - 👩🏼‍🏫 [在线教育](#-在线教育)
   - 🎒 [慕课资源](#-慕课资源)
   - 🌐 [公益组织](#-公益组织)
   - 🙆🏼 [儿童网站](#-儿童网站)
@@ -119,7 +120,7 @@
 
 # 👨‍👩‍👧‍👦 家庭教育
 
-- 👉 [全国家庭教育指导大纲](http://zgggw.gov.cn/zhengcefagui/gzzd/zgggw/13792.html) - 中国关心下一代工作委员会修订的《全国家庭教育指导大纲》，适用于各级各类家庭教育指导机构、相关职能部门、社会团体、宣传媒体和家庭教育指导者，对新婚夫妇、孕妇、18 岁以下儿童家长（父母或其他监护人）开展的家庭教育指导服务行为。
+中国关心下一代工作委员会修订的[《全国家庭教育指导大纲》](http://zgggw.gov.cn/zhengcefagui/gzzd/zgggw/13792.html)，适用于各级各类家庭教育指导机构、相关职能部门、社会团体、宣传媒体和家庭教育指导者，对新婚夫妇、孕妇、18 岁以下儿童家长（父母或其他监护人）开展的家庭教育指导服务行为。
 
 ## 📓 教育理论
 
@@ -164,6 +165,8 @@
 
 
 ### 👨🏻‍❤‍👨🏼 情感教育
+
+情感教育让孩子获得一种内心的智慧，或用更优美的表述为内心塑造！
 
 - 👉 [社会情感学习资源](https://www.unicef.cn/documents/sel-resources) - 联合国儿童基金会与教育部于2011年引入的社会情感学习项目。
 - 🕮 [《理解孩子的语言：孩子的笑、哭泣和害怕》](https://weread.qq.com/web/reader/d673255071cc8a24d677d2c) - 书中分析了恐惧、愤怒、喜悦和悲伤几种情绪，通过这些分析来帮助家长和孩子相互了解，坚定父母的信心，提高孩子的情商。
@@ -231,7 +234,6 @@
 - 🕮 [《DK博物大百科：自然界的视觉盛宴》](https://book.douban.com/subject/30384279/) - 本书的出版是史密森博物院国家自然历史博物馆的一个里程碑，本书展示了对地球自然历史的无与伦比的视觉盛宴。
 - 🕮 [《极简宇宙史》](https://book.douban.com/subject/26697350/) - 夏夜，你躺在沙滩上，仰望夜空。一颗小小的流星安静滑过，还来不及许愿，不可思议的事情发生了：你一下子穿越五十亿年，走进时光的旅行。 
 
-
 ### 🖼️ 绘本图册
 
 - 👉 [豆瓣热门儿童绘本TOP20](https://m.douban.com/subject_collection/EC644XZ7I)
@@ -254,7 +256,6 @@
 - 👉 [世界最美的书得主BLEXBOLEX图像诗三部曲](https://book.douban.com/series/63429) - 共三册：🕮 [《歌谣》](https://book.douban.com/subject/35799865/)、🕮 [《四季》](https://book.douban.com/subject/35542802/)和 🕮 [《人们》](https://book.douban.com/subject/36062733/)
 - 👉 [英文绘本集合](https://bit.ly/kidsbooklib) - 开源的上千本英文绘本，可以使用[Readtogether](https://readtogether.ai/)数字化实体书工具实现多媒体形式阅读。
 
-
 ### 🏬 走进生活
 
 #### 🍛 食物
@@ -275,7 +276,7 @@
 
 人类金钱世界宛如一个巨大的水厂，管道纵横交错，里面流淌着金钱。这幅作品把整个体系隐喻成一个水厂系统，旨在通过简单易懂的画面让金钱世界变得触手可及。揭示：**金钱如水，金钱即权力！**
 
-![像水厂的金钱世界](./images/The%20Waterworks%20of%20Money.png)
+<!-- ![像水厂的金钱世界](./images/The%20Waterworks%20of%20Money.png) -->
 
 - 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，📺️ [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，📺️ [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
 - 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Ab4y1p7nd)
@@ -288,7 +289,7 @@
 
 ### 🏕️ 观察自然
 
-- 🕮 [《笔记大自然：找寻一种探索周围世界的新途径》](https://book.douban.com/subject/3131814/) - 《笔记大自然》是一本指导如何给大自然书写日记的入门书。他们用两种指尖艺术——书写与绘画，来传递大自然的色彩与神奇。现在作者更新了新的笔记了[《新笔记大自然》](https://book.douban.com/subject/21357312/)
+[《笔记大自然：找寻一种探索周围世界的新途径》](https://book.douban.com/subject/3131814/)是一本指导如何给大自然书写日记的入门书。他们用两种指尖艺术——书写与绘画，来传递大自然的色彩与神奇。现在作者更新了新的笔记了[《新笔记大自然》](https://book.douban.com/subject/21357312/)
 
 #### 🧩 合集
 
@@ -358,14 +359,13 @@
 
 #### 🌦 天气
 
-水，通过其循环轨迹连接地球上所有生物，将陆地淡水区分为河流、湖泊及含水层中的“蓝水”和土壤中对植物生长至关重要的“绿水”，经植物蒸发成绿色水蒸气回归大气，最终化为降水，渗透土壤、汇入水体，完成关键的水循环环节，而蒸发至大气的水分则形成流动的湿气，远行数千公里后在别处降落，编织出覆盖全球的水循环之网。
+水，通过其循环轨迹连接地球上所有生物，将陆地淡水区分为河流、湖泊及含水层中的“蓝水”和土壤中对植物生长至关重要的“绿水”，经植物蒸发成绿色水蒸气回归大气，最终化为降水，渗透土壤、汇入水体，完成关键的水循环环节，而蒸发至大气的水分则形成流动的湿气，远行数千公里后在别处降落，编织出覆盖全球的水循环之网。📌 [水文循环](./images/水文循环.png)
 
-![水文循环](./images/水文循环.png)
+<!-- ![水文循环](./images/水文循环.png) -->
 
 - 👉 [The Economic of Water](https://watercommission.org/) - 涉及水文循环的方方面面。Valuing the Hydrological Cycle as a Global Common Good.
 - 🕮 [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
 - 🕮 [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
-
 
 ### 🏟️ 城市空间
 
@@ -412,7 +412,6 @@
 
 - 🕮 [《让孩子做50件危险的事儿》](https://weread.qq.com/web/reader/c1332b1071697ffbc13fc40) - 充满好奇心、热爱冒险的计算机科学家，致力于为孩子设计有趣的动手项目。
 
-
 ## 🎃 家庭活动
 
 ### 🎮 游戏
@@ -444,8 +443,7 @@
 #### ⛷️ 天性冒险
 
 - 🕮 [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
-- 🕮 [《发现之旅：历史上最伟大的十次自然探险》](https://book.douban.com/subject/10439064/) - 世界历史上最著名的探险家、科学家、艺术家联袂演绎一幕幕迷人的自然历史冒险故事，三百年历史的时间隧道，携您加入未知领域的探险与历史伟人一起遨游世界
-
+- 🕮 [《发现之旅：历史上最伟大的十次自然探险》](https://book.douban.com/subject/10439064/) - 世界历史上最著名的探险家、科学家、艺术家联袂演绎一幕幕迷人的自然历史冒险故事，三百年历史的时间隧道，携您加入未知领域的探险与历史伟人一起遨游世界。
 
 #### 💅 个人成长
 
@@ -461,7 +459,6 @@
 - 👉 [普莱希特哲学史](https://book.douban.com/series/61318) - 德国当代哲学家普莱希特哲学史两册。
     - 🕮 [《认识世界：古代与中世纪哲学》](https://weread.qq.com/web/reader/b2232e807249dd65b226ae4) - 从西方哲学的发源地美丽的小亚细亚海岸，一直到中世纪后期的修道院和书斋、教堂和大学，一代代著名哲学家轮番登上历史舞台，对世界、对自我、对生活进行着探寻与思考。
     - 🕮 [《认识你自己：近代哲学四百年》](https://weread.qq.com/web/reader/26232f10813ab70cbg010c5e) - 讲述西方哲学的黄金年代，名家辈出的近代哲学四百年。
-
 
 #### 🧘 爱与治愈
 
@@ -481,14 +478,13 @@
 
 #### 👣 生命奇迹
 
-生命的16种模式：1.生命构造从简到繁 2.生命把自己组装成链 3.生命需要内外之分 4.生命用有限的主题塑造无穷的变化 5.生命靠信息来组织 6.生命通过重组信息促进多样性 7.生命通过差错进行创造 8.生命在水中起源 9.生命由糖来驱动 10.生命循环运转 11.生命回收用过的一切 12.生命靠更新来维护 13.生命寻求最优而不是最多 14.生命是机会主义者 15.生命在合作的主题下竞争 16.生命相互联系又相互依存。
+生命的16种模式：1.生命构造从简到繁 2.生命把自己组装成链 3.生命需要内外之分 4.生命用有限的主题塑造无穷的变化 5.生命靠信息来组织 6.生命通过重组信息促进多样性 7.生命通过差错进行创造 8.生命在水中起源 9.生命由糖来驱动 10.生命循环运转 11.生命回收用过的一切 12.生命靠更新来维护 13.生命寻求最优而不是最多 14.生命是机会主义者 15.生命在合作的主题下竞争 16.生命相互联系又相互依存。📌 [关于生命应该知道的16件事](./images/关于生命应该知道的16件事.jpg)
 
-![关于生命应该知道的16件事](./images/关于生命应该知道的16件事.jpg)
+<!-- ![关于生命应该知道的16件事](./images/关于生命应该知道的16件事.jpg) -->
 
 - 🕮 [《生命的运作方式》](https://weread.qq.com/web/reader/a5a32ee0729ac57aa5aa741) - 本书用通俗易懂的文字和风趣幽默的漫画，将基因和蛋白质的微观世界与生物个体的宏观世界紧密地联系起来，从细胞内部的原子和分子开始讲述生命的奥秘。
 - 🕮 [《演化：跨越40亿年的生命记录》](https://book.douban.com/subject/6750347/) - 讲述的是地球上一切生命的进化史，从早期原始生命的产生到物种大爆炸又大灭绝的原因，从雄性和雌性的共同进化到寄主和寄生物之间的进化比赛，当然更包括了十分详细的、关于我们人类自身的进化历程。
 - 🕮 [《新生命史：生命起源和演化的革命性解读》](https://book.douban.com/subject/35097469/) - 生命的发展并不是一个庄严的、渐进的过程，大灾难对生命历史的影响超过了所有其他力量的总和。
-
 
 #### 💪 榜样的力量
 
@@ -511,7 +507,6 @@
   - 👉 [指环王1：护戒使者](https://movie.douban.com/subject/1291571/)
   - 👉 [指环王2：双塔奇兵](https://movie.douban.com/subject/1291572/)
   - 👉 [指环王3：王者无敌](https://movie.douban.com/subject/1291552/)
-
 
 #### 🚵 历险
 
@@ -547,7 +542,6 @@
 - 📺️ [文明的崛起](https://www.bilibili.com/bangumi/play/ss27216) - 这部纪录片对于想要系统了解欧洲历史和欧洲文明诞生过程的孩子们，是一堂精彩的历史通识教育课。
 - 📺️ [欧洲历史](https://www.bilibili.com/bangumi/play/ss28183) - 我们将跟随剑桥大学历史学家克里斯托弗·克拉克的步伐，前往欧洲各国，了解丰富有趣的西方历史知识和文化脉络。
 - 📺️ [王朝](http://v.qq.com/detail/2/28wj897frl5hj40.html) - 记录了世界上最具标志性的动物的故事，在世界最知名的地点，他们为了维系自己的王朝而努力奋斗着。在每一集里面，他们每个个体的故事都会通过激烈的、引人入胜的戏剧情节展开。
-
 
 ## 🧧 写给孩子的信
 
@@ -738,17 +732,17 @@
 <br/>
 
 # 👨‍💻 STEAM
-STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。
+STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。📌 [STEAM的含义](./images/STEAM.png)
 
-![STEAM的含义](./images/STEAM.png)
+<!-- ![STEAM的含义](./images/STEAM.png) -->
 
 ## 🔬 Science
 
 ### 🏛️ 科学史
 
-正如在拉斐尔那里，哲学总是像永恒的仙境、思想的圣地。求真的沉思上百年甚至上千年地在此之中碰撞交织，如同成对的蜻蜓。或许，正是如此神圣的非现实化，使得这幅画直到今天依然散发着魅力！
+正如在拉斐尔那里，哲学总是像永恒的仙境、思想的圣地。求真的沉思上百年甚至上千年地在此之中碰撞交织，如同成对的蜻蜓。或许，正是如此神圣的非现实化，使得这幅画直到今天依然散发着魅力！📌 [雅典学院](./images/雅典学院.jpg)
 
-![雅典学院](./images/雅典学院.jpg)
+<!-- ![雅典学院](./images/雅典学院.jpg) -->
 
 - 👉 [雅典学院](https://zh.wikipedia.org/zh-cn/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_%28%E7%95%AB%E4%BD%9C%29) - Wikipedia上的拉斐尔画作雅典学院的人物介绍。
 - 🕮 [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
@@ -776,7 +770,6 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🕮 [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 🕮 [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
-
 
 ## 📡 Technology
 
@@ -852,10 +845,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ## 🎨 Arts
 
+AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术的人才能成为艺术家！
+
 ### 🎵 音乐
 
 - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
+- 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
 
 ### 📸 摄影
 
@@ -873,6 +869,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🕮 [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
 - 🕮 [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 🕮 [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
+- 👉 [Midjourney](https://www.midjourney.com/) - 一款AI绘画工具，用户只需输入想到的文字，就能通过人工智能产出相对应的图片。
+- 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
 
 ### 🔍 纹样
 
@@ -908,7 +906,6 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 👉 [沙子国际象棋](https://parametric-architecture.com/3d-printed-dune-chess-set-by-rory-noble-turner/) - 一位英国设计师用沙子作为材料，3D打印了一套国际象棋。
 
-
 ## 📐 Mathematics
 
 ### 🛠️ 工具
@@ -931,10 +928,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
   - 🕮 [《坐标方法》](https://book.douban.com/subject/35320795/)
   - 🕮 [《几何》](https://book.douban.com/subject/36670122/)
 
-
 ### 🖱️ 动画
 
 - 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！
+- 👉 [3Blue1Brown](https://www.3blue1brown.com/) - 专注于制作直观理解数学概念视频，其内容覆盖数学、人工智能等领域，还有[衍生的物品商店](https://store.dftba.com/collections/3blue1brown)非常有趣。📺️ [YouTube视频](https://www.youtube.com/3blue1brown)、📺️ [B站官方视频](https://space.bilibili.com/88461692)
 - 👉 [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
 - 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 这是一个傅里叶级数的动画课程。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
@@ -957,7 +954,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Theodore Gray](https://home.theodoregray.com/) - 一位杰出的化学家和科普作家，以其对元素的狂热收藏和创新的科普方式闻名于世。
 - 👉 [Nicholas Rougeux](https://www.c82.net/) - 一位才华横溢的芝加哥设计师和数据艺术家，专注于网页和用户体验设计
 - 👉 [Robert Llewellyn](https://www.robertllewellyn.com/) - 一位杰出的摄影师，展示了他令人惊艳的摄影作品。
-- 👉 [Chris Judge](http://www.chrisjudge.com/) - 一位著名的童书插画师的个人空间。他的[每日一云](http://www.chrisjudge.com/a-daily-cloud)作品非常有创意。就是在云朵上添加几笔变成一副有趣的画作。他还售卖这些画作，非常有趣！
+- 👉 [Chris Judge](http://www.chrisjudge.com/) - 一位著名的童书插画师的个人空间。他的[每日一云](http://www.chrisjudge.com/a-daily-cloud)作品非常有创意。就是在云朵上添加几笔变成一副有趣的画作。他还做了[衍生物品商店](https://www.adailycloud.com/)售卖这些画作，非常有趣！
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
 
