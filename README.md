@@ -881,6 +881,12 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
 
+#### 📣 音乐团体
+
+- 👉 [班得瑞](https://zh.wikipedia.org/zh-sg/班得瑞) - 班得瑞的音乐风格以轻柔、宁静、自然为主要特点，他们的音乐作品常常被用作环境音乐、冥想音乐以及放松和减压的背景音乐。班得瑞的音乐中融入了大量的自然声音，如流水、鸟鸣等，这些音效都是通过实地录制得到的，旨在为听众提供一种身临其境的自然体验。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1HZ4y1m7NX/)，📺️ [另一个合集](https://www.bilibili.com/video/BV18Y4y1Y7Gd)
+- 👉 [神思者](https://zh.wikipedia.org/wiki/神思者) - 神思者是一支具有深厚音乐功底和广泛影响力的新世纪音乐团体。他们的音乐融合了现代与古典、电子与传统的元素，创造出独特的音乐风格和氛围。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1sQ4y1D7SJ)
+- 👉 [新世纪音乐-雅尼](https://zh.wikipedia.org/wiki/雅尼) - 雅尼（Yanni），著名的新世纪音乐作曲家和演奏家。📺️ [雅尼13场音乐会合集](https://www.bilibili.com/video/BV1sJ411A7Pa/)，📺️ [B站雅尼合集](https://www.bilibili.com/video/BV1XQ4y1y7i9)
+- 👉 [久石让](https://zh.wikipedia.org/wiki/久石让) - 久石让是一位才华横溢的音乐家，他的作品深受全球听众的喜爱。他的音乐不仅具有独特的艺术价值，也为电影和动画作品增添了无限的魅力。📺️ [久石让电影配乐合集](https://www.bilibili.com/video/BV1LN411d7Hy)，📺️ [久石让-宫崎骏动漫音乐会](https://www.bilibili.com/video/BV1oV411y7Xo)
 
 ### 📸 摄影
 
