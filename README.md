@@ -139,7 +139,6 @@
 - 🕮 [《西尔斯亲密育儿百科》](https://weread.qq.com/web/reader/660320e071629618660cafc) - 西尔斯博士根据近40年的儿科临床实践，以及与妻子玛莎共同养育8个子女的经验，结合发展心理学的“亲密理论”，总结出了一套亲密育儿法。
 - 🕮 [《定本育儿百科》](https://weread.qq.com/web/reader/0ee3262071c5f3560eed165) - 从婴儿诞生前一直写到孩子上小学，全面周到的育儿知识。
 
-
 ### 👩🏼‍🔬 心理学家说教育
 
 - 🕮 [《教出乐观的孩子：让孩子受用一生的幸福经典》](https://weread.qq.com/web/reader/611325805ae2c561133540c) - 积极心理学之父马丁•塞利格曼集30年、千百个成人及儿童研究之精华著成的教育经典。书中重墨提及积极心理教育在学校实践中的成功应用，富有借鉴意义。
@@ -149,6 +148,7 @@
 
 - 🕮 [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，他认为没有什么比父母教育孩子更加需要智慧的了，我一生都在努力探求这种智慧。
 - 🕮 [《教养的迷思》](https://weread.qq.com/web/reader/bf032ad0719230adbf0f346) - 在《教养的迷思》一书中，作者用众多的证据证明，在孩童的成长过程中，父母的影响力并没有大家想象中的大，真正具有影响力的是孩童在家庭之外的同辈群体。
+- 🕮 [《童年的秘密》](https://weread.qq.com/web/reader/1be32e50719523e31bef162) - 全面介绍蒙台梭利教育理念和方法。蒙氏教育法是当今世界公认的最优秀的教育方法。
 - 🕮 [《爱和自由》](https://weread.qq.com/web/reader/86c32cc0813ab7e7ag013b5a) - 全面讲述了孙瑞雪教育机构“爱和自由”的教育理念和方法。
 
 ## ➡️ 养育指南
@@ -164,7 +164,7 @@
 - 👉 [积极养育指南](https://www.unicef.cn/documents/positive-parenting-guide) - 联合国儿童基金会推出的儿童积极养育指南。
 - 🕮 [《正面管教》](https://weread.qq.com/web/reader/bbc32a50813ab7953g01522a) - 《正面管教》已经成为管教孩子的”黄金法则“。
 - 🕮 [《看见孩子：洞察、共情与联结》](https://weread.qq.com/web/reader/55932970813ab8237g0121c3) - 一本培养情绪健康、有心理韧性的孩子的实用指南。
-
+- 🕮 [《如何培养孩子的社会能力》](https://weread.qq.com/web/reader/68e327a0813ab7854g0153bb) - 培养孩子的良好的社会能力，让还成长为一个充满自信的人。
 
 ### 👨🏻‍❤‍👨🏼 情感教育
 
@@ -177,20 +177,20 @@
 - 🕮 [《心理学与生活》](https://weread.qq.com/web/reader/a6c32000813ab6c04g013ced) - 是一部心理学经典教科书，心理学导论类教材的典范之作。
 - 🕮 [《津巴多普通心理学》](https://weread.qq.com/web/reader/631324c0813ab735bg01382c) - 普通心理学的经典教材。
 
-
 ### 🚑️ 健康安全
 
 - 👉 [婴幼儿喂养咨询培训包](https://www.unicef.cn/iycf) - 本书以联合国儿童基金会和世界卫生组织2010年发布的婴幼儿喂养咨询包为基础。
 - 👉 [3岁以下婴幼儿健康养育照护指南](http://www.nhc.gov.cn/fys/s3585/202211/22e3f33c47f54f2c81c28db4e8ee7723.shtml) - 国家卫生健康委办公厅关于印发3岁以下婴幼儿健康养育照护指南。
 - 👉 [0-6岁儿童监护人健康教育小册子](https://www.unicef.cn/reports/0-6-children-guardian-health-education-booklet) - 联合国儿童基金会和中国健康教育中心推出的。
+- 👉 [儿童安全教育方法](https://www.xueshu.com/haowen/173030.html) - 学术之家上整理的12篇儿童安全教育方法。
 - 🕮 [《薄世宁医学通识讲义：一生需要上一次医学院》](https://book.douban.com/subject/34842793/) - 人在一生中，难免要面对疾病的来临与生命的诘问，以医学的思维面对自我，以科学的方式关爱家人，才是对自己与家人真正的爱。
-
 
 ## 👨‍👦 亲子时间
 
 ### 🎶 童谣儿歌
 
 - 🕮 [《鹅妈妈童谣》](https://book.douban.com/subject/35175546/) - 流传英国数百年的枕边教材，孩子读书识字前的启蒙绘本，叫醒宝宝的小耳朵，培养语感、乐感与认知能力。👉 [B站鹅妈妈儿歌童谣（全113集）](https://www.bilibili.com/video/BV1oM4m1R7YM)
+- 👉 [25首经典儿歌童谣大全](https://www.wukongsch.com/blog/zh/best-kids-songs-collection-post-36383/) - 25首经典儿歌童谣大全，含中英文歌词。⏬ [Download the PDF](./docs/中文经典儿歌大全.pdf)
 
 ### 🧟 睡前故事
 
@@ -628,6 +628,7 @@
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTobe视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [悟空中文](https://www.wukongsch.com/) - 悟空中文，孩子爱上中文的理由！适合全球3-18岁青少儿的在线趣味中文课。
 
 ### 🌏 地理
 
@@ -870,9 +871,16 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 
 ### 🎵 音乐
 
+#### 🎹 音乐教学
+
+- 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
 - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
+
+#### 🏭︎ 制作工具
+
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
+
 
 ### 📸 摄影
 
@@ -887,6 +895,7 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 
 ### 🖌️ 绘画
 
+- 👉 [儿童美术启蒙教育](https://www.xueshu.com/haowen/172688.html) - 学术之家上整理的12篇儿童美术启蒙教育。👉 [儿童艺术教育的重要性](https://www.xueshu.com/haowen/172705.html)
 - 🕮 [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
 - 🕮 [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 🕮 [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
