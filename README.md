@@ -403,6 +403,7 @@
 
 #### 🚀 有趣的事
 
+- 👉 [DIY.org](https://diy.org/) - To create a safe space for kid creators worldwide!
 - 👉 [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
@@ -423,6 +424,7 @@
 - 👉 [Foldit Puzzles](https://fold.it/puzzles) - 一个关于蛋白质结构的拼图游戏。
 - 👉 [7 Family Games to Play Anywhere](https://parents.highlights.com/7-family-games-to-play-anywhere) - 7个最常用的家庭游戏。
 - 👉 [21 kids' party games ideas](https://www.goodto.com/family/kids-party-games-32207) - Goodto网站提供的一个孩子聚会游戏。
+- 👉 [ThinkFun](https://www.thinkfun.com/) - ThinkFun是一家专注于设计创意教育玩具和游戏的公司，旨在通过游戏化的学习体验激发孩子们的创造力、逻辑思维和解决问题的能力。
 
 ### 👓️ 阅读
 
@@ -706,8 +708,11 @@
 
 - 👉 [可汗学院](https://zh.khanacademy.org/) - 可汗学院（Khan Academy）是一个非营利性的在线教育平台，提供免费的教育资源，涵盖从基础教育到大学水平的各种学科。
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
+- 👉 [Code](https://code.org/) - Code.org是一个非盈利性的全球性组织，致力于为所有年龄层的学生提供计算机科学教育。
 - 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
 - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
+- 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
+- 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 
 ## 🎒 慕课资源
 
@@ -754,7 +759,8 @@
 <br/>
 
 # 👨‍💻 STEAM
-STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。📌 [STEAM的含义](./images/STEAM.png)
+
+STEAM是指由科学（Science）、技术（Technology）、工程（Engineering）、艺术（Art）、数学（Mathematics）等学科共同构成的跨学科课程。它强调知识跨界、场景多元、问题生成、批判建构、创新驱动，既体现出课程综合化、实践化、活动化的诸多特征，又反映了课程回归生活、回归社会、回归自然的本质诉求。根据美国国家科学委员会《[STEAM_education](https://en.wikipedia.org/wiki/STEAM_education)》的定义。📌 [STEAM的含义](./images/STEAM.png)，👉 [Awesome-STEAM](https://github.com/RahulBirCodes/awesome-steam)
 
 <!-- ![STEAM的含义](./images/STEAM.png) -->
 
@@ -820,6 +826,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ### 📑 教程
 
+- 👉 [Awesome](https://github.com/sindresorhus/awesome) - GitHub上开源的Awesome集合。
+- 👉 [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) - 整理了各年龄段学习的不同级别的编程指导和网站。
 - 🤗 [计算机自学课程集合](https://github.com/ForrestKnight/open-source-cs) - 这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
 - 🤗 [VisualSorting](https://github.com/mszula/visual-sorting) - 排序算法可视化。
 - 🕮 [《编码：隐匿在计算机软硬件背后的语言》](https://weread.qq.com/web/reader/64e32bf071fd5a9164ece6b) - 作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。
@@ -864,6 +872,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
+- 👉 [Scratch](https://scratch.mit.edu/) - Scratch是由麻省理工学院媒体实验室开发的图形化编程平台，旨在让程序设计语言初学者不需先学习语言语法便能设计产品。
+- 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。
+- 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
+- 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
 
 ## 🎨 Arts
 
@@ -925,8 +937,10 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 
 ### 📎 图标
 
+- 👉 [Awesome-icons](https://github.com/notlmn/awesome-icons) - 各种图标网站的集合。
 - 👉 [Emojiall](https://www.emojiall.com/) - 一个表情符号检索网站。
 - 👉 [Emojipedia](https://emojipedia.org/) - 一个关于表情符号的百科全书式网站。
+- 👉 [Awesome-gif](https://github.com/davisonio/awesome-gif) - 各种GIF动画工具集合。
 
 ### 🏘︎ 建筑
 
