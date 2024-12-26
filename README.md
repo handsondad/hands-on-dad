@@ -890,20 +890,36 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 - 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。
 - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
 - 👉 [Sonic Pi](https://sonic-pi.net/) - Sonic Pi可直接代码现场编码合成器，被广泛用于音乐教育领域，因为它易于上手且功能强大。许多学校和大学使用它来教授编程和音乐创作。
+- 👉 [CPDL](https://www.cpdl.org/) - CPDL的主要目标是提供一个平台，使合唱指挥、歌手和音乐爱好者能够访问大量合唱作品，其中大部分作品的版权已经过期或由作曲家自愿共享。
+  - 👉 [MuseScore](https://musescore.org/) - CPDL推荐的记谱工具。[使用手册](http://musescore.org/en/handbook)支持中文。
+  - 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
+- 👉 [Audio](https://audio.com/) - 免费的音频托管平台。帮助音频创意人士与世界分享他们的作品。
 - 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
 - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
 
-#### 🏭︎ 制作工具
+#### 🏭︎ 音乐工具
 
 - 👉 [Audacity](https://www.audacityteam.org/) - Audacity是一款免费、开源的音频编辑软件，广泛用于录音、混音和音频处理。此外，还提供了一些高级功能，如频率分析、音量标准化和音频增强工具。这些功能使得Audacity成为音乐制作人、播客制作者和音频工程师等专业人士的理想选择。👉 [开源代码](https://github.com/audacity/audacity)
 - 👉 [SuperCollider](https://supercollider.github.io/) - SuperCollider的独特之处在于它的灵活性和强大的音频处理能力，使得它成为音乐家、声音设计师和研究人员的首选工具之一。可以使用控制语言处理音频。👉 [开源代码](https://github.com/supercollider/supercollider)
 - 👉 [Ardoru](https://ardour.org/) - Ardoru是一个开源的音频录制和编辑软件，以及丰富的插件。这个软件以其强大的功能和灵活的操作界面而闻名，被广泛用于音乐制作、广播和声音设计等领域。
 - 👉 [LilyPond](https://lilypond.org/) - LilyPond是一个免费且开源的软件，它使用一种基于文本的输入方式来创建乐谱。用户可以直接在文本编辑器中编写乐谱代码，然后通过LilyPond将其转换为美观的五线谱。
+  - 👉 [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - 获取LilyPond最大效益的技巧和窍门。
+  - 👉 [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - 一个在线的LilyPond片段数据库，包括想法、功能和技巧。
+  - 👉 [Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - 使用Lilypond系统排版音乐。
+  - 👉 [Denemo](https://www.denemo.org/) - 一个基于LilyPond的免费音乐记谱编辑器。👉 [开源代码](https://github.com/denemo/denemo)
+  - 👉 [Frescobaldi](https://www.frescobaldi.org/) - 一个免费的LilyPond乐谱编辑器。👉 [开源代码](https://github.com/frescobaldi/frescobaldi)
+  - 👉 [Hacklily](https://www.hacklily.org/) - 基于LilyPond的在线乐谱编辑器。
+  - 👉 [Lilybin](http://lilybin.com/) - 基于Web的LilyPond编辑器。
+  - 👉 [Abjad](http://abjad.mbrsi.org/) - 基于LilyPond的正式乐谱控制Python API。
+- 👉 [Guido](https://guido.grame.fr/) - 一个通用的、可移植的图形化渲染乐谱的库和API。👉 [开源代码](https://github.com/grame-cncm/guidolib) 
+- 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
 - 👉 [Alda](https://alda.io/) - Alda是一种创新的、基于文本的编程语言，专门设计用于音乐创作。Alda的出现，模糊了编程与音乐创作之间的界限，促进了这两个领域的交叉与融合。👉 [开源代码](https://github.com/alda-lang/alda)
+- 👉 [Faust](https://faust.grame.fr/) - Faust一种开源用于信号处理和声音合成的函数式编程语言。👉 [提供在线IDE](https://faustide.grame.fr/)，👉 [开源代码](https://github.com/grame-cncm/faust)
 - 👉 [Chuck](https://chuck.stanford.edu/) - 斯坦福大学开发的一种强时间性的、并发的、即时的音乐编程语言。👉 [提供在线IDE](https://chuck.stanford.edu/ide/)，👉 [开源代码](https://github.com/ccrma/chuck)
 - 👉 [Overtone](https://github.com/overtone/overtone/) - 一个开源的工具包，用于设计合成器并与音乐合作。👉 [开源代码](https://github.com/overtone/overtone/)
 - 👉 [Orca](https://github.com/hundredrabbits/Orca) - 一个用于音乐的现场编程环境。Orca独特设计使其成为实时音乐制作和音频处理的理想选择，特别是对于那些希望创建独特的音乐序列和实验性声音设计的音乐家和声音艺术家而言。
 - 👉 [IanniX](https://www.iannix.org) - 一个基于[Iannis Xenakis（先锋艺术家）](https://www.iannis-xenakis.org/)作品的图形开源序列器，用于数字艺术。
+- 👉 [Beets](https://beets.io/) - Beets的主要设计目的是帮助用户组织和管理音乐库，自动修正音乐文件的元数据，并能将音乐文件转换为不同的格式。👉 [开源代码](https://github.com/beetbox/beets)
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
 
@@ -978,6 +994,7 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 ### 🎭️ 研究中心
 
 - 👉 [CCRMA（Center for Computer Research in Music and Acoustics）](https://ccrma.stanford.edu/) - 斯坦福大学的音乐与声学计算机研究中心（CCRMA）是一个致力于音乐创作、音乐声学、心理声学、数字音频处理和音乐技术研究的前沿机构。👉 [开源作品集](https://github.com/ccrma)、👉 [音乐和AI](https://chuck.stanford.edu/chai/)
+- 👉 [Grame, Centre National de Creation Musicale](https://www.grame.fr) - Grame是一个在法国的机构名称（国家音乐创作中心），专注于音乐创作、研究与发展的国家级中心，旨在推动音乐创新，支持艺术家和创作者进行新的音乐实验和项目。👉 [开源作品集](https://github.com/grame-cncm)
 
 ## 📐 Mathematics
 
