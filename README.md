@@ -402,7 +402,7 @@
 
 #### 🚀 有趣的事
 
-- 👉 [DIY.org](https://diy.org/) - To create a safe space for kid creators worldwide!
+- 👉 [DIY.org](https://diy.org/) - 为全球儿童创作者创造一个安全的空间。包括工具、作品、社区等等非常丰富的内容。
 - 👉 [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
@@ -712,6 +712,7 @@
 - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
 - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
+- 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
 
 ## 🎒 慕课资源
 
@@ -813,6 +814,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《天工开物》](https://weread.qq.com/web/reader/a8232ec0813ab7a2dg012c49) - 全书较全面系统地记述了中国古代农业和手工业的生产技术及经验。
 - 📚️ [《营造法式》](https://weread.qq.com/web/reader/2e132f00720527a12e1e573) - 《营造法式》是我国古代*为完整的建筑技术书籍。
 - 📚️ [《工程学之书》](https://weread.qq.com/web/reader/55632e70725f98cb556641d) - 探讨了工程学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
+- 👉 [Pyramids of Meroë](https://artsexperiments.withgoogle.com/meroe/) - 一个动画项目，展示埃及金字塔是如何创建的。介绍那些古代工匠的运用技术智慧。
 
 ### 🔢 数字工程
 
@@ -846,6 +848,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生理解人工智能的基本原理，特别是数据、算法与应用之间的相互关系。
 - 📚️ [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归、决策树、神经网络、计算机视觉、自然语言处理、强化学习，特别归纳了其中适合中学阶段学习的关键知识点。
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
+- 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
@@ -872,6 +875,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
 - 👉 [Scratch](https://scratch.mit.edu/) - Scratch是由麻省理工学院媒体实验室开发的图形化编程平台，旨在让程序设计语言初学者不需先学习语言语法便能设计产品。
+- 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
 - 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。
 - 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
 - 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
@@ -882,7 +886,7 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 
 ### 🎵 音乐
 
-GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-music)，包含很棒的音乐库、工具、框架和软件的分类集合。
+GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-music)，包含很棒的音乐库、工具、框架和软件的分类集合。还有另一份[Awesome Music Production](https://github.com/ad-si/awesome-music-production)总结，用于创作音乐的软件、硬件和其他资源的精选列表。
 
 #### 🎹 音乐教学
 
@@ -891,20 +895,25 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
 - 👉 [Sonic Pi](https://sonic-pi.net/) - Sonic Pi可直接代码现场编码合成器，被广泛用于音乐教育领域，因为它易于上手且功能强大。许多学校和大学使用它来教授编程和音乐创作。
 - 👉 [CPDL](https://www.cpdl.org/) - CPDL的主要目标是提供一个平台，使合唱指挥、歌手和音乐爱好者能够访问大量合唱作品，其中大部分作品的版权已经过期或由作曲家自愿共享。
-  - 👉 [MuseScore](https://musescore.org/) - CPDL推荐的记谱工具。[使用手册](http://musescore.org/en/handbook)支持中文。
-  - 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
+- 👉 [NOTATIO](https://notat.io/) - 一个致力于音乐记谱实践的论坛。
 - 👉 [Audio](https://audio.com/) - 免费的音频托管平台。帮助音频创意人士与世界分享他们的作品。
 - 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
 - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
+- 👉 [Fretboard](http://alexmost.github.io/fretboard/) - 一个在线的吉他指板视图工具，用于研究音阶和和弦。它为学习吉他提供了实用和直观的视觉辅助。👉 [开源代码](https://github.com/AlexMost/fretboard)
+- 👉 [Guitarix](https://guitarix.org/) - 一个虚拟吉他放大器。它提供了多种效果和放大器模拟，可以模拟真实吉他的声音。
+- 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
 
 #### 🏭︎ 音乐工具
 
 - 👉 [Audacity](https://www.audacityteam.org/) - Audacity是一款免费、开源的音频编辑软件，广泛用于录音、混音和音频处理。此外，还提供了一些高级功能，如频率分析、音量标准化和音频增强工具。这些功能使得Audacity成为音乐制作人、播客制作者和音频工程师等专业人士的理想选择。👉 [开源代码](https://github.com/audacity/audacity)
+- 👉 [LMMS](https://lmms.io/) - LMMS是一款开源跨平台音乐制作软件。👉 [开源代码](https://github.com/LMMS/lmms)
 - 👉 [SuperCollider](https://supercollider.github.io/) - SuperCollider的独特之处在于它的灵活性和强大的音频处理能力，使得它成为音乐家、声音设计师和研究人员的首选工具之一。可以使用控制语言处理音频。👉 [开源代码](https://github.com/supercollider/supercollider)
 - 👉 [Ardoru](https://ardour.org/) - Ardoru是一个开源的音频录制和编辑软件，以及丰富的插件。这个软件以其强大的功能和灵活的操作界面而闻名，被广泛用于音乐制作、广播和声音设计等领域。
+- 👉 [MuseScore](https://musescore.org/) - 免费的开源音乐记谱和作曲软件。[使用手册](http://musescore.org/en/handbook)支持中文。👉 [开源代码](https://github.com/musescore/MuseScore)
 - 👉 [LilyPond](https://lilypond.org/) - LilyPond是一个免费且开源的软件，它使用一种基于文本的输入方式来创建乐谱。用户可以直接在文本编辑器中编写乐谱代码，然后通过LilyPond将其转换为美观的五线谱。
   - 👉 [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - 获取LilyPond最大效益的技巧和窍门。
   - 👉 [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - 一个在线的LilyPond片段数据库，包括想法、功能和技巧。
+  - 👉 [OpenLilyLib](https://github.com/openlilylib/snippets/) - 存储有用的LilyPond代码片段的地方，包括片段、模板和扩展。
   - 👉 [Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - 使用Lilypond系统排版音乐。
   - 👉 [Denemo](https://www.denemo.org/) - 一个基于LilyPond的免费音乐记谱编辑器。👉 [开源代码](https://github.com/denemo/denemo)
   - 👉 [Frescobaldi](https://www.frescobaldi.org/) - 一个免费的LilyPond乐谱编辑器。👉 [开源代码](https://github.com/frescobaldi/frescobaldi)
@@ -912,6 +921,8 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
   - 👉 [Lilybin](http://lilybin.com/) - 基于Web的LilyPond编辑器。
   - 👉 [Abjad](http://abjad.mbrsi.org/) - 基于LilyPond的正式乐谱控制Python API。
 - 👉 [Guido](https://guido.grame.fr/) - 一个通用的、可移植的图形化渲染乐谱的库和API。👉 [开源代码](https://github.com/grame-cncm/guidolib) 
+- 👉 [Neoscore](https://neoscore.org/) - 一个以图形为先的音乐记谱Python库。
+- 👉 [Vexflow](http://www.vexflow.com/) - 一个用于渲染音乐记谱和吉他指法的JavaScript库。👉 [开源代码](https://github.com/0xfe/vexflow)
 - 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
 - 👉 [Alda](https://alda.io/) - Alda是一种创新的、基于文本的编程语言，专门设计用于音乐创作。Alda的出现，模糊了编程与音乐创作之间的界限，促进了这两个领域的交叉与融合。👉 [开源代码](https://github.com/alda-lang/alda)
 - 👉 [Faust](https://faust.grame.fr/) - Faust一种开源用于信号处理和声音合成的函数式编程语言。👉 [提供在线IDE](https://faustide.grame.fr/)，👉 [开源代码](https://github.com/grame-cncm/faust)
@@ -920,15 +931,18 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 - 👉 [Orca](https://github.com/hundredrabbits/Orca) - 一个用于音乐的现场编程环境。Orca独特设计使其成为实时音乐制作和音频处理的理想选择，特别是对于那些希望创建独特的音乐序列和实验性声音设计的音乐家和声音艺术家而言。
 - 👉 [IanniX](https://www.iannix.org) - 一个基于[Iannis Xenakis（先锋艺术家）](https://www.iannis-xenakis.org/)作品的图形开源序列器，用于数字艺术。
 - 👉 [Beets](https://beets.io/) - Beets的主要设计目的是帮助用户组织和管理音乐库，自动修正音乐文件的元数据，并能将音乐文件转换为不同的格式。👉 [开源代码](https://github.com/beetbox/beets)
+- 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
+- 👉 [GuitarML](https://guitarml.com/) - GuitarML是一个专门为吉他爱好者和技术爱好者设计的平台。它结合了机器学习技术与音乐，为用户提供了一种创新的吉他效果处理方法。
 
-#### 📣 音乐团体
+#### 📣 音乐作品
 
-- 👉 [班得瑞](https://zh.wikipedia.org/zh-sg/班得瑞) - 班得瑞的音乐风格以轻柔、宁静、自然为主要特点，他们的音乐作品常常被用作环境音乐、冥想音乐以及放松和减压的背景音乐。班得瑞的音乐中融入了大量的自然声音，如流水、鸟鸣等，这些音效都是通过实地录制得到的，旨在为听众提供一种身临其境的自然体验。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1HZ4y1m7NX/)，📺️ [另一个合集](https://www.bilibili.com/video/BV18Y4y1Y7Gd)
-- 👉 [神思者](https://zh.wikipedia.org/wiki/神思者) - 神思者是一支具有深厚音乐功底和广泛影响力的新世纪音乐团体。他们的音乐融合了现代与古典、电子与传统的元素，创造出独特的音乐风格和氛围。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1sQ4y1D7SJ)
+- 👉 [班得瑞作品](https://zh.wikipedia.org/zh-sg/班得瑞) - 班得瑞的音乐风格以轻柔、宁静、自然为主要特点，他们的音乐作品常常被用作环境音乐、冥想音乐以及放松和减压的背景音乐。班得瑞的音乐中融入了大量的自然声音，如流水、鸟鸣等，这些音效都是通过实地录制得到的，旨在为听众提供一种身临其境的自然体验。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1HZ4y1m7NX/)，📺️ [另一个合集](https://www.bilibili.com/video/BV18Y4y1Y7Gd)
+- 👉 [神思者作品](https://zh.wikipedia.org/wiki/神思者) - 神思者是一支具有深厚音乐功底和广泛影响力的新世纪音乐团体。他们的音乐融合了现代与古典、电子与传统的元素，创造出独特的音乐风格和氛围。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1sQ4y1D7SJ)
 - 👉 [新世纪音乐-雅尼](https://zh.wikipedia.org/wiki/雅尼) - 雅尼（Yanni），著名的新世纪音乐作曲家和演奏家。📺️ [雅尼13场音乐会合集](https://www.bilibili.com/video/BV1sJ411A7Pa/)，📺️ [B站雅尼合集](https://www.bilibili.com/video/BV1XQ4y1y7i9)
-- 👉 [久石让](https://zh.wikipedia.org/wiki/久石让) - 久石让是一位才华横溢的音乐家，他的作品深受全球听众的喜爱。他的音乐不仅具有独特的艺术价值，也为电影和动画作品增添了无限的魅力。📺️ [久石让电影配乐合集](https://www.bilibili.com/video/BV1LN411d7Hy)，📺️ [久石让-宫崎骏动漫音乐会](https://www.bilibili.com/video/BV1oV411y7Xo)
+- 👉 [久石让作品](https://zh.wikipedia.org/wiki/久石让) - 久石让是一位才华横溢的音乐家，他的作品深受全球听众的喜爱。他的音乐不仅具有独特的艺术价值，也为电影和动画作品增添了无限的魅力。📺️ [久石让电影配乐合集](https://www.bilibili.com/video/BV1LN411d7Hy)，📺️ [久石让-宫崎骏动漫音乐会](https://www.bilibili.com/video/BV1oV411y7Xo)
+- 👉 [MyNoise](https://mynoise.net/) - 一个提供背景噪音和互动声景的作品集。可以自定义背景声音。比如[孕妈妈子宫中的声音](https://mynoise.net/NoiseMachines/inUteroSoundGenerator.php)
 
 ### 📸 摄影
 
@@ -949,6 +963,7 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
 - 👉 [Midjourney](https://www.midjourney.com/) - 一款AI绘画工具，用户只需输入想到的文字，就能通过人工智能产出相对应的图片。
 - 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
+- 👉 [Say What You See](https://experiments.withgoogle.com/say-what-you-see) - 一个实验项目，通过查看Google AI生成的图像并描述您所看到的内容，学习提示艺术并提高您的图像阅读技能。类似做游戏。
 
 ### 🔍 纹样
 
@@ -993,8 +1008,11 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 
 ### 🎭️ 研究中心
 
-- 👉 [CCRMA（Center for Computer Research in Music and Acoustics）](https://ccrma.stanford.edu/) - 斯坦福大学的音乐与声学计算机研究中心（CCRMA）是一个致力于音乐创作、音乐声学、心理声学、数字音频处理和音乐技术研究的前沿机构。👉 [开源作品集](https://github.com/ccrma)、👉 [音乐和AI](https://chuck.stanford.edu/chai/)
+- 👉 [CCRMA（Center for Computer Research in Music and Acoustics）](https://ccrma.stanford.edu/) - 斯坦福大学的音乐与声学计算机研究中心（CCRMA）是一个致力于音乐创作、音乐声学、心理声学、数字音频处理和音乐技术研究的前沿机构。👉 [开源作品集](https://github.com/ccrma)，👉 [音乐和AI](https://chuck.stanford.edu/chai/)
 - 👉 [Grame, Centre National de Creation Musicale](https://www.grame.fr) - Grame是一个在法国的机构名称（国家音乐创作中心），专注于音乐创作、研究与发展的国家级中心，旨在推动音乐创新，支持艺术家和创作者进行新的音乐实验和项目。👉 [开源作品集](https://github.com/grame-cncm)
+- 👉 [GridSound](https://gridsound.com/) - GridSound是一个专注于音乐创作的项目。👉 [开源作品集](https://github.com/gridsound)，(https://gridsound.com/)，👉 [在线音乐创作](https://daw.gridsound.com/)，👉 [极简音阶介绍](https://gammes.gridsound.com/)，👉 [虚拟钢琴](https://piano.gridsound.com/)
+- 👉 [Mid-Iowa Sound Piano](https://theremin.music.uiowa.edu/MISpiano.html) - 一个实验性质的项目（爱荷华大学音乐学院的MIS钢琴实验室），其主要目标是开发和研究电子钢琴及其技术。
+- 👉 [AI Duet](https://experiments.withgoogle.com/ai-duet) - AI Duet是谷歌实验项目的一部分，它是一个基于人工智能的音乐交互平台，让每个人都能体验与AI共同创作音乐的乐趣。这个项目由谷歌的Magenta团队开发，Magenta是一个研究如何使用机器学习，特别是深度学习，来生成音乐和艺术的研究项目。👉 [AI配合创作-钢琴演奏](https://experiments.withgoogle.com/ai/ai-duet/view/)，另一AI辅助创作的实验[Instrument Playground](https://experiments.withgoogle.com/instrument-playground)
 
 ## 📐 Mathematics
 
@@ -1031,6 +1049,8 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 
 - 🧾 [CHILDES](https://childes.talkbank.org/) - 一个总结儿童语言的数据库。
 - 🧾 [Open Weather Map](https://openweathermap.org/) - 一个开源的天气数据。
+- 🧾 [Sound of the Earth](https://soundoftheearth.org/) - 一个全球性的声音地图项目，这个项目旨在通过收集并展示来自全球各地的自然声音，来强调自然环境的重要性，并提高人们对环境变化的意识。
+- 🧾 [Chordata](https://github.com/starenka/chordata) - 一个虚拟的和弦库，专门为曼陀林、尤克里里和吉他设计。举例[尤克里里和弦搜索](https://chords.starenka.net/search?chord=C&instrument=uke)
 
 ## 👑 实践
 
@@ -1039,6 +1059,7 @@ GitHub上总结的一份[Awesome-music](https://github.com/noteflakes/awesome-mu
 - 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
 - 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
 - 👉 [STCMS](https://smithsonianstc.com/stcms/) - Science You Can Trust. Results You Can See. 👉 [STCMS™ Learning Framework](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/smithsonians-stcms-curriculum/27701.ct) 遵循了NGSS标准。
+- 👉 [Experiments with Google](https://experiments.withgoogle.com/) - Experiments with Google是谷歌的一个项目，其目标是展示并促进创新和技术的前沿。这个网站上汇集了谷歌内部以及全球独立开发者和艺术家的各种实验性和创新性的项目。目前已经有**1611**个实验内容。
 
 ### 🆒 个人博客
 
