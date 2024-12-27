@@ -713,6 +713,7 @@
 - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
+- 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
 
 ## 🎒 慕课资源
 
@@ -890,18 +891,29 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 #### 🎹 音乐教学
 
-- 👉 [OpenMusicTheory](http://openmusictheory.com/) - 一个不断增长的在线教科书，用于音乐理论和听觉技能。
-- 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。
-- 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
-- 👉 [Sonic Pi](https://sonic-pi.net/) - Sonic Pi可直接代码现场编码合成器，被广泛用于音乐教育领域，因为它易于上手且功能强大。许多学校和大学使用它来教授编程和音乐创作。
-- 👉 [CPDL](https://www.cpdl.org/) - CPDL的主要目标是提供一个平台，使合唱指挥、歌手和音乐爱好者能够访问大量合唱作品，其中大部分作品的版权已经过期或由作曲家自愿共享。
+- 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
+- 👉 [乐理学习](https://en.wikipedia.org/wiki/Music_theory)
+  - 👉 [OpenMusicTheory](http://openmusictheory.com/) - 一个不断增长的在线教科书，用于音乐理论和听觉技能。
+  - 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。
+  - 👉 [Know Your Theory](https://knowyourtheory.com/) - 一个致力于音乐理论教育的在线平台，它为音乐爱好者、学生以及专业音乐人提供了一系列的课程和资源，以帮助他们深入了解和掌握音乐理论的核心概念。
+  - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
+- 👉 [吉他学习](https://en.wikipedia.org/wiki/Guitar)
+  - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
+  - 👉 [Fretboard](http://alexmost.github.io/fretboard/) - 一个在线的吉他指板视图工具，用于研究音阶和和弦。它为学习吉他提供了实用和直观的视觉辅助。👉 [开源代码](https://github.com/AlexMost/fretboard)
+  - 👉 [Guitarix](https://guitarix.org/) - 一个虚拟吉他放大器。它提供了多种效果和放大器模拟，可以模拟真实吉他的声音。
+  - 👉 [GuitarML](https://guitarml.com/) - GuitarML是一个专门为吉他爱好者和技术爱好者设计的平台。它结合了机器学习技术与音乐，为用户提供了一种创新的吉他效果处理方法。
+- 👉 [尤克里里学习](https://en.wikipedia.org/wiki/Ukulele)
+  - 👉 [UkeGeeks](https://ukegeeks.com/) - UkeGeeks是一个专注于尤克里里（Ukulele）爱好者的资源网站。它提供了大量的教程、乐谱、技巧和社区支持，旨在帮助尤克里里爱好者提高演奏技巧和享受音乐的乐趣。👉 [在线歌曲编辑器](https://ukegeeks.com/songeditor)，👉 [开源代码](https://github.com/buzcarter/UkeGeeks)
+  - 👉 [UkeAlong](https://ukealong.com/) - UkeAlong是一个专注于尤克里里（Ukulele）的教学与乐谱网站，非常全面的尤克里里学习网站。👉 [提供一个和弦识别工具](https://ukealong.com/tool/chord-detector/)
+  - 👉 [UkuTabs](https://ukutabs.com/) - UkuTabs是一个非常受欢迎的尤克里里（Ukulele）和弦谱网站。这个网站集合了成千上万首各类风格的歌曲和弦谱，专为尤克里里爱好者打造。
+- 👉 [钢琴学习](https://en.wikipedia.org/wiki/Piano)
+  - 👉 [Frazier Piano Studio](https://www.frazierpianostudio.com/) - 一个专注于钢琴教学的专业音乐工作室。
 - 👉 [NOTATIO](https://notat.io/) - 一个致力于音乐记谱实践的论坛。
 - 👉 [Audio](https://audio.com/) - 免费的音频托管平台。帮助音频创意人士与世界分享他们的作品。
-- 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
-- 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
-- 👉 [Fretboard](http://alexmost.github.io/fretboard/) - 一个在线的吉他指板视图工具，用于研究音阶和和弦。它为学习吉他提供了实用和直观的视觉辅助。👉 [开源代码](https://github.com/AlexMost/fretboard)
-- 👉 [Guitarix](https://guitarix.org/) - 一个虚拟吉他放大器。它提供了多种效果和放大器模拟，可以模拟真实吉他的声音。
-- 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
+- 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
+- 👉 [CPDL](https://www.cpdl.org/) - CPDL的主要目标是提供一个平台，使合唱指挥、歌手和音乐爱好者能够访问大量合唱作品，其中大部分作品的版权已经过期或由作曲家自愿共享。
+- 👉 [Sonic Pi](https://sonic-pi.net/) - Sonic Pi可直接代码现场编码合成器，被广泛用于音乐教育领域，因为它易于上手且功能强大。许多学校和大学使用它来教授编程和音乐创作。
+- 👉 [ChordPro](https://www.chordpro.org/) - ChordPro是一种用于标记歌曲和弦的标准格式，它允许你在文本文件中清晰地标记歌词和和弦。👉 [开源实现的标准格式](https://github.com/ChordPro/chordpro)
 
 #### 🏭︎ 音乐工具
 
@@ -923,7 +935,6 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Guido](https://guido.grame.fr/) - 一个通用的、可移植的图形化渲染乐谱的库和API。👉 [开源代码](https://github.com/grame-cncm/guidolib) 
 - 👉 [Neoscore](https://neoscore.org/) - 一个以图形为先的音乐记谱Python库。
 - 👉 [Vexflow](http://www.vexflow.com/) - 一个用于渲染音乐记谱和吉他指法的JavaScript库。👉 [开源代码](https://github.com/0xfe/vexflow)
-- 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
 - 👉 [Alda](https://alda.io/) - Alda是一种创新的、基于文本的编程语言，专门设计用于音乐创作。Alda的出现，模糊了编程与音乐创作之间的界限，促进了这两个领域的交叉与融合。👉 [开源代码](https://github.com/alda-lang/alda)
 - 👉 [Faust](https://faust.grame.fr/) - Faust一种开源用于信号处理和声音合成的函数式编程语言。👉 [提供在线IDE](https://faustide.grame.fr/)，👉 [开源代码](https://github.com/grame-cncm/faust)
 - 👉 [Chuck](https://chuck.stanford.edu/) - 斯坦福大学开发的一种强时间性的、并发的、即时的音乐编程语言。👉 [提供在线IDE](https://chuck.stanford.edu/ide/)，👉 [开源代码](https://github.com/ccrma/chuck)
@@ -934,7 +945,6 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
-- 👉 [GuitarML](https://guitarml.com/) - GuitarML是一个专门为吉他爱好者和技术爱好者设计的平台。它结合了机器学习技术与音乐，为用户提供了一种创新的吉他效果处理方法。
 
 #### 📣 音乐作品
 
@@ -1010,6 +1020,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 - 👉 [CCRMA（Center for Computer Research in Music and Acoustics）](https://ccrma.stanford.edu/) - 斯坦福大学的音乐与声学计算机研究中心（CCRMA）是一个致力于音乐创作、音乐声学、心理声学、数字音频处理和音乐技术研究的前沿机构。👉 [开源作品集](https://github.com/ccrma)，👉 [音乐和AI](https://chuck.stanford.edu/chai/)
 - 👉 [Grame, Centre National de Creation Musicale](https://www.grame.fr) - Grame是一个在法国的机构名称（国家音乐创作中心），专注于音乐创作、研究与发展的国家级中心，旨在推动音乐创新，支持艺术家和创作者进行新的音乐实验和项目。👉 [开源作品集](https://github.com/grame-cncm)
+- 👉 [C4DM（Centre for Digital Music）](https://c4dm.eecs.qmul.ac.uk/) - 是伦敦大学玛丽女王学院的数字音乐研究中心。全球领先的数字音乐研究机构，以研究计算机音乐创作、表演、制作和分析等领域的前沿技术而闻名。该中心与计算机科学、电子工程、艺术、媒体和心理学等领域有着紧密的跨学科合作，致力于推动音乐与科技的深度融合。
 - 👉 [GridSound](https://gridsound.com/) - GridSound是一个专注于音乐创作的项目。👉 [开源作品集](https://github.com/gridsound)，(https://gridsound.com/)，👉 [在线音乐创作](https://daw.gridsound.com/)，👉 [极简音阶介绍](https://gammes.gridsound.com/)，👉 [虚拟钢琴](https://piano.gridsound.com/)
 - 👉 [Mid-Iowa Sound Piano](https://theremin.music.uiowa.edu/MISpiano.html) - 一个实验性质的项目（爱荷华大学音乐学院的MIS钢琴实验室），其主要目标是开发和研究电子钢琴及其技术。
 - 👉 [AI Duet](https://experiments.withgoogle.com/ai-duet) - AI Duet是谷歌实验项目的一部分，它是一个基于人工智能的音乐交互平台，让每个人都能体验与AI共同创作音乐的乐趣。这个项目由谷歌的Magenta团队开发，Magenta是一个研究如何使用机器学习，特别是深度学习，来生成音乐和艺术的研究项目。👉 [AI配合创作-钢琴演奏](https://experiments.withgoogle.com/ai/ai-duet/view/)，另一AI辅助创作的实验[Instrument Playground](https://experiments.withgoogle.com/instrument-playground)
