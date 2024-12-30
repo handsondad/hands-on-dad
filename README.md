@@ -594,6 +594,9 @@
 
 - 👉 [元素周期表网站](https://periodictable.com/) - 一个提供元素周期表相关信息和化学元素数据的在线平台‌。
 - 👉 [IUPAC命名法](https://iupac.org/) - IUPAC命名法是系统命名化学物质的方法。该命名法是由国际纯粹与应用化学联合会（IUPAC）规定的。国内出版[《有机化合物命名原则2017》](https://www.chemsoc.org.cn/library/copy/24.html)
+- 👉 [ScienceGeek Chemistry](https://www.sciencegeek.net/APchemistry/index.shtml) - 自学指导。为每个化学主题提供PowerPoint演示文稿、笔记、复习和互动测验。对学生来说是极好的额外活动和额外的练习。
+- 👉 [Chem LibreTexts](https://chem.libretexts.org/Bookshelves) - Chem LibreTexts在化学领域的知识库，它是一个互动式的、开放获取的、在线平台，由全球的教育者和学生共同维护。
+- 👉 [PhET Interactive Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html&sort=alpha) - 涵盖常见实验室实验和概念的粒子模型的交互式模拟。
 - 👉 [美国化学会](https://www.acs.org/) - 美国化学会（American Chemical Society，简称 ACS）是全球最大的科学组织之一，致力于化学科学的进步和传播。
 - 👉 [中国化学会](https://www.chemsoc.org.cn/) - 中国化学学会。化学会科普项目[重现化学](https://www.chemsoc.org.cn/popular/envisioning/)展示化学反应之美！
 - 👉 [化学自习室](https://www.hxzxs.cn/index.html) - 一个关于中学化学丰富的教学资料的公益网站。
@@ -611,13 +614,18 @@
 
 - 👉 [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
 - 👉 [oPhysics](https://www.ophysics.com/) - oPhysics是一个专注于物理学教育的在线资源网站，提供各种交互式模拟和动画，帮助学生和教师理解和教授物理学概念。还提供丰富的动画作品资源。
+- 👉 [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - 科罗拉多大学博尔德分校PhET提供的针对不同年级水平的物理话题的互动物理模拟。
+- 👉 [The Physics Aviary](https://www.thephysicsaviary.com/) - 一个专注于物理教育的在线学习平台，它主要提供了一系列的互动式物理模拟实验和练习，以及教学资源，旨在帮助学生更好地理解并掌握物理概念和原理。
+- 👉 [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Michael Freeman解释牛顿力学话题的互动物理模拟和游戏集合。
 - 👉 [LibreTexts.Physics](https://phys.libretexts.org/) - 提供高质量的免费教育资源，支持物理学的教学和学习，促进知识的自由传播。
 - 👉 [PhysicsClassroom](https://www.physicsclassroom.com/) Physics Classroom是一个在线教育资源网站，专注于物理学的教学和学习。还发布有大量[YouTube视频](https://www.youtube.com/physicsclassroomLIVE)
+- 📺️ [物理学地图](https://youtu.be/ZihywtixUYo) - 由Dominic Walliman绘制的包含我们所知关于物理学的全部以及一些我们尚不知道的简单地图。 
 - 📺️ [二次元的中科院物理所](https://space.bilibili.com/407045223) - 中科院物理所的B站官方号。其中曹泽贤老师的[中国科学院跨年科学演讲](https://www.bilibili.com/video/BV1Dt4y1o736/)讲得非常非常好！
 - 📚️ [《天文学与生活》](https://book.douban.com/subject/30470522/) - 硬核的天文学知识，全书通过紧密联系星空与地球的关系，说明了天文学对人类生活的影响，以及人类的未来。
 
 ### 🧬 生物
 
+- 👉 [AP Biology](https://www.bozemanscience.com/ap-biology) - 专门针对生物的大学先修课程做了详细讲解。
 - 👉 [Foldit](https://fold.it/) - 一个关于蛋白质动画制作和游戏的网站。
 - 👉 [GrowSmartGrowSafe](https://www.growsmartgrowsafe.org/) - A gardener's guide to choosing saferpesticides and garden products.
 - 👉 [TeachDNA](https://www.teachdna.net/) - DNA、RNA和蛋白质分子的教学模型。
@@ -640,12 +648,14 @@
 ### 🧫 实验室
 
 - 👉 [Carolina科学实验室](https://www.carolina.com/) - Find the Perfect Science Kit! Whether it's hands-on, digital or a bit of both, get the right fit for your class.
+- 👉 [Physics Labs](https://www.thephysicsaviary.com/Physics/Programs/Labs/find.php) - 网站上的模拟实验包括电路建造者、光的折射与反射、声音的合成、万有引力实验等多种主题，涵盖了高中物理的多个章节。
 - 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 
 ### 🏢 知识库
 
 - 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
+- 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 
 ## ✨ 教学标准
@@ -706,7 +716,12 @@
 ## 👩🏼‍🏫 在线教育
 
 - 👉 [可汗学院](https://zh.khanacademy.org/) - 可汗学院（Khan Academy）是一个非营利性的在线教育平台，提供免费的教育资源，涵盖从基础教育到大学水平的各种学科。
+- 👉 [ScienceGeek](https://www.sciencegeek.net/) - ScienceGeek是一个非常有价值的在线资源，主要是为了辅助中学生的科学学习。
+- 👉 [PhET](https://phet.colorado.edu/) - 是由科罗拉多大学波尔得分校的PhET互动模拟项目提供的一个免费的、开放的教育资源网站。PhET项目由诺贝尔物理学奖得主Carl Wieman启动，旨在通过交互式的模拟来帮助用户深入理解科学和数学概念。
+- 👉 [Ilectureonline](http://www.ilectureonline.com/) - Ilectureonline是一个在线教育资源平台，专为高中和大学的学生提供了大量的科学和数学课程的视频教程。这个网站由Daniel Selvan博士创立，他是一位在教学和研究领域有超过15年经验的物理学家。
+- 👉 [Bozeman Science](https://www.bozemanscience.com/) - 一个提供科学教育内容的网站，其中包含了丰富的、根据美国高中及大学先修课程（AP）大纲制作的教育视频、博客和教案。由Paul Andersen创立，他是一位富有激情的科学教育者。
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
+- 👉 [Fiveable](https://library.fiveable.me/) - Fiveable是一个集中提供大学预科（AP）学习资料的在线教育平台。 
 - 👉 [Code](https://code.org/) - Code.org是一个非盈利性的全球性组织，致力于为所有年龄层的学生提供计算机科学教育。
 - 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
 - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
@@ -767,13 +782,14 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ## 🔬 Science
 
-### 🏛️ 科学史
+### 🏛️ 理解科学
 
 正如在拉斐尔那里，哲学总是像永恒的仙境、思想的圣地。求真的沉思上百年甚至上千年地在此之中碰撞交织，如同成对的蜻蜓。或许，正是如此神圣的非现实化，使得这幅画直到今天依然散发着魅力！📌 [雅典学院](./images/雅典学院.jpg)
 
 <!-- ![雅典学院](./images/雅典学院.jpg) -->
 
 - 👉 [雅典学院](https://zh.wikipedia.org/zh-cn/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_%28%E7%95%AB%E4%BD%9C%29) - Wikipedia上的拉斐尔画作雅典学院的人物介绍。
+- 👉 [Understanding Science 101](https://undsci.berkeley.edu/understanding-science-101/what-is-science/) - 加州大学伯克利分校的Understanding Science 101。📺️ [什么是科学](https://youtu.be/TclBJZuUAOY)
 - 📚️ [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
 - 📚️ [《科学的故事》](https://weread.qq.com/web/reader/b6e3217071e92091b6eef43) - 科学并不是高深莫测，也不应该烧脑。相反，科学的故事就是人类追求真理的故事，精彩纷呈，引人入胜。
 - 📚️ [《科学的历程》](https://weread.qq.com/web/reader/39332d60716516c8393abcb) - 一部普及性的世界科学通史。以东方文明和科学技术对人类进步的影响为开端，以西方文明和科学的发展历程为核心，同时探讨了科学精神的本质和推动科学发展的力量。
@@ -785,11 +801,9 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [中国科学院](https://www.cas.cn/) - 中国科学院官网。
 - 👉 [科普中国](https://www.kepuchina.cn/) - 科普中国（KepuChina）是一个专注于科学普及和教育的在线平台，致力于传播科学知识，提升公众的科学素养。
 - 👉 [世界科学](https://worldscience.cn/) - 《世界科学》是中国大陆地区的一家科学传播媒体，致力于提供高质量的科学新闻和科普内容。
-- 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
 - 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
 - 👉 [美丽科学]( https://www.beautyofscience.cn/) - 专注于科学可视化前沿技术创新与产业化应用，打造融合科学与艺术之美的系列内容与软硬件产品，服务于科技文化数字展示与青少年科学素质教育。
-- 👉 [连线](https://www.wired.com/) - 专注于新兴技术及其对社会、文化、经济和政治影响的美国月刊杂志，并拥有相应的在线网站。
 
 ### 🌕 天文历法
 
@@ -799,6 +813,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
+- 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。
 
 ## 📡 Technology
 
@@ -829,10 +844,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📑 教程
 
 - 👉 [Awesome](https://github.com/sindresorhus/awesome) - GitHub上开源的Awesome集合。
-- 👉 [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) - 整理了各年龄段学习的不同级别的编程指导和网站。
 - 🤗 [计算机自学课程集合](https://github.com/ForrestKnight/open-source-cs) - 这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
 - 🤗 [VisualSorting](https://github.com/mszula/visual-sorting) - 排序算法可视化。
 - 📚️ [《编码：隐匿在计算机软硬件背后的语言》](https://weread.qq.com/web/reader/64e32bf071fd5a9164ece6b) - 作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。
+
 
 ### 📦︎ 作品
 
@@ -875,11 +890,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
-- 👉 [Scratch](https://scratch.mit.edu/) - Scratch是由麻省理工学院媒体实验室开发的图形化编程平台，旨在让程序设计语言初学者不需先学习语言语法便能设计产品。
 - 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
 - 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。
 - 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
 - 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
+- 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
 
 ## 🎨 Arts
 
@@ -896,6 +911,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
   - 👉 [OpenMusicTheory](http://openmusictheory.com/) - 一个不断增长的在线教科书，用于音乐理论和听觉技能。
   - 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。
   - 👉 [Know Your Theory](https://knowyourtheory.com/) - 一个致力于音乐理论教育的在线平台，它为音乐爱好者、学生以及专业音乐人提供了一系列的课程和资源，以帮助他们深入了解和掌握音乐理论的核心概念。
+  - 👉 [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby Rush创建的一个在线音乐理论资源网站，该网站被设计为一本在线音乐理论教科书，它全面、深入地探讨了音乐理论的各个方面，从基本概念到高级主题。通过漫画展示非常有趣！
   - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
 - 👉 [吉他学习](https://en.wikipedia.org/wiki/Guitar)
   - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
@@ -939,6 +955,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Faust](https://faust.grame.fr/) - Faust一种开源用于信号处理和声音合成的函数式编程语言。👉 [提供在线IDE](https://faustide.grame.fr/)，👉 [开源代码](https://github.com/grame-cncm/faust)
 - 👉 [Chuck](https://chuck.stanford.edu/) - 斯坦福大学开发的一种强时间性的、并发的、即时的音乐编程语言。👉 [提供在线IDE](https://chuck.stanford.edu/ide/)，👉 [开源代码](https://github.com/ccrma/chuck)
 - 👉 [Overtone](https://github.com/overtone/overtone/) - 一个开源的工具包，用于设计合成器并与音乐合作。👉 [开源代码](https://github.com/overtone/overtone/)
+- 👉 [Helio](https://helio.fm/) - 一个轻量级的音乐制作工具。[开源代码](https://github.com/helio-fm/helio-sequencer)
 - 👉 [Orca](https://github.com/hundredrabbits/Orca) - 一个用于音乐的现场编程环境。Orca独特设计使其成为实时音乐制作和音频处理的理想选择，特别是对于那些希望创建独特的音乐序列和实验性声音设计的音乐家和声音艺术家而言。
 - 👉 [IanniX](https://www.iannix.org) - 一个基于[Iannis Xenakis（先锋艺术家）](https://www.iannis-xenakis.org/)作品的图形开源序列器，用于数字艺术。
 - 👉 [Beets](https://beets.io/) - Beets的主要设计目的是帮助用户组织和管理音乐库，自动修正音乐文件的元数据，并能将音乐文件转换为不同的格式。👉 [开源代码](https://github.com/beetbox/beets)
@@ -1062,15 +1079,18 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 🧾 [Open Weather Map](https://openweathermap.org/) - 一个开源的天气数据。
 - 🧾 [Sound of the Earth](https://soundoftheearth.org/) - 一个全球性的声音地图项目，这个项目旨在通过收集并展示来自全球各地的自然声音，来强调自然环境的重要性，并提高人们对环境变化的意识。
 - 🧾 [Chordata](https://github.com/starenka/chordata) - 一个虚拟的和弦库，专门为曼陀林、尤克里里和吉他设计。举例[尤克里里和弦搜索](https://chords.starenka.net/search?chord=C&instrument=uke)
+- 🧾 [Everything2](https://everything2.com/) - 这个网站的核心理念是建立一个包含人类知识、观点和创意的全面数据库，用户可以在这里创建、编辑和分享各种类型的内容，包括文章、诗歌、故事、评论、观点甚至编程代码等。
 
 ## 👑 实践
 
 ### 🌼 开放内容
 
+- 👉 [OpenSciEd教学材料](https://openscied.org/curriculum/) - 根据NGSS标准，OpenSciEd提供的中学科学每一单元的手册和课堂资源。
 - 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
 - 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
 - 👉 [STCMS](https://smithsonianstc.com/stcms/) - Science You Can Trust. Results You Can See. 👉 [STCMS™ Learning Framework](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/smithsonians-stcms-curriculum/27701.ct) 遵循了NGSS标准。
 - 👉 [Experiments with Google](https://experiments.withgoogle.com/) - Experiments with Google是谷歌的一个项目，其目标是展示并促进创新和技术的前沿。这个网站上汇集了谷歌内部以及全球独立开发者和艺术家的各种实验性和创新性的项目。目前已经有**1611**个实验内容。
+- 📺️ [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Jared Hottenstein提供的酷炫新学习工具与活动，你可以用它们帮助学生理解工程学与科学的本质。
 
 ### 🆒 个人博客
 
@@ -1078,8 +1098,16 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Nicholas Rougeux](https://www.c82.net/) - 一位才华横溢的芝加哥设计师和数据艺术家，专注于网页和用户体验设计
 - 👉 [Robert Llewellyn](https://www.robertllewellyn.com/) - 一位杰出的摄影师，展示了他令人惊艳的摄影作品。
 - 👉 [Chris Judge](http://www.chrisjudge.com/) - 一位著名的童书插画师的个人空间。他的[每日一云](http://www.chrisjudge.com/a-daily-cloud)作品非常有创意。就是在云朵上添加几笔变成一副有趣的画作。他还做了[衍生物品商店](https://www.adailycloud.com/)售卖这些画作，非常有趣！
+- 👉 [Gareth Loy](http://www.musimathics.com/) - 著名音乐技术和理论专家Gareth Loy创建的网站，它主要围绕着他所著的两卷《音乐数学》(Musimathics)丛书。这套书籍深入浅出地探讨了音乐与数学之间的深刻联系，为读者提供了一个独特的视角，去理解和欣赏音乐背后的结构和原理。一篇揭示了极简主义音乐如何与现代技术和算法相融合的[文章](https://teropa.info/blog/2017/01/23/terry-rileys-in-c.html)，另一篇类似[文章](https://arxiv.org/html/1202.4212v2/)
+- 👉 [Toby Rush](https://tobyrush.com/) - Toby Rush是一位经验丰富的音乐理论家和教师，同时他也是一位活跃的音乐家。通过这个网站，他分享了自己的知识和对音乐理论的理解。他的内容都是通过漫画展示，非常有创意！
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
+
+### 🏳️‍🌈 科技社区
+
+- 👉 [连线](https://www.wired.com/) - 专注于新兴技术及其对社会、文化、经济和政治影响的美国月刊杂志，并拥有相应的在线网站。
+- 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
+- 👉 [HackerNoon](https://hackernoon.com/) - 一个广受欢迎的在线出版平台，专注于科技、编程、创业、区块链、加密货币、人工智能以及未来技术趋势等话题。它被全球数以百万计的读者、开发人员和科技爱好者所关注，被认为是科技社区中的一份权威性和开放性的报纸。
 
 ### 🎡 科学里程碑
 
