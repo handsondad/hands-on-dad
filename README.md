@@ -813,7 +813,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
-- 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。
+- 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。相当好！🤩
 
 ## 📡 Technology
 
@@ -840,6 +840,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
 
 ## 🩺 Engineering
+
+[Engineer4Free](https://www.engineer4free.com/)是一个专门提供免费工程教育资源的网站，主要的目标群体是工程学的学生和爱好者。该网站包含了广泛的教学材料，包括视频讲座、教学笔记、习题解析、实践项目等，覆盖了包括但不限于化工、机械、电气、土木、计算机等工程学的多个领域。📺️ [YouTobe空间内容](https://www.youtube.com/engineer4free)
 
 ### 📑 教程
 
@@ -873,7 +875,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
-- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。
+- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。相当好！🤩
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
 - 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. 
@@ -1115,6 +1117,11 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [连线](https://www.wired.com/) - 专注于新兴技术及其对社会、文化、经济和政治影响的美国月刊杂志，并拥有相应的在线网站。
 - 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HackerNoon](https://hackernoon.com/) - 一个广受欢迎的在线出版平台，专注于科技、编程、创业、区块链、加密货币、人工智能以及未来技术趋势等话题。它被全球数以百万计的读者、开发人员和科技爱好者所关注，被认为是科技社区中的一份权威性和开放性的报纸。
+
+### 🏇 科学竞赛
+
+- 👉 [USACO](https://usaco.guide/) - 是一个非常有用的在线资源平台，主要针对对美国计算机奥林匹克竞赛（USA Computing Olympiad, USACO）感兴趣的学生和编程爱好者。该网站提供了全面的学习材料，辅导资料，以及练习题目，帮助用户准备USACO的各等级考试。
+- 👉 [APP Challenge](https://www.congressionalappchallenge.us/) - 由美国众议院议员主办的一个面向美国中学生和高中生的地区性编程挑战赛。
 
 ### 🎡 科学里程碑
 
