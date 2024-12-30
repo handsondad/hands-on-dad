@@ -657,6 +657,7 @@
 - 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
+- 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
 
 ## ✨ 教学标准
 
@@ -1059,6 +1060,12 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 ### 🛠️ 工具
 
+- 👉 [Desmos](https://www.desmos.com/) - 一个强大的在线数学工具平台，以其免费的图形计算器而闻名。提供了一系列功能强大的工具，适用于教育者、学生和所有对数学有兴趣的人。**相当好！**🤩
+- 👉 [Wolframalpha](https://www.wolframalpha.com/) - 一个知识计算引擎，由Wolfram Research创建，它的目标是为用户提供计算和数据驱动的查询结果，而非传统的网页搜索结果。Wolfram|Alpha背后的技术不仅理解输入的查询内容，还能计算出答案并提供详细的解决步骤，以及相关的数据、图表、可视化信息等。
+- 👉 [Symbolab](https://www.symbolab.com/) - 一个高级的在线数学学习平台，主要功能是帮助用户解决数学问题，包括代数、微积分、三角学、几何学、统计学等领域的复杂问题。Symbolab的特色在于不仅提供解题结果，还以逐步解答的方式展示解题过程，这不仅有助于学生理解解题思路，也对教师的授课具有辅助作用。
+- 👉 [Mathigon](https://mathigon.org/) - 一个创新的数学教育平台，它采用互动式学习方法，提供广泛的数学课程和资源，适合不同年龄和学习阶段的学生。Mathigon旨在通过游戏化、可视化和交互性学习经验使数学变得更加有趣和易于理解。
+- 👉 [Math StackExchange](https://math.stackexchange.com/) - A Q&A site for any level of math.
+- 👉 [Math Overflow](https://mathoverflow.net/) - A Q&A site for professional mathematicians.
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。可使用Python语言编写逻辑。
 - 👉 [Taichi](https://taichi-lang.cn/) - Taichi用Python轻松玩转并行编程，实现大规模仿真和动画。
 - 👉 [Quil](http://quil.info/) - 在线通过脚本创建动画模拟现实世界。 👉 [开源代码](https://github.com/quil/quil)
@@ -1129,6 +1136,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 - 👉 [USACO](https://usaco.guide/) - 是一个非常有用的在线资源平台，主要针对对美国计算机奥林匹克竞赛（USA Computing Olympiad, USACO）感兴趣的学生和编程爱好者。该网站提供了全面的学习材料，辅导资料，以及练习题目，帮助用户准备USACO的各等级考试。
 - 👉 [APP Challenge](https://www.congressionalappchallenge.us/) - 由美国众议院议员主办的一个面向美国中学生和高中生的地区性编程挑战赛。
+- 👉 [Art of Problem Solving](https://artofproblemsolving.com/) - 一个拥有大量高中数学竞赛练习题、答案和详细解释的网站。它包括 AMC 8、AMC 12 和 AIME 考试的所有先前考试题。它还包含有关特定数学相关主题（例如数论）的材料。
 
 ### 🎡 科学里程碑
 
