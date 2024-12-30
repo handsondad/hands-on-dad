@@ -613,7 +613,7 @@
 ### 🔭 物理
 
 - 👉 [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
-- 👉 [oPhysics](https://www.ophysics.com/) - oPhysics是一个专注于物理学教育的在线资源网站，提供各种交互式模拟和动画，帮助学生和教师理解和教授物理学概念。还提供丰富的动画作品资源。
+- 👉 [oPhysics](https://www.ophysics.com/) - oPhysics是一个专注于物理学教育的在线资源网站，提供各种交互式模拟和动画，帮助学生和教师理解和教授物理学概念。还提供丰富的动画作品资源。**相当好！**🤩
 - 👉 [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - 科罗拉多大学博尔德分校PhET提供的针对不同年级水平的物理话题的互动物理模拟。
 - 👉 [The Physics Aviary](https://www.thephysicsaviary.com/) - 一个专注于物理教育的在线学习平台，它主要提供了一系列的互动式物理模拟实验和练习，以及教学资源，旨在帮助学生更好地理解并掌握物理概念和原理。
 - 👉 [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Michael Freeman解释牛顿力学话题的互动物理模拟和游戏集合。
@@ -729,6 +729,7 @@
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
 - 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
+- 👉 [Kialo-edu](https://www.kialo-edu.com/) - 一个专注于批判性思维和论证能力培养的教育平台，它为教育工作者和学生提供了一个交互式的在线工具，用于构建和分析论证，以提升逻辑思维和辩论技巧。
 
 ## 🎒 慕课资源
 
@@ -813,7 +814,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
 - 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
-- 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。相当好！🤩
+- 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。**相当好！**🤩
 
 ## 📡 Technology
 
@@ -875,7 +876,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
-- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。相当好！🤩
+- 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。**相当好！**🤩
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
 - 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. 
@@ -1022,6 +1023,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Emojiall](https://www.emojiall.com/) - 一个表情符号检索网站。
 - 👉 [Emojipedia](https://emojipedia.org/) - 一个关于表情符号的百科全书式网站。
 - 👉 [Awesome-gif](https://github.com/davisonio/awesome-gif) - 各种GIF动画工具集合。
+- 👉 [ShadingReference](https://shadingreference.com/) - 提供各种3D材质和表面的高清参考图像，这些图像旨在帮助用户理解不同材料在各种光线条件下的外观和反应，从而在他们的数字作品中更加准确和现实地表现这些材料。
 
 ### 🏘︎ 建筑
 
@@ -1053,6 +1055,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 ## 📐 Mathematics
 
+[Understanding Mathematics](https://github.com/nbro/understanding-math)有关如何学习和理解数学以及数学语言、术语和符号的资源链接。
+
 ### 🛠️ 工具
 
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。可使用Python语言编写逻辑。
@@ -1076,7 +1080,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 ### 🖱️ 动画
 
-- 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！
+- 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！**相当好！**🤩
 - 👉 [3Blue1Brown](https://www.3blue1brown.com/) - 专注于制作直观理解数学概念视频，其内容覆盖数学、人工智能等领域，还有[衍生的物品商店](https://store.dftba.com/collections/3blue1brown)非常有趣。📺️ [YouTube视频](https://www.youtube.com/3blue1brown)、📺️ [B站官方视频](https://space.bilibili.com/88461692)
 - 👉 [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
 - 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 这是一个傅里叶级数的动画课程。
@@ -1098,15 +1102,18 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Carolina-STEM](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/10788.ct) - Carolina网站关于STEM的实践指导。
 - 👉 [NIHF-STEM](https://www.invent.org/educators/invention-project) - NIHF网站关于STEM的实践指导。👉 [这里是老师入口](https://www.invent.org/educators/professional-development)
 - 👉 [STCMS](https://smithsonianstc.com/stcms/) - Science You Can Trust. Results You Can See. 👉 [STCMS™ Learning Framework](https://www.carolina.com/stem-science-technology-engineering-math-curriculum/smithsonians-stcms-curriculum/27701.ct) 遵循了NGSS标准。
+- 👉 [Cosmo Learning](https://cosmolearning.org/) - 一个提供免费、高质量在线学习资源的教育平台，尤其在科学、工程学、数学、计算机科学等STEM领域拥有丰富的课程内容。该平台的目标是通过普及高质量的教育资源，促进全球的教育公平和学习机会。
+- 👉 [eSpark Learning](https://www.esparklearning.com/) - 一个基于网络的教育平台，专注于提供创新和互动式的在线学习体验，主要针对K-12的学生。设计目的是为了提升儿童的学习兴趣，以及他们在数学、阅读和科学等关键学科的能力。
 - 👉 [Experiments with Google](https://experiments.withgoogle.com/) - Experiments with Google是谷歌的一个项目，其目标是展示并促进创新和技术的前沿。这个网站上汇集了谷歌内部以及全球独立开发者和艺术家的各种实验性和创新性的项目。目前已经有**1611**个实验内容。
 - 📺️ [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Jared Hottenstein提供的酷炫新学习工具与活动，你可以用它们帮助学生理解工程学与科学的本质。
 
 ### 🆒 个人博客
 
-- 👉 [Theodore Gray](https://home.theodoregray.com/) - 一位杰出的化学家和科普作家，以其对元素的狂热收藏和创新的科普方式闻名于世。
+- 👉 [Theodore Gray](https://home.theodoregray.com/) - 一位杰出的化学家和科普作家，以其对元素的狂热收藏和创新的科普方式闻名于世。**相当好！**🤩
 - 👉 [Nicholas Rougeux](https://www.c82.net/) - 一位才华横溢的芝加哥设计师和数据艺术家，专注于网页和用户体验设计
-- 👉 [Robert Llewellyn](https://www.robertllewellyn.com/) - 一位杰出的摄影师，展示了他令人惊艳的摄影作品。
+- 👉 [Robert Llewellyn](https://www.robertllewellyn.com/) - 一位杰出的摄影师，展示了他令人惊艳的摄影作品。**相当好！**🤩
 - 👉 [Chris Judge](http://www.chrisjudge.com/) - 一位著名的童书插画师的个人空间。他的[每日一云](http://www.chrisjudge.com/a-daily-cloud)作品非常有创意。就是在云朵上添加几笔变成一副有趣的画作。他还做了[衍生物品商店](https://www.adailycloud.com/)售卖这些画作，非常有趣！
+- 👉 [Neo Martinez](https://littleneocreative.com/) - 一个由设计师兼插画师Neo Martinez运营的创意工作室网站。主要提供各种创意设计和插画服务，擅长于将独特的创意和艺术理念融入到每个项目中，使其具有个性化和原创性。
 - 👉 [Gareth Loy](http://www.musimathics.com/) - 著名音乐技术和理论专家Gareth Loy创建的网站，它主要围绕着他所著的两卷《音乐数学》(Musimathics)丛书。这套书籍深入浅出地探讨了音乐与数学之间的深刻联系，为读者提供了一个独特的视角，去理解和欣赏音乐背后的结构和原理。一篇揭示了极简主义音乐如何与现代技术和算法相融合的[文章](https://teropa.info/blog/2017/01/23/terry-rileys-in-c.html)，另一篇类似[文章](https://arxiv.org/html/1202.4212v2/)
 - 👉 [Toby Rush](https://tobyrush.com/) - Toby Rush是一位经验丰富的音乐理论家和教师，同时他也是一位活跃的音乐家。通过这个网站，他分享了自己的知识和对音乐理论的理解。他的内容都是通过漫画展示，非常有创意！
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
