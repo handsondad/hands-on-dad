@@ -847,7 +847,14 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [计算机自学课程集合](https://github.com/ForrestKnight/open-source-cs) - 这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
 - 🤗 [VisualSorting](https://github.com/mszula/visual-sorting) - 排序算法可视化。
 - 📚️ [《编码：隐匿在计算机软硬件背后的语言》](https://weread.qq.com/web/reader/64e32bf071fd5a9164ece6b) - 作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。
-
+- 👉 [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) - 整理了各年龄段学习的不同级别的编程指导和网站。
+  - 👉 [Scratch](https://scratch.mit.edu/) - Scratch是由麻省理工学院媒体实验室开发的图形化编程平台，旨在让程序设计语言初学者不需先学习语言语法便能设计产品。
+  - 👉 [PixelPad](https://pixelpad.io/) - 在线游戏引擎，用于学习如何用Python构建在线游戏和应用程序。
+  - 👉 [Code](https://code.org/) - Code.org是一个非盈利性的全球性组织，致力于为所有年龄层的学生提供计算机科学教育。
+  - 👉 [Construct 3](https://www.construct.net/) - 一个免费的在线游戏工作室，供初学者构建自己的游戏。
+  - 👉 [Isaac Computer Science](https://isaaccomputerscience.org/) - 为所有年级学生探索计算机科学的在线平台。
+  - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
+  - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
 
 ### 📦︎ 作品
 
