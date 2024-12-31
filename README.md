@@ -137,6 +137,7 @@
 - 📚️ [《斯波克育儿经》](https://weread.qq.com/web/reader/9ed32860813ab7377g010983) - 被公认为20世纪最可信的育儿手册，凝结了“育儿之父”斯波克医生经60年考验行之有效的育儿经验。
 - 📚️ [《西尔斯亲密育儿百科》](https://weread.qq.com/web/reader/660320e071629618660cafc) - 西尔斯博士根据近40年的儿科临床实践，以及与妻子玛莎共同养育8个子女的经验，结合发展心理学的“亲密理论”，总结出了一套亲密育儿法。
 - 📚️ [《定本育儿百科》](https://weread.qq.com/web/reader/0ee3262071c5f3560eed165) - 从婴儿诞生前一直写到孩子上小学，全面周到的育儿知识。
+- 📚️ [《美国儿科学会育儿百科》](https://weread.qq.com/web/reader/0b632700813ab7158g01664e) - 这是一部儿科医生推荐、值得父母信赖的育儿百科。凝结百位儿科医生的智慧，经过7次全面修订，内容具有科学性、先进性和全面性。
 
 ### 👩🏼‍🔬 心理学家说教育
 
@@ -279,7 +280,7 @@
 
 <!-- ![像水厂的金钱世界](./images/The%20Waterworks%20of%20Money.png) -->
 
-- 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，📺️ [YouTobe视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，📺️ [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
+- 👉 [The Waterworks of Money](https://www.waterworksofmoney.com/) - 金钱世界形容为一个水厂的原作。👉 [老钱日日谈的翻译](https://baijiahao.baidu.com/s?id=1782543561288119950)，📺️ [YouTube视频](https://www.youtube.com/watch?v=IszXpzIo_ZQ)，📺️ [B站搬运视频](https://www.bilibili.com/video/BV1nm421g723)
 - 👉 [经济机器是如何运转的](https://www.economicprinciples.org/zh-hans/index.html) - 瑞·达利欧的《经济机器是怎样运行的》。📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Ab4y1p7nd)
 - 📚️ [《金钱心理学：财富、人性和幸福的永恒真相》](https://book.douban.com/subject/36415996/) - 给孩子一个正确看待金钱的起点！
 - 📚️ [《经济学的思维方式》](https://weread.qq.com/web/reader/8c332830813ab7ebdg013f1c) - 经济学通识教育的经典之作。它所传达的思维方式，有助于每个人过上更好的生活。
@@ -287,6 +288,7 @@
 #### 🔯 文化
 
 - 📚️ [《中国古代文化常识》](https://weread.qq.com/web/reader/36832c507164851a368ca1b) - 行文平易简洁，雅俗共赏，一直以来，都是学习中国古代文化知识的入门经典。👉 [24年全新补订版](https://weread.qq.com/web/reader/650324e0813ab8febg011aed)
+- 📚️ [《罗伯特议事规则》](https://weread.qq.com/web/reader/f483244071cd7c81f486803) - 《罗伯特议事规则》蕴涵着丰富的理念，包括：法治、民主、权利保护、权力制衡、程序正当、程序性竞争、自由与制约、效率与公平。是一本经典、全面、权威的议事规则工具书。
 
 ### 🏕️ 观察自然
 
@@ -317,6 +319,7 @@
 - 📚️ [《怎样观察一粒种子》](https://book.douban.com/subject/33372572/) - 《怎样观察一粒种子》一次进入种穗、种荚和果实世界的旅程。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/SEED/1/caption)
 - 📚️ [《怎样观察一朵花》](https://book.douban.com/subject/26924202/) - 通过作者的出色文字，我们进入了一个绝妙无比的领域——那里花瓣变成了色彩艳丽的山洞的岩壁，柱头和雄蕊则成了奇异华丽的雕塑。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/FLOWERS-ONE/1/caption)
 - 📚️ [《怎样观察一棵树》](https://book.douban.com/subject/26901529/) - 《怎样观察一棵树》邀你将细致敏锐的目光投向身边常见的树木，并关注一些罕见却易于观察的树木特征。👉 [配图摄影集合](https://www.robertllewellyn.com/PHOTOGRAPHS/TREE/1/caption)
+- 📚️ [《树的秘密语言》](https://weread.qq.com/web/reader/f4a32230813ab71a0g015884) - 风靡全世界的森林游侠彼得•渥雷本，通过20多年来对森林和自然的研究，掌握了树木之间的交流方式和规律，在本书中通过解读树的秘密语言系统，让读者了解它们的心声和愿望，采用拟人的手法揭秘树木世界的生态万象
 - 📚️ [《看不见的森林》](https://book.douban.com/subject/25876750/) - 这是一本森林观测笔记。 在这本书里，一位生物学家以一年的时间为主线，在每次的观测中，为我们揭开藏森林一平方米地域里的秘密。
 - 📚️ [《蕨类植物的秘密生活》](https://book.douban.com/subject/35479478/) - 蕨类植物是一类特殊类型的植物，它们和种子植物不同，不依靠种子而是靠孢子繁殖。正因如此，它们的成长周期中存在两个世代，有着两种形态。
 - 📚️ [《苔藓森林》](https://book.douban.com/subject/36392391/) - 苔藓不会开花结果，甚至没有根系，却在地球上兴旺繁盛了四亿年：岩崖表面、倒木裂缝、砖瓦沟隙皆为领地；失水高达98%也能“死而复生”；就算在嘈杂城市也能活得很好，甚至懂得利用人类脚步传播后代。
@@ -402,7 +405,7 @@
 
 #### 🚀 有趣的事
 
-- 👉 [DIY.org](https://diy.org/) - 为全球儿童创作者创造一个安全的空间。包括工具、作品、社区等等非常丰富的内容。
+- 👉 [DIY.org](https://diy.org/) - 为全球儿童创作者创造一个安全的空间。包括工具、作品、社区等等非常丰富的内容。**相当好！**🤩
 - 👉 [Make](https://makezine.com/) - DIY Projects and Ideas for Makers.
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
@@ -418,6 +421,7 @@
 
 ### 🎮 游戏
 
+- 📚️ [《美国金宝贝早教婴幼儿游戏》](https://weread.qq.com/web/reader/91e329d071cc8b0391e226bk9bf32f301f9bf31c7ff0a60) - 书中游戏是根据婴幼儿的不同年龄量身定做的，既有热闹的肢体游戏、音乐游戏，也有安静的观察游戏、想象游戏，还有乐趣无限的阅读时光，每种游戏都可以为宝宝开发多种技能，包括认知、情感、社交、语言、运动能力等。
 - 👉 [BritannicaGame](https://www.britannica.com/quiz/browse) - 大英百科全书网站推出分不同年龄的游戏和小测验。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 - 👉 [Foldit Puzzles](https://fold.it/puzzles) - 一个关于蛋白质结构的拼图游戏。
@@ -495,6 +499,8 @@
 - 📚️ [《天地九重》](https://weread.qq.com/web/reader/78e320e0813ab846bg014d34) - 航天英雄杨利伟亲自撰写的个人传记《天地九重》，谈到了他对生活、学习、工作、困难、挫折、友情、爱情、生死、纪律、理想、信念等的种种体会，这些体会都来自于他经历的真实人生。
 
 ### 🎬 电影
+
+[《故事：材质·结构·风格和银幕剧作的原理》](https://weread.qq.com/web/reader/0473270058addd047f1f76a)一直是全世界编剧的第一必读经典。集结了罗伯特•麦基30年的授课经验，本书在对《教父》《阿甘正传》《星球大战》等经典影片的详细分析中，清晰阐述了故事创作的内在规律和技巧。
 
 #### 📽️ 片单
 
@@ -588,6 +594,7 @@
 ### 🚩 教学创意
 
 - 👉 [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
+- 👉 [TeacherSource](https://teachersource.com/) - 一个专门面向教育工作者的在线资源平台，旨在为教师提供一系列教学资源和工具，以支持和提升他们的教学质量。该网站专注于提供多样化、高质量的教学资料和创意工具，以适应不同学科、年级以及教学目标的需要。
 - 👉 [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school.
 
 ### 🧪 化学
@@ -634,16 +641,24 @@
 
 ### 🎤 语言
 
-- 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
-- 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
-- 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTobe视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+#### 🀄 中文
+
+- 📚️ [《汉字再发现》](https://weread.qq.com/web/reader/f6632070813ab790fg011267) - 这是一本写给文史爱好者、书法研习者、语文教师和学生朋友们的古汉字通识读本。包含大量文字图片。
+- 📚️ [《汉字就是这么来的（全六册）》](https://weread.qq.com/web/reader/731326f0720cfb62731aa7c) - 汉字是个神器，能帮你轻松打开中国历史文化的所有秘密。《汉字就是这么来的》系列是北京师范大学汉字专家孟琢写给孩子的趣味汉字书
 - 👉 [悟空中文](https://www.wukongsch.com/) - 悟空中文，孩子爱上中文的理由！适合全球3-18岁青少儿的在线趣味中文课。
+
+#### 🏈 英语
+
+- 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTube视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
+- 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 
 ### 🌏 地理
 
 - 👉 [查看地震带工具](https://seismic-explorer.concord.org/) - 一个查看不同年份地震发生地点，可以标注出地球上各个地震带。
 - 📚️ [《十二幅地图中的世界史》](https://book.douban.com/subject/26816981/) - 地图不仅仅是帮助我们从甲地到乙地的工具，更是伟大历史时刻的缩影，是政治权力的强大手段。地图可以给人们美好的愿景，却又可以是极具毁灭性的政治势力的工具，能引起偏见，使世界扭曲变形。
 - 📚️ [《地球之书》](https://book.douban.com/subject/35716683/) - 跨越了地球的整个历史，从46亿年前地球的诞生到未来数十亿年后必然的灭亡。
+
 
 ### 🧫 实验室
 
@@ -654,6 +669,7 @@
 
 ### 🏢 知识库
 
+- 📚️ [《通识：学问的门类》](https://weread.qq.com/web/reader/f4132cf07189bdaff41dd78) - 这是一本图文并茂的全学科导读图书，清晰的脉络梳理，生动的图谱展示，通过阅读，对于已知的内容你会更加详知；对于未知的领域你会获得新知。
 - 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
@@ -800,6 +816,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
 - 📚️ [《科学的故事》](https://weread.qq.com/web/reader/b6e3217071e92091b6eef43) - 科学并不是高深莫测，也不应该烧脑。相反，科学的故事就是人类追求真理的故事，精彩纷呈，引人入胜。
 - 📚️ [《科学的历程》](https://weread.qq.com/web/reader/39332d60716516c8393abcb) - 一部普及性的世界科学通史。以东方文明和科学技术对人类进步的影响为开端，以西方文明和科学的发展历程为核心，同时探讨了科学精神的本质和推动科学发展的力量。
+- 📚️ [《世界观：现代人必须要懂的科学哲学和科学史》](https://weread.qq.com/web/reader/61f322a071fac4b261f20c8) - 本书是一本让人大开脑洞、训练思维、自我成长的人文通识读本。它介绍了科学史和科学哲学根本的问题，如什么是真理、哲学性、概念性事实等。
 - 📚️ [《万物简史》](https://weread.qq.com/web/reader/af832e60813ab6d90g01048f) - 书中回溯了科学史上那些伟大与奇妙的时刻，引用了近年来发现的最新科学史料。讲述了人类文明发展进程中所发生的繁多妙趣横生的故事。
 
 ### 🏆 科学组织
@@ -815,9 +832,11 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🌕 天文历法
 
 - 📚️ [《DK宇宙大百科](https://book.douban.com/subject/26259174/) - 由NASA、NOAO等权威机构提供1000多幅震撼图片与精美图表，通过最权威的提供机构，和最先进的观测技术，助你领略宇宙的壮美多姿，认识宇宙及宇宙学的历史与发展，激发人类对宇宙与自身的思索。
+- 📚️ [《群星的法则：普林斯顿天文学家的宇宙通识课》](https://weread.qq.com/web/reader/6d832920813ab7d17g01703a) - 这是一本权威天文学家写给大众的宇宙通识读本。作者对现今人类掌握的宇宙知识娓娓道来，对天体物理发展史上的众多掌故如数家珍，笔触细腻而优雅。
 - 📚️ [《剑桥天文爱好者指南》](https://book.douban.com/subject/35562183/) - 无论初级爱好者还是观测老手们，这都是一部很好的指南。读完这本书，你能够知道天文爱好者大概是怎么样的一个群体，他们的主要活动是干什么，天文学的一些历史和基础概念等。
 - 📚️ [《夜观星空：天文观测实践指南》](https://book.douban.com/subject/10808841/) - 针对天文爱好者，从宇宙结构讲起，详细介绍了夜空中著名的恒星、行星、星团、星系以及彗星、流星和极光等，并介绍了各种观测方法，既包括目视观测，也包括使用双筒望远镜和天文望远镜观测。
 - 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
+- 📚️ [《天文学与生活》](https://book.douban.com/subject/30470522/) - 本书通过对科学过程、宇宙大小和年龄，以及星系的演化，介绍了天文学的基本知识。
 - 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
 - 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。**相当好！**🤩
@@ -848,7 +867,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 ## 🩺 Engineering
 
-[Engineer4Free](https://www.engineer4free.com/)是一个专门提供免费工程教育资源的网站，主要的目标群体是工程学的学生和爱好者。该网站包含了广泛的教学材料，包括视频讲座、教学笔记、习题解析、实践项目等，覆盖了包括但不限于化工、机械、电气、土木、计算机等工程学的多个领域。📺️ [YouTobe空间内容](https://www.youtube.com/engineer4free)
+[Engineer4Free](https://www.engineer4free.com/)是一个专门提供免费工程教育资源的网站，主要的目标群体是工程学的学生和爱好者。该网站包含了广泛的教学材料，包括视频讲座、教学笔记、习题解析、实践项目等，覆盖了包括但不限于化工、机械、电气、土木、计算机等工程学的多个领域。📺️ [YouTube空间内容](https://www.youtube.com/engineer4free)
 
 ### 📑 教程
 
@@ -925,7 +944,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [音乐教学法](https://www.xueshu.com/haowen/795.html) - 学术之家上整理的12篇音乐教学法。
 - 👉 [乐理学习](https://en.wikipedia.org/wiki/Music_theory)
   - 👉 [OpenMusicTheory](http://openmusictheory.com/) - 一个不断增长的在线教科书，用于音乐理论和听觉技能。
-  - 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。
+  - 👉 [Musictheory](https://www.musictheory.net/) - 非常好的乐理在线课程和练习。**相当好！**🤩
   - 👉 [Know Your Theory](https://knowyourtheory.com/) - 一个致力于音乐理论教育的在线平台，它为音乐爱好者、学生以及专业音乐人提供了一系列的课程和资源，以帮助他们深入了解和掌握音乐理论的核心概念。
   - 👉 [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby Rush创建的一个在线音乐理论资源网站，该网站被设计为一本在线音乐理论教科书，它全面、深入地探讨了音乐理论的各个方面，从基本概念到高级主题。通过漫画展示非常有趣！
   - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
@@ -1151,14 +1170,17 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Gareth Loy](http://www.musimathics.com/) - 著名音乐技术和理论专家Gareth Loy创建的网站，它主要围绕着他所著的两卷《音乐数学》(Musimathics)丛书。这套书籍深入浅出地探讨了音乐与数学之间的深刻联系，为读者提供了一个独特的视角，去理解和欣赏音乐背后的结构和原理。一篇揭示了极简主义音乐如何与现代技术和算法相融合的[文章](https://teropa.info/blog/2017/01/23/terry-rileys-in-c.html)，另一篇类似[文章](https://arxiv.org/html/1202.4212v2/)
 - 👉 [Toby Rush](https://tobyrush.com/) - Toby Rush是一位经验丰富的音乐理论家和教师，同时他也是一位活跃的音乐家。通过这个网站，他分享了自己的知识和对音乐理论的理解。他的内容都是通过漫画展示，非常有创意！
 - 👉 [Walter Saul](https://waltersaul.com/) - 口琴演奏家和教育家Walter Saul创立的个人网站，该网站为口琴爱好者提供了丰富的学习资源，还有其他音乐相关的课程和指导。
+- 👉 [Dominic Walliman](https://dominicwalliman.com/) - Dominic Walliman是一位知名的科学传播者、教育家和漫画家的线上平台。以其独特的方式解释复杂的科学概念而闻名，他最知名的作品包括一系列的简明科学漫画（Simple Science Comics），用幽默和直观的漫画形式，帮助人们理解和欣赏科学的美妙与复杂。他还做了[衍生物品商店](https://store.dftba.com/collections/domain-of-science)售卖制作的科学领域地图。
+- 👉 [Heimler's History](https://heimlershistory.com/) - 一个由历史学者、教师和作家Brian Heimler创立的网站。该网站致力于提供深入的历史内容，旨在增强公众对历史的兴趣和理解。Brian Heimler通过一系列的文章、视频和在线课程，探讨历史上的重要事件、人物及关键时期，尤其专注于美国历史。
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
 
-### 🏳️‍🌈 科技社区
+### 🏳️‍🌈 社区平台
 
 - 👉 [连线](https://www.wired.com/) - 专注于新兴技术及其对社会、文化、经济和政治影响的美国月刊杂志，并拥有相应的在线网站。
 - 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HackerNoon](https://hackernoon.com/) - 一个广受欢迎的在线出版平台，专注于科技、编程、创业、区块链、加密货币、人工智能以及未来技术趋势等话题。它被全球数以百万计的读者、开发人员和科技爱好者所关注，被认为是科技社区中的一份权威性和开放性的报纸。
+- 👉 [DFTBA Records](https://store.dftba.com/) - DFTBA Records (Don't Forget to Be Awesome Records)的在线商店是专为热爱音乐、艺术和创意内容的在线社区成员提供的一站式购物体验。如今已成为一个广受欢迎的平台，将多元化的创意作品带给全球的粉丝。
 
 ### 🏇 科学竞赛
 
