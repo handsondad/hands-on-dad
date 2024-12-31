@@ -334,7 +334,7 @@
 
 - 👉 [eBird](https://ebird.org/home) - 这是观鸟者中最著名的网站，由康奈尔鸟类学实验室和奥杜邦协会共同运营。网站提供全球鸟类观察记录的数据库。你可以根据地点、时间等条件查找鸟类的出现记录，也可以上传自己的观察记录。
 - 👉 [Cornell Lab of Ornithology](https://www.allaboutbirds.org/) - 由康奈尔大学鸟类学实验室运营，主要专注于鸟类的科普教育，提供丰富的鸟类识别指南和鸟类生活习性的资料。
-- 👉 [Xeno-Canto](https://xeno-canto.org/) - 这是一个鸟类声音数据库，你可以在这里听到来自世界各地的鸟类鸣叫声，对于识别鸟类非常有帮助。
+- 👉 [Xeno-Canto](https://xeno-canto.org/) - 这是一个鸟类声音数据库，你可以在这里听到来自世界各地的鸟类鸣叫声，对于识别鸟类非常有帮助。还提供各类昆虫的鸣叫。
 - 👉 [中国观鸟记录中心](https://www.birdreport.cn/) - 这是一个致力于鸟类观察和保护的在线平台。👉 [微信小程序](https://www.birdreport.cn/assets/images/qr_xcx.jpg)
 - 👉 [懂鸟](https://dongniao.net/) - 懂鸟包含全球鸟类10000种以上，支持分类浏览与搜索，查询中英文信息、亚种信息、全球分布、鸣声播放、辨识对比等功能。👉 [微信小程序](./images/dongniao.jpg)
 - 👉 [豆瓣热门鸟类图书TOP10](https://m.douban.com/subject_collection/ECHA6QOUI)
@@ -658,6 +658,7 @@
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 - 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
+- 👉 [WorldCat](https://www.worldcat.org/) - WorldCat是全球最大的图书馆资源在线目录之一，由OCLC（Online Computer Library Center）运营。连接了全球数以万计的图书馆，提供了一个可以搜索和定位近十亿条图书馆藏记录的平台，涵盖了图书、期刊、电影、音乐录音、数字内容等多种资料类型。
 
 ## ✨ 教学标准
 
@@ -743,6 +744,10 @@
 
 - 👉 [联合国儿童基金会](https://www.unicef.cn/) - 联合国儿童基金会-中国。
 - 👉 [ZERO TO THREE](https://www.zerotothree.org/) - ZERO TO THREE是一家专注于0至3岁儿童早期发展的非营利组织(The first three years of life are the most important for lifelong mental health and well-being)。
+- 👉 [拯救儿童基金会](https://www.savethechildren.org/) - SavetheChildren（拯救儿童基金会）是一家国际知名的非营利组织，该组织致力于全球儿童的权益保护、教育和健康，以确保每一个孩子都能获得平等的发展机会和健康、有尊严的生活。
+- 👉 [早期儿童事务](https://earlychildhoodmatters.online/) - Early Childhood Matters"（早期儿童事务）是一个专注于0-8岁儿童早期教育和发展的国际性组织，旨在促进全球范围内幼儿的优质早期学习和保护。
+- 👉 [国际早期儿童教育协会](http://www.ieyea.org) - 国际早期儿童教育协会（International Early Years Education Association，简称IEYEA）是以NGO非营利组织为目的的全球早期儿童教育学术研究机构。
+- 👉 [联合国教科文组织](https://www.unesco.org/) - 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，简称UNESCO）是联合国专门机构之一，其宗旨在于通过教育、科学、文化及信息的普及与交流，促进国际合作，维护世界和平，推动社会进步和人类发展。
 - 👉 [NASA Kids' Club](https://www.nasa.gov/) - NASA对孩子开放讲解的天文知识和各类活动。
 - 👉 [Van Leer Foundation](https://vanleerfoundation.org/) - Van Leer 基金会一直致力于支持全球的幼儿、看护者和社区。确立在幼儿发展、人文科学和艺术领域的领导地位。
 - 👉 [恒晖公益基金会](https://www.ihenghui.cn/) - 由陈行甲老师发起的恒晖公益基金会，专注青少年心理健康和教育关怀等方面的公益创新项目。
@@ -1010,6 +1015,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
 - 👉 [Say What You See](https://experiments.withgoogle.com/say-what-you-see) - 一个实验项目，通过查看Google AI生成的图像并描述您所看到的内容，学习提示艺术并提高您的图像阅读技能。类似做游戏。
 
+
+
 ### 🔍 纹样
 
 - 📚️ [《世界花纹与图案大典》](https://book.douban.com/subject/35128137/) - 收录古今装饰纹样1500例，涵盖东西方历史上的各种装饰风格，分为植物图案、动物图案、几何图案、图画和抽象图案五大类，涉及纺织品（服饰、地毯、桌布等）、印刷品（壁纸、图书、包装纸等）、家居用品（家具、地板、瓷砖、灯饰等）和艺术品（陶器、瓷器、剪纸等）。
@@ -1042,11 +1049,12 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 ### 📦 工艺品
 
 - 👉 [Midwest data artist and designer](https://www.c82.net/) - 著名设计师及艺术家Nicholas Rougeux的个人设计工作的作品展示。
-- 👉 [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
+- 👉 [Urban Alchemist](https://urbanalchemist.com/) - 一个专注于提供个性化和手工艺品的在线平台。这个品牌以融合现代设计和传统工艺而著称，为顾客提供一系列独特的产品。
 - 👉 [Crafts For Kids](https://www.pinterest.com/fortmagicfun/crafts-for-kids/) - Pinterest网站上一个展示各种儿童工艺品的博主的内容（Inspiring Craft Ideas For Children）。
 - 👉 [31 Arts and Crafts for Kids to Make at Home](https://parents.highlights.com/31-arts-and-crafts-kids-to-make-home) - Highlights网站上的一个儿童工艺品的内容。
 - 👉 [60 Fun and Easy Kids' Crafts](https://www.hgtv.com/design/make-and-celebrate/handmade/20-fun-and-easy-kids-crafts-pictures) - 来自HGTV网站（是一家专注于家居装修和园艺）的儿童工艺品。
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - 我们分享适合孩子们的简易手工艺品，从自制的彩泥到点画艺术，浏览我们精心挑选的50个最佳手工艺品。
+- 👉 [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
 
 ### 📠 3D打印
 
@@ -1107,6 +1115,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 🧾 [Sound of the Earth](https://soundoftheearth.org/) - 一个全球性的声音地图项目，这个项目旨在通过收集并展示来自全球各地的自然声音，来强调自然环境的重要性，并提高人们对环境变化的意识。
 - 🧾 [Chordata](https://github.com/starenka/chordata) - 一个虚拟的和弦库，专门为曼陀林、尤克里里和吉他设计。举例[尤克里里和弦搜索](https://chords.starenka.net/search?chord=C&instrument=uke)
 - 🧾 [Everything2](https://everything2.com/) - 这个网站的核心理念是建立一个包含人类知识、观点和创意的全面数据库，用户可以在这里创建、编辑和分享各种类型的内容，包括文章、诗歌、故事、评论、观点甚至编程代码等。
+- 🧾 [NameCensus](https://namecensus.com/) - NameCensus是一个专注于分析和展示美国人口普查数据中名字流行度的网站。该网站提供了一个有趣而深入的视角，允许用户探索自1880年以来美国社会中名字的兴衰。
+- 👉 [统计局数据](https://data.stats.gov.cn/search.htm) - 国家统计局数据搜索入口。🧾 [统计年鉴](https://www.stats.gov.cn/sj/ndsj/)
 
 ## 👑 实践
 
