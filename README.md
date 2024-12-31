@@ -924,15 +924,22 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
   - 👉 [Know Your Theory](https://knowyourtheory.com/) - 一个致力于音乐理论教育的在线平台，它为音乐爱好者、学生以及专业音乐人提供了一系列的课程和资源，以帮助他们深入了解和掌握音乐理论的核心概念。
   - 👉 [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) - Toby Rush创建的一个在线音乐理论资源网站，该网站被设计为一本在线音乐理论教科书，它全面、深入地探讨了音乐理论的各个方面，从基本概念到高级主题。通过漫画展示非常有趣！
   - 👉 [Four Score and More](https://fourscoreandmore.org/) - 基于乐谱量身定制的音乐理论练习。
+- 👉 [口琴学习](https://en.wikipedia.org/wiki/Harmonica)
+  - 👉 [Harmonica](https://www.harmonica.com/) -  一个提供教育资料，还构建了一个社区，让口琴爱好者能够互相交流经验，分享演奏技巧，以及找寻同好。这对于初学者来说，是一个与其他口琴爱好者建立联系、获得鼓励和支持的宝贵机会。[初学者入门指南](https://www.harmonica.com/harmonica-keys-for-beginners/)
+  - 👉 [HarmonicaLessons](https://www.harmonicalessons.com/) - 提供了从基础知识到高级演奏技巧的全面教程，适合不同级别的学习者。课程包括视频教学、伴奏练习和音乐理论讲解，涵盖了布鲁斯、流行、民间等多种风格。
+  - 👉 [BluesHarmonica](https://www.bluesharmonica.com/) - 专注于布鲁斯风格的口琴学习，提供免费资源，如技巧文章、曲谱和视频教学，对于想要深入探索布鲁斯口琴魅力的学习者是一个不错的选择。
+  - 👉 [The Harmonica Club](https://harmonicaclub.com/) - 这个网站提供了一系列的基础到进阶课程，以及一个充满活力的社区，学习者可以在其中分享经验、交流技巧。此外，网站上还有乐器购买指南、曲谱下载等资源，是一个全面的口琴学习平台。
+  - 👉 [World Harmonica Festival](https://www.world-harmonica-festival.de/) - 世界口琴节（World Harmonica Festival）是一个专注于口琴艺术和文化的国际性活动——世界口琴节的官方网站。
+  - 📺️ [B站复音口琴教程](https://www.bilibili.com/video/BV1rU4y1F7MB) - 苡蒽de口琴乐园。👉 [B站空间](https://space.bilibili.com/479771256/lists)
+- 👉 [尤克里里学习](https://en.wikipedia.org/wiki/Ukulele)
+  - 👉 [UkeGeeks](https://ukegeeks.com/) - UkeGeeks是一个专注于尤克里里（Ukulele）爱好者的资源网站。它提供了大量的教程、乐谱、技巧和社区支持，旨在帮助尤克里里爱好者提高演奏技巧和享受音乐的乐趣。👉 [在线歌曲编辑器](https://ukegeeks.com/songeditor)，👉 [开源代码](https://github.com/buzcarter/UkeGeeks)
+  - 👉 [UkeAlong](https://ukealong.com/) - UkeAlong是一个专注于尤克里里（Ukulele）的教学与乐谱网站，非常全面的尤克里里学习网站。👉 [提供一个和弦识别工具](https://ukealong.com/tool/chord-detector/)
+  - 👉 [UkuTabs](https://ukutabs.com/) - UkuTabs是一个非常受欢迎的尤克里里（Ukulele）和弦谱网站。这个网站集合了成千上万首各类风格的歌曲和弦谱，专为尤克里里爱好者打造。
 - 👉 [吉他学习](https://en.wikipedia.org/wiki/Guitar)
   - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
   - 👉 [Fretboard](http://alexmost.github.io/fretboard/) - 一个在线的吉他指板视图工具，用于研究音阶和和弦。它为学习吉他提供了实用和直观的视觉辅助。👉 [开源代码](https://github.com/AlexMost/fretboard)
   - 👉 [Guitarix](https://guitarix.org/) - 一个虚拟吉他放大器。它提供了多种效果和放大器模拟，可以模拟真实吉他的声音。
   - 👉 [GuitarML](https://guitarml.com/) - GuitarML是一个专门为吉他爱好者和技术爱好者设计的平台。它结合了机器学习技术与音乐，为用户提供了一种创新的吉他效果处理方法。
-- 👉 [尤克里里学习](https://en.wikipedia.org/wiki/Ukulele)
-  - 👉 [UkeGeeks](https://ukegeeks.com/) - UkeGeeks是一个专注于尤克里里（Ukulele）爱好者的资源网站。它提供了大量的教程、乐谱、技巧和社区支持，旨在帮助尤克里里爱好者提高演奏技巧和享受音乐的乐趣。👉 [在线歌曲编辑器](https://ukegeeks.com/songeditor)，👉 [开源代码](https://github.com/buzcarter/UkeGeeks)
-  - 👉 [UkeAlong](https://ukealong.com/) - UkeAlong是一个专注于尤克里里（Ukulele）的教学与乐谱网站，非常全面的尤克里里学习网站。👉 [提供一个和弦识别工具](https://ukealong.com/tool/chord-detector/)
-  - 👉 [UkuTabs](https://ukutabs.com/) - UkuTabs是一个非常受欢迎的尤克里里（Ukulele）和弦谱网站。这个网站集合了成千上万首各类风格的歌曲和弦谱，专为尤克里里爱好者打造。
 - 👉 [钢琴学习](https://en.wikipedia.org/wiki/Piano)
   - 👉 [Frazier Piano Studio](https://www.frazierpianostudio.com/) - 一个专注于钢琴教学的专业音乐工作室。
 - 👉 [NOTATIO](https://notat.io/) - 一个致力于音乐记谱实践的论坛。
@@ -1063,7 +1070,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Desmos](https://www.desmos.com/) - 一个强大的在线数学工具平台，以其免费的图形计算器而闻名。提供了一系列功能强大的工具，适用于教育者、学生和所有对数学有兴趣的人。**相当好！**🤩
 - 👉 [Wolframalpha](https://www.wolframalpha.com/) - 一个知识计算引擎，由Wolfram Research创建，它的目标是为用户提供计算和数据驱动的查询结果，而非传统的网页搜索结果。Wolfram|Alpha背后的技术不仅理解输入的查询内容，还能计算出答案并提供详细的解决步骤，以及相关的数据、图表、可视化信息等。
 - 👉 [Symbolab](https://www.symbolab.com/) - 一个高级的在线数学学习平台，主要功能是帮助用户解决数学问题，包括代数、微积分、三角学、几何学、统计学等领域的复杂问题。Symbolab的特色在于不仅提供解题结果，还以逐步解答的方式展示解题过程，这不仅有助于学生理解解题思路，也对教师的授课具有辅助作用。
-- 👉 [Mathigon](https://mathigon.org/) - 一个创新的数学教育平台，它采用互动式学习方法，提供广泛的数学课程和资源，适合不同年龄和学习阶段的学生。Mathigon旨在通过游戏化、可视化和交互性学习经验使数学变得更加有趣和易于理解。
+- 👉 [Mathigon](https://mathigon.org/) - 一个创新的数学教育平台，它采用互动式学习方法，提供广泛的数学课程和资源，适合不同年龄和学习阶段的学生。Mathigon旨在通过游戏化、可视化和交互性学习经验使数学变得更加有趣和易于理解。👉 [在线交互](https://polypad.amplify.com/p)
 - 👉 [Math StackExchange](https://math.stackexchange.com/) - A Q&A site for any level of math.
 - 👉 [Math Overflow](https://mathoverflow.net/) - A Q&A site for professional mathematicians.
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。可使用Python语言编写逻辑。
@@ -1123,6 +1130,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Neo Martinez](https://littleneocreative.com/) - 一个由设计师兼插画师Neo Martinez运营的创意工作室网站。主要提供各种创意设计和插画服务，擅长于将独特的创意和艺术理念融入到每个项目中，使其具有个性化和原创性。
 - 👉 [Gareth Loy](http://www.musimathics.com/) - 著名音乐技术和理论专家Gareth Loy创建的网站，它主要围绕着他所著的两卷《音乐数学》(Musimathics)丛书。这套书籍深入浅出地探讨了音乐与数学之间的深刻联系，为读者提供了一个独特的视角，去理解和欣赏音乐背后的结构和原理。一篇揭示了极简主义音乐如何与现代技术和算法相融合的[文章](https://teropa.info/blog/2017/01/23/terry-rileys-in-c.html)，另一篇类似[文章](https://arxiv.org/html/1202.4212v2/)
 - 👉 [Toby Rush](https://tobyrush.com/) - Toby Rush是一位经验丰富的音乐理论家和教师，同时他也是一位活跃的音乐家。通过这个网站，他分享了自己的知识和对音乐理论的理解。他的内容都是通过漫画展示，非常有创意！
+- 👉 [Walter Saul](https://waltersaul.com/) - 口琴演奏家和教育家Walter Saul创立的个人网站，该网站为口琴爱好者提供了丰富的学习资源，还有其他音乐相关的课程和指导。
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
 
