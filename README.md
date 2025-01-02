@@ -644,7 +644,13 @@
 #### 🀄 中文
 
 - 📚️ [《汉字再发现》](https://weread.qq.com/web/reader/f6632070813ab790fg011267) - 这是一本写给文史爱好者、书法研习者、语文教师和学生朋友们的古汉字通识读本。包含大量文字图片。
-- 📚️ [《汉字就是这么来的（全六册）》](https://weread.qq.com/web/reader/731326f0720cfb62731aa7c) - 汉字是个神器，能帮你轻松打开中国历史文化的所有秘密。《汉字就是这么来的》系列是北京师范大学汉字专家孟琢写给孩子的趣味汉字书
+- 📚️ [《汉字就是这么来的（全六册）》](https://weread.qq.com/web/reader/731326f0720cfb62731aa7c) - 汉字是个神器，能帮你轻松打开中国历史文化的所有秘密。《汉字就是这么来的》系列是北京师范大学汉字专家孟琢写给孩子的趣味汉字书。
+- 💯 [通用规范汉字表(2013)](https://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf) - 国务院2013年推出的通用规范汉字表，收录了现行汉字、繁体字、异体字，并且进行对照。
+- 💯 [通用规范汉字读音](http://unicode.org/L2/L2019/19160-adding-ktghz-2013.pdf) - Unicode联盟提交委员会根据《通用规范汉字字典》，收录的汉字、拼音、Unicode的对照。
+- 👉 [汉语国学网](https://www.hanyuguoxue.com/) - 提供丰富的汉字学习内容，拼音、词组、成语等，并且提供在线查询和可视化展示。
+- 👉 [粤语114](http://www.yueyu114.com/) - 粤语114是一个专注于粤语学习和推广的在线平台，为广大对粤语感兴趣的用户提供了丰富多样的学习资源和交流机会。该网站涵盖了粤语的发音、词汇、语法以及文化背景等内容，旨在帮助用户从零基础开始，逐步掌握粤语的听、说、读、写技能。📺️ [B站粤语学习1000集](https://www.bilibili.com/video/BV1Te4y1r7hL)、📺️ [B站搬运YouTube视频](https://www.bilibili.com/video/BV1Je4y187EV)
+- 👉 [香港教育大學粵語自學平台](https://corpus.eduhk.hk/cantonese/) - 该平台通过收集和整理大量真实的广东话口语及书面材料，为语言教育者、研究者和学习者提供宝贵资源。
+- 👉 [语音词典](https://www.voicedic.com/) - 语音字典(VoiceDic)是一个用于查询汉字在南北古今各种族群中发音的网站。
 - 👉 [悟空中文](https://www.wukongsch.com/) - 悟空中文，孩子爱上中文的理由！适合全球3-18岁青少儿的在线趣味中文课。
 
 #### 🏈 英语
@@ -763,8 +769,11 @@
 ## 🌐 公益组织
 
 - 👉 [联合国儿童基金会](https://www.unicef.cn/) - 联合国儿童基金会-中国。
+- 👉 [NAEYC](https://www.naeyc.org/) - 美国幼儿教育协会是全球幼儿教育领域最权威、影响力最大的专业组织之一。NAEYC致力于提升幼儿教育的质量和专业性，为全球范围内的幼儿教育工作者、政策制定者、家长和研究者提供指导和支持。
 - 👉 [ZERO TO THREE](https://www.zerotothree.org/) - ZERO TO THREE是一家专注于0至3岁儿童早期发展的非营利组织(The first three years of life are the most important for lifelong mental health and well-being)。
+- 👉 [HighScope](https://highscope.org/) - HighScope是一个致力于幼儿教育的研究、发展和倡导的国际性非营利组织，一直专注于通过基于研究的幼儿教育实践，来提升全球年轻一代的学习和发展。
 - 👉 [拯救儿童基金会](https://www.savethechildren.org/) - SavetheChildren（拯救儿童基金会）是一家国际知名的非营利组织，该组织致力于全球儿童的权益保护、教育和健康，以确保每一个孩子都能获得平等的发展机会和健康、有尊严的生活。
+- 👉 [早期儿童教育部门](https://www.dec-sped.org/) - 早期儿童教育部门是特殊教育协会(Council for Exceptional Children，简称CEC)的下属专业机构，专注于制定政策和实践，以促进有发展延迟风险或特殊需要的婴幼儿（从出生到8岁）的最优化学习和成长。
 - 👉 [早期儿童事务](https://earlychildhoodmatters.online/) - Early Childhood Matters"（早期儿童事务）是一个专注于0-8岁儿童早期教育和发展的国际性组织，旨在促进全球范围内幼儿的优质早期学习和保护。
 - 👉 [国际早期儿童教育协会](http://www.ieyea.org) - 国际早期儿童教育协会（International Early Years Education Association，简称IEYEA）是以NGO非营利组织为目的的全球早期儿童教育学术研究机构。
 - 👉 [联合国教科文组织](https://www.unesco.org/) - 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，简称UNESCO）是联合国专门机构之一，其宗旨在于通过教育、科学、文化及信息的普及与交流，促进国际合作，维护世界和平，推动社会进步和人类发展。
@@ -876,6 +885,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 📑 教程
 
 - 👉 [Awesome](https://github.com/sindresorhus/awesome) - GitHub上开源的Awesome集合。
+- 👉 [Unicode联盟](https://home.unicode.org/) - Unicode联盟是一个非营利性组织，负责开发、维护和推广Unicode标准，这是一项国际编码标准，旨在为全球所有语言文字的字符提供唯一的编码，从而实现各种语言和字符在数字设备上的统一表示和处理。
 - 🤗 [计算机自学课程集合](https://github.com/ForrestKnight/open-source-cs) - 这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
 - 🤗 [VisualSorting](https://github.com/mszula/visual-sorting) - 排序算法可视化。
 - 📚️ [《编码：隐匿在计算机软硬件背后的语言》](https://weread.qq.com/web/reader/64e32bf071fd5a9164ece6b) - 作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。
