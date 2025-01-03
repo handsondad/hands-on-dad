@@ -778,6 +778,7 @@
 - 👉 [国际早期儿童教育协会](http://www.ieyea.org) - 国际早期儿童教育协会（International Early Years Education Association，简称IEYEA）是以NGO非营利组织为目的的全球早期儿童教育学术研究机构。
 - 👉 [联合国教科文组织](https://www.unesco.org/) - 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，简称UNESCO）是联合国专门机构之一，其宗旨在于通过教育、科学、文化及信息的普及与交流，促进国际合作，维护世界和平，推动社会进步和人类发展。
 - 👉 [NASA Kids' Club](https://www.nasa.gov/) - NASA对孩子开放讲解的天文知识和各类活动。
+- 👉 [USENIX](https://www.usenix.org/) - 一家非营利性的专业组织，致力于推动计算机系统科学的研究、教育与实践。主要服务于研究人员、教育工作者、工程师和计算机系统相关行业的从业者，是一个集会议组织、期刊出版、在线资源分享于一体的综合平台。
 - 👉 [Van Leer Foundation](https://vanleerfoundation.org/) - Van Leer 基金会一直致力于支持全球的幼儿、看护者和社区。确立在幼儿发展、人文科学和艺术领域的领导地位。
 - 👉 [恒晖公益基金会](https://www.ihenghui.cn/) - 由陈行甲老师发起的恒晖公益基金会，专注青少年心理健康和教育关怀等方面的公益创新项目。
 - 👉 [北京三一公益基金会](http://www.sanyfoundation.org/) - 是一家非公募基金会，以推动科学公益为使命，致力于建构和推广科学公益理论体系、支持专业有效的公益实践行动、培养和提升公众意识。
@@ -1186,8 +1187,9 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Walter Saul](https://waltersaul.com/) - 口琴演奏家和教育家Walter Saul创立的个人网站，该网站为口琴爱好者提供了丰富的学习资源，还有其他音乐相关的课程和指导。
 - 👉 [Dominic Walliman](https://dominicwalliman.com/) - Dominic Walliman是一位知名的科学传播者、教育家和漫画家的线上平台。以其独特的方式解释复杂的科学概念而闻名，他最知名的作品包括一系列的简明科学漫画（Simple Science Comics），用幽默和直观的漫画形式，帮助人们理解和欣赏科学的美妙与复杂。他还做了[衍生物品商店](https://store.dftba.com/collections/domain-of-science)售卖制作的科学领域地图。
 - 👉 [Heimler's History](https://heimlershistory.com/) - 一个由历史学者、教师和作家Brian Heimler创立的网站。该网站致力于提供深入的历史内容，旨在增强公众对历史的兴趣和理解。Brian Heimler通过一系列的文章、视频和在线课程，探讨历史上的重要事件、人物及关键时期，尤其专注于美国历史。
-- 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的研究员。
-- 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的研究员。
+- 👉 [Simon Willison](https://simonwillison.net/) - 技术专家兼开源项目贡献者Simon Willison维护的技术博客。以其深入浅出的技术分析和敏锐的行业观察力，在技术圈享有较高的声誉。👉 [2024大模型回顾](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+- 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的科学家。
+- 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的明星科学家。
 
 ### 🏳️‍🌈 社区平台
 
@@ -1195,6 +1197,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [国家地理](https://www.nationalgeographic.com/) - 这是一个全球知名的科学、探险和教育媒体平台。
 - 👉 [HackerNoon](https://hackernoon.com/) - 一个广受欢迎的在线出版平台，专注于科技、编程、创业、区块链、加密货币、人工智能以及未来技术趋势等话题。它被全球数以百万计的读者、开发人员和科技爱好者所关注，被认为是科技社区中的一份权威性和开放性的报纸。
 - 👉 [DFTBA Records](https://store.dftba.com/) - DFTBA Records (Don't Forget to Be Awesome Records)的在线商店是专为热爱音乐、艺术和创意内容的在线社区成员提供的一站式购物体验。如今已成为一个广受欢迎的平台，将多元化的创意作品带给全球的粉丝。
+- 👉 [Lobste.rs](https://lobste.rs/) - 一个以编程、软件开发、计算机科技和开源项目为中心的社区驱动型新闻聚合网站。它被设计成一个高度专注于技术话题的讨论平台，旨在为软件工程师、程序员和科技爱好者提供一个高质量、低噪音的交流环境。
+- 👉 [Mastodon](https://joinmastodon.org/) - 一个基于开源技术的分布式社交网络平台，旨在提供一个更加去中心化、个性化和隐私保护的在线交流空间。与传统的大型社交媒体平台不同，Mastodon将网络划分为多个由个人或组织独立运营的实例，这些实例通过联邦协议相互通信，形成了一个庞大的社交网络。
 
 ### 🏇 科学竞赛
 
