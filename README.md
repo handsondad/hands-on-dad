@@ -443,7 +443,7 @@
 
 #### 🗺️ 奇幻之旅
 
-- 📚️ [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。👉 [纳尼亚传奇的艺术设计](https://www.thelionscall.com/art-of-narnia/)
+- 📚️ [《纳尼亚传奇》](https://book.douban.com/subject/34792367/) - 《纳尼亚传奇》是一个通往魔法世界的大衣橱，带给孩子受益终生的爱、希望与勇气。作者C.S.Lewis[个人网站](https://cslewis.drzeus.net/)，👉 [纳尼亚传奇的艺术设计](https://www.thelionscall.com/art-of-narnia/)
 - 📚️ [《霍比特人》](https://book.douban.com/subject/36838881/) - 《霍比特人》是托尔金为自己孩子写的炉边故事，但从此开始你便踏入他构造的中洲这一奇幻世界。
 - 📚️ [《魔戒》](https://book.douban.com/subject/36437523/) - 《魔戒》是一部关于中洲伟大的想象力和动人的故事集，蕴含对世间万物最本真的好奇心与最深刻的洞察力。奇幻文学无法超越的经典之作！📺️ [B站英文朗读](https://www.bilibili.com/video/BV1Zv41137N6)，👉 [魔戒中文维基](https://lotr.huijiwiki.com/)
 
@@ -649,7 +649,7 @@
 - 💯 [通用规范汉字读音](http://unicode.org/L2/L2019/19160-adding-ktghz-2013.pdf) - Unicode联盟提交委员会根据《通用规范汉字字典》，收录的汉字、拼音、Unicode的对照。
 - 👉 [汉语国学网](https://www.hanyuguoxue.com/) - 提供丰富的汉字学习内容，拼音、词组、成语等，并且提供在线查询和可视化展示。
 - 👉 [粤语114](http://www.yueyu114.com/) - 粤语114是一个专注于粤语学习和推广的在线平台，为广大对粤语感兴趣的用户提供了丰富多样的学习资源和交流机会。该网站涵盖了粤语的发音、词汇、语法以及文化背景等内容，旨在帮助用户从零基础开始，逐步掌握粤语的听、说、读、写技能。📺️ [B站粤语学习1000集](https://www.bilibili.com/video/BV1Te4y1r7hL)、📺️ [B站搬运YouTube视频](https://www.bilibili.com/video/BV1Je4y187EV)
-- 👉 [香港教育大學粵語自學平台](https://corpus.eduhk.hk/cantonese/) - 该平台通过收集和整理大量真实的广东话口语及书面材料，为语言教育者、研究者和学习者提供宝贵资源。
+- 👉 [香港教育大學粵語自學平台](https://corpus.eduhk.hk/cantonese/) - 该平台通过收集和整理大量真实的广东话口语及书面材料，为语言教育者、研究者和学习者提供宝贵资源。👉 [粤语拼音方案](https://zh.wikipedia.org/zh-sg/香港語言學學會粵語拼音方案)
 - 👉 [语音词典](https://www.voicedic.com/) - 语音字典(VoiceDic)是一个用于查询汉字在南北古今各种族群中发音的网站。
 - 👉 [悟空中文](https://www.wukongsch.com/) - 悟空中文，孩子爱上中文的理由！适合全球3-18岁青少儿的在线趣味中文课。
 
@@ -676,6 +676,7 @@
 - 👉 [Physics Labs](https://www.thephysicsaviary.com/Physics/Programs/Labs/find.php) - 网站上的模拟实验包括电路建造者、光的折射与反射、声音的合成、万有引力实验等多种主题，涵盖了高中物理的多个章节。
 - 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
+- 👉 [Flinn Scientific](https://www.flinnsso.com/) - 一家享誉全球的科学教育解决方案提供商，以供应高质量的科学教育产品和专业的实验室内务管理服务而著称。致力于支持和增强学校实验室的科学教育质量，为全世界数以千计的学校、学院和科研机构提供服务。
 
 ### 🏢 知识库
 
@@ -787,8 +788,9 @@
 
 - 👉 [Highlights](https://parents.highlights.com/) - 一个著名的儿童教育品牌，提供多种资源帮助家长激发孩子的阅读兴趣。
 - 👉 [GoodToKnow](https://www.goodto.com/) - 在该网站上，您将找到幸福、健康的家庭生活所需的一切。
-- 👉 [Achieve3000](https://www.achieve.org/) - 是一个提供教育服务的网站，专注于提高学生的阅读和写作能力。
+- 👉 [Achieve3000](https://www.achieve.org/) - 一个提供教育服务的网站，专注于提高学生的阅读和写作能力。
 - 👉 [Children’s Discovery Museum of San Jose](https://www.cdm.org/) - 圣何塞儿童探索博物馆（Children's Discovery Museum of San Jose）提供丰富多样的展览和互动体验，旨在激发儿童的创造力、好奇心和终身学习的兴趣。
+- 👉 [Fort Magic](https://fortmagic.com/) - 一个专注于提供创新和趣味性儿童玩具解决方案的网站，尤其以魔术堡垒（Fort Magic）这一品牌的搭建玩具而闻名。Fort Magic设计了一种独特的构筑套件，鼓励孩子们使用其产品创建各种创意和想象力的结构，比如城堡、堡垒、小屋、隧道等，不仅促进孩子们的创造力和手眼协调能力，同时也增强了他们的社交互动和解决问题的能力。
 
 ## ☑️ 机构报告
 
@@ -842,6 +844,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
 - 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
 - 👉 [美丽科学]( https://www.beautyofscience.cn/) - 专注于科学可视化前沿技术创新与产业化应用，打造融合科学与艺术之美的系列内容与软硬件产品，服务于科技文化数字展示与青少年科学素质教育。
+- 👉 [NOAA](https://www.noaa.gov/) - 美国国家海洋和大气管理局（National Oceanic and Atmospheric Administration，简称 NOAA），其主要任务是理解地球系统（包括大气、海洋、气候）并提供科学数据、产品和服务，以保护生命和财产，促进经济发展。
+- 👉 [AAPT](https://www.aapt.org/) -  美国物理教师协会（American Association of Physics Teachers，简称 AAPT），一个致力于提升物理教育质量和普及物理科学知识的非营利专业组织。协会成员包括物理教师、教授、研究人员和其他对物理教育感兴趣的个人。👉 [K12老师指导](https://www.aapt.org/K12/index.cfm)
 
 ### 🌕 天文历法
 
@@ -908,6 +912,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
+- 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 
 ### 🤖 AI
 
@@ -945,6 +950,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
 - 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
 - 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
+- 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般用户提供一个直观、全面的比较工具，用以评估不同语言模型在多种任务和指标上的表现。
+- 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案，而无需从零开始开发复杂的AI模型。👉 [开源代码](https://github.com/langgenius/dify)
 
 ## 🎨 Arts
 
@@ -1187,9 +1194,10 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Walter Saul](https://waltersaul.com/) - 口琴演奏家和教育家Walter Saul创立的个人网站，该网站为口琴爱好者提供了丰富的学习资源，还有其他音乐相关的课程和指导。
 - 👉 [Dominic Walliman](https://dominicwalliman.com/) - Dominic Walliman是一位知名的科学传播者、教育家和漫画家的线上平台。以其独特的方式解释复杂的科学概念而闻名，他最知名的作品包括一系列的简明科学漫画（Simple Science Comics），用幽默和直观的漫画形式，帮助人们理解和欣赏科学的美妙与复杂。他还做了[衍生物品商店](https://store.dftba.com/collections/domain-of-science)售卖制作的科学领域地图。
 - 👉 [Heimler's History](https://heimlershistory.com/) - 一个由历史学者、教师和作家Brian Heimler创立的网站。该网站致力于提供深入的历史内容，旨在增强公众对历史的兴趣和理解。Brian Heimler通过一系列的文章、视频和在线课程，探讨历史上的重要事件、人物及关键时期，尤其专注于美国历史。
-- 👉 [Simon Willison](https://simonwillison.net/) - 技术专家兼开源项目贡献者Simon Willison维护的技术博客。以其深入浅出的技术分析和敏锐的行业观察力，在技术圈享有较高的声誉。👉 [2024大模型回顾](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+- 👉 [Simon Willison](https://simonwillison.net/) - 技术专家兼开源项目贡献者Simon Willison维护的技术博客。以其深入浅出的技术分析和敏锐的行业观察力，在技术圈享有较高的声誉。大模型的内容写的非常好，👉 [2024大模型回顾](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的科学家。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的明星科学家。
+- 👉 [栗茂腾](https://blog.sciencenet.cn/u/limaotenghust) - 华中科大的生命科学教授，博客中有大量身边植物的介绍，非常详尽！
 
 ### 🏳️‍🌈 社区平台
 
