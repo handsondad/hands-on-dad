@@ -844,6 +844,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [HowStuffWorks](https://www.howstuffworks.com/) - 博闻网（HowStuffWorks）是美国一个百科全书类的网站。
 - 👉 [National Inventors Hall of Fame (NIHF) ](https://www.invent.org/) - 国家发明家名人堂（NIHF）是一个成立于1973年的美国非营利组织，旨在表彰持有对美国技术有重大贡献的美国专利的个人工程师和发明家。除了名人堂，赞助教育项目和大学竞赛。
 - 👉 [美丽科学]( https://www.beautyofscience.cn/) - 专注于科学可视化前沿技术创新与产业化应用，打造融合科学与艺术之美的系列内容与软硬件产品，服务于科技文化数字展示与青少年科学素质教育。
+- 👉 [科学人](https://www.scimonth.com.tw/) - 一份专注于科学、科技、环境和健康领域的高品质科普杂志。它是美国[《科学美国人》](https://www.scientificamerican.com/)杂志（Scientific American）在中文授权版本，内容涵盖最新的科研成果、科技趋势、环境议题和健康知识。
 - 👉 [NOAA](https://www.noaa.gov/) - 美国国家海洋和大气管理局（National Oceanic and Atmospheric Administration，简称 NOAA），其主要任务是理解地球系统（包括大气、海洋、气候）并提供科学数据、产品和服务，以保护生命和财产，促进经济发展。
 - 👉 [AAPT](https://www.aapt.org/) -  美国物理教师协会（American Association of Physics Teachers，简称 AAPT），一个致力于提升物理教育质量和普及物理科学知识的非营利专业组织。协会成员包括物理教师、教授、研究人员和其他对物理教育感兴趣的个人。👉 [K12老师指导](https://www.aapt.org/K12/index.cfm)
 
@@ -1060,7 +1061,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 - 👉 [书法字典](https://www.shufazidian.com/) - 书法字典是一个专门为中国书法爱好者、学习者以及研究者设计的在线资源平台。这个网站提供了一个庞大的书法作品数据库，涵盖了从古至今众多书法名家的名作，旨在帮助用户学习、欣赏和研究中国书法艺术。
 - 👉 [碑帖网](http://www.beitie.com/) - 一个专注于古代碑刻和书法艺术的专业网站，它为书法爱好者、研究人员和文化历史学者提供了一个宝贵的资源库。另有[墨池书法网](www.52shufa.com)提供书法碑帖高清图片下载。
-- 👉 [书法艺术网](http://www.shufaart.com/) - 一个知名的在线书法艺术平台，它汇集了丰富的书法资源，包括书法作品展示、名家介绍、书法教程、理论研究以及交流论坛，对于书法爱好者、学习者和专业艺术家来说，是一个极为宝贵的在线资源库。
+- 👉 [书法艺术网](http://www.shufaart.com/) - 一个知名的在线书法艺术平台，它汇集了丰富的书法资源，包括书法作品展示、名家介绍、书法教程、理论研究以及交流论坛，对于书法爱好者、学习者和专业艺术家来说，是一个极为宝贵的在线资源库。另有[书法网](http://www.shufa.com/)提供书法作品下载。
 - 📚️ [《书法7个问题：一份关于书法的知识、观念和深入途径的备忘录》](https://book.douban.com/subject/6309933/) - 对书法进行新锐而深刻的解说，以深入浅出的语言把书法的魅力和当代进展介绍给读者。
 - 📚️ [《中国书法：167个练习书法技法的分析与训练》](https://weread.qq.com/web/reader/20332b60726918f82037e58) - 邱振中老师关于中国书法167个练习书法技法的分析与训练。📺️ [B站邱振中老师讲解视频](https://www.bilibili.com/video/BV1P24y1s76g)
 - 👉 [方建勋书法文丛三册](https://book.douban.com/series/39412)
