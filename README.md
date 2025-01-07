@@ -943,6 +943,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
