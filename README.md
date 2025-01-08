@@ -117,6 +117,7 @@
 - 📚️ [《儿童发展心理学》](https://weread.qq.com/web/reader/24d32e0071cce5c524d88e5) - 记录了个体从产前发育开始到青春期的发展进程，包括胎儿期、婴儿及学步儿期、童年早期、童年中期和青春期等阶段的发展特征，系统阐述了个体在每一个发展阶段的生理、认知、智力、情绪、语言、行为、社会性以及人格等方面的发展状态，以及家庭及社会等因素对儿童心理发展的影响。
 - 📚️ [《发展心理学：儿童与青少年》](https://book.douban.com/subject/26838522/) - 介绍了从产前发育一直到青少年时期的发展进程，系统阐述了关于生理、认知、智力、语言、情绪、人格、性别角色意识以及社会性等重要发展领域的各种理论观点和重要研究。
 
+[↑ 返回目录 ↑](#-目录)
 <br/>
 
 # 👨‍👩‍👧‍👦 家庭教育
@@ -585,6 +586,7 @@
 - 📚️ [《宝贵的人生建议：我希望早点知道的智慧》](https://weread.qq.com/web/reader/a2c32190813ab822fg014a9a) - 凯文·凯利给孩子的一些人生建议。
 - 📚️ [《给父母的建议》](https://weread.qq.com/web/reader/83d32910727ca06983debb0) - 《给父母的建议》是苏联当代教育家苏霍姆林斯基专门为家长和从事教育工作的人员阅读所写的经典著作，内部附有他给子女的31封信。
 
+[↑ 返回目录 ↑](#-目录)
 <br/>
 
 # 🎓 学校教育
@@ -709,6 +711,7 @@
 - 👉 [评价青少年参与结果的概念框架](https://www.unicef.cn/documents/conceptual-framework-measuring-outcomes-adolescent-participation)
 - 👉 [EQuIP](https://www.achieve.org/our-initiatives/equip/equip) - 教育工作者评估教学产品品质（Educators Evaluating the Quality of Instructional Products）是一项旨在识别与共同核心州标准（CCSS）或下一代科学标准（NGSS）相匹配的高质量材料的倡议。
 
+[↑ 返回目录 ↑](#-目录)
 <br/>
 
 # 🏫 社会教育
@@ -811,6 +814,7 @@
 - ⏬ [中国儿童发展报告 2017](https://www.cdrf.org.cn/jjh/pdf/fazhanbaogao.pdf)
 - ⏬ [中国儿童早期发展研究报告 2019](http://www.sanyfoundation.org/wp-content/uploads/2020/07/%E4%B8%89%E4%B8%80%E5%9F%BA%E9%87%91%E4%BC%9A%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
+[↑ 返回目录 ↑](#-目录)
 <br/>
 
 # 👨‍💻 STEAM
@@ -1228,3 +1232,5 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [互联网的诞生](https://baike.baidu.com/item/互联网/199186) - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
 - 👉 [AlphaGO围棋战胜人类](https://deepmind.google/research/breakthroughs/alphago/) - 2016年，DeepMind开发的AlphaGO在围棋比赛中战胜了世界冠军李世石。这一事件展示了人工智能在复杂策略游戏中的强大能力，推动了AI技术的发展。📺️ [AlphaGO电影](https://www.bilibili.com/video/BV1Rg4y1o7H5)
 - 👉 [ChatGPT突破自然语言处理瓶颈](https://openai.com/chatgpt/overview/) - OpenAI开发的ChatGPT展示了在自然语言理解和生成方面的卓越能力。ChatGPT的成功标志着自然语言处理技术的重大突破，广泛应用于各个领域，提升了人机交互体验。
+
+[↑ 返回目录 ↑](#-目录)
