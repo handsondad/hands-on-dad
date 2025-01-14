@@ -1051,6 +1051,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 #### 🎑 音乐欣赏
 
+- 📚️ [《剑桥西方音乐理论发展史》](https://book.douban.com/subject/6989173/) - 可以说是西方音乐百科全书式的发展史。
 - 📚️ [《中国人的音乐》](https://weread.qq.com/web/reader/e8f32e9072ab5f2ee8f7bf8) - 这是一本讲中国传统音乐的、具有艺术普及功能的书，也是一本通过中华传统音乐来讲中国和中国人的书，是以中国传统音乐、各地民歌为脉，饱含深情讲述的中国故事。
 
 ### 🖌️ 绘画
@@ -1169,7 +1170,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 ### 🛠️ 工具
 
 - 👉 [Desmos](https://www.desmos.com/) - 一个强大的在线数学工具平台，以其免费的图形计算器而闻名。提供了一系列功能强大的工具，适用于教育者、学生和所有对数学有兴趣的人。**相当好！**🤩
-- 👉 [Wolframalpha](https://www.wolframalpha.com/) - 一个知识计算引擎，由Wolfram Research创建，它的目标是为用户提供计算和数据驱动的查询结果，而非传统的网页搜索结果。Wolfram|Alpha背后的技术不仅理解输入的查询内容，还能计算出答案并提供详细的解决步骤，以及相关的数据、图表、可视化信息等。
+- 👉 [WolframAlpha](https://www.wolframalpha.com/) - 一个知识计算引擎，由Wolfram Research创建，它的目标是为用户提供计算和数据驱动的查询结果，而非传统的网页搜索结果。WolframAlpha背后的技术不仅理解输入的查询内容，还能计算出答案并提供详细的解决步骤，以及相关的数据、图表、可视化信息等。
 - 👉 [Symbolab](https://www.symbolab.com/) - 一个高级的在线数学学习平台，主要功能是帮助用户解决数学问题，包括代数、微积分、三角学、几何学、统计学等领域的复杂问题。Symbolab的特色在于不仅提供解题结果，还以逐步解答的方式展示解题过程，这不仅有助于学生理解解题思路，也对教师的授课具有辅助作用。
 - 👉 [Mathigon](https://mathigon.org/) - 一个创新的数学教育平台，它采用互动式学习方法，提供广泛的数学课程和资源，适合不同年龄和学习阶段的学生。Mathigon旨在通过游戏化、可视化和交互性学习经验使数学变得更加有趣和易于理解。👉 [在线交互](https://polypad.amplify.com/p)
 - 👉 [Math StackExchange](https://math.stackexchange.com/) - A Q&A site for any level of math.
