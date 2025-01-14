@@ -665,8 +665,11 @@
 
 ### 🌏 地理
 
+- 👉 [中国国家地理信息公共服务平台](www.tianditu.gov.cn) - 中国国家地理信息公共服务平台的天地图，虽然主要提供现代地理信息，但其历史地图部分可以找到部分历史时期的地图。
+- 👉 [在线历史地图网站](www.sinohistoricalmap.com) - 一个专注于中国历史地理信息的在线资源库，该网站提供了从先秦时期到清朝末年的中国历史地图。另外一个类似功能网站[China Historical Map](http://www.chinahistoricalmap.com/)
 - 👉 [查看地震带工具](https://seismic-explorer.concord.org/) - 一个查看不同年份地震发生地点，可以标注出地球上各个地震带。
 - 📚️ [《十二幅地图中的世界史》](https://book.douban.com/subject/26816981/) - 地图不仅仅是帮助我们从甲地到乙地的工具，更是伟大历史时刻的缩影，是政治权力的强大手段。地图可以给人们美好的愿景，却又可以是极具毁灭性的政治势力的工具，能引起偏见，使世界扭曲变形。
+- 📚️ [《中国历史地图集（全八册）》](https://book.douban.com/subject/1055304/) - 一套权威的历史地理参考书籍。这套地图集详细描绘了从原始社会到中华人民共和国成立前的各个历史时期的地理、疆域变化。读史必备工具书。**相当好！**🤩
 - 📚️ [《地球之书》](https://book.douban.com/subject/35716683/) - 跨越了地球的整个历史，从46亿年前地球的诞生到未来数十亿年后必然的灭亡。
 
 ### 🏛︎ 历史
@@ -681,6 +684,7 @@
 - 👉 [鹰谷](https://www.integle.com/) - 深耕电子记录，记载和传承企业自有的研发数据和实验室工具。
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 - 👉 [Flinn Scientific](https://www.flinnsso.com/) - 一家享誉全球的科学教育解决方案提供商，以供应高质量的科学教育产品和专业的实验室内务管理服务而著称。致力于支持和增强学校实验室的科学教育质量，为全世界数以千计的学校、学院和科研机构提供服务。
+- 👉 [Antpedia](https://www.antpedia.com/) - 一家专注于科学仪器、实验室设备、分析检测技术和生命科学领域的在线平台。作为一个综合性的行业门户，Antpedia 提供了丰富的资源和信息，旨在为科研人员、工程师、学生以及相关领域的从业者提供一个交流、学习和分享的平台。
 
 ### 🏢 知识库
 
@@ -985,10 +989,12 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
   - 👉 [The Harmonica Club](https://harmonicaclub.com/) - 这个网站提供了一系列的基础到进阶课程，以及一个充满活力的社区，学习者可以在其中分享经验、交流技巧。此外，网站上还有乐器购买指南、曲谱下载等资源，是一个全面的口琴学习平台。
   - 👉 [World Harmonica Festival](https://www.world-harmonica-festival.de/) - 世界口琴节（World Harmonica Festival）是一个专注于口琴艺术和文化的国际性活动——世界口琴节的官方网站。
   - 📺️ [B站复音口琴教程](https://www.bilibili.com/video/BV1rU4y1F7MB) - 苡蒽de口琴乐园。👉 [B站空间](https://space.bilibili.com/479771256/lists)
+  - 📚️ [《口琴自学教程》](https://book.douban.com/subject/3562082/) - 口琴爱好者写的口琴自学教程【复音】。另有布鲁斯口琴教程[《跟美国名师学口琴》](https://book.douban.com/subject/2150650/)和口琴大师黄文胜的[《口琴入门基础教程》](https://book.douban.com/subject/5998232/)
 - 👉 [尤克里里学习](https://en.wikipedia.org/wiki/Ukulele)
   - 👉 [UkeGeeks](https://ukegeeks.com/) - UkeGeeks是一个专注于尤克里里（Ukulele）爱好者的资源网站。它提供了大量的教程、乐谱、技巧和社区支持，旨在帮助尤克里里爱好者提高演奏技巧和享受音乐的乐趣。👉 [在线歌曲编辑器](https://ukegeeks.com/songeditor)，👉 [开源代码](https://github.com/buzcarter/UkeGeeks)
   - 👉 [UkeAlong](https://ukealong.com/) - UkeAlong是一个专注于尤克里里（Ukulele）的教学与乐谱网站，非常全面的尤克里里学习网站。👉 [提供一个和弦识别工具](https://ukealong.com/tool/chord-detector/)
   - 👉 [UkuTabs](https://ukutabs.com/) - UkuTabs是一个非常受欢迎的尤克里里（Ukulele）和弦谱网站。这个网站集合了成千上万首各类风格的歌曲和弦谱，专为尤克里里爱好者打造。
+  - 📚️ [《尤克里里完全入门24课》](https://book.douban.com/subject/6959725/) - 尤克里里的入门教程。
 - 👉 [吉他学习](https://en.wikipedia.org/wiki/Guitar)
   - 👉 [在线吉他学习](https://hougiser.gitee.io/music-score/#/) - 一个提供吉他教学相关的网站。
   - 👉 [Fretboard](http://alexmost.github.io/fretboard/) - 一个在线的吉他指板视图工具，用于研究音阶和和弦。它为学习吉他提供了实用和直观的视觉辅助。👉 [开源代码](https://github.com/AlexMost/fretboard)
@@ -1043,6 +1049,44 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [久石让作品](https://zh.wikipedia.org/wiki/久石让) - 久石让是一位才华横溢的音乐家，他的作品深受全球听众的喜爱。他的音乐不仅具有独特的艺术价值，也为电影和动画作品增添了无限的魅力。📺️ [久石让电影配乐合集](https://www.bilibili.com/video/BV1LN411d7Hy)，📺️ [久石让-宫崎骏动漫音乐会](https://www.bilibili.com/video/BV1oV411y7Xo)
 - 👉 [MyNoise](https://mynoise.net/) - 一个提供背景噪音和互动声景的作品集。可以自定义背景声音。比如[孕妈妈子宫中的声音](https://mynoise.net/NoiseMachines/inUteroSoundGenerator.php)
 
+#### 🎑 音乐欣赏
+
+- 📚️ [《中国人的音乐》](https://weread.qq.com/web/reader/e8f32e9072ab5f2ee8f7bf8) - 这是一本讲中国传统音乐的、具有艺术普及功能的书，也是一本通过中华传统音乐来讲中国和中国人的书，是以中国传统音乐、各地民歌为脉，饱含深情讲述的中国故事。
+
+### 🖌️ 绘画
+
+#### ⛳ 绘画教学
+
+- 📚️ [《铅笔画技法》](https://book.douban.com/subject/2090395/) - 这是一本绘画入门书。铅笔画是广义上的素描，美术的基础是造型，艺术造型是人按照自然方式进行的复杂劳动，是一项需要长期训练才能形成的特殊技能，本书可以指导读者掌握对各形各类物体进行绘画的能力。
+- 📚️ [《美国绘画透视完全教程》](https://book.douban.com/subject/20382249/) - 教授你如何掌握绘画中的透视关系，通过深入浅出的方法，将复杂的透视理论通过简洁的语言让你轻松的掌握。
+- 📚️ [《世界绘画经典教程：动物素描》](https://book.douban.com/subject/5922095/) - 经久不衰的绘画教程，学习大量动物绘画的原则和技巧。
+- 📚️ [《世界绘画经典教程：风景素描》](https://book.douban.com/subject/5915006/) - 经久不衰的绘画教程，学习风景手绘基础。
+- 📚️ [《最美的花绘教科书》](https://book.douban.com/subject/26576534/) - 40种花草的水彩画技法，只要一步一步跟着画，就可以画出最美的花朵！
+- 📚️ [《水彩奶奶Cathy Johnson的清新手绘教程》](https://book.douban.com/subject/26315410/) - 跟随水彩奶奶的脚步，开启手绘大自然笔记之旅。
+- 📚️ [《水彩花卉的极致表现》](https://book.douban.com/subject/25851341/) - 这是一本给人以灵感的花卉绘制指导书。
+- 👉 [阿加特·埃弗曼手绘三部曲](https://book.douban.com/subject/26183911/)
+  - 📚️ [《植物的水彩极致表现》](https://book.douban.com/subject/25880435/) 
+  - 📚️ [《海洋生物的水彩极致表现》](https://book.douban.com/subject/25880437/) 
+  - 📚️ [《自然生物的水彩极致表现》](https://book.douban.com/subject/25880434/)
+
+#### 🔮 绘画欣赏
+
+- 👉 [儿童美术启蒙教育](https://www.xueshu.com/haowen/172688.html) - 学术之家上整理的12篇儿童美术启蒙教育。👉 [儿童艺术教育的重要性](https://www.xueshu.com/haowen/172705.html)
+- 📚️ [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
+- 📚️ [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
+- 📚️ [《构图的艺术》](https://book.douban.com/subject/6982049/) - 无论是写实还是抽象，是静物还是风景，所有伟大的画作都具有相同的特点：成功的构图。即是学习也是欣赏！
+
+#### 🏮 绘画作品
+
+- 📚️ [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
+- 📚️ [《治愈系的手账简笔画：人人都是艺术家》](https://weread.qq.com/web/reader/3d932380723fba3d3d9b21a) - 不需要复杂的描绘，用简单的线条、可爱的形状，就能释放你满满的爱心。本书便是一本生动活泼、简单易学的治愈系手账简笔画教程。
+
+#### 🛠️ 绘画工具
+
+- 👉 [Midjourney](https://www.midjourney.com/) - 一款AI绘画工具，用户只需输入想到的文字，就能通过人工智能产出相对应的图片。
+- 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
+- 👉 [Say What You See](https://experiments.withgoogle.com/say-what-you-see) - 一个实验项目，通过查看Google AI生成的图像并描述您所看到的内容，学习提示艺术并提高您的图像阅读技能。类似做游戏。
+
 ### 📸 摄影
 
 - 👉 [iGoTerra](https://igoterra.com/dashboard) - 一个提供植物、鸟类、昆虫图片和摄影者排名的网站。
@@ -1053,16 +1097,6 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《艾略特•厄威特：快照集》](https://book.douban.com/subject/26636418/) - 这本厚达544页的《快照集》涵盖了厄威特一生的重要作品，它们来自两架相机——一架用于工作、一架用于爱好。两架相机的作品一同向世人展现了人间悲喜剧。
 - 📚️ [《寂静》](https://book.douban.com/subject/26306353/) - 《寂静》中的作品由摄影师采用4*5大画幅相机自然光拍摄，无任何辅助设备，也未经后期制作。这部耗时数年的拍摄项目共分为6个主题，通过图像在指涉时间流逝上的喻意性作用，从过去，到现在，再向未来，展现了当代废墟美学的新高度。
 - 📚️ [《卡什肖像经典》](https://book.douban.com/subject/5906083/) - 透过优素福·卡什的双眼，透过他的视角以及他在拍摄伟人肖像时的娴熟技巧，我们得以看到20世纪全球最著名的人物。
-
-### 🖌️ 绘画
-
-- 👉 [儿童美术启蒙教育](https://www.xueshu.com/haowen/172688.html) - 学术之家上整理的12篇儿童美术启蒙教育。👉 [儿童艺术教育的重要性](https://www.xueshu.com/haowen/172705.html)
-- 📚️ [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
-- 📚️ [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
-- 📚️ [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
-- 👉 [Midjourney](https://www.midjourney.com/) - 一款AI绘画工具，用户只需输入想到的文字，就能通过人工智能产出相对应的图片。
-- 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
-- 👉 [Say What You See](https://experiments.withgoogle.com/say-what-you-see) - 一个实验项目，通过查看Google AI生成的图像并描述您所看到的内容，学习提示艺术并提高您的图像阅读技能。类似做游戏。
 
 ### 🖊️ 书法
 
