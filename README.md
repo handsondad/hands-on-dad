@@ -221,7 +221,7 @@
 
 #### 🎍 自然之美
 
-- 📚️ [《德雷尔一家》](https://weread.qq.com/web/reader/1d032280813ab8c2ag01770d) - 书中讲述的人与大自然的故事让人神往，是中小学生学习自然文学写作不可多得的范本。更有百余种动植物生活习性的精彩描述，为我们提供了一场自然观察和科普的知识盛宴。
+- 📚️ [《德雷尔一家》](https://weread.qq.com/web/reader/1d032280813ab8c2ag01770d) - 书中讲述的人与大自然的故事让人神往，是中小学生学习自然文学写作不可多得的范本。更有百余种动植物生活习性的精彩描述，为我们提供了一场自然观察和科普的知识盛宴。又名[《希腊三部曲》](https://weread.qq.com/web/reader/b4b327e0723ec241b4b1834)
 - 📚️ [《八堂自然课：大自然教给我们的生存之道》](https://weread.qq.com/web/reader/2e832730728aa8bc2e84144) - 这本书就像一只手，牵着我们走进大自然。接着它又教我们如何用眼、用耳、用心去体会。
 - 📚️ [《夏日走过山间》](https://weread.qq.com/web/reader/1c132bc0715379441c15d42) - 以其优美、细腻的文风而被称为“感动一个国家的文字”，开启了20世纪自然文学创作的新方式。
 - 📚️ [《人间草木》](https://weread.qq.com/web/reader/236321107156f80e23656b5) - 用极简的笔，极淡的墨写出了草木山川、花鸟虫鱼的人味，写出了乡情民俗、凡人小事温润的乡土味；以一颗从容豁达的心写出了世间的美好与灵动。
@@ -1186,7 +1186,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《什么是数学：对思想和方法的基本研究》](https://book.douban.com/subject/1320282/) - 书中搜集了许多经典的数学珍品，给出了数学世界的一组有趣的、深入浅出的图画，对整个数学领域中的基本概念与方法，做了精深而生动的阐述。
 - 📚️ [《数学也可以这样学：自然、空间和时间里的数学》](https://weread.qq.com/web/reader/cff321b07193f21acff90ed) - 本书汲取原始的经验，从生活出发，通过有趣的画图练习和模型制作等，向读者展示自然、空间以及时间里的数学知识。
 - 📚️ [《数学也可以这样学：大自然中的几何学》](https://weread.qq.com/web/reader/b5d3207071cfc36eb5d2a7f) - 大量彩图和手绘图引导读者观察大自然中的事物，并从中发现几何学的身影。
-- 📚️ [《代数的历史：人类对未知量的不舍追踪》](https://weread.qq.com/web/reader/8eb326c0723be76c8ebd4a5) - 深受读者喜爱的数学经典。
+- 📚️ [《代数的历史：人类对未知量的不舍追踪》](https://weread.qq.com/web/reader/8eb326c0723be76c8ebd4a5) - 深受读者喜爱的数学经典。写给好奇的非数学专业人士的代数历史书。
 - 👉 [盖尔范德中学生数学思维丛书](https://book.douban.com/series/54852)
   - 📚️ [《代数》](https://book.douban.com/subject/35320798/)
   - 📚️ [《函数和图像》](https://book.douban.com/subject/35320796/)
@@ -1211,6 +1211,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 🧾 [Everything2](https://everything2.com/) - 这个网站的核心理念是建立一个包含人类知识、观点和创意的全面数据库，用户可以在这里创建、编辑和分享各种类型的内容，包括文章、诗歌、故事、评论、观点甚至编程代码等。
 - 🧾 [NameCensus](https://namecensus.com/) - NameCensus是一个专注于分析和展示美国人口普查数据中名字流行度的网站。该网站提供了一个有趣而深入的视角，允许用户探索自1880年以来美国社会中名字的兴衰。
 - 👉 [统计局数据](https://data.stats.gov.cn/search.htm) - 国家统计局数据搜索入口。🧾 [统计年鉴](https://www.stats.gov.cn/sj/ndsj/)
+- 👉 [McCrindle Research](https://mccrindle.com.au) - 一个位于澳大利亚的研究、趋势分析和未来学咨询公司，由Mark McCrindle创立。这家公司专注于提供数据驱动的见解，旨在帮助企业和组织理解社会趋势、人口统计变化以及未来的工作和生活模式。McCrindle Research因其深入的研究报告、未来学预测以及对澳大利亚和全球人口趋势的分析而闻名。
+- 👉 [中文互联网语料资源](https://corpus.cybersac.cn/#/dataSet) - 中文互联网语料资源平台发布了共2.7TB中文资料，向社会开放，专门用来训练大模型。
 
 ## 👑 实践
 
