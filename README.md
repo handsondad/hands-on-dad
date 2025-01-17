@@ -289,6 +289,7 @@
 #### 🔯 文化
 
 - 📚️ [《中国古代文化常识》](https://weread.qq.com/web/reader/36832c507164851a368ca1b) - 行文平易简洁，雅俗共赏，一直以来，都是学习中国古代文化知识的入门经典。👉 [24年全新补订版](https://weread.qq.com/web/reader/650324e0813ab8febg011aed)
+- 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
 - 📚️ [《白先勇细说红楼梦》](https://weread.qq.com/web/reader/3c432fc05d0f283c488450e) - 《红楼梦》是中国文化高峰时的代表作。白先勇老师，希望借由这部旷世经典的赏读，让青年学子重新亲近我们的传统文化。📺️ [B站视频白先勇老师讲红楼梦](https://www.bilibili.com/video/BV178DJYQExf)
 - 📚️ [《罗伯特议事规则》](https://weread.qq.com/web/reader/f483244071cd7c81f486803) - 《罗伯特议事规则》蕴涵着丰富的理念，包括：法治、民主、权利保护、权力制衡、程序正当、程序性竞争、自由与制约、效率与公平。是一本经典、全面、权威的议事规则工具书。
 
@@ -372,6 +373,15 @@
 - 👉 [The Economic of Water](https://watercommission.org/) - 涉及水文循环的方方面面。Valuing the Hydrological Cycle as a Global Common Good.
 - 📚️ [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
 - 📚️ [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
+
+#### 🌌 星空
+
+- 📚️ [《DK宇宙大百科](https://book.douban.com/subject/26259174/) - 由NASA、NOAO等权威机构提供1000多幅震撼图片与精美图表，通过最权威的提供机构，和最先进的观测技术，助你领略宇宙的壮美多姿，认识宇宙及宇宙学的历史与发展，激发人类对宇宙与自身的思索。
+- 📚️ [《群星的法则：普林斯顿天文学家的宇宙通识课》](https://weread.qq.com/web/reader/6d832920813ab7d17g01703a) - 这是一本权威天文学家写给大众的宇宙通识读本。作者对现今人类掌握的宇宙知识娓娓道来，对天体物理发展史上的众多掌故如数家珍，笔触细腻而优雅。
+- 📚️ [《剑桥天文爱好者指南》](https://book.douban.com/subject/35562183/) - 无论初级爱好者还是观测老手们，这都是一部很好的指南。读完这本书，你能够知道天文爱好者大概是怎么样的一个群体，他们的主要活动是干什么，天文学的一些历史和基础概念等。
+- 📚️ [《夜观星空：天文观测实践指南》](https://book.douban.com/subject/10808841/) - 针对天文爱好者，从宇宙结构讲起，详细介绍了夜空中著名的恒星、行星、星团、星系以及彗星、流星和极光等，并介绍了各种观测方法，既包括目视观测，也包括使用双筒望远镜和天文望远镜观测。
+- 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
+- 📚️ [《天文学与生活》](https://book.douban.com/subject/30470522/) - 本书通过对科学过程、宇宙大小和年龄，以及星系的演化，介绍了天文学的基本知识。
 
 ### 🏟️ 城市空间
 
@@ -632,7 +642,8 @@
 - 👉 [PhysicsClassroom](https://www.physicsclassroom.com/) Physics Classroom是一个在线教育资源网站，专注于物理学的教学和学习。还发布有大量[YouTube视频](https://www.youtube.com/physicsclassroomLIVE)
 - 📺️ [物理学地图](https://youtu.be/ZihywtixUYo) - 由Dominic Walliman绘制的包含我们所知关于物理学的全部以及一些我们尚不知道的简单地图。 
 - 📺️ [二次元的中科院物理所](https://space.bilibili.com/407045223) - 中科院物理所的B站官方号。其中曹泽贤老师的[中国科学院跨年科学演讲](https://www.bilibili.com/video/BV1Dt4y1o736/)讲得非常非常好！
-- 📚️ [《天文学与生活》](https://book.douban.com/subject/30470522/) - 硬核的天文学知识，全书通过紧密联系星空与地球的关系，说明了天文学对人类生活的影响，以及人类的未来。
+- 📺️ [张朝阳的物理课](https://space.bilibili.com/500730982/) - B站上张朝阳推出的通俗易懂的物理课。且已经出版同步的三卷图书[《张朝阳的物理课：第一卷》](https://weread.qq.com/web/reader/e0632710813ab75acg011122)、[《张朝阳的物理课：第二卷》](https://weread.qq.com/web/reader/1c832530813ab8145g0178bf)和[《张朝阳的物理课：第三卷》](https://weread.qq.com/web/reader/236329a0813ab94e5g012c28)
+- 📚️ [《费恩曼物理学讲义三卷》](https://book.douban.com/series/5935) - 通俗易懂的物理学讲义，适合高年级学生使用。
 
 ### 🧬 生物
 
@@ -690,6 +701,7 @@
 
 - 📚️ [《通识：学问的门类》](https://weread.qq.com/web/reader/f4132cf07189bdaff41dd78) - 这是一本图文并茂的全学科导读图书，清晰的脉络梳理，生动的图谱展示，通过阅读，对于已知的内容你会更加详知；对于未知的领域你会获得新知。
 - 👉 [小时百科](https://wuli.wiki/index.html) - 小时百科，打造专业易用的数理知识库！
+- 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 - 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
@@ -858,17 +870,22 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [NOAA](https://www.noaa.gov/) - 美国国家海洋和大气管理局（National Oceanic and Atmospheric Administration，简称 NOAA），其主要任务是理解地球系统（包括大气、海洋、气候）并提供科学数据、产品和服务，以保护生命和财产，促进经济发展。
 - 👉 [AAPT](https://www.aapt.org/) -  美国物理教师协会（American Association of Physics Teachers，简称 AAPT），一个致力于提升物理教育质量和普及物理科学知识的非营利专业组织。协会成员包括物理教师、教授、研究人员和其他对物理教育感兴趣的个人。👉 [K12老师指导](https://www.aapt.org/K12/index.cfm)
 
-### 🌕 天文历法
+### 🤓 科普精选
 
-- 📚️ [《DK宇宙大百科](https://book.douban.com/subject/26259174/) - 由NASA、NOAO等权威机构提供1000多幅震撼图片与精美图表，通过最权威的提供机构，和最先进的观测技术，助你领略宇宙的壮美多姿，认识宇宙及宇宙学的历史与发展，激发人类对宇宙与自身的思索。
-- 📚️ [《群星的法则：普林斯顿天文学家的宇宙通识课》](https://weread.qq.com/web/reader/6d832920813ab7d17g01703a) - 这是一本权威天文学家写给大众的宇宙通识读本。作者对现今人类掌握的宇宙知识娓娓道来，对天体物理发展史上的众多掌故如数家珍，笔触细腻而优雅。
-- 📚️ [《剑桥天文爱好者指南》](https://book.douban.com/subject/35562183/) - 无论初级爱好者还是观测老手们，这都是一部很好的指南。读完这本书，你能够知道天文爱好者大概是怎么样的一个群体，他们的主要活动是干什么，天文学的一些历史和基础概念等。
-- 📚️ [《夜观星空：天文观测实践指南》](https://book.douban.com/subject/10808841/) - 针对天文爱好者，从宇宙结构讲起，详细介绍了夜空中著名的恒星、行星、星团、星系以及彗星、流星和极光等，并介绍了各种观测方法，既包括目视观测，也包括使用双筒望远镜和天文望远镜观测。
-- 📚️ [《天文之书》](https://weread.qq.com/web/reader/83e328e0725f98c583e80ca) - 天文学和空间探索的漫长历史充满着对一些巨大而深刻问题的回答。
-- 📚️ [《天文学与生活》](https://book.douban.com/subject/30470522/) - 本书通过对科学过程、宇宙大小和年龄，以及星系的演化，介绍了天文学的基本知识。
-- 📚️ [《古代天文历法讲座》](https://weread.qq.com/web/reader/fc132ea0813ab69c8g014e7b) - 中国古代天文历法非常发达，很多发明和创造在当时的世界上都是领先的。今天人们的生活、文化和观念里仍然渗透着古代天文历法的影响。
-- 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
+[《第一推动丛书》](https://book.douban.com/series/1700)是一套凝结了30年时光的经典科普丛书，被无数读者视为科学精神的家园。
+
+#### 💠 微观宏观
+
+- 📚️ [《从一到无穷：科学中的事实和臆测》](https://weread.qq.com/web/reader/d8732de071913d87d8751c1) - 是当今世界最有影响的科普经典名著之一，1970年代末由科学出版社引进出版后，曾在国内引起很大反响，直接影响了众多的科普工作者。
 - 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。**相当好！**🤩
+
+#### 🐣 自然生命
+
+- 📚️ [《自私的基因》](https://weread.qq.com/web/reader/fb732f6071691b6efb7de4b) - 是一部开创性的著作，不仅挑战了传统的生物进化观念，还激发了人们对生命本质和行为动机的深刻思考。通过对基因视角的解析，作者为理解生物多样性和人类社会提供了独特的视角，使其成为现代进化生物学和科普文学的经典之作。
+
+#### 🌕 复杂系统
+
+- 📚️ [《哥德尔、艾舍尔、巴赫书：集异璧之大成》](https://book.douban.com/subject/1291204/) - 通过对哥德尔的数理逻辑，艾舍尔的版画和巴赫的音乐三者的综合阐述，引人入胜地介绍了数理逻辑 学、可计算理 论、人工智能学、语言学、遗传学、音乐、绘画的理论等方面，构思精巧、含义深刻、视野广阔、富于哲学韵味。拥有极高评价的科普著作。
 
 ## 📡 Technology
 
@@ -964,6 +981,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
 - 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般用户提供一个直观、全面的比较工具，用以评估不同语言模型在多种任务和指标上的表现。
 - 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案，而无需从零开始开发复杂的AI模型。👉 [开源代码](https://github.com/langgenius/dify)
+- 👉 [腾讯兔小巢](https://txc.qq.com/) - 腾讯旗下的反馈互动社区工具，可以集成到软件产品中，收集用户的反馈。另外可以找到多款腾讯生态工具。
 
 ## 🎨 Arts
 
@@ -1119,6 +1137,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 ### 🎼 诗词
 
+- 👉 [古诗文网](https://www.gushiwen.cn/) - 一个专注于古诗词和古代文学的在线平台，用户可以在这个平台上搜索特定的诗歌、作者或者主题，也可以按照朝代、题材进行浏览，该网站还提供了诗词的朗诵音频，增加了学习和欣赏的趣味性。对于学习中文、研究中国传统文化和文学的人来说，古诗文网是一个非常实用和全面的工具。👉 [抓取的诗文数据](https://github.com/javayhu/poetry)
 - 📚️ [《唐诗百话》](https://weread.qq.com/web/reader/1fe32b10716677131fe7c0a) - 本书收入讲解唐诗的文章100余篇、唐诗近300首，按初唐、盛唐、中唐和晚唐四个时期编排。施先生结合作者情况和相关社会背景、历史知识的介绍，分别对每首诗歌进行分析、考据和讲解。
 
 ### 🎊 曲艺
@@ -1213,6 +1232,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [统计局数据](https://data.stats.gov.cn/search.htm) - 国家统计局数据搜索入口。🧾 [统计年鉴](https://www.stats.gov.cn/sj/ndsj/)
 - 👉 [McCrindle Research](https://mccrindle.com.au) - 一个位于澳大利亚的研究、趋势分析和未来学咨询公司，由Mark McCrindle创立。这家公司专注于提供数据驱动的见解，旨在帮助企业和组织理解社会趋势、人口统计变化以及未来的工作和生活模式。McCrindle Research因其深入的研究报告、未来学预测以及对澳大利亚和全球人口趋势的分析而闻名。
 - 👉 [中文互联网语料资源](https://corpus.cybersac.cn/#/dataSet) - 中文互联网语料资源平台发布了共2.7TB中文资料，向社会开放，专门用来训练大模型。
+- 👉 [癌症可视化资料](https://visualsonline.cancer.gov/) - 一个致力于提供高质量、科学准确的癌症视觉资料的平台。如果你对癌症科学感兴趣，或是在寻找专业的癌症视觉资料，这个网站是一个不可多得的资源库。
 
 ## 👑 实践
 
