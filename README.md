@@ -943,6 +943,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
+- 🤗 [Pi Box](https://hackaday.io/project/202168-pi-box/details) - 树莓派是最流行的单板计算机，使用时，需要自己准备一大堆外设，很不方便也不好携带。一位印度开发者，为树莓派设计了一个外壳，起名为 Pi Box，令人耳目一新。另外还有很多有趣的[数字电路作品](https://hackaday.io/projects)。
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
@@ -990,6 +991,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般用户提供一个直观、全面的比较工具，用以评估不同语言模型在多种任务和指标上的表现。
 - 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案，而无需从零开始开发复杂的AI模型。👉 [开源代码](https://github.com/langgenius/dify)
 - 👉 [腾讯兔小巢](https://txc.qq.com/) - 腾讯旗下的反馈互动社区工具，可以集成到软件产品中，收集用户的反馈。另外可以找到多款腾讯生态工具。
+- 👉 [HQDFM](https://www.nextpcb.com/dfm) - 一个在线PCB（Printed Circuit Board，印刷电路板）设计审查和可制造性分析（Design for Manufacturing，DFM）服务的平台。
 
 ## 🎨 Arts
 
@@ -1280,6 +1282,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [DFTBA Records](https://store.dftba.com/) - DFTBA Records (Don't Forget to Be Awesome Records)的在线商店是专为热爱音乐、艺术和创意内容的在线社区成员提供的一站式购物体验。如今已成为一个广受欢迎的平台，将多元化的创意作品带给全球的粉丝。
 - 👉 [Lobste.rs](https://lobste.rs/) - 一个以编程、软件开发、计算机科技和开源项目为中心的社区驱动型新闻聚合网站。它被设计成一个高度专注于技术话题的讨论平台，旨在为软件工程师、程序员和科技爱好者提供一个高质量、低噪音的交流环境。
 - 👉 [Mastodon](https://joinmastodon.org/) - 一个基于开源技术的分布式社交网络平台，旨在提供一个更加去中心化、个性化和隐私保护的在线交流空间。与传统的大型社交媒体平台不同，Mastodon将网络划分为多个由个人或组织独立运营的实例，这些实例通过联邦协议相互通信，形成了一个庞大的社交网络。
+- 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
 
 ### 🏇 科学竞赛
 
