@@ -752,6 +752,7 @@
   - 📚️ [《让学校重生》](https://weread.qq.com/web/reader/1da329507169805a1da7a62) - 每个学生都是一个独立的个体，因此，我们需要构建面向每一个孩子的个性化教育，使他们通过学习成为真正的自己。
 
 - 📚️ [《翻转课堂的可汗学院》](https://book.douban.com/subject/25886309/) - 当教育没有了贫富之分，课堂没有了年龄之别，实习没有了假期之限，当学生开始为自己的兴趣和未来而学习，教育才能最终达成其目标。
+- 📚️ [《教育新语：人工智能世代教什么，怎么学》](https://weread.qq.com/web/reader/28c326a0813ab91d5g011bd1) - 本书是一部深入探讨人工智能如何变革教育，帮助家长和老师刷新教育思维和教育方法的重磅著作。
 - 👉 [Next Generation Science Standard](https://www.nextgenscience.org/) - 介绍《新一代科学教育标准》（NGSS），该标准旨在改善K-12年级学生的科学教育。这些标准包括三个重要维度：[跨学科概念、科学与工程实践以及学科核心理念](https://www.nextgenscience.org/three-dimensional-learning)，这些维度共同帮助学生构建对科学的整体理解。
 
 ### 🏫 研究机构
@@ -762,6 +763,7 @@
 
 ### 🪂 创新实践
 
+- 👉 [KhanMigo](https://www.khanmigo.ai/) - 一个专注于教育科技的在线平台，它结合了人工智能、机器学习和大数据技术来提供个性化和互动式的学习体验。是可汗学院+GPT-4的前沿教育探索。
 - 👉 [K-College Programs](https://www.carolina.com/) - K-College products and support materials that impact student learning (Innovative Solutions & Exclusive Products)
   - 👉 [Smithsonian Programs](https://www.carolina.com/smithsonians-science-programs/22446.ct) - Setting the Standard in 3D Learning and 3D Assessment. 👉 [Smithsonian Science Programs for K–8](https://smithsonianstc.com/) - 史密森学会的科学项目。
   - 👉 [Building Blocks of Science](https://www.buildingblocksofscience.com/) - Introducing Building Blocks of Science 3D.
