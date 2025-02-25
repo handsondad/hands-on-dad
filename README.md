@@ -692,7 +692,8 @@
 ### 🏛︎ 历史
 
 - 📚️ [《世界小史》](https://weread.qq.com/web/reader/69132b105e28576916da9e8) - 从来没有一本讲述世界历史的书，像《世界小史》一样，能用如此简练生动、优雅平和的语言，勾勒出时而辉煌灿烂，时而暗夜茫茫的文明进程中，人类对自由、平等、博爱不屈不挠的追求，以及对抗压迫、邪恶、黑暗的无畏勇气。这是一本写给孩子的历史书。
-- 📚️ [《讲给大家的中国历史（共六册）》](https://weread.qq.com/web/reader/60a3243071fd109160a2210) - 讲给普通大众的130堂中国历史课，寻找被忽略的历史逻辑。杨昭老师讲透中国历史。
+- 📚️ [《讲给大家的中国历史（共六册）》](https://weread.qq.com/web/reader/60a3243071fd109160a2210) - 讲给普通大众的130堂中国历史课，寻找被忽略的历史逻辑。杨昭老师讲透中国历史。现在已经更新到13册了。
+- 📚️ [《沈从文讲文物》](https://weread.qq.com/web/reader/c9532c90813ab775fg012f77) - 沈从文是国内文物研究的先驱，在文物研究的多个领域都有开创性的成果，凝结了沈从文整个后半生的心血。本书精选沈从文文物研究文章30篇，分门别类地介绍了玉器、陶瓷、漆器、琉璃等文物的鉴赏知识、加工工艺、历史典故、研究方法，把6000年文物分门别类地看个遍，从此掌握看文物的门道！
 
 ### 🧫 实验室
 
@@ -781,7 +782,7 @@
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
 - 👉 [Fiveable](https://library.fiveable.me/) - Fiveable是一个集中提供大学预科（AP）学习资料的在线教育平台。 
 - 👉 [Code](https://code.org/) - Code.org是一个非盈利性的全球性组织，致力于为所有年龄层的学生提供计算机科学教育。
-- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
+- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
 - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
 - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
@@ -1084,6 +1085,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 #### 🎑 音乐欣赏
 
+- 📚️ [《音乐的故事：从巴比伦到披头士》](https://weread.qq.com/web/reader/a3d32fb071d54fb1a3d1129) - 极简欧洲主流音乐演化史，了解西方音乐的来龙去脉。📺️ [BBC同名纪录片](https://movie.douban.com/subject/21759202/)
 - 📚️ [《剑桥西方音乐理论发展史》](https://book.douban.com/subject/6989173/) - 可以说是西方音乐百科全书式的发展史。
 - 📚️ [《中国人的音乐》](https://weread.qq.com/web/reader/e8f32e9072ab5f2ee8f7bf8) - 这是一本讲中国传统音乐的、具有艺术普及功能的书，也是一本通过中华传统音乐来讲中国和中国人的书，是以中国传统音乐、各地民歌为脉，饱含深情讲述的中国故事。
 
@@ -1109,6 +1111,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
 - 📚️ [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 📚️ [《构图的艺术》](https://book.douban.com/subject/6982049/) - 无论是写实还是抽象，是静物还是风景，所有伟大的画作都具有相同的特点：成功的构图。即是学习也是欣赏！
+- 📚️ [《关于构图问题》](https://weread.qq.com/web/reader/9b132c20718896d19b17fb7) - 中国画构图问题，学习东方构图思维！
 
 #### 🏮 绘画作品
 
