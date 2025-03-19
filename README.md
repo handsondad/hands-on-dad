@@ -195,6 +195,8 @@
 
 ### 🧟 睡前故事
 
+一个儿童睡前故事网站[BeddyStories](https://beddystories.com/)，收集了全球经典的儿童睡前故事。**相当好！**🤩
+
 #### 🦄 奇幻故事
 
 - 📚️ [《一千零一夜》](https://book.douban.com/subject/30355859/) - 本书精选《一千零一夜》中最脍炙人口也最为有趣的十个故事。
@@ -423,6 +425,7 @@
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
 - 👉 [引擎运作机制](https://mechanicalgifs.com/) - 动画演示各类引擎运作机制。
+- 👉 [乐高日心仪](https://marian42.de/article/orrery/) - 国外网友使用乐高积木，搭建了一个可以转动的日心仪。非常惊艳！
 - 👉 [PlayDNA](https://www.carolina.com/genetic-dna-models/playdna-dna-model-kit-intro-pack/211490.pr?question=dna+model) - PlayDNA! classroom kits (and compatible RNA parts) will be available from Carolina Science.
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 
