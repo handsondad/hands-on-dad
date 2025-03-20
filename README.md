@@ -680,6 +680,7 @@
 #### 🏈 英语
 
 - 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTube视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [AI辅助背单词](https://prowords.zeabur.app/) - 基于AI技术，根据你的职业背景生成贴合实际工作场景的英语例句，让记忆单词更有效、更有意义。👉 [开源代码](https://github.com/winterfx/prowords)
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 
@@ -919,6 +920,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🔢 数字工程
 
 - 👉 [儿童绘本数字化](https://readtogether.ai/) - 李沐开发的儿童绘本实体书转化为电子书并转化为可朗读版本。 开源的上千本英文绘本[网盘地址](https://bit.ly/kidsbooklib)，可以加入到该数字化产品中。
+- 👉 [BeddyStories](https://beddystories.com/) - 一个儿童睡前故事网站收集了全球经典的儿童睡前故事。
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
@@ -954,6 +956,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
+- 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+- 🤗 [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 一个自己动手制作的手写字体，项目开源可参考。
 
 ### 🤖 AI
 
@@ -1001,6 +1005,9 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI 语音工具，具有多种功能（语音识别、翻译、语音克隆、文本转语音）。
 - 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。 
 - 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。👉 [开源代码](https://github.com/dgtlmoon/changedetection.io)
+- 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
+- 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
+- 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
 
 ## 🎨 Arts
 
@@ -1077,6 +1084,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
+- 👉 [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion.
 
 #### 📣 音乐作品
 
@@ -1294,6 +1302,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Lobste.rs](https://lobste.rs/) - 一个以编程、软件开发、计算机科技和开源项目为中心的社区驱动型新闻聚合网站。它被设计成一个高度专注于技术话题的讨论平台，旨在为软件工程师、程序员和科技爱好者提供一个高质量、低噪音的交流环境。
 - 👉 [Mastodon](https://joinmastodon.org/) - 一个基于开源技术的分布式社交网络平台，旨在提供一个更加去中心化、个性化和隐私保护的在线交流空间。与传统的大型社交媒体平台不同，Mastodon将网络划分为多个由个人或组织独立运营的实例，这些实例通过联邦协议相互通信，形成了一个庞大的社交网络。
 - 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
+- 👉 [BrickLink](https://www.bricklink.com/) - BrickLink 是一个专注于乐高（LEGO）零件、套装和迷你人偶的在线市场。
 
 ### 🏇 科学竞赛
 
