@@ -178,6 +178,7 @@
 - 📚️ [《心理学与生活》](https://weread.qq.com/web/reader/a6c32000813ab6c04g013ced) - 是一部心理学经典教科书，心理学导论类教材的典范之作。
 - 📚️ [《津巴多普通心理学》](https://weread.qq.com/web/reader/631324c0813ab735bg01382c) - 普通心理学的经典教材。
 - 📚️ [《社会心理学》](https://weread.qq.com/web/reader/8f532bd07278850c8f51770) - 是人们了解自身、了解社会、了解自己与社会之间关系的最佳的指导性书籍。
+- 📚️ [《爱的艺术》](https://weread.qq.com/web/reader/d7d32d70722dd429d7d723d) - 爱是一门艺术，是人格整体的展现，要发展爱的能力，就需要努力发展自己的人格，并朝着有益的目标迈进。
 
 ### 🚑️ 健康安全
 
@@ -478,6 +479,7 @@
 
 - 📚️ [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
 - 📚️ [《发现之旅：历史上最伟大的十次自然探险》](https://book.douban.com/subject/10439064/) - 世界历史上最著名的探险家、科学家、艺术家联袂演绎一幕幕迷人的自然历史冒险故事，三百年历史的时间隧道，携您加入未知领域的探险与历史伟人一起遨游世界。
+- 📚️ [《风沙星辰》](https://weread.qq.com/web/reader/59232d90813ab7f8cg017f95) - 《风沙星辰》是一部充满人性光辉的作品，它不仅展示了飞行员的勇敢，更揭示了人类在自然面前的渺小与伟大。
 
 #### 💅 个人成长
 
@@ -1009,6 +1011,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
 - 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
 - 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
+- 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
 
 ## 🎨 Arts
 
