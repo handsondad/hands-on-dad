@@ -933,6 +933,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
+- 👉 [虚拟博物馆](https://mayeclair.itch.io/museum-of-all-things) - 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
+- 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## 🩺 Engineering
 
@@ -1018,6 +1020,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
 - 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
 - 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
+- 👉 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
 
 ## 🎨 Arts
 
