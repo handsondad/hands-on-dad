@@ -1004,6 +1004,8 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
 - 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
+- 👉 [Bokeh](https://github.com/bokeh/bokeh) - 数据可视化工具包。Interactive Data Visualization in the browser, from Python.
+- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker) - 可以交互的数据可视化工具包。Turn your dataframe into an interactive UI for visual analysis.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
 - 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
