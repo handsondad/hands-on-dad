@@ -727,6 +727,8 @@
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 - 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
 - 👉 [WorldCat](https://www.worldcat.org/) - WorldCat是全球最大的图书馆资源在线目录之一，由OCLC（Online Computer Library Center）运营。连接了全球数以万计的图书馆，提供了一个可以搜索和定位近十亿条图书馆藏记录的平台，涵盖了图书、期刊、电影、音乐录音、数字内容等多种资料类型。
+- 👉 [通辽宇宙知识库](https://www.tongliaouniverse.cn/) - 一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库。通过地图可视化、人物关系网络、文化符号整理等方式，帮助观众更全面地理解和探索历史事件与人物。相比传统的线性视频内容，我们提供多维度、可交互的知识体验，让用户能够按照自己的兴趣和节奏探索历史的奇妙世界。
+- 👉 [高等院校三千所](https://laosheng.top/fuwu/yuanxiao) - 详细介绍了高等院校三千所的知识库。
 
 ## ✨ 教学标准
 
@@ -937,6 +939,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
 - 👉 [虚拟博物馆](https://mayeclair.itch.io/museum-of-all-things) - 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
 - 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+- 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
 
 ## 🩺 Engineering
 
@@ -1320,6 +1323,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Mastodon](https://joinmastodon.org/) - 一个基于开源技术的分布式社交网络平台，旨在提供一个更加去中心化、个性化和隐私保护的在线交流空间。与传统的大型社交媒体平台不同，Mastodon将网络划分为多个由个人或组织独立运营的实例，这些实例通过联邦协议相互通信，形成了一个庞大的社交网络。
 - 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
 - 👉 [BrickLink](https://www.bricklink.com/) - BrickLink 是一个专注于乐高（LEGO）零件、套装和迷你人偶的在线市场。
+- 👉 [Ko-fi](https://ko-fi.com) - 一个为内容创作者量身打造的在线赞赏和商品销售平台。它通过提供简单直接的赞赏机制、商品销售功能和社区互动空间，帮助创作者与他们的支持者建立更紧密的联系，并从中获得必要的资金支持。无论你是刚起步的创作者还是已经有一定影响力的专业人士，Ko-fi 都是一个值得考虑的平台。
 
 ### 🏇 科学竞赛
 
