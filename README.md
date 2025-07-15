@@ -1275,7 +1275,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！**相当好！**🤩
 - 👉 [3Blue1Brown](https://www.3blue1brown.com/) - 专注于制作直观理解数学概念视频，其内容覆盖数学、人工智能等领域，还有[衍生的物品商店](https://store.dftba.com/collections/3blue1brown)非常有趣。📺️ [YouTube视频](https://www.youtube.com/3blue1brown)、📺️ [B站官方视频](https://space.bilibili.com/88461692)
 - 👉 [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
-- 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 这是一个傅里叶级数的动画课程。
+- 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 数学之美：一个傅里叶级数的动画课程。
+- 👉 [阶乘的斯特林公式推导](https://www.longluo.me/blog/stirlings-formula/) - 数学之美：斯特林公式一般用来快速计算阶乘 n!，本文尝试用通俗语言推导这个公式。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 
 ### 📊 数据
