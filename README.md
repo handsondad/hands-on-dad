@@ -377,6 +377,7 @@
 <!-- ![水文循环](./images/水文循环.png) -->
 
 - 👉 [The Economic of Water](https://watercommission.org/) - 涉及水文循环的方方面面。Valuing the Hydrological Cycle as a Global Common Good.
+- 👉 [地球天气可视化](https://zoom.earth/maps/temperature/) - 全球当前的天气可视化数据。**相当好！**🤩
 - 📚️ [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
 - 📚️ [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
 
@@ -431,6 +432,7 @@
 - 👉 [乐高日心仪](https://marian42.de/article/orrery/) - 国外网友使用乐高积木，搭建了一个可以转动的日心仪。非常惊艳！
 - 👉 [PlayDNA](https://www.carolina.com/genetic-dna-models/playdna-dna-model-kit-intro-pack/211490.pr?question=dna+model) - PlayDNA! classroom kits (and compatible RNA parts) will be available from Carolina Science.
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
+- 👉 [Moss&Fog](https://mossandfog.com/) - 一个富有创意和灵感的网站，专注于艺术、设计、自然、科技以及可持续生活等主题。旨在探索和发现我们周围的美好世界。
 
 #### 🎯 危险的事
 
@@ -447,6 +449,7 @@
 - 👉 [7 Family Games to Play Anywhere](https://parents.highlights.com/7-family-games-to-play-anywhere) - 7个最常用的家庭游戏。
 - 👉 [21 kids' party games ideas](https://www.goodto.com/family/kids-party-games-32207) - Goodto网站提供的一个孩子聚会游戏。
 - 👉 [ThinkFun](https://www.thinkfun.com/) - ThinkFun是一家专注于设计创意教育玩具和游戏的公司，旨在通过游戏化的学习体验激发孩子们的创造力、逻辑思维和解决问题的能力。
+- 👉 [在线拼图](https://img.ops-coffee.cn/) - 在线工具，多张图片拼成一张大图。可以在线完成拼图游戏。
 
 ### 👓️ 阅读
 
@@ -805,6 +808,9 @@
 - 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
 - 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
 - 👉 [Kialo-edu](https://www.kialo-edu.com/) - 一个专注于批判性思维和论证能力培养的教育平台，它为教育工作者和学生提供了一个交互式的在线工具，用于构建和分析论证，以提升逻辑思维和辩论技巧。
+- 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
+- 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
+- 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
 
 ## 🎒 慕课资源
 
@@ -940,6 +946,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [虚拟博物馆](https://mayeclair.itch.io/museum-of-all-things) - 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
 - 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
+- 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 
 ## 🩺 Engineering
 
@@ -1217,6 +1224,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [60 Fun and Easy Kids' Crafts](https://www.hgtv.com/design/make-and-celebrate/handmade/20-fun-and-easy-kids-crafts-pictures) - 来自HGTV网站（是一家专注于家居装修和园艺）的儿童工艺品。
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - 我们分享适合孩子们的简易手工艺品，从自制的彩泥到点画艺术，浏览我们精心挑选的50个最佳手工艺品。
 - 👉 [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
+- 👉 [Moss&Fog](https://mossandfog.com/) - 一个富有创意和灵感的网站，专注于艺术、设计、自然、科技以及可持续生活等主题。旨在探索和发现我们周围的美好世界。
 
 ### 📠 3D打印
 
