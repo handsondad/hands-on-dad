@@ -947,6 +947,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
+- 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
 
 ## 🩺 Engineering
 
@@ -981,6 +982,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
 - 🤗 [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 一个自己动手制作的手写字体，项目开源可参考。
+- 🤗 [vYinn（殷人）](https://github.com/shanleiguang/vYinn) - 古籍印章图案的制作工具。该作者发起了中文古籍數字復刻計劃，包括多个开源内容！
+- 👉 [木制显示器](https://benholmen.com/blog/kilopixel/) - 一位程序员制作了一个木质的像素显示器，非常有创意！
+- 👉 [地震预警系统](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/) - 谷歌披露，安卓系统内置了一个全球地震预警系统，可以向用户发出地震警报。设计思路非常有启发！
+- 👉 [Touch Mapper](https://touch-mapper.org/) - 这个网站的创意很棒，你输入一个街道地址，它输出该地址的3D地图文件，可以3D打印出来，供视障人士触摸使用。
 
 ### 🤖 AI
 
@@ -1296,6 +1301,11 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [McCrindle Research](https://mccrindle.com.au) - 一个位于澳大利亚的研究、趋势分析和未来学咨询公司，由Mark McCrindle创立。这家公司专注于提供数据驱动的见解，旨在帮助企业和组织理解社会趋势、人口统计变化以及未来的工作和生活模式。McCrindle Research因其深入的研究报告、未来学预测以及对澳大利亚和全球人口趋势的分析而闻名。
 - 👉 [中文互联网语料资源](https://corpus.cybersac.cn/#/dataSet) - 中文互联网语料资源平台发布了共2.7TB中文资料，向社会开放，专门用来训练大模型。
 - 👉 [癌症可视化资料](https://visualsonline.cancer.gov/) - 一个致力于提供高质量、科学准确的癌症视觉资料的平台。如果你对癌症科学感兴趣，或是在寻找专业的癌症视觉资料，这个网站是一个不可多得的资源库。
+
+### 🧮 有趣问题
+
+- 👉 [为什么 π² ≈ g](https://roitman.io/blog/91) - π² 等于9.86，很接近重力加速度 g 的9.8。本文告诉你，这不是巧合，跟米的定义（北极到赤道的距离的百万分之一）有关。
+
 
 ## 👑 实践
 
