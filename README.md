@@ -4,7 +4,6 @@
 
 <img src="./images/遇见孩子.png" alt="遇见孩子" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
 
-
 <h3>遇见孩子，遇见更好的自己 🚀</h3>
 <h3>欢迎来到一个新手爸爸的育儿宝库 💎</h3>
 
@@ -28,6 +27,7 @@
   - 🎃 [家庭活动](#-家庭活动)
   - 🧧 [写给孩子的信](#-写给孩子的信)
 - 🎓 [学校教育](#-学校教育)
+  - 🧩 [教学理念](#-教学理念)
   - 🗃️ [教学资源](#-教学资源)
   - ✨ [教学标准](#-教学标准)
   - 🧭 [教学评估](#-教学评估)
@@ -177,6 +177,8 @@
 - 📚️ [《他怎么总找我麻烦？：理解六至十一岁孩子》](https://book.douban.com/subject/27054213/) - 如何理解六至十一岁的孩子？运用神经科学和实验心理学的科学发现来理解。
 - 📚️ [《心理学与生活》](https://weread.qq.com/web/reader/a6c32000813ab6c04g013ced) - 是一部心理学经典教科书，心理学导论类教材的典范之作。
 - 📚️ [《津巴多普通心理学》](https://weread.qq.com/web/reader/631324c0813ab735bg01382c) - 普通心理学的经典教材。
+- 📚️ [《社会心理学》](https://weread.qq.com/web/reader/8f532bd07278850c8f51770) - 是人们了解自身、了解社会、了解自己与社会之间关系的最佳的指导性书籍。
+- 📚️ [《爱的艺术》](https://weread.qq.com/web/reader/d7d32d70722dd429d7d723d) - 爱是一门艺术，是人格整体的展现，要发展爱的能力，就需要努力发展自己的人格，并朝着有益的目标迈进。
 
 ### 🚑️ 健康安全
 
@@ -194,6 +196,8 @@
 - 👉 [25首经典儿歌童谣大全](https://www.wukongsch.com/blog/zh/best-kids-songs-collection-post-36383/) - 25首经典儿歌童谣大全，含中英文歌词。⏬ [Download the PDF](./docs/中文经典儿歌大全.pdf)
 
 ### 🧟 睡前故事
+
+一个儿童睡前故事网站[BeddyStories](https://beddystories.com/)，收集了全球经典的儿童睡前故事。**相当好！**🤩
 
 #### 🦄 奇幻故事
 
@@ -331,6 +335,7 @@
 
 #### 🐶 动物
 
+- 👉 [野朋友小程序](https://docs.qq.com/doc/p/fba000c658319931afcc1701e6abf26c7db6fc3f) - 这是一个识别动物的小程序，以腾讯自研的AI万物识别通用模型YOLO-World为底层技术，结合腾讯产品能力，让公众轻松参与以数据标注为主的公民科学。
 - 📚️ [《所罗门王的指环》](https://book.douban.com/subject/1024846/) - 大自然的真实面貌，比起诗人所能描摹的境界，更要美上千百倍。
 - 📚️ [《地球上最孤单的动物：43种濒危动物插画集》](https://book.douban.com/subject/34897038/) - 本书介绍了来自世界八大栖息地的43 种野生濒危动物，讲述了它们的生存状态、生活习性，以及面临的威胁和困境。
 - 📚️ [《动物的秘密语言》](https://book.douban.com/subject/36915334/) - 在本书中，动物的这些基本行为被一一讲述。作者用风趣、生动的语言，精准、有趣的插图把动物心理与其行为之间的微妙关系展现得淋漓尽致。
@@ -372,6 +377,7 @@
 <!-- ![水文循环](./images/水文循环.png) -->
 
 - 👉 [The Economic of Water](https://watercommission.org/) - 涉及水文循环的方方面面。Valuing the Hydrological Cycle as a Global Common Good.
+- 👉 [地球天气可视化](https://zoom.earth/maps/temperature/) - 全球当前的天气可视化数据。**相当好！**🤩
 - 📚️ [《气象学与生活》](https://book.douban.com/subject/26942567/) - 本书内容丰富、概念清楚、深入浅出、图文并茂。可以作为对气象学感兴趣的人们学习了解大气变化奥秘的入门读物。
 - 📚️ [《气象之书》](https://book.douban.com/subject/35405817/) - 这一段旅程记录了气象学史上的100个里程碑及精彩瞬间。
 
@@ -423,8 +429,10 @@
 - 👉 [制作3D植物](https://github.com/jim-fx/plantarium) - 可以通过浏览器制作3D的可视化植物。
 - 👉 [事物如何工作](https://home.theodoregray.com/) - Theodore Gray 一些关于机械、化学和物理等的工具书。
 - 👉 [引擎运作机制](https://mechanicalgifs.com/) - 动画演示各类引擎运作机制。
+- 👉 [乐高日心仪](https://marian42.de/article/orrery/) - 国外网友使用乐高积木，搭建了一个可以转动的日心仪。非常惊艳！
 - 👉 [PlayDNA](https://www.carolina.com/genetic-dna-models/playdna-dna-model-kit-intro-pack/211490.pr?question=dna+model) - PlayDNA! classroom kits (and compatible RNA parts) will be available from Carolina Science.
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
+- 👉 [Moss&Fog](https://mossandfog.com/) - 一个富有创意和灵感的网站，专注于艺术、设计、自然、科技以及可持续生活等主题。旨在探索和发现我们周围的美好世界。
 
 #### 🎯 危险的事
 
@@ -441,6 +449,7 @@
 - 👉 [7 Family Games to Play Anywhere](https://parents.highlights.com/7-family-games-to-play-anywhere) - 7个最常用的家庭游戏。
 - 👉 [21 kids' party games ideas](https://www.goodto.com/family/kids-party-games-32207) - Goodto网站提供的一个孩子聚会游戏。
 - 👉 [ThinkFun](https://www.thinkfun.com/) - ThinkFun是一家专注于设计创意教育玩具和游戏的公司，旨在通过游戏化的学习体验激发孩子们的创造力、逻辑思维和解决问题的能力。
+- 👉 [在线拼图](https://img.ops-coffee.cn/) - 在线工具，多张图片拼成一张大图。可以在线完成拼图游戏。
 
 ### 👓️ 阅读
 
@@ -474,6 +483,7 @@
 
 - 📚️ [《鲁滨逊漂流记》](https://book.douban.com/subject/30284020/) - 《鲁滨逊漂流记》是关于一个人的故事，是勇气和冒险，是成长和改变，是孤独和恐惧，是信仰和灵魂，是劳作和创造，更是人的潜能和伟大的故事。
 - 📚️ [《发现之旅：历史上最伟大的十次自然探险》](https://book.douban.com/subject/10439064/) - 世界历史上最著名的探险家、科学家、艺术家联袂演绎一幕幕迷人的自然历史冒险故事，三百年历史的时间隧道，携您加入未知领域的探险与历史伟人一起遨游世界。
+- 📚️ [《风沙星辰》](https://weread.qq.com/web/reader/59232d90813ab7f8cg017f95) - 《风沙星辰》是一部充满人性光辉的作品，它不仅展示了飞行员的勇敢，更揭示了人类在自然面前的渺小与伟大。
 
 #### 💅 个人成长
 
@@ -609,6 +619,12 @@
 
 # 🎓 学校教育
 
+## 🧩 教学理念
+
+### 🧒 小学教育
+
+- 📚️ [《把整颗心献给孩子》](https://weread.qq.com/web/reader/55032830813ab83cag017ab2) - 本书是苏霍姆林斯基实践小学教育的经典之作。他担任巴甫雷什学校校长后，亲手接任一个班的班主任，从幼儿入学开始，一直到他们离开并进入更高一级学校，作者整整六年全程陪伴、教育这些孩子，忠实并完整地记录了这个班的教育过程。
+
 ## 🗃️ 教学资源
 
 ### 🚩 教学创意
@@ -677,6 +693,7 @@
 #### 🏈 英语
 
 - 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTube视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [AI辅助背单词](https://prowords.zeabur.app/) - 基于AI技术，根据你的职业背景生成贴合实际工作场景的英语例句，让记忆单词更有效、更有意义。👉 [开源代码](https://github.com/winterfx/prowords)
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
 
@@ -692,7 +709,8 @@
 ### 🏛︎ 历史
 
 - 📚️ [《世界小史》](https://weread.qq.com/web/reader/69132b105e28576916da9e8) - 从来没有一本讲述世界历史的书，像《世界小史》一样，能用如此简练生动、优雅平和的语言，勾勒出时而辉煌灿烂，时而暗夜茫茫的文明进程中，人类对自由、平等、博爱不屈不挠的追求，以及对抗压迫、邪恶、黑暗的无畏勇气。这是一本写给孩子的历史书。
-- 📚️ [《讲给大家的中国历史（共六册）》](https://weread.qq.com/web/reader/60a3243071fd109160a2210) - 讲给普通大众的130堂中国历史课，寻找被忽略的历史逻辑。杨昭老师讲透中国历史。
+- 📚️ [《讲给大家的中国历史（共六册）》](https://weread.qq.com/web/reader/60a3243071fd109160a2210) - 讲给普通大众的130堂中国历史课，寻找被忽略的历史逻辑。杨昭老师讲透中国历史。现在已经更新到13册了。
+- 📚️ [《沈从文讲文物》](https://weread.qq.com/web/reader/c9532c90813ab775fg012f77) - 沈从文是国内文物研究的先驱，在文物研究的多个领域都有开创性的成果，凝结了沈从文整个后半生的心血。本书精选沈从文文物研究文章30篇，分门别类地介绍了玉器、陶瓷、漆器、琉璃等文物的鉴赏知识、加工工艺、历史典故、研究方法，把6000年文物分门别类地看个遍，从此掌握看文物的门道！
 
 ### 🧫 实验室
 
@@ -712,6 +730,8 @@
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
 - 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
 - 👉 [WorldCat](https://www.worldcat.org/) - WorldCat是全球最大的图书馆资源在线目录之一，由OCLC（Online Computer Library Center）运营。连接了全球数以万计的图书馆，提供了一个可以搜索和定位近十亿条图书馆藏记录的平台，涵盖了图书、期刊、电影、音乐录音、数字内容等多种资料类型。
+- 👉 [通辽宇宙知识库](https://www.tongliaouniverse.cn/) - 一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库。通过地图可视化、人物关系网络、文化符号整理等方式，帮助观众更全面地理解和探索历史事件与人物。相比传统的线性视频内容，我们提供多维度、可交互的知识体验，让用户能够按照自己的兴趣和节奏探索历史的奇妙世界。
+- 👉 [高等院校三千所](https://laosheng.top/fuwu/yuanxiao) - 详细介绍了高等院校三千所的知识库。
 
 ## ✨ 教学标准
 
@@ -781,13 +801,16 @@
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个免费的在线教育资源平台，提供开放教育资源（OER），涵盖多个学科。
 - 👉 [Fiveable](https://library.fiveable.me/) - Fiveable是一个集中提供大学预科（AP）学习资料的在线教育平台。 
 - 👉 [Code](https://code.org/) - Code.org是一个非盈利性的全球性组织，致力于为所有年龄层的学生提供计算机科学教育。
-- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于 2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
+- 👉 [BYJU'S](https://byjus.com/) - BYJU'S是一家总部位于印度的教育科技公司，成立于2011年。提供从小学到高中以及备考课程的在线学习内容，涵盖数学、科学、编程等多个学科。
 - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
 - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
 - 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
 - 👉 [Kialo-edu](https://www.kialo-edu.com/) - 一个专注于批判性思维和论证能力培养的教育平台，它为教育工作者和学生提供了一个交互式的在线工具，用于构建和分析论证，以提升逻辑思维和辩论技巧。
+- 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
+- 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
+- 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
 
 ## 🎒 慕课资源
 
@@ -862,6 +885,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《什么是科学》](https://weread.qq.com/web/reader/9dd32760813ab7b76g018738) - 在本书中，吴国盛教授先是梳理当代中国人的科学观念，然后阐述现代科学起源于古希腊的理性科学，并对比中西文化的差异。
 - 📚️ [《科学的故事》](https://weread.qq.com/web/reader/b6e3217071e92091b6eef43) - 科学并不是高深莫测，也不应该烧脑。相反，科学的故事就是人类追求真理的故事，精彩纷呈，引人入胜。
 - 📚️ [《科学的历程》](https://weread.qq.com/web/reader/39332d60716516c8393abcb) - 一部普及性的世界科学通史。以东方文明和科学技术对人类进步的影响为开端，以西方文明和科学的发展历程为核心，同时探讨了科学精神的本质和推动科学发展的力量。
+- 📚️ [《哲学·科学·常识》](https://weread.qq.com/web/reader/d9a32fe05e3cc6d9ae19c25) - 哲学家陈嘉映的代表作，这本书既是对历史上人类求知之路的回顾，也是对人之本、知识之本的追问。
 - 📚️ [《世界观：现代人必须要懂的科学哲学和科学史》](https://weread.qq.com/web/reader/61f322a071fac4b261f20c8) - 本书是一本让人大开脑洞、训练思维、自我成长的人文通识读本。它介绍了科学史和科学哲学根本的问题，如什么是真理、哲学性、概念性事实等。
 - 📚️ [《万物简史》](https://weread.qq.com/web/reader/af832e60813ab6d90g01048f) - 书中回溯了科学史上那些伟大与奇妙的时刻，引用了近年来发现的最新科学史料。讲述了人类文明发展进程中所发生的繁多妙趣横生的故事。
 
@@ -915,9 +939,14 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 ### 🔢 数字工程
 
 - 👉 [儿童绘本数字化](https://readtogether.ai/) - 李沐开发的儿童绘本实体书转化为电子书并转化为可朗读版本。 开源的上千本英文绘本[网盘地址](https://bit.ly/kidsbooklib)，可以加入到该数字化产品中。
+- 👉 [BeddyStories](https://beddystories.com/) - 一个儿童睡前故事网站收集了全球经典的儿童睡前故事。
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
+- 👉 [虚拟博物馆](https://mayeclair.itch.io/museum-of-all-things) - 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
+- 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+- 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
+- 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 
 ## 🩺 Engineering
 
@@ -950,6 +979,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
+- 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+- 🤗 [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 一个自己动手制作的手写字体，项目开源可参考。
 
 ### 🤖 AI
 
@@ -983,6 +1014,8 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
 - 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
+- 👉 [Bokeh](https://github.com/bokeh/bokeh) - 数据可视化工具包。Interactive Data Visualization in the browser, from Python.
+- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker) - 可以交互的数据可视化工具包。Turn your dataframe into an interactive UI for visual analysis.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
 - 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
@@ -997,6 +1030,11 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI 语音工具，具有多种功能（语音识别、翻译、语音克隆、文本转语音）。
 - 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。 
 - 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。👉 [开源代码](https://github.com/dgtlmoon/changedetection.io)
+- 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
+- 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
+- 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
+- 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
+- 👉 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
 
 ## 🎨 Arts
 
@@ -1073,6 +1111,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Finale Reader](https://www.finalemusic.com/) - Finale Reader是Finale音乐公司的各类音乐文件的阅读器。
 - 👉 [Franzelio](https://franzelio.franzai.com) - 一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
 - 👉 [Suno](https://suno.com/) - Suno is building a future where anyone can make great music.
+- 👉 [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion.
 
 #### 📣 音乐作品
 
@@ -1084,6 +1123,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 #### 🎑 音乐欣赏
 
+- 📚️ [《音乐的故事：从巴比伦到披头士》](https://weread.qq.com/web/reader/a3d32fb071d54fb1a3d1129) - 极简欧洲主流音乐演化史，了解西方音乐的来龙去脉。📺️ [BBC同名纪录片](https://movie.douban.com/subject/21759202/)
 - 📚️ [《剑桥西方音乐理论发展史》](https://book.douban.com/subject/6989173/) - 可以说是西方音乐百科全书式的发展史。
 - 📚️ [《中国人的音乐》](https://weread.qq.com/web/reader/e8f32e9072ab5f2ee8f7bf8) - 这是一本讲中国传统音乐的、具有艺术普及功能的书，也是一本通过中华传统音乐来讲中国和中国人的书，是以中国传统音乐、各地民歌为脉，饱含深情讲述的中国故事。
 
@@ -1109,6 +1149,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《如何读中国画》](https://book.douban.com/subject/26606513/) - 《如何读中国画》一书，力图通过对36幅美国大都会艺术博物馆典藏的绘画和书法作品的视觉解析，以揭示其成为杰作的缘由。
 - 📚️ [《李霖灿读画四十年》](https://book.douban.com/subject/30187740/) - 这是一本讲述艺术、欣赏、美与日常生活的书。
 - 📚️ [《构图的艺术》](https://book.douban.com/subject/6982049/) - 无论是写实还是抽象，是静物还是风景，所有伟大的画作都具有相同的特点：成功的构图。即是学习也是欣赏！
+- 📚️ [《关于构图问题》](https://weread.qq.com/web/reader/9b132c20718896d19b17fb7) - 中国画构图问题，学习东方构图思维！
 
 #### 🏮 绘画作品
 
@@ -1173,6 +1214,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《建筑的故事》](https://book.douban.com/subject/33476150/) - 一部手绘全球建筑史，剖面图大师图解16座传世建筑。
 - 📚️ [《认识建筑》](https://book.douban.com/subject/34974775/) - 全球首部以体验为核心的建筑类入门读物，精选五千年来72座建筑典范，开启环球云游建筑之旅。
 - 👉 [Parametric Architecture](https://parametric-architecture.com/) - Explore the transformative impact of AI and technology in architecture and design, shaping innovative, sustainable, and efficient built environments.
+- 👉 [ArchDaily](https://www.archdaily.com/) - 世界领先的建筑设计平台，展示全球优秀的建筑和设计案例，并提供建筑行业的最新动态。
+- 👉 [Design Milk](https://design-milk.com/) - 网站专注于现代设计，涵盖建筑、室内设计、家具、艺术和科技领域，提供全球最前沿的设计趋势和灵感。
 
 ### 📦 工艺品
 
@@ -1183,6 +1226,10 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [60 Fun and Easy Kids' Crafts](https://www.hgtv.com/design/make-and-celebrate/handmade/20-fun-and-easy-kids-crafts-pictures) - 来自HGTV网站（是一家专注于家居装修和园艺）的儿童工艺品。
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - 我们分享适合孩子们的简易手工艺品，从自制的彩泥到点画艺术，浏览我们精心挑选的50个最佳手工艺品。
 - 👉 [乐高面板](https://interactionmagic.com/UX-LEGO-Interfaces/) - 如何设计辨识度高，使控制台简单干净。
+- 👉 [Moss&Fog](https://mossandfog.com/) - 一个富有创意和灵感的网站，专注于艺术、设计、自然、科技以及可持续生活等主题。旨在探索和发现我们周围的美好世界。
+- 👉 [Colossal](https://www.thisiscolossal.com/) - 一个专注于艺术、设计和视觉文化的网站，以展示各种形式的创意为核心，涵盖雕塑、摄影、插画等内容。
+- 👉 [The Dieline](https://thedieline.com/) - 专注于包装设计领域，展示从食品到奢侈品的创意包装设计案例及趋势。
+- 👉 [Behance](https://www.behance.net/) - 全球知名的创意作品展示平台，设计师和艺术家们可以分享自己的项目，获取灵感和专业反馈。
 
 ### 📠 3D打印
 
@@ -1233,7 +1280,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [GeoGebra](https://www.geogebra.org/) - GeoGebra工具和资源以更为灵活的方式进行数学的教授与学习。通过动画，让数学动起来！**相当好！**🤩
 - 👉 [3Blue1Brown](https://www.3blue1brown.com/) - 专注于制作直观理解数学概念视频，其内容覆盖数学、人工智能等领域，还有[衍生的物品商店](https://store.dftba.com/collections/3blue1brown)非常有趣。📺️ [YouTube视频](https://www.youtube.com/3blue1brown)、📺️ [B站官方视频](https://space.bilibili.com/88461692)
 - 👉 [可交互的几何原本](https://www.c82.net/work/?id=372) - 著名设计师及艺术家胡芝在网页发布了柏恩版《几何原本》的数码化版本，除了重新绘制所有几何插图外，他更找回跟原著相近的字型，并加入互动元素，只要点按证明中的图形，证明的插图便会凸显相关部分，以便读者理解证明。
-- 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 这是一个傅里叶级数的动画课程。
+- 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 数学之美：一个傅里叶级数的动画课程。
+- 👉 [阶乘的斯特林公式推导](https://www.longluo.me/blog/stirlings-formula/) - 数学之美：斯特林公式一般用来快速计算阶乘 n!，本文尝试用通俗语言推导这个公式。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
 
 ### 📊 数据
@@ -1288,6 +1336,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Lobste.rs](https://lobste.rs/) - 一个以编程、软件开发、计算机科技和开源项目为中心的社区驱动型新闻聚合网站。它被设计成一个高度专注于技术话题的讨论平台，旨在为软件工程师、程序员和科技爱好者提供一个高质量、低噪音的交流环境。
 - 👉 [Mastodon](https://joinmastodon.org/) - 一个基于开源技术的分布式社交网络平台，旨在提供一个更加去中心化、个性化和隐私保护的在线交流空间。与传统的大型社交媒体平台不同，Mastodon将网络划分为多个由个人或组织独立运营的实例，这些实例通过联邦协议相互通信，形成了一个庞大的社交网络。
 - 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
+- 👉 [BrickLink](https://www.bricklink.com/) - BrickLink 是一个专注于乐高（LEGO）零件、套装和迷你人偶的在线市场。
+- 👉 [Ko-fi](https://ko-fi.com) - 一个为内容创作者量身打造的在线赞赏和商品销售平台。它通过提供简单直接的赞赏机制、商品销售功能和社区互动空间，帮助创作者与他们的支持者建立更紧密的联系，并从中获得必要的资金支持。无论你是刚起步的创作者还是已经有一定影响力的专业人士，Ko-fi 都是一个值得考虑的平台。
 
 ### 🏇 科学竞赛
 
