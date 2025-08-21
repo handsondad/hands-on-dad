@@ -693,6 +693,7 @@
 #### 🏈 英语
 
 - 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTube视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [WorldCom Edu](https://www.youtube.com/@WorldcomEdu) - 美国中小学教材精讲 科学+社会+词汇。 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1v4ceejEZA)
 - 👉 [AI辅助背单词](https://prowords.zeabur.app/) - 基于AI技术，根据你的职业背景生成贴合实际工作场景的英语例句，让记忆单词更有效、更有意义。👉 [开源代码](https://github.com/winterfx/prowords)
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
