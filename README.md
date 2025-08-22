@@ -949,6 +949,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 - 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
+- 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
+- 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
 
 ## 🩺 Engineering
 
@@ -969,12 +971,14 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
   - 👉 [Isaac Computer Science](https://isaaccomputerscience.org/) - 为所有年级学生探索计算机科学的在线平台。
   - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
   - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
+- 👉 [用JavaScript生成迷宫](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/) - 本文用通俗的语言，介绍一种生成迷宫的简单算法，给出JS的实现。
 
 ### 📦︎ 作品
 
 - 👉 [In Pieces-30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
+- 🤗 [CuteClock](https://github.com/AkenClub/CuteClock) - 一个开源硬件项目，基于ESP8266的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [Pi Box](https://hackaday.io/project/202168-pi-box/details) - 树莓派是最流行的单板计算机，使用时，需要自己准备一大堆外设，很不方便也不好携带。一位印度开发者，为树莓派设计了一个外壳，起名为 Pi Box，令人耳目一新。另外还有很多有趣的[数字电路作品](https://hackaday.io/projects)。
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
