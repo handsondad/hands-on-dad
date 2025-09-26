@@ -666,6 +666,7 @@
 - 📺️ [二次元的中科院物理所](https://space.bilibili.com/407045223) - 中科院物理所的B站官方号。其中曹泽贤老师的[中国科学院跨年科学演讲](https://www.bilibili.com/video/BV1Dt4y1o736/)讲得非常非常好！
 - 📺️ [张朝阳的物理课](https://space.bilibili.com/500730982/) - B站上张朝阳推出的通俗易懂的物理课。且已经出版同步的三卷图书[《张朝阳的物理课：第一卷》](https://weread.qq.com/web/reader/e0632710813ab75acg011122)、[《张朝阳的物理课：第二卷》](https://weread.qq.com/web/reader/1c832530813ab8145g0178bf)和[《张朝阳的物理课：第三卷》](https://weread.qq.com/web/reader/236329a0813ab94e5g012c28)
 - 📚️ [《费恩曼物理学讲义三卷》](https://book.douban.com/series/5935) - 通俗易懂的物理学讲义，适合高年级学生使用。
+- 📚️ [99个物理小实验](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) 一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。
 
 ### 🧬 生物
 
@@ -991,6 +992,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [木制显示器](https://benholmen.com/blog/kilopixel/) - 一位程序员制作了一个木质的像素显示器，非常有创意！
 - 👉 [地震预警系统](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/) - 谷歌披露，安卓系统内置了一个全球地震预警系统，可以向用户发出地震警报。设计思路非常有启发！
 - 👉 [Touch Mapper](https://touch-mapper.org/) - 这个网站的创意很棒，你输入一个街道地址，它输出该地址的3D地图文件，可以3D打印出来，供视障人士触摸使用。
+- 👉 [粘土电路板](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) - 一位国外网友，为了演示电路板并不是高深的产品，特别制作了一块粘土电路板。👉 [开源代码](https://github.com/FeministHardware/Making-PCBs-from-natural-clay) **相当有趣！**🤩  
 
 ### 🤖 AI
 
@@ -1310,6 +1312,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 ### 🧮 有趣问题
 
 - 👉 [为什么 π² ≈ g](https://roitman.io/blog/91) - π² 等于9.86，很接近重力加速度 g 的9.8。本文告诉你，这不是巧合，跟米的定义（北极到赤道的距离的百万分之一）有关。
+- 👉 [一道有趣的几何题](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/) - 正方形里面有一个小圆，请问小圆的半径与正方形边长的关系是多少？
 
 
 ## 👑 实践
