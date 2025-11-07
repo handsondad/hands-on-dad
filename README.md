@@ -993,6 +993,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [地震预警系统](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/) - 谷歌披露，安卓系统内置了一个全球地震预警系统，可以向用户发出地震警报。设计思路非常有启发！
 - 👉 [Touch Mapper](https://touch-mapper.org/) - 这个网站的创意很棒，你输入一个街道地址，它输出该地址的3D地图文件，可以3D打印出来，供视障人士触摸使用。
 - 👉 [粘土电路板](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) - 一位国外网友，为了演示电路板并不是高深的产品，特别制作了一块粘土电路板。👉 [开源代码](https://github.com/FeministHardware/Making-PCBs-from-natural-clay) **相当有趣！**🤩  
+- 👉 [Valetudo](https://valetudo.cloud/) - 扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。👉 [开源代码](https://github.com/Hypfer/Valetudo)
 
 ### 🤖 AI
 
@@ -1022,10 +1023,12 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
 - 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialsproject/pymatgen)
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
+- 🤗 [Oxdraw](https://github.com/RohanAdwankar/oxdraw) - 一个Rust语言编写的Web服务，用来可视化生成图表，同时给出对应的Mermaid语法代码。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 🤗 [HandBrake](https://github.com/HandBrake/HandBrake) - 一个非常强大的开源的视频格式转化工具。
 - 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
-- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
+- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables. 类似的一个在线的数据图表生成器[UChart](https://www.uwarp.design/uchart)让没有编程背景的用户也能创建专业数据图表。
 - 👉 [Bokeh](https://github.com/bokeh/bokeh) - 数据可视化工具包。Interactive Data Visualization in the browser, from Python.
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker) - 可以交互的数据可视化工具包。Turn your dataframe into an interactive UI for visual analysis.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
@@ -1047,6 +1050,9 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
 - 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
 - 👉 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
+- 🤗 [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - 基于SSH的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
+- 🤗 [NocoBase](https://github.com/nocobase/nocobase) - NocoBase是一个极易扩展的AI无代码开发平台。
+- 🤗 [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - 一个桌面的RSS阅读器。
 
 ## 🎨 Arts
 
