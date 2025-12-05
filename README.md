@@ -159,6 +159,7 @@
 - 📚️ [《遇见孩子，遇见更好的自己》](https://weread.qq.com/web/reader/cb232f605b6b31cb2804ff2) - 三位美国教育专家写给天下父母的心灵成长课。
 - 📚️ [《不吼不叫：如何平静地让孩子与父母合作》](https://weread.qq.com/web/reader/22f325e071a3f6e822f45cb) - 本书基于气质研究和正念理论，为你提供强有力的技巧，以减少家庭冲突，促进合作、尊重和相互理解。你还会学到一些策略，帮助你在沮丧达到峰值时管理好自己的压力；掌握实用的解决方法，帮助你恢复冷静，能够以让大人和孩子都受益的方式带着同情心与孩子有效沟通。
 - 📚️ [《你就是孩子最好的玩具》](https://weread.qq.com/web/reader/e3532d6071bba368e35b841) - 孩子们并不需要智力玩具或者电视节目，他们需要的是你！他们真正看重的是和你在一起的快乐时光，他们需要被重视，需要和父母单独相处而不被打扰的时间，需要和父母建立一生的亲密关系！
+- 📚️ [《人生十二法则》](https://weread.qq.com/web/reader/74732e20719fe4f4747f8f4) - 龙虾教授的人生指导法则，对成为父母和个人成长大有裨益！
 
 ### 👨‍🏫 正面管教
 
@@ -952,6 +953,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
 - 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
 - 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
+- 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
+- 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
 
 ## 🩺 Engineering
 
@@ -1351,6 +1354,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的明星科学家。
 - 👉 [栗茂腾](https://blog.sciencenet.cn/u/limaotenghust) - 华中科大的生命科学教授，博客中有大量身边植物的介绍，非常详尽！
 - 👉 [Katalog](https://katalog-barbaraiweins.com/) - 非常有趣的项目！一位摄影师为她的每一件个人物品拍了一张照片，放到网站上，她想告诉大家，不要低估你拥有的物品数量。
+- 👉 [HummingbirdSpot](https://hummingbirdspot.com/all-hummingbird-species/) - 这是一个美国退休女教师的网站，她立志要拍摄所有种类的蜂鸟。全世界共有366种蜂鸟，她已经拍到了277种。她还做了[衍生物品商店](https://hummingbirdspot.myspreadshop.com/)售卖基于蜂鸟品牌的服装和物品。
 
 ### 🏳️‍🌈 社区平台
 
