@@ -1324,6 +1324,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 - 👉 [为什么 π² ≈ g](https://roitman.io/blog/91) - π² 等于9.86，很接近重力加速度 g 的9.8。本文告诉你，这不是巧合，跟米的定义（北极到赤道的距离的百万分之一）有关。
 - 👉 [一道有趣的几何题](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/) - 正方形里面有一个小圆，请问小圆的半径与正方形边长的关系是多少？
+- 👉 [中国何止八大菜系](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete) - 这是一篇由知名美食博主Kaspar撰写的深度长文。文章的核心主张是打破传统认知，指出中国菜系远不止“八大菜系”，而是拥有极其丰富的地域多样性。
 
 
 ## 👑 实践
@@ -1370,6 +1371,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
 - 👉 [BrickLink](https://www.bricklink.com/) - BrickLink 是一个专注于乐高（LEGO）零件、套装和迷你人偶的在线市场。
 - 👉 [Ko-fi](https://ko-fi.com) - 一个为内容创作者量身打造的在线赞赏和商品销售平台。它通过提供简单直接的赞赏机制、商品销售功能和社区互动空间，帮助创作者与他们的支持者建立更紧密的联系，并从中获得必要的资金支持。无论你是刚起步的创作者还是已经有一定影响力的专业人士，Ko-fi 都是一个值得考虑的平台。
+- 👉 [XDA Developers](https://www.xda-developers.com/) - 是全球最著名的移动软件开发与极客社区之一。自 2003 年成立以来，它已成为 Android 玩机、刷机、破解和二次开发的“圣地”。
 
 ### 🏇 科学竞赛
 
