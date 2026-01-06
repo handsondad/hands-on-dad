@@ -1282,6 +1282,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。可使用Python语言编写逻辑。
 - 👉 [Taichi](https://taichi-lang.cn/) - Taichi用Python轻松玩转并行编程，实现大规模仿真和动画。
 - 👉 [Quil](http://quil.info/) - 在线通过脚本创建动画模拟现实世界。 👉 [开源代码](https://github.com/quil/quil)
+- 👉 [Lean](https://lean-lang.org/learn/) - Lean is a functional programming language and theorem prover built for formalizing math and for formal verification, but is flexible enough for general coding.
 
 ### 📏 著作
 
