@@ -956,6 +956,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
 - 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
 - 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
+- 👉 [Open Library](https://openlibrary.org) - Open Library（开放图书馆）是一个雄心勃勃的非营利性数字图书馆项目，其目标是 “为世界上每一本书创建一个网页”。它由互联网档案馆（Internet Archive）于2007年发起，致力于构建一个开放、免费、可编辑的全球图书目录和阅读平台。
 
 ## 🩺 Engineering
 
