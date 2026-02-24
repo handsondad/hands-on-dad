@@ -815,6 +815,7 @@
 - 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
 - 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
 - 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
+- 👉 [LabEx](https://labex.io/) - 一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。
 
 ## 🎒 慕课资源
 
@@ -1010,6 +1011,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
+- 👉 [神经网络的视觉解释](https://visualrambling.space/neural-network/) - 这个网站用动画解释"什么是神经网络"。
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。**相当好！**🤩
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
