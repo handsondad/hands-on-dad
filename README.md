@@ -959,6 +959,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
 - 👉 [Open Library](https://openlibrary.org) - Open Library（开放图书馆）是一个雄心勃勃的非营利性数字图书馆项目，其目标是 “为世界上每一本书创建一个网页”。它由互联网档案馆（Internet Archive）于2007年发起，致力于构建一个开放、免费、可编辑的全球图书目录和阅读平台。
 - 👉 [人类消费的动物](https://www.humanconsumption.live/) - 人类要消费多少动物？有人做了一个网站，实时显示今年至今被消费掉的动物数量。这是一个惊人的数字！为了养活人类，地球需要付出这么多。
+- 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
+- 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
 
 ## 🩺 Engineering
 
@@ -987,6 +989,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
 - 🤗 [CuteClock](https://github.com/AkenClub/CuteClock) - 一个开源硬件项目，基于ESP8266的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。
+- 🤗 [Weathr](https://github.com/Veirt/weathr) - 一个终端应用，用来查看指定地点的天气，以动画形式展示。
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [Pi Box](https://hackaday.io/project/202168-pi-box/details) - 树莓派是最流行的单板计算机，使用时，需要自己准备一大堆外设，很不方便也不好携带。一位印度开发者，为树莓派设计了一个外壳，起名为 Pi Box，令人耳目一新。另外还有很多有趣的[数字电路作品](https://hackaday.io/projects)。
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
@@ -1001,6 +1004,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Touch Mapper](https://touch-mapper.org/) - 这个网站的创意很棒，你输入一个街道地址，它输出该地址的3D地图文件，可以3D打印出来，供视障人士触摸使用。
 - 👉 [粘土电路板](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) - 一位国外网友，为了演示电路板并不是高深的产品，特别制作了一块粘土电路板。👉 [开源代码](https://github.com/FeministHardware/Making-PCBs-from-natural-clay) **相当有趣！**🤩  
 - 👉 [Valetudo](https://valetudo.cloud/) - 扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。👉 [开源代码](https://github.com/Hypfer/Valetudo)
+- 🤗 [结印](https://github.com/huanglizhuo/Ketsuin) - 一个 Web 应用，通过火影忍者的手势输入法，摄像头识别手势进行文字输入。
 
 ### 🤖 AI
 
@@ -1034,6 +1038,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [Oxdraw](https://github.com/RohanAdwankar/oxdraw) - 一个Rust语言编写的Web服务，用来可视化生成图表，同时给出对应的Mermaid语法代码。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 🤗 [Openscreen](https://github.com/siddharthvaddem/openscreen) - 开源的录屏桌面应用，用于制作产品演示与讲解视频。
 - 🤗 [HandBrake](https://github.com/HandBrake/HandBrake) - 一个非常强大的开源的视频格式转化工具。
 - 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
 - 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables. 类似的一个在线的数据图表生成器[UChart](https://www.uwarp.design/uchart)让没有编程背景的用户也能创建专业数据图表。
