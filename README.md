@@ -159,6 +159,7 @@
 - 📚️ [《遇见孩子，遇见更好的自己》](https://weread.qq.com/web/reader/cb232f605b6b31cb2804ff2) - 三位美国教育专家写给天下父母的心灵成长课。
 - 📚️ [《不吼不叫：如何平静地让孩子与父母合作》](https://weread.qq.com/web/reader/22f325e071a3f6e822f45cb) - 本书基于气质研究和正念理论，为你提供强有力的技巧，以减少家庭冲突，促进合作、尊重和相互理解。你还会学到一些策略，帮助你在沮丧达到峰值时管理好自己的压力；掌握实用的解决方法，帮助你恢复冷静，能够以让大人和孩子都受益的方式带着同情心与孩子有效沟通。
 - 📚️ [《你就是孩子最好的玩具》](https://weread.qq.com/web/reader/e3532d6071bba368e35b841) - 孩子们并不需要智力玩具或者电视节目，他们需要的是你！他们真正看重的是和你在一起的快乐时光，他们需要被重视，需要和父母单独相处而不被打扰的时间，需要和父母建立一生的亲密关系！
+- 📚️ [《人生十二法则》](https://weread.qq.com/web/reader/74732e20719fe4f4747f8f4) - 龙虾教授的人生指导法则，对成为父母和个人成长大有裨益！
 
 ### 👨‍🏫 正面管教
 
@@ -666,6 +667,8 @@
 - 📺️ [二次元的中科院物理所](https://space.bilibili.com/407045223) - 中科院物理所的B站官方号。其中曹泽贤老师的[中国科学院跨年科学演讲](https://www.bilibili.com/video/BV1Dt4y1o736/)讲得非常非常好！
 - 📺️ [张朝阳的物理课](https://space.bilibili.com/500730982/) - B站上张朝阳推出的通俗易懂的物理课。且已经出版同步的三卷图书[《张朝阳的物理课：第一卷》](https://weread.qq.com/web/reader/e0632710813ab75acg011122)、[《张朝阳的物理课：第二卷》](https://weread.qq.com/web/reader/1c832530813ab8145g0178bf)和[《张朝阳的物理课：第三卷》](https://weread.qq.com/web/reader/236329a0813ab94e5g012c28)
 - 📚️ [《费恩曼物理学讲义三卷》](https://book.douban.com/series/5935) - 通俗易懂的物理学讲义，适合高年级学生使用。
+- 📚️ [99个物理小实验](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) 一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。
+- 📚️ [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物理教学书。它源自荷兰著名的物理演示系列丛书 [ShowdeFysica](http://nvon.nl/)，旨在通过 99 个精选的物理演示实验，帮助教师和学生直观地理解物理学概念。该平台利用 [Jupyter Book](http://teachbooks.tudelft.nl/) 技术，将传统的纸质书转化为支持视频、Python 代码模拟和实时交互的数字教材。
 
 ### 🧬 生物
 
@@ -693,6 +696,7 @@
 #### 🏈 英语
 
 - 👉 [ESLPod](https://tv.eslpod.com/) - ESLPod（English as a Second Language Podcast）是一款专为英语初中级学习者设计的播客材料。 📺️ [YouTube视频](https://www.youtube.com/user/eslpod), 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1Qq4y177Kf)
+- 👉 [WorldCom Edu](https://www.youtube.com/@WorldcomEdu) - 美国中小学教材精讲 科学+社会+词汇。 📺️ [B站搬运视频](https://www.bilibili.com/video/BV1v4ceejEZA)
 - 👉 [AI辅助背单词](https://prowords.zeabur.app/) - 基于AI技术，根据你的职业背景生成贴合实际工作场景的英语例句，让记忆单词更有效、更有意义。👉 [开源代码](https://github.com/winterfx/prowords)
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
@@ -811,6 +815,7 @@
 - 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
 - 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
 - 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
+- 👉 [LabEx](https://labex.io/) - 一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。
 
 ## 🎒 慕课资源
 
@@ -947,6 +952,15 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
+- 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
+- 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
+- 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
+- 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
+- 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
+- 👉 [Open Library](https://openlibrary.org) - Open Library（开放图书馆）是一个雄心勃勃的非营利性数字图书馆项目，其目标是 “为世界上每一本书创建一个网页”。它由互联网档案馆（Internet Archive）于2007年发起，致力于构建一个开放、免费、可编辑的全球图书目录和阅读平台。
+- 👉 [人类消费的动物](https://www.humanconsumption.live/) - 人类要消费多少动物？有人做了一个网站，实时显示今年至今被消费掉的动物数量。这是一个惊人的数字！为了养活人类，地球需要付出这么多。
+- 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
+- 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
 
 ## 🩺 Engineering
 
@@ -967,12 +981,15 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
   - 👉 [Isaac Computer Science](https://isaaccomputerscience.org/) - 为所有年级学生探索计算机科学的在线平台。
   - 👉 [GeeksforGeeks](https://www.geeksforgeeks.org/) - 一个专注于计算机科学和编程教育的在线平台，提供丰富的学习资源和教程。
   - 👉 [CS Unplugged](http://csunplugged.org/) - 一个专注于通过非传统方式教授计算机科学概念的教育资源网站。该平台提供了一系列免费的学习活动，旨在通过游戏、谜题和动手活动激发学生的兴趣。
+- 👉 [用JavaScript生成迷宫](https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/) - 本文用通俗的语言，介绍一种生成迷宫的简单算法，给出JS的实现。
 
 ### 📦︎ 作品
 
 - 👉 [In Pieces-30 endangered Species](http://www.species-in-pieces.com/#) - 一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 - 👉 [Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message) - 想象下你要给远方的外星人发一段编码信息介绍地球人，该如何设计？
 - 🤗 [Weather as Landscape](https://github.com/lds133/weather_landscape) - 一个利用显示器将天气预报信息转化变成一幅画，提供开源代码和硬件设备资料。
+- 🤗 [CuteClock](https://github.com/AkenClub/CuteClock) - 一个开源硬件项目，基于ESP8266的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。
+- 🤗 [Weathr](https://github.com/Veirt/weathr) - 一个终端应用，用来查看指定地点的天气，以动画形式展示。
 - 🤗 [树莓派掌上电脑](https://soulscircuit.com/pilet) - 一支国外团队推出了"树莓派掌上电脑"，看上去很酷，它就是一个全功能的 Linux 系统，带有7小时续航。[开源代码](https://github.com/soulscircuit/pilet)
 - 🤗 [Pi Box](https://hackaday.io/project/202168-pi-box/details) - 树莓派是最流行的单板计算机，使用时，需要自己准备一大堆外设，很不方便也不好携带。一位印度开发者，为树莓派设计了一个外壳，起名为 Pi Box，令人耳目一新。另外还有很多有趣的[数字电路作品](https://hackaday.io/projects)。
 - 🤗 [五子棋游戏程序](https://github.com/mumuy/gobang) - 一个开源的五子棋对战游戏程序。
@@ -981,6 +998,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
 - 🤗 [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 一个自己动手制作的手写字体，项目开源可参考。
+- 🤗 [vYinn（殷人）](https://github.com/shanleiguang/vYinn) - 古籍印章图案的制作工具。该作者发起了中文古籍數字復刻計劃，包括多个开源内容！
+- 👉 [木制显示器](https://benholmen.com/blog/kilopixel/) - 一位程序员制作了一个木质的像素显示器，非常有创意！
+- 👉 [地震预警系统](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/) - 谷歌披露，安卓系统内置了一个全球地震预警系统，可以向用户发出地震警报。设计思路非常有启发！
+- 👉 [Touch Mapper](https://touch-mapper.org/) - 这个网站的创意很棒，你输入一个街道地址，它输出该地址的3D地图文件，可以3D打印出来，供视障人士触摸使用。
+- 👉 [粘土电路板](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) - 一位国外网友，为了演示电路板并不是高深的产品，特别制作了一块粘土电路板。👉 [开源代码](https://github.com/FeministHardware/Making-PCBs-from-natural-clay) **相当有趣！**🤩  
+- 👉 [Valetudo](https://valetudo.cloud/) - 扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。👉 [开源代码](https://github.com/Hypfer/Valetudo)
+- 🤗 [结印](https://github.com/huanglizhuo/Ketsuin) - 一个 Web 应用，通过火影忍者的手势输入法，摄像头识别手势进行文字输入。
 
 ### 🤖 AI
 
@@ -991,6 +1015,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
+- 👉 [神经网络的视觉解释](https://visualrambling.space/neural-network/) - 这个网站用动画解释"什么是神经网络"。
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。**相当好！**🤩
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
@@ -1010,10 +1035,13 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
 - 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialsproject/pymatgen)
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
+- 🤗 [Oxdraw](https://github.com/RohanAdwankar/oxdraw) - 一个Rust语言编写的Web服务，用来可视化生成图表，同时给出对应的Mermaid语法代码。
 - 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
 - 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 🤗 [Openscreen](https://github.com/siddharthvaddem/openscreen) - 开源的录屏桌面应用，用于制作产品演示与讲解视频。
+- 🤗 [HandBrake](https://github.com/HandBrake/HandBrake) - 一个非常强大的开源的视频格式转化工具。
 - 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
-- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables.
+- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables. 类似的一个在线的数据图表生成器[UChart](https://www.uwarp.design/uchart)让没有编程背景的用户也能创建专业数据图表。
 - 👉 [Bokeh](https://github.com/bokeh/bokeh) - 数据可视化工具包。Interactive Data Visualization in the browser, from Python.
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker) - 可以交互的数据可视化工具包。Turn your dataframe into an interactive UI for visual analysis.
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
@@ -1035,6 +1063,10 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
 - 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
 - 👉 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
+- 🤗 [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - 基于SSH的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
+- 🤗 [NocoBase](https://github.com/nocobase/nocobase) - NocoBase是一个极易扩展的AI无代码开发平台。
+- 🤗 [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - 一个桌面的RSS阅读器。
+- 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
 
 ## 🎨 Arts
 
@@ -1259,6 +1291,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Manim](https://github.com/3b1b/manim) - 一个非常强大的数学知识动画制作工具。可使用Python语言编写逻辑。
 - 👉 [Taichi](https://taichi-lang.cn/) - Taichi用Python轻松玩转并行编程，实现大规模仿真和动画。
 - 👉 [Quil](http://quil.info/) - 在线通过脚本创建动画模拟现实世界。 👉 [开源代码](https://github.com/quil/quil)
+- 👉 [Lean](https://lean-lang.org/learn/) - Lean is a functional programming language and theorem prover built for formalizing math and for formal verification, but is flexible enough for general coding.
 
 ### 📏 著作
 
@@ -1297,6 +1330,13 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [中文互联网语料资源](https://corpus.cybersac.cn/#/dataSet) - 中文互联网语料资源平台发布了共2.7TB中文资料，向社会开放，专门用来训练大模型。
 - 👉 [癌症可视化资料](https://visualsonline.cancer.gov/) - 一个致力于提供高质量、科学准确的癌症视觉资料的平台。如果你对癌症科学感兴趣，或是在寻找专业的癌症视觉资料，这个网站是一个不可多得的资源库。
 
+### 🧮 有趣问题
+
+- 👉 [为什么 π² ≈ g](https://roitman.io/blog/91) - π² 等于9.86，很接近重力加速度 g 的9.8。本文告诉你，这不是巧合，跟米的定义（北极到赤道的距离的百万分之一）有关。
+- 👉 [一道有趣的几何题](https://samjshah.com/2025/08/05/sangaku-puzzle-i-cant-solve/) - 正方形里面有一个小圆，请问小圆的半径与正方形边长的关系是多少？
+- 👉 [中国何止八大菜系](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete) - 这是一篇由知名美食博主Kaspar撰写的深度长文。文章的核心主张是打破传统认知，指出中国菜系远不止“八大菜系”，而是拥有极其丰富的地域多样性。
+
+
 ## 👑 实践
 
 ### 🌼 开放内容
@@ -1326,6 +1366,9 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Christopher Olah](https://colah.github.io/) - 一位计算机-大模型领域的科学家。
 - 👉 [Andrej Karpathy](https://karpathy.ai/) - 一位计算机-视觉领域的明星科学家。
 - 👉 [栗茂腾](https://blog.sciencenet.cn/u/limaotenghust) - 华中科大的生命科学教授，博客中有大量身边植物的介绍，非常详尽！
+- 👉 [Katalog](https://katalog-barbaraiweins.com/) - 非常有趣的项目！一位摄影师为她的每一件个人物品拍了一张照片，放到网站上，她想告诉大家，不要低估你拥有的物品数量。
+- 👉 [HummingbirdSpot](https://hummingbirdspot.com/all-hummingbird-species/) - 这是一个美国退休女教师的网站，她立志要拍摄所有种类的蜂鸟。全世界共有366种蜂鸟，她已经拍到了277种。她还做了[衍生物品商店](https://hummingbirdspot.myspreadshop.com/)售卖基于蜂鸟品牌的服装和物品。
+- 👉 [Animation Obsessive](https://animationobsessive.substack.com/) - Animation Obsessive 是由知名动画历史学家 Roberto Serrano 创立的 Substack 电子报。它不仅仅是一个新闻网站，更像是一本专注于全球动画文化的“印刷杂志”。
 
 ### 🏳️‍🌈 社区平台
 
@@ -1338,6 +1381,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Hackaday](https://hackaday.io/) - 一个全球性的在线社区，专注于硬件创新、DIY项目、技术探索和开源文化，它是一个极客、工程师、发明家、创客和任何热衷于技术和创新的人分享、发现和合作的平台。核心理念是促进技术知识的共享，鼓励创新思维，以及推动硬件领域的社区合作和开源精神。
 - 👉 [BrickLink](https://www.bricklink.com/) - BrickLink 是一个专注于乐高（LEGO）零件、套装和迷你人偶的在线市场。
 - 👉 [Ko-fi](https://ko-fi.com) - 一个为内容创作者量身打造的在线赞赏和商品销售平台。它通过提供简单直接的赞赏机制、商品销售功能和社区互动空间，帮助创作者与他们的支持者建立更紧密的联系，并从中获得必要的资金支持。无论你是刚起步的创作者还是已经有一定影响力的专业人士，Ko-fi 都是一个值得考虑的平台。
+- 👉 [XDA Developers](https://www.xda-developers.com/) - 是全球最著名的移动软件开发与极客社区之一。自 2003 年成立以来，它已成为 Android 玩机、刷机、破解和二次开发的“圣地”。
 
 ### 🏇 科学竞赛
 
