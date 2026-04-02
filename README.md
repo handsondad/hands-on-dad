@@ -1067,6 +1067,11 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [NocoBase](https://github.com/nocobase/nocobase) - NocoBase是一个极易扩展的AI无代码开发平台。
 - 🤗 [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - 一个桌面的RSS阅读器。
 - 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
+- 🤗 [Meilisearch](https://github.com/meilisearch/meilisearch) - 一个轻量级的混合模式搜索引擎工具。
+
+### 🧮 有趣发明
+
+- 👉 [红外线编码](https://www.unsw.edu.au) - 英国科学家发明了一种新的通信方式，通过热辐射二极管，将数字信号以热量形式传递。
 
 ## 🎨 Arts
 
