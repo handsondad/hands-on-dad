@@ -962,6 +962,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
 - 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
+- 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
+- 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
 
 ## 🩺 Engineering
 
