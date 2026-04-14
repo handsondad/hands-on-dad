@@ -187,6 +187,24 @@
 - 👉 [3岁以下婴幼儿健康养育照护指南](http://www.nhc.gov.cn/fys/s3585/202211/22e3f33c47f54f2c81c28db4e8ee7723.shtml) - 国家卫生健康委办公厅关于印发3岁以下婴幼儿健康养育照护指南。
 - 👉 [0-6岁儿童监护人健康教育小册子](https://www.unicef.cn/reports/0-6-children-guardian-health-education-booklet) - 联合国儿童基金会和中国健康教育中心推出的。
 - 👉 [儿童安全教育方法](https://www.xueshu.com/haowen/173030.html) - 学术之家上整理的12篇儿童安全教育方法。
+- 👉 [MedlinePlus](https://www.medlineplus.gov/) - NIH背书的综合健康信息与疾病百科。
+- 👉 [Mayo Clinic](https://www.mayoclinic.org/) - 权威健康指南与自我护理资源。
+- 👉 [WebMD](https://www.webmd.com/) - 消费者健康、药物和症状查询。
+- 👉 [Healthline](https://www.healthline.com/) - 20000+健康和保健文章。
+- 👉 [Everyday Health](https://www.everydayhealth.com/) - 个性化健康建议与工具。
+- 👉 [Merck Manual](https://www.merckmanuals.com/home) - 全球广泛使用的医学指南。
+- 👉 [NIH](https://www.nih.gov/) - 美国国立卫生研究院，生物医学研究与健康信息。
+- 👉 [CDC](https://www.cdc.gov/) - 疾病控制与预防中心，公共卫生与儿童预防接种指导。
+- 👉 [HHS](https://www.hhs.gov/) - 美国卫生与公众服务部，健康政策与资源。
+- 👉 [Drugs.com](https://www.drugs.com/) - 药物信息、用药安全与药丸识别工具。
+- 👉 [NCBI PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) - 免费生物医学与生命科学文献库。
+- 👉 [NEJM](https://www.nejm.org/) - 《新英格兰医学杂志》，医学研究权威。
+- 👉 [JAMA Network](https://jamanetwork.com/) - 美国医学会期刊。
+- 👉 [BioMed Central](https://www.biomedcentral.com/) - 开放获取医学期刊。
+- 👉 [Free Medical Journals](http://www.freemedicaljournals.com/) - 免费医学期刊汇总。
+- 👉 [KidsHealth](https://kidshealth.org/teen) - 儿童与青少年健康成长、关系和心理指南。
+- 👉 [BabyCenter](https://www.babycenter.com/) - 怀孕与育儿权威信息。
+- 👉 [Girls Health](https://www.girlshealth.gov/) - 10-16岁女孩健康与成长指南。
 - 📚️ [《薄世宁医学通识讲义：一生需要上一次医学院》](https://book.douban.com/subject/34842793/) - 人在一生中，难免要面对疾病的来临与生命的诘问，以医学的思维面对自我，以科学的方式关爱家人，才是对自己与家人真正的爱。
 
 ## 👨‍👦 亲子时间
@@ -633,6 +651,10 @@
 - 👉 [TeachersPayTeachers](https://www.teacherspayteachers.com/) - 一个老师发布、分享、购买教学创意材料的网站。
 - 👉 [TeacherSource](https://teachersource.com/) - 一个专门面向教育工作者的在线资源平台，旨在为教师提供一系列教学资源和工具，以支持和提升他们的教学质量。该网站专注于提供多样化、高质量的教学资料和创意工具，以适应不同学科、年级以及教学目标的需要。
 - 👉 [Kids project for school](https://in.pinterest.com/preethaprakash/kids-project-for-school/) - Pinterest网站上的一个博主 Kids project for school.
+- 👉 [BetterLesson](https://betterlesson.com/browse/master_teachers/projects) - K-12完整课程方案与课堂设计案例。
+- 👉 [PBS LearningMedia](https://pbslearningmedia.org/) - 教师可以使用的视频、互动内容与教案库。
+- 👉 [EdShelf](https://edshelf.com/) - 教师与学校的教育工具和应用筛选目录。
+- 👉 [Google Classroom](https://classroom.google.com/) - 免费课堂管理和作业分发平台。
 
 ### 🧪 化学
 
@@ -732,6 +754,15 @@
 - 👉 [Encyclopedia Astronautica](http://www.astronautix.com/) - Encyclopedia Astronautica是一个专注于航天历史和技术的在线百科全书，提供详尽的航天器、火箭、任务和航天机构的信息。
 - 👉 [LibreTexts](https://libretexts.org/) - LibreTexts是一个灵活、用户友好的开放教育资源平台，教育者们信任这个平台来创建、定制和分享可访问的、互动的教科书，适应性的家庭作业，以及其他辅助材料。
 - 👉 [Britannica](https://www.britannica.com/) - Britannica是一个权威的在线大英百科全书，提供广泛的学术和教育资源。它涵盖了各种主题，包括历史、科学、艺术、文化、技术等，内容经过专家审核，确保准确性和可靠性。
+- 👉 [Encyclopedia.com](https://www.encyclopedia.com/) - 300000+文章，汇集牛津与哥伦比亚来源的通用百科资源。
+- 👉 [Infoplease](https://www.infoplease.com/encyclopedia) - 哥伦比亚百科57000词条，适合快速查阅事实。
+- 👉 [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) - 免费哲学百科，学术性强。
+- 👉 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html) - 权威哲学词条与学术资源。
+- 👉 [Scholarpedia](http://www.scholarpedia.org/) - 同行评审的学术百科，适合深度学习。
+- 👉 [EOL (Encyclopedia of Life)](https://eol.org/) - 已知物种数据库，适合自然科学与生物学习。
+- 👉 [The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/) - 19500+双语文章，覆盖历史、文化与科学。
+- 👉 [Smithsonian (参考)](https://www.si.edu/explore) - Smithsonian机构参考资源，适合历史与科学探索。
+- 👉 [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/) - 世界文化遗产档案，包含文献、地图、图片等多媒体资料。
 - 👉 [MathWords](https://www.mathwords.com/) - 一个全面的在线数学词汇表和参考网站，旨在为学生、教师、家长以及任何对数学感兴趣的人提供一个易于理解和访问的数学概念和术语的解释资源。
 - 👉 [WorldCat](https://www.worldcat.org/) - WorldCat是全球最大的图书馆资源在线目录之一，由OCLC（Online Computer Library Center）运营。连接了全球数以万计的图书馆，提供了一个可以搜索和定位近十亿条图书馆藏记录的平台，涵盖了图书、期刊、电影、音乐录音、数字内容等多种资料类型。
 - 👉 [通辽宇宙知识库](https://www.tongliaouniverse.cn/) - 一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库。通过地图可视化、人物关系网络、文化符号整理等方式，帮助观众更全面地理解和探索历史事件与人物。相比传统的线性视频内容，我们提供多维度、可交互的知识体验，让用户能够按照自己的兴趣和节奏探索历史的奇妙世界。
@@ -816,6 +847,38 @@
 - 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
 - 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
 - 👉 [LabEx](https://labex.io/) - 一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。
+- 👉 [Frontiers for Young Minds](https://kids.frontiersin.org/) - 诺奖得主参与写作，文章由孩子审稿，适合 8-15 岁年轻读者。
+- 👉 [中国科普博览](https://www.kepu.net.cn/) - 中国科学院出品的免费科普平台，包含视频、双语科学和学者讲述。
+- 👉 [Wonderopolis](https://wonderopolis.org/) - 每天一个“为什么”，配互动测验和词汇表。
+- 👉 [Exploratorium](https://www.exploratorium.edu/) - 旧金山探索博物馆的线上实验室，提供大量动手做科学活动。
+- 👉 [Learn Genetics](https://learn.genetics.utah.edu/) - 犹他大学的遗传学互动平台，用 3D 动画展示 DNA、基因和虚拟果蝇实验。
+- 👉 [HHMI BioInteractive](https://biointeractive.org/) - 霍华德·休斯医学研究所出品，拥有纪录片级视频与互动科学工具。
+- 👉 [Quanta Magazine](https://quantamagazine.org/) - 科学新闻与前沿科普，文字优美适合有一定英语能力的中学生和成人。
+- 👉 [Zooniverse](https://www.zooniverse.org/) - 公民科学平台，让孩子参与真实科学研究项目。
+- 👉 [DK Find Out](https://www.dkfindout.com/) - DK 出版社的互动百科，图文精美，适合 6-12 岁孩子。
+- 👉 [Nautilus](https://nautil.us/) - 科学与哲学交叉的在线杂志，适合培养跨学科思维。
+- 👉 [Science Friday](https://sciencefriday.com/) - NPR 科普节目，播客和视频适合家庭收听和讨论。
+- 👉 [NASA JPL Education](https://jpl.nasa.gov/edu/learn) - NASA 喷气推进实验室的教育资源，基于火星探测和太空项目的活动。
+- 👉 [Project Noah](https://www.projectnoah.org/) - 全球野生动物照片地图社区，适合亲子一起观察自然和鉴定物种。
+- 👉 [Brilliant](https://brilliant.org/) - 互动题目式学习平台，适合培养解题思维。
+- 👉 [Howtosmile](https://www.howtosmile.org/) - 收录 4000+ STEM 动手活动，按年龄、耗时、材料成本分类。
+- 👉 [RefSeek Directory](https://www.refseek.com/directory/) - 人工审核的学术与教育资源导航，收录 200+ 科学、数学、编程、艺术、医学等网站。
+- 👉 [National Geographic Education](https://www.nationalgeographic.org/education/) - 国家地理教育资源，互动地图、课堂方案和学习活动。
+- 👉 [PBS LearningMedia](https://pbslearningmedia.org/) - K-12标准对齐的视频、互动内容和教案。
+- 👉 [TED-Ed](https://ed.ted.com/) - 视频课程与教学设计工具，适合老师构建课堂讨论。
+- 👉 [Edutopia](https://www.edutopia.org/) - K-12教学实践与教育创新案例。
+- 👉 [CosmoLearning](https://cosmolearning.org/) - 免费课程视频与纪录片聚合。
+- 👉 [neok12](https://www.neok12.com/) - 精选儿童教育视频聚合。
+- 👉 [Watch Know Learn](http://www.watchknowlearn.org/) - 50000+免费教育视频目录。
+- 👉 [TeacherTube](https://www.teachtube.com/) - 教育视频聚合平台。
+- 👉 [Funbrain](https://www.funbrain.com/) - 教育游戏、书籍和儿童视频。
+- 👉 [Socratica](https://www.socratica.com/) - 数学、科学和编程高质量教育视频。
+- 👉 [Internet Archive Movies](https://archive.org/details/movies) - 历史与学术视频免费资源库。
+- 👉 [Big Think](https://bigthink.com/videos) - 思想领袖访谈与教育视频。
+- 👉 [Howcast](https://www.howcast.com/) - 专业How-to教育视频。
+- 👉 [Wonder How To](https://www.wonderhowto.com/) - How-to视频搜索引擎。
+- 👉 [PBS Kids Video](https://pbskids.org/video/) - PBS儿童视频中心，含芝麻街、罗杰斯先生、丹尼尔虎。
+- 👉 [BrainPOP](https://www.brainpop.com/) - 原创动画教育视频，适合儿童与课堂学习。
 
 ## 🎒 慕课资源
 
@@ -848,6 +911,17 @@
 - 👉 [Achieve3000](https://www.achieve.org/) - 一个提供教育服务的网站，专注于提高学生的阅读和写作能力。
 - 👉 [Children’s Discovery Museum of San Jose](https://www.cdm.org/) - 圣何塞儿童探索博物馆（Children's Discovery Museum of San Jose）提供丰富多样的展览和互动体验，旨在激发儿童的创造力、好奇心和终身学习的兴趣。
 - 👉 [Fort Magic](https://fortmagic.com/) - 一个专注于提供创新和趣味性儿童玩具解决方案的网站，尤其以魔术堡垒（Fort Magic）这一品牌的搭建玩具而闻名。Fort Magic设计了一种独特的构筑套件，鼓励孩子们使用其产品创建各种创意和想象力的结构，比如城堡、堡垒、小屋、隧道等，不仅促进孩子们的创造力和手眼协调能力，同时也增强了他们的社交互动和解决问题的能力。
+- 👉 [Frontiers for Young Minds](https://kids.frontiersin.org/) - 诺奖得主参与写作，文章由孩子审稿，适合 8-15 岁年轻读者。
+- 👉 [Wonderopolis](https://wonderopolis.org/) - 每天一个“为什么”，配互动测验和词汇表，适合作为家庭好奇心启动器。
+- 👉 [Exploratorium](https://www.exploratorium.edu/) - 旧金山探索博物馆的线上实验室，提供大量动手做科学活动。
+- 👉 [DK Find Out](https://www.dkfindout.com/) - DK 出版社的互动百科，图文精美，适合 6-12 岁孩子。
+- 👉 [Project Noah](https://www.projectnoah.org/) - 全球野生动物照片地图社区，适合亲子一起观察自然和鉴定物种。
+- 👉 [Kids National Geographic](https://kids.nationalgeographic.com/) - 儿童版国家地理，适合孩子探索动物、地理和自然科学。
+- 👉 [Kiddle](https://www.kiddle.co/) - 儿童友好型搜索引擎，安全过滤与简洁结果。
+- 👉 [ABCya](https://www.abcya.com/) - Pre-K到6年级教育游戏、阅读和数学练习。
+- 👉 [PBS Kids Games](https://pbskids.org/games/) - PBS官方儿童游戏集合。
+- 👉 [Starfall](https://www.starfall.com/) - 儿童阅读与语文启蒙资源。
+- 👉 [Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids) - 幼儿和小学儿童的免费自适应学习应用。
 
 ## ☑️ 机构报告
 
@@ -908,6 +982,12 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [AAPT](https://www.aapt.org/) -  美国物理教师协会（American Association of Physics Teachers，简称 AAPT），一个致力于提升物理教育质量和普及物理科学知识的非营利专业组织。协会成员包括物理教师、教授、研究人员和其他对物理教育感兴趣的个人。👉 [K12老师指导](https://www.aapt.org/K12/index.cfm)
 
 ### 🤓 科普精选
+
+- 👉 [Scientific American](https://www.scientificamerican.com/) - 权威科普杂志，适合深入了解科学热点。
+- 👉 [Discover Magazine](https://www.discovermagazine.com/) - 科学与技术创新故事。
+- 👉 [Smithsonian Magazine](https://www.smithsonianmag.com/) - 科学、历史、文化与艺术交叉内容。
+- 👉 [Science News for Students](https://www.sciencenewsforstudents.org/) - 青少年版科学新闻，适合K-12学生。
+- 👉 [NOVA (PBS)](https://www.pbs.org/wgbh/nova/) - 经典科学纪录片与互动资源。
 
 [《第一推动丛书》](https://book.douban.com/series/1700)是一套凝结了30年时光的经典科普丛书，被无数读者视为科学精神的家园。
 
@@ -1079,6 +1159,12 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 ## 🎨 Arts
 
 AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术的人才能成为艺术家！
+
+- 👉 [SmartHistory](https://smarthistory.org/) - 艺术史与艺术教育资源，深入解读经典作品。
+- 👉 [Google Arts & Culture](https://artsandculture.google.com/) - 浏览全球博物馆藏品、虚拟展览与艺术故事。
+- 👉 [Artcyclopedia](http://www.artcyclopedia.com/) - 艺术作品与艺术家在线索引。
+- 👉 [Artsonia](https://www.artsonia.com/) - 儿童艺术作品在线展示与学校项目。
+- 👉 [Drawspace](http://www.drawspace.com/) - 绘画与素描的免费教程与练习。
 
 ### 🎵 音乐
 
@@ -1300,6 +1386,16 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Taichi](https://taichi-lang.cn/) - Taichi用Python轻松玩转并行编程，实现大规模仿真和动画。
 - 👉 [Quil](http://quil.info/) - 在线通过脚本创建动画模拟现实世界。 👉 [开源代码](https://github.com/quil/quil)
 - 👉 [Lean](https://lean-lang.org/learn/) - Lean is a functional programming language and theorem prover built for formalizing math and for formal verification, but is flexible enough for general coding.
+- 👉 [Khan Academy Math](https://zh.khanacademy.org/math) - 可汗学院的数学专栏，适合K-12阶段分级学习。
+- 👉 [Coolmath4Kids](https://www.coolmath4kids.com/) - 游戏化数学练习，适合小学低年级。
+- 👉 [Mathplanet](https://www.mathplanet.com/) - 高中数学课程与例题讲解。
+- 👉 [MathTV](https://www.mathtv.com/) - 专业数学视频教学与课程讲解。
+- 👉 [Figure This!](https://figurethis.nctm.org/) - 生活中的数学挑战题与教师资源。
+- 👉 [Illuminations (NCTM)](https://illuminations.nctm.org/) - 数学教师与学生的互动资源。
+- 👉 [Inside Mathematics](https://www.insidemathematics.org/) - Common Core对齐的数学视频与课堂案例。
+- 👉 [Math Dictionary for Kids](http://www.amathsdictionaryforkids.com/) - 儿童友好型数学概念词典。
+- 👉 [ThatQuiz](https://www.thatquiz.org/) - 在线数学测验与即时反馈。
+- 👉 [AAAMath](http://www.aaamath.com/) - 小学至初中互动数学课程。
 
 ### 📏 著作
 
