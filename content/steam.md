@@ -107,6 +107,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
 - 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
+- 🤗 [Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 一个在浏览器里展示真实比例太阳系的网页项目，包含8颗行星、月球和21颗卫星。
+- 👉 [Cosmodial](https://killedbyapixel.github.io/Cosmodial/) - 一个网页星空模拟器，可以在浏览器里探索宇宙星空。
 
 ## 🩺 Engineering
 
@@ -571,4 +573,3 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [ChatGPT突破自然语言处理瓶颈](https://openai.com/chatgpt/overview/) - OpenAI开发的ChatGPT展示了在自然语言理解和生成方面的卓越能力。ChatGPT的成功标志着自然语言处理技术的重大突破，广泛应用于各个领域，提升了人机交互体验。
 
 [↑ 返回目录 ↑](../README.md#-目录)
-
