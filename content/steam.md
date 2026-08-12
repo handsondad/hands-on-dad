@@ -107,8 +107,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
 - 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
-- 🤗 [Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 一个在浏览器里展示真实比例太阳系的网页项目，包含8颗行星、月球和21颗卫星。
+- 👉 [Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 一个在浏览器里展示真实比例太阳系的网页项目，包含8颗行星、月球和21颗卫星。
 - 👉 [Cosmodial](https://killedbyapixel.github.io/Cosmodial/) - 一个网页星空模拟器，可以在浏览器里探索宇宙星空。
+- 👉 [窗口交换（WindowsSwap）](https://www.window-swap.com/) - 世界各地的用户上传自家窗外的照片，你可以随机打开，也可以指定地点。
+- 👉 [世界最大立体书](https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-anglees-library-world-record/) - 美国洛杉矶中央图书馆，为了庆祝建馆100周年，制作了一本世界最大的立体书，正在图书馆大厅展出。
 
 ## 🩺 Engineering
 
@@ -217,6 +219,8 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - 一个桌面的RSS阅读器。
 - 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
 - 🤗 [Meilisearch](https://github.com/meilisearch/meilisearch) - 一个轻量级的混合模式搜索引擎工具。
+- 👉 [GNU TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html) - 一个跨平台的桌面编辑器，主要用于编写科技文档，提供数学内容的"所见即所得"。
+- 🤗 [FlowGram.AI](https://flowgram.ai/) - 一个可组合、可视化、易于集成且可扩展的工作流开发框架与工具集，帮助开发者以更快、更简单的方式搭建 AI 工作流平台。内置可视化流程画布、节点配置表单、变量作用域链，以及开箱即用的物料（LLM、条件、代码编辑器等）。
 
 ### 🧮 有趣发明
 
