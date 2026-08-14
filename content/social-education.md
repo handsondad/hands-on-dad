@@ -58,6 +58,7 @@
 - 👉 [Aureus Academy](https://www.aureusacademy.com/) - Aureus Academy是一家领先的音乐教育机构，专注于为学生提供高质量的音乐课程。
 - 👉 [Artusi Music](https://www.artusimusic.com/) - Artusi Music是一家专注于音乐教育和表演艺术的机构。提供一些免费的在线课程。
 - 👉 [Kialo-edu](https://www.kialo-edu.com/) - 一个专注于批判性思维和论证能力培养的教育平台，它为教育工作者和学生提供了一个交互式的在线工具，用于构建和分析论证，以提升逻辑思维和辩论技巧。
+- 👉 [OpenMAIC](https://open.maic.chat/) - 开源AI多智能体互动课堂平台，由清华大学团队研发。输入任意主题或上传文档，一键生成包含幻灯片、测验、互动模拟和项目式学习活动的完整课堂；AI教师与AI同学可以发言、在白板作画，并与你实时互动讨论。支持自部署。👉 [开源代码](https://github.com/THU-MAIC/OpenMAIC)
 - 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
 - 👉 [Pluralsight](https://www.pluralsight.com/) - 专注于技术和开发技能的在线视频学习平台。
 - 👉 [Skillshare](https://www.skillshare.com/) - 提供创意、技术和商业等领域的课程。
