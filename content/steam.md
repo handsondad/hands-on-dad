@@ -96,11 +96,13 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [中国盲人数字图书馆](http://www.cdlvi.cn/user/index) - 中国盲人数字图书馆的网站内容全部提供音频播放。
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 - 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
+- 👉 [城市道路（City Roads）](https://anvaka.github.io/city-roads/) - 将某个城市的全部道路渲染成可缩放的线条图，很适合直观观察城市结构与道路分布。
 - 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
 - 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
 - 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
 - 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
 - 👉 [Open Library](https://openlibrary.org) - Open Library（开放图书馆）是一个雄心勃勃的非营利性数字图书馆项目，其目标是 “为世界上每一本书创建一个网页”。它由互联网档案馆（Internet Archive）于2007年发起，致力于构建一个开放、免费、可编辑的全球图书目录和阅读平台。
+- 👉 [美国国会图书馆 MRG 彩色照片集](https://www.loc.gov/pictures/search/?q=mrg&sp=1&st=gallery) - 美国国会图书馆整理的照片集，收录了 11,710 张此类房屋的彩色照片，可按图库方式浏览。
 - 👉 [人类消费的动物](https://www.humanconsumption.live/) - 人类要消费多少动物？有人做了一个网站，实时显示今年至今被消费掉的动物数量。这是一个惊人的数字！为了养活人类，地球需要付出这么多。
 - 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
 - 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
@@ -109,6 +111,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
 - 👉 [Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 一个在浏览器里展示真实比例太阳系的网页项目，包含8颗行星、月球和21颗卫星。
 - 👉 [Cosmodial](https://killedbyapixel.github.io/Cosmodial/) - 一个网页星空模拟器，可以在浏览器里探索宇宙星空。
+- 👉 [AdAstra](https://github.com/gunerguner/AdAstra) - 可交互、可离线使用的实时星空 Web 应用，可还原任意观测地点和时刻的天空，并展示星空随时间的变化。
+- 👉 [Planet](https://planet.dyu.sh/) - 一个文件里的星球演示项目，用极简方式在网页中呈现可交互的行星效果。
 - 👉 [窗口交换（WindowsSwap）](https://www.window-swap.com/) - 世界各地的用户上传自家窗外的照片，你可以随机打开，也可以指定地点。
 - 👉 [世界最大立体书](https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-anglees-library-world-record/) - 美国洛杉矶中央图书馆，为了庆祝建馆100周年，制作了一本世界最大的立体书，正在图书馆大厅展出。
 
@@ -269,6 +273,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
   - 👉 [GuitarML](https://guitarml.com/) - GuitarML是一个专门为吉他爱好者和技术爱好者设计的平台。它结合了机器学习技术与音乐，为用户提供了一种创新的吉他效果处理方法。
 - 👉 [钢琴学习](https://en.wikipedia.org/wiki/Piano)
   - 👉 [Frazier Piano Studio](https://www.frazierpianostudio.com/) - 一个专注于钢琴教学的专业音乐工作室。
+  - 👉 [AutoPiano 3D](https://www.autopiano.cn/3d) - 在 3D 钢琴上可视化曲子或 MIDI 键盘演奏时的键位变化，适合观察钢琴演奏与练习。
 - 👉 [NOTATIO](https://notat.io/) - 一个致力于音乐记谱实践的论坛。
 - 👉 [Audio](https://audio.com/) - 免费的音频托管平台。帮助音频创意人士与世界分享他们的作品。
 - 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
