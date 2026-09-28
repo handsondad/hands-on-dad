@@ -118,7 +118,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [AdAstra](https://github.com/gunerguner/AdAstra) - 可交互、可离线使用的实时星空 Web 应用，可还原任意观测地点和时刻的天空，并展示星空随时间的变化。
 - 👉 [Planet](https://planet.dyu.sh/) - 一个文件里的星球演示项目，用极简方式在网页中呈现可交互的行星效果。
 - 👉 [窗口交换（WindowsSwap）](https://www.window-swap.com/) - 世界各地的用户上传自家窗外的照片，你可以随机打开，也可以指定地点。
-- 👉 [世界最大立体书](https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-anglees-library-world-record/) - 美国洛杉矶中央图书馆，为了庆祝建馆100周年，制作了一本世界最大的立体书，正在图书馆大厅展出。
+- 👉 [世界最大立体书](https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-angeles-library-world-record/) - 美国洛杉矶中央图书馆，为了庆祝建馆100周年，制作了一本世界最大的立体书，正在图书馆大厅展出。
 
 ## 🩺 Engineering
 
@@ -292,7 +292,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Audacity](https://www.audacityteam.org/) - Audacity是一款免费、开源的音频编辑软件，广泛用于录音、混音和音频处理。此外，还提供了一些高级功能，如频率分析、音量标准化和音频增强工具。这些功能使得Audacity成为音乐制作人、播客制作者和音频工程师等专业人士的理想选择。👉 [开源代码](https://github.com/audacity/audacity)
 - 👉 [LMMS](https://lmms.io/) - LMMS是一款开源跨平台音乐制作软件。👉 [开源代码](https://github.com/LMMS/lmms)
 - 👉 [SuperCollider](https://supercollider.github.io/) - SuperCollider的独特之处在于它的灵活性和强大的音频处理能力，使得它成为音乐家、声音设计师和研究人员的首选工具之一。可以使用控制语言处理音频。👉 [开源代码](https://github.com/supercollider/supercollider)
-- 👉 [Ardoru](https://ardour.org/) - Ardoru是一个开源的音频录制和编辑软件，以及丰富的插件。这个软件以其强大的功能和灵活的操作界面而闻名，被广泛用于音乐制作、广播和声音设计等领域。
+- 👉 [Ardour](https://ardour.org/) - Ardour是一个开源的音频录制和编辑软件，以及丰富的插件。这个软件以其强大的功能和灵活的操作界面而闻名，被广泛用于音乐制作、广播和声音设计等领域。
 - 👉 [MuseScore](https://musescore.org/) - 免费的开源音乐记谱和作曲软件。[使用手册](http://musescore.org/en/handbook)支持中文。👉 [开源代码](https://github.com/musescore/MuseScore)
 - 👉 [HowToWhistle](https://howtowhistle.org/zh) - 练习吹口哨的在线工具，可实时检测音高，显示当前音符以及与目标音的偏差。
 - 👉 [LilyPond](https://lilypond.org/) - LilyPond是一个免费且开源的软件，它使用一种基于文本的输入方式来创建乐谱。用户可以直接在文本编辑器中编写乐谱代码，然后通过LilyPond将其转换为美观的五线谱。
