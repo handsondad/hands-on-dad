@@ -97,18 +97,22 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 - 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
 - 👉 [城市道路（City Roads）](https://anvaka.github.io/city-roads/) - 将某个城市的全部道路渲染成可缩放的线条图，很适合直观观察城市结构与道路分布。
+- 👉 [Flexport Atlas](https://atlas.flexport.com/) - 在地图上实时显示大型货轮的位置，适合直观了解全球航运网络与海上物流流动。
 - 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
+- 👉 [插头和插座博物馆](https://plugsocketmuseum.nl/) - 收集世界各地插头和插座资料的在线博物馆，适合从历史、地区与标准差异角度进行浏览。
 - 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
 - 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
 - 👉 [ASCIIMoon](https://asciimoon.com/) - 这个网站使用ASCII码展示当天的月相（新月、弯月、满月）。
 - 👉 [Open Library](https://openlibrary.org) - Open Library（开放图书馆）是一个雄心勃勃的非营利性数字图书馆项目，其目标是 “为世界上每一本书创建一个网页”。它由互联网档案馆（Internet Archive）于2007年发起，致力于构建一个开放、免费、可编辑的全球图书目录和阅读平台。
 - 👉 [美国国会图书馆 MRG 彩色照片集](https://www.loc.gov/pictures/search/?q=mrg&sp=1&st=gallery) - 美国国会图书馆整理的照片集，收录了 11,710 张此类房屋的彩色照片，可按图库方式浏览。
+- 👉 [昆虫世界](https://github.com/xr843/insect-world) - 60 种昆虫的 3D 图鉴，可旋转、缩放并点击标注点了解身体构造、生活史与生态角色。
 - 👉 [人类消费的动物](https://www.humanconsumption.live/) - 人类要消费多少动物？有人做了一个网站，实时显示今年至今被消费掉的动物数量。这是一个惊人的数字！为了养活人类，地球需要付出这么多。
 - 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
 - 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
 - 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
+- 👉 [日全食 3D 模拟器](https://github.com/DophinL/solar-eclipse-2026-simulator) - 在地图上模拟 2026 年 8 月 12 日日全食，查看指定地点的初亏、食甚、复圆时间以及天空效果。
 - 👉 [Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer) - 一个在浏览器里展示真实比例太阳系的网页项目，包含8颗行星、月球和21颗卫星。
 - 👉 [Cosmodial](https://killedbyapixel.github.io/Cosmodial/) - 一个网页星空模拟器，可以在浏览器里探索宇宙星空。
 - 👉 [AdAstra](https://github.com/gunerguner/AdAstra) - 可交互、可离线使用的实时星空 Web 应用，可还原任意观测地点和时刻的天空，并展示星空随时间的变化。
@@ -187,6 +191,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
 - 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
+- 👉 [乡音阁](https://xiangyinge.com/zh) - 在线文字转方言语音工具，目前支持 16 种方言、63 个音色，适合体验语言与语音表达的地域差异。
 - 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialsproject/pymatgen)
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。
 - 🤗 [Oxdraw](https://github.com/RohanAdwankar/oxdraw) - 一个Rust语言编写的Web服务，用来可视化生成图表，同时给出对应的Mermaid语法代码。
@@ -274,6 +279,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [钢琴学习](https://en.wikipedia.org/wiki/Piano)
   - 👉 [Frazier Piano Studio](https://www.frazierpianostudio.com/) - 一个专注于钢琴教学的专业音乐工作室。
   - 👉 [AutoPiano 3D](https://www.autopiano.cn/3d) - 在 3D 钢琴上可视化曲子或 MIDI 键盘演奏时的键位变化，适合观察钢琴演奏与练习。
+  - 👉 [midipiano.app](https://midipiano.app/zh/) - 免费的网页版练钢琴应用，电脑连接 MIDI 键盘即可直接弹奏，网页会提供实时反馈。
 - 👉 [NOTATIO](https://notat.io/) - 一个致力于音乐记谱实践的论坛。
 - 👉 [Audio](https://audio.com/) - 免费的音频托管平台。帮助音频创意人士与世界分享他们的作品。
 - 👉 [Music Fonts](https://music-fonts.com/) - 音乐字体库和视觉展示。
@@ -288,6 +294,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [SuperCollider](https://supercollider.github.io/) - SuperCollider的独特之处在于它的灵活性和强大的音频处理能力，使得它成为音乐家、声音设计师和研究人员的首选工具之一。可以使用控制语言处理音频。👉 [开源代码](https://github.com/supercollider/supercollider)
 - 👉 [Ardoru](https://ardour.org/) - Ardoru是一个开源的音频录制和编辑软件，以及丰富的插件。这个软件以其强大的功能和灵活的操作界面而闻名，被广泛用于音乐制作、广播和声音设计等领域。
 - 👉 [MuseScore](https://musescore.org/) - 免费的开源音乐记谱和作曲软件。[使用手册](http://musescore.org/en/handbook)支持中文。👉 [开源代码](https://github.com/musescore/MuseScore)
+- 👉 [HowToWhistle](https://howtowhistle.org/zh) - 练习吹口哨的在线工具，可实时检测音高，显示当前音符以及与目标音的偏差。
 - 👉 [LilyPond](https://lilypond.org/) - LilyPond是一个免费且开源的软件，它使用一种基于文本的输入方式来创建乐谱。用户可以直接在文本编辑器中编写乐谱代码，然后通过LilyPond将其转换为美观的五线谱。
   - 👉 [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - 获取LilyPond最大效益的技巧和窍门。
   - 👉 [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - 一个在线的LilyPond片段数据库，包括想法、功能和技巧。
@@ -431,6 +438,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Colossal](https://www.thisiscolossal.com/) - 一个专注于艺术、设计和视觉文化的网站，以展示各种形式的创意为核心，涵盖雕塑、摄影、插画等内容。
 - 👉 [The Dieline](https://thedieline.com/) - 专注于包装设计领域，展示从食品到奢侈品的创意包装设计案例及趋势。
 - 👉 [Behance](https://www.behance.net/) - 全球知名的创意作品展示平台，设计师和艺术家们可以分享自己的项目，获取灵感和专业反馈。
+- 👉 [Present & Correct](https://www.presentandcorrect.com/) - 一家兼具设计商店与内容策展气质的网站，围绕文具、纸品、办公物件与视觉审美展开。
+- 👉 [回形针收藏](https://www.presentandcorrect.com/blogs/blog/david-walkers-paper-clip-collection) - 美国收藏家 David Walker 的回形针收藏，许多藏品并置陈列后兼具设计感与艺术趣味。
 
 ### 📠 3D打印
 
@@ -480,6 +489,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《数学也可以这样学：自然、空间和时间里的数学》](https://weread.qq.com/web/reader/cff321b07193f21acff90ed) - 本书汲取原始的经验，从生活出发，通过有趣的画图练习和模型制作等，向读者展示自然、空间以及时间里的数学知识。
 - 📚️ [《数学也可以这样学：大自然中的几何学》](https://weread.qq.com/web/reader/b5d3207071cfc36eb5d2a7f) - 大量彩图和手绘图引导读者观察大自然中的事物，并从中发现几何学的身影。
 - 📚️ [《代数的历史：人类对未知量的不舍追踪》](https://weread.qq.com/web/reader/8eb326c0723be76c8ebd4a5) - 深受读者喜爱的数学经典。写给好奇的非数学专业人士的代数历史书。
+- 👉 [线性代数应该这样学（Linear Algebra Done Right）](https://linear.axler.net/) - 免费的中英文版线性代数教程，围绕线性映射等核心概念系统讲解线性代数。
 - 👉 [盖尔范德中学生数学思维丛书](https://book.douban.com/series/54852)
   - 📚️ [《代数》](https://book.douban.com/subject/35320798/)
   - 📚️ [《函数和图像》](https://book.douban.com/subject/35320796/)
@@ -527,6 +537,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Cosmo Learning](https://cosmolearning.org/) - 一个提供免费、高质量在线学习资源的教育平台，尤其在科学、工程学、数学、计算机科学等STEM领域拥有丰富的课程内容。该平台的目标是通过普及高质量的教育资源，促进全球的教育公平和学习机会。
 - 👉 [eSpark Learning](https://www.esparklearning.com/) - 一个基于网络的教育平台，专注于提供创新和互动式的在线学习体验，主要针对K-12的学生。设计目的是为了提升儿童的学习兴趣，以及他们在数学、阅读和科学等关键学科的能力。
 - 👉 [Experiments with Google](https://experiments.withgoogle.com/) - Experiments with Google是谷歌的一个项目，其目标是展示并促进创新和技术的前沿。这个网站上汇集了谷歌内部以及全球独立开发者和艺术家的各种实验性和创新性的项目。目前已经有**1611**个实验内容。
+- 👉 [魔尺（Rubik's Snake）](https://github.com/regomne/magic-snake) - 一个开源的 3D 造型设计工具，可以直接在网页上设计和拼搭 3D 魔尺造型。
 - 📺️ [STEM Ideas & The Practices of Science](https://www.youtube.com/playlist?list=PLat8Jejmdx1sfzUPWL-lI6WbT109A7PC_) - Jared Hottenstein提供的酷炫新学习工具与活动，你可以用它们帮助学生理解工程学与科学的本质。
 
 ### 🆒 个人博客
