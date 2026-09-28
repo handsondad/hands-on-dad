@@ -58,6 +58,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 
 - 📚️ [《从一到无穷：科学中的事实和臆测》](https://weread.qq.com/web/reader/d8732de071913d87d8751c1) - 是当今世界最有影响的科普经典名著之一，1970年代末由科学出版社引进出版后，曾在国内引起很大反响，直接影响了众多的科普工作者。
 - 👉 [Scale of the Universe](https://scaleofuniverse.com/) - 是一个在线互动网站，主要功能是帮助用户通过直观的视觉体验理解宇宙的尺度。这个网站展示了从亚原子粒子到宇宙最大结构的尺度，允许用户探索从极微观到极宏大的一切。**相当好！**🤩
+- 👉 [引力（Gravity）](https://qunabu.github.io/Gravity/#what-is-gravity) - 一个网页多媒体教程，用可视化与交互方式向观众介绍万有引力的基本概念。
 
 #### 🐣 自然生命
 
@@ -97,6 +98,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [全球气温地图](https://zoom.earth/maps/temperature/) - 通过地图可以查看全球当前的天气可视化数据。**相当好！**🤩
 - 👉 [Mapedia.cc](https://mapedia.cc/) - AI地图，用户搜索一个主题，它会显示相关地图和解释文章。包括名人的足迹，非常有趣！
 - 👉 [城市道路（City Roads）](https://anvaka.github.io/city-roads/) - 将某个城市的全部道路渲染成可缩放的线条图，很适合直观观察城市结构与道路分布。
+- 👉 [旧金山像素地图](https://sf.isopolis.city/) - 像《模拟城市》一样的旧金山像素地图，标出了主要科技公司的位置，兼具地图浏览与数字化城市观察的趣味。
 - 👉 [Flexport Atlas](https://atlas.flexport.com/) - 在地图上实时显示大型货轮的位置，适合直观了解全球航运网络与海上物流流动。
 - 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
 - 👉 [插头和插座博物馆](https://plugsocketmuseum.nl/) - 收集世界各地插头和插座资料的在线博物馆，适合从历史、地区与标准差异角度进行浏览。
@@ -342,6 +344,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 📚️ [《铅笔画技法》](https://book.douban.com/subject/2090395/) - 这是一本绘画入门书。铅笔画是广义上的素描，美术的基础是造型，艺术造型是人按照自然方式进行的复杂劳动，是一项需要长期训练才能形成的特殊技能，本书可以指导读者掌握对各形各类物体进行绘画的能力。
 - 📚️ [《美国绘画透视完全教程》](https://book.douban.com/subject/20382249/) - 教授你如何掌握绘画中的透视关系，通过深入浅出的方法，将复杂的透视理论通过简洁的语言让你轻松的掌握。
 - 📚️ [《世界绘画经典教程：动物素描》](https://book.douban.com/subject/5922095/) - 经久不衰的绘画教程，学习大量动物绘画的原则和技巧。
+- 👉 [How to Draw](https://www.howtodraw.ai/) - 提供各种小动物的分步绘图指导，适合小朋友跟着一步一步练习绘画。
 - 📚️ [《世界绘画经典教程：风景素描》](https://book.douban.com/subject/5915006/) - 经久不衰的绘画教程，学习风景手绘基础。
 - 📚️ [《最美的花绘教科书》](https://book.douban.com/subject/26576534/) - 40种花草的水彩画技法，只要一步一步跟着画，就可以画出最美的花朵！
 - 📚️ [《水彩奶奶Cathy Johnson的清新手绘教程》](https://book.douban.com/subject/26315410/) - 跟随水彩奶奶的脚步，开启手绘大自然笔记之旅。
@@ -590,6 +593,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [人类第一次成功的登月任务](https://blog.sciencenet.cn/blog-39026-1021834.html) - 1969年，阿波罗11号任务成功将人类送上月球，阿姆斯特朗成为第一个踏上月球的人。这是人类航天史上的重大成就，标志着人类探索太空的新高度。这是一个人的一小步，却是人类的一大步。📺️ [阿波罗11号登月完整视频](https://v.qq.com/x/page/c089731blet.html) 
 - 👉 [互联网的诞生](https://baike.baidu.com/item/互联网/199186) - 20世纪60年代末，ARPANET作为互联网的前身开始发展，1990年蒂姆·伯纳斯-李发明了万维网。互联网彻底改变了信息传播和人类交流的方式，推动了全球化和信息社会的发展。
 - 👉 [AlphaGO围棋战胜人类](https://deepmind.google/research/breakthroughs/alphago/) - 2016年，DeepMind开发的AlphaGO在围棋比赛中战胜了世界冠军李世石。这一事件展示了人工智能在复杂策略游戏中的强大能力，推动了AI技术的发展。📺️ [AlphaGO电影](https://www.bilibili.com/video/BV1Rg4y1o7H5)
+  - 👉 [学习下下围棋](https://online-go.com/learn-to-play-go) - 在线互动围棋教程，从零开始分课讲解围棋规则、下法与基本思路。
 - 👉 [ChatGPT突破自然语言处理瓶颈](https://openai.com/chatgpt/overview/) - OpenAI开发的ChatGPT展示了在自然语言理解和生成方面的卓越能力。ChatGPT的成功标志着自然语言处理技术的重大突破，广泛应用于各个领域，提升了人机交互体验。
 
 [↑ 返回目录 ↑](../README.md#-目录)
