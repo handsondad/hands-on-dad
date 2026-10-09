@@ -90,6 +90,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [儿童绘本数字化](https://readtogether.ai/) - 李沐开发的儿童绘本实体书转化为电子书并转化为可朗读版本。 开源的上千本英文绘本[网盘地址](https://bit.ly/kidsbooklib)，可以加入到该数字化产品中。
 - 👉 [BeddyStories](https://beddystories.com/) - 一个儿童睡前故事网站收集了全球经典的儿童睡前故事。
 - 👉 [识典古籍](https://www.shidianguji.com/) - 北大和字节跳动共同研发的一个专注于古籍数字化和传统文化传播的平台。
+- 👉 [阅古文](https://yueguwen.com/) - 免费的古籍阅读网站，提供传统注释，也支持选中文本进行 AI 解读。
 - 👉 [Vesuvius Challenge](https://scrollprize.org/) - 维苏威火山挑战赛（Vesuvius Challenge）是一个专注于利用现代技术解读古代文献的国际竞赛。
 - 👉 [Blinkist](https://www.blinkist.com/) - 一个专注于提供书籍摘要的应用程序和网站，通过提供书籍的精简版摘要，为那些没有足够时间阅读完整书籍的读者提供了一种替代方案。
 - 👉 [虚拟博物馆](https://mayeclair.itch.io/museum-of-all-things) - 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
@@ -101,6 +102,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [旧金山像素地图](https://sf.isopolis.city/) - 像《模拟城市》一样的旧金山像素地图，标出了主要科技公司的位置，兼具地图浏览与数字化城市观察的趣味。
 - 👉 [Flexport Atlas](https://atlas.flexport.com/) - 在地图上实时显示大型货轮的位置，适合直观了解全球航运网络与海上物流流动。
 - 👉 [Citywalki](https://www.citywalki.com/) - 让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的Youtube视频，完成一个数字化体验。
+- 👉 [艺术史步行之旅](https://artmuseum.artfrompixels.com/) - 将维基百科上的画作按艺术流派整理成可步行参观的 3D 画廊。
 - 👉 [插头和插座博物馆](https://plugsocketmuseum.nl/) - 收集世界各地插头和插座资料的在线博物馆，适合从历史、地区与标准差异角度进行浏览。
 - 👉 [中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/) - 中央人民广播电台中小学语文示范诵读库的 Web 前端，课文按年级、学期分类。
 - 👉 [ISBN Visualization](https://phiresky.github.io/isbn-visualization) - 世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，👉 [开源代码](https://github.com/phiresky/isbn-visualization/) 
@@ -364,6 +366,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 
 #### 🏮 绘画作品
 
+- 👉 [stillwet](https://stillwet.art/) - AI 油画创作网站，以逐笔绘制的方式模拟人类油画笔触，呈现逼真的绘画质感。
 - 📚️ [《生活蒙太奇》](https://weread.qq.com/web/reader/b0c32c5071ff64e7b0c7ab4) - 作者把这些单独静止的画面，通过独特想象力和洞察力的艺术加工，画成可以阅读的，充满故事感的连续绘画作品，仿佛一部生活电影的蒙太奇。读者静下心来读一读，会从画面故事里得到一种前所未见的生活平静之美和细节之美。
 - 📚️ [《治愈系的手账简笔画：人人都是艺术家》](https://weread.qq.com/web/reader/3d932380723fba3d3d9b21a) - 不需要复杂的描绘，用简单的线条、可爱的形状，就能释放你满满的爱心。本书便是一本生动活泼、简单易学的治愈系手账简笔画教程。
 
