@@ -29,6 +29,7 @@
 ### 🧪 化学
 
 - 👉 [元素周期表网站](https://periodictable.com/) - 一个提供元素周期表相关信息和化学元素数据的在线平台‌。
+- 👉 [Future Style Periodic Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - 开源的可视化元素周期表，可以展示元素的核外电子排布。
 - 👉 [IUPAC命名法](https://iupac.org/) - IUPAC命名法是系统命名化学物质的方法。该命名法是由国际纯粹与应用化学联合会（IUPAC）规定的。国内出版[《有机化合物命名原则2017》](https://www.chemsoc.org.cn/library/copy/24.html)
 - 👉 [ScienceGeek Chemistry](https://www.sciencegeek.net/APchemistry/index.shtml) - 自学指导。为每个化学主题提供PowerPoint演示文稿、笔记、复习和互动测验。对学生来说是极好的额外活动和额外的练习。
 - 👉 [Chem LibreTexts](https://chem.libretexts.org/Bookshelves) - Chem LibreTexts在化学领域的知识库，它是一个互动式的、开放获取的、在线平台，由全球的教育者和学生共同维护。
@@ -80,6 +81,7 @@
 - 💯 [通用规范汉字表(2013)](https://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf) - 国务院2013年推出的通用规范汉字表，收录了现行汉字、繁体字、异体字，并且进行对照。
 - 💯 [通用规范汉字读音](http://unicode.org/L2/L2019/19160-adding-ktghz-2013.pdf) - Unicode联盟提交委员会根据《通用规范汉字字典》，收录的汉字、拼音、Unicode的对照。
 - 👉 [汉语国学网](https://www.hanyuguoxue.com/) - 提供丰富的汉字学习内容，拼音、词组、成语等，并且提供在线查询和可视化展示。
+- 👉 [一个字的一生](https://ivan666jjj.github.io/yigezi/) - 查询汉字字源与字形演变的网站，展示常用字的甲骨文（1,425个）、小篆（10,249个）、繁体与简体字形。作者的 [GitHub主页](https://github.com/Ivan666jjj) 还收录了多个汉字相关项目。
 - 👉 [粤语114](http://www.yueyu114.com/) - 粤语114是一个专注于粤语学习和推广的在线平台，为广大对粤语感兴趣的用户提供了丰富多样的学习资源和交流机会。该网站涵盖了粤语的发音、词汇、语法以及文化背景等内容，旨在帮助用户从零基础开始，逐步掌握粤语的听、说、读、写技能。📺️ [B站粤语学习1000集](https://www.bilibili.com/video/BV1Te4y1r7hL)、📺️ [B站搬运YouTube视频](https://www.bilibili.com/video/BV1Je4y187EV)
 - 👉 [香港教育大學粵語自學平台](https://corpus.eduhk.hk/cantonese/) - 该平台通过收集和整理大量真实的广东话口语及书面材料，为语言教育者、研究者和学习者提供宝贵资源。👉 [粤语拼音方案](https://zh.wikipedia.org/zh-sg/香港語言學學會粵語拼音方案)
 - 👉 [语音词典](https://www.voicedic.com/) - 语音字典(VoiceDic)是一个用于查询汉字在南北古今各种族群中发音的网站。
