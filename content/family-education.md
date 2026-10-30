@@ -339,6 +339,7 @@
 - 👉 [PlayDNA](https://www.carolina.com/genetic-dna-models/playdna-dna-model-kit-intro-pack/211490.pr?question=dna+model) - PlayDNA! classroom kits (and compatible RNA parts) will be available from Carolina Science.
 - 👉 [50 easy crafts for kids that are fun](https://www.goodto.com/family/things-to-do/easy-crafts-for-kids-533109) - We share easy crafts for kids, from homemade play dough to dot art, scroll through our 50 best crafts.
 - 👉 [Moss&Fog](https://mossandfog.com/) - 一个富有创意和灵感的网站，专注于艺术、设计、自然、科技以及可持续生活等主题。旨在探索和发现我们周围的美好世界。
+- 👉 [Backcountry 101](https://backcountry-101.vercel.app/) - 用互动 3D 分步教户外生存技能：生火、钻木取火、净水、搭棚、发出求救信号、分辨可食与有毒植物、打包应急包。
 
 #### 🎯 危险的事
 

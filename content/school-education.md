@@ -71,6 +71,7 @@
 - 👉 [TeachDNA](https://www.teachdna.net/) - DNA、RNA和蛋白质分子的教学模型。
 - 📚️ [《生物学与生活》](https://book.douban.com/subject/26882918/) - 非常硬核的生物学知识，是一本在美国大学生中享有盛誉的通识读物。
 - 📚️ [《生物学之书从生命的起源到实验胚胎，生物学史上的250个里程碑》](https://weread.qq.com/web/reader/7f7322d0725f98bf7f77c54) - 探讨了生物学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
+- 👉 [Breathing and Respiration](https://iamtechartist.com/breathing-and-respiration/) - 交互式 3D 生物课，把呼吸系统的结构与气体交换过程拆开来看。
 
 ### 🎤 语言
 
@@ -103,12 +104,43 @@
 - 📚️ [《十二幅地图中的世界史》](https://book.douban.com/subject/26816981/) - 地图不仅仅是帮助我们从甲地到乙地的工具，更是伟大历史时刻的缩影，是政治权力的强大手段。地图可以给人们美好的愿景，却又可以是极具毁灭性的政治势力的工具，能引起偏见，使世界扭曲变形。
 - 📚️ [《中国历史地图集（全八册）》](https://book.douban.com/subject/1055304/) - 一套权威的历史地理参考书籍。这套地图集详细描绘了从原始社会到中华人民共和国成立前的各个历史时期的地理、疆域变化。读史必备工具书。**相当好！**🤩
 - 📚️ [《地球之书》](https://book.douban.com/subject/35716683/) - 跨越了地球的整个历史，从46亿年前地球的诞生到未来数十亿年后必然的灭亡。
+- 👉 [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - 输入城市名，查看它从数亿年前到今天所在的大陆位置。**相当好！**🤩
+- 👉 [S2Maps](https://s2maps.eu/) - EOX 的「无云」卫星影像拼图，去掉云层后可以看到超高分辨率的地表细节。
+- 👉 [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - 免费的地球观测工具，按时间与波段浏览卫星影像。
+- 👉 [OpenStreetMap](https://www.openstreetmap.org/) - 由志愿者共同绘制的开放世界地图，可自由使用与编辑。
+- 👉 [WikiMapia](https://wikimapia.org/) - 协作注释的世界地图，人人都能标注地点与故事。
+- 👉 [GeoGuessr](https://www.geoguessr.com/) - 随机掉入世界某地，根据街景线索猜出自己在哪里。
+- 👉 [Random Street View](https://randomstreetview.com/) - 纯粹随机地传送到世界各地的街景。
+- 👉 [MapCrunch](https://www.mapcrunch.com/) - 一键传送到地球上的随机位置，可按国家筛选。
+- 👉 [Scribble Maps](https://www.scribblemaps.com/) - 创建、标注并分享自定义地图。
+- 👉 [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) - Esri 的互动全球地图与地理数据集合。
+- 👉 [Climate Explorer](https://climateexplorer.app/) - 对比不同地点与年代的气候和天气观测数据。
+- 👉 [Flood Map](https://floodmap.net/) - 海平面上升探索器，查看不同水位下的陆地变化。
+- 👉 [The True Size](https://thetruesize.com/) - 拖动国家轮廓，比较各国真实大小，纠正地图投影造成的错觉。**相当好！**🤩
+- 👉 [Flightradar24](https://www.flightradar24.com/) - 查看此刻天空中所有飞机的实时位置与航班信息。
+- 👉 [MarineTraffic](https://www.marinetraffic.com/) - 实时追踪全球海上船只与港口动态。
+- 👉 [Windy](https://www.windy.com/) - 风和风暴的实时动态地图，包含多种气象图层。
+- 👉 [Lightning Maps](https://www.lightningmaps.org/) - 实时观看全球闪电击中地球的位置。
+- 👉 [USGS Earthquakes](https://earthquake.usgs.gov/) - 最近地震的实时列表与全球地震地图。
+- 👉 [Submarine Cable Map](https://www.submarinecablemap.com/) - 查看承载全球互联网的海底光缆与登陆点。
+- 👉 [Global Forest Watch](https://www.globalforestwatch.org/) - 从太空观测全球森林的消失与恢复。
+- 👉 [Citylines](https://www.citylines.co/) - 历史交通地图，查看城市公交与地铁网络的演变。
+- 👉 [Atlas Obscura](https://www.atlasobscura.com/) - 世界最奇怪地方的目录，适合规划家庭探险。
 
 ### 🏛︎ 历史
 
 - 📚️ [《世界小史》](https://weread.qq.com/web/reader/69132b105e28576916da9e8) - 从来没有一本讲述世界历史的书，像《世界小史》一样，能用如此简练生动、优雅平和的语言，勾勒出时而辉煌灿烂，时而暗夜茫茫的文明进程中，人类对自由、平等、博爱不屈不挠的追求，以及对抗压迫、邪恶、黑暗的无畏勇气。这是一本写给孩子的历史书。
 - 📚️ [《讲给大家的中国历史（共六册）》](https://weread.qq.com/web/reader/60a3243071fd109160a2210) - 讲给普通大众的130堂中国历史课，寻找被忽略的历史逻辑。杨昭老师讲透中国历史。现在已经更新到13册了。
 - 📚️ [《沈从文讲文物》](https://weread.qq.com/web/reader/c9532c90813ab775fg012f77) - 沈从文是国内文物研究的先驱，在文物研究的多个领域都有开创性的成果，凝结了沈从文整个后半生的心血。本书精选沈从文文物研究文章30篇，分门别类地介绍了玉器、陶瓷、漆器、琉璃等文物的鉴赏知识、加工工艺、历史典故、研究方法，把6000年文物分门别类地看个遍，从此掌握看文物的门道！
+- 👉 [ChronoZoom](https://www.chronozoom.com/) - 从大爆炸到现在的可缩放时空线，自由穿梭于不同尺度。
+- 👉 [Timeline of History](https://timelineofhistory.com/) - 互动历史时间线，串联塑造世界的关键时刻。
+- 👉 [Future Timeline](https://www.futuretimeline.net/) - 按时间顺序罗列可能的未来事件与技术。
+- 👉 [World Population History](https://worldpopulationhistory.org/) - 互动人口历史，查看人口与资源随时间的变化。
+- 👉 [Oculi Mundi](https://oculi-mundi.com/) - 古老地图、地图集与地球仪的高清收藏。
+- 👉 [OmnesViae](https://omnesviae.org/) - 古罗马道路规划器，基于《波伊廷格地图》计算两地路线。
+- 👉 [Arcanum Maps](https://www.arcanum.com/en/maps) - 历史地图收藏，可叠加到现代地图上对比。
+- 👉 [Old Maps Online](https://www.oldmapsonline.org/) - 按地点检索几个世纪前的地图。
+- 👉 [David Rumsey Map Collection](https://www.davidrumsey.com/) - 15 万张历史地图的数字档案。
 
 ### 🧫 实验室
 
@@ -118,6 +150,9 @@
 - 👉 [ChemDraw](https://revvitysignals.com/products/research/chemdraw) - ChemDraw solutions have provided powerful capabilities and integrations to help you quickly turn ideas & drawings into publications you can be proud of.
 - 👉 [Flinn Scientific](https://www.flinnsso.com/) - 一家享誉全球的科学教育解决方案提供商，以供应高质量的科学教育产品和专业的实验室内务管理服务而著称。致力于支持和增强学校实验室的科学教育质量，为全世界数以千计的学校、学院和科研机构提供服务。
 - 👉 [Antpedia](https://www.antpedia.com/) - 一家专注于科学仪器、实验室设备、分析检测技术和生命科学领域的在线平台。作为一个综合性的行业门户，Antpedia 提供了丰富的资源和信息，旨在为科研人员、工程师、学生以及相关领域的从业者提供一个交流、学习和分享的平台。
+- 👉 [铜匠实验室](https://lab.tongjiang.app) - 面向高中的免费互动 3D 科学课，把抽象概念做成可操作的三维演示。👉 [开源代码](https://github.com/smithjohn78390/tongjiang-lab)
+- 👉 [Learn Arduino](https://learn-arduino-red.vercel.app/) - 面向初学者的 Arduino 互动 3D 课程，从点亮 LED、按下按钮到读取光敏电阻，一步步搭出电路。
+- 👉 [ESP32-S3 Bench Guide](https://esp-labs-web.vercel.app/) - ESP32-S3 的实操手册：实时引脚图、带互动模拟器的课程与固件代码导读，支持 11 种语言。👉 [开源代码](https://github.com/agharsallah/esp-labs-web)
 
 ### 🏢 知识库
 
@@ -139,6 +174,14 @@
 - 👉 [WorldCat](https://www.worldcat.org/) - WorldCat是全球最大的图书馆资源在线目录之一，由OCLC（Online Computer Library Center）运营。连接了全球数以万计的图书馆，提供了一个可以搜索和定位近十亿条图书馆藏记录的平台，涵盖了图书、期刊、电影、音乐录音、数字内容等多种资料类型。
 - 👉 [通辽宇宙知识库](https://www.tongliaouniverse.cn/) - 一个关于世界上那些奇葩小国、硬核狠人与二次元谐音梗的互动知识库。通过地图可视化、人物关系网络、文化符号整理等方式，帮助观众更全面地理解和探索历史事件与人物。相比传统的线性视频内容，我们提供多维度、可交互的知识体验，让用户能够按照自己的兴趣和节奏探索历史的奇妙世界。
 - 👉 [高等院校三千所](https://laosheng.top/fuwu/yuanxiao) - 详细介绍了高等院校三千所的知识库。
+- 👉 [Project Gutenberg](https://www.gutenberg.org/) - 70,000 本版权已过期的免费电子书。
+- 👉 [Europeana](https://www.europeana.eu/) - 欧洲文化遗产档案，汇聚博物馆、图书馆与档案馆藏品。
+- 👉 [Digital Public Library of America](https://dp.la/) - 美国数字图书馆收藏聚合平台。
+- 👉 [WikiArchives.space](https://wikiarchives.space/) - 海量免费太空照片档案，可按主题与任务检索。
+- 👉 [NASA Image and Video Library](https://images.nasa.gov/) - NASA 完整视觉档案，图片、视频与音频免费下载。
+- 👉 [Open Culture](https://www.openculture.com/) - 免费文化与教育资源的档案。
+- 👉 [Wikipedia](https://www.wikipedia.org/) - 随机知识井，适合从一个词条跳到另一个词条。
+- 👉 [arXiv](https://arxiv.org/) - 科学论文的免费预印本库。
 
 ## ✨ 教学标准
 

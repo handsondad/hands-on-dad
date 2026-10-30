@@ -51,6 +51,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Smithsonian Magazine](https://www.smithsonianmag.com/) - 科学、历史、文化与艺术交叉内容。
 - 👉 [Science News for Students](https://www.sciencenewsforstudents.org/) - 青少年版科学新闻，适合K-12学生。
 - 👉 [NOVA (PBS)](https://www.pbs.org/wgbh/nova/) - 经典科学纪录片与互动资源。
+- 👉 [NASA APOD](https://apod.nasa.gov/) - NASA 每日天文图片，每张附专业解说，适合亲子每日一看。
+- 👉 [ScienceDaily](https://www.sciencedaily.com/) - 科学新闻的实时聚合，覆盖各学科最新研究。
 
 [《第一推动丛书》](https://book.douban.com/series/1700)是一套凝结了30年时光的经典科普丛书，被无数读者视为科学精神的家园。
 
@@ -113,6 +115,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [人类消费的动物](https://www.humanconsumption.live/) - 人类要消费多少动物？有人做了一个网站，实时显示今年至今被消费掉的动物数量。这是一个惊人的数字！为了养活人类，地球需要付出这么多。
 - 👉 [海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator) - 用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。
 - 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
+- 👉 [Tinkered.ai](https://www.tinkered.ai/tinkercad) - 专门替代 Tinkercad 仿真功能的网页端工具，除 Arduino 外还支持 ESP32、树莓派 Pico 等上千种开发板，引入更真实的 SPICE 物理模拟与 AI 固件生成。
+- 👉 [Wokwi](https://wokwi.com/) - 非常流行的浏览器端微控制器模拟器，支持 ESP32、Arduino 与树莓派，是学习物联网与电子编程的绝佳工具。
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
 - 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
@@ -123,6 +127,24 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Planet](https://planet.dyu.sh/) - 一个文件里的星球演示项目，用极简方式在网页中呈现可交互的行星效果。
 - 👉 [窗口交换（WindowsSwap）](https://www.window-swap.com/) - 世界各地的用户上传自家窗外的照片，你可以随机打开，也可以指定地点。
 - 👉 [世界最大立体书](https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-angeles-library-world-record/) - 美国洛杉矶中央图书馆，为了庆祝建馆100周年，制作了一本世界最大的立体书，正在图书馆大厅展出。
+- 👉 [Access Mars](https://accessmars.withgoogle.com/) - 用 3D 漫游 NASA 好奇号火星车拍摄的真实火星地表。
+- 👉 [100,000 Stars](https://stars.chromeexperiments.com/) - 在浏览器中飞越银河系 10 万颗恒星，感受太阳系的位置。
+- 👉 [NASA Eyes](https://eyes.nasa.gov/) - 以 3D 探索太阳系、行星和 NASA 正在执行的任务。**相当好！**🤩
+- 👉 [Stellarium Web](https://stellarium-web.org/) - 浏览器中的真实星空地图，可按时间与地点还原夜空。
+- 👉 [Sky-Map.org](https://sky-map.org/) - 在线天空图谱，浏览全天区恒星、星系与天体照片。
+- 👉 [N2YO](https://www.n2yo.com/) - 实时追踪卫星与国际空间站，查询任意地点的过境时间。
+- 👉 [AstroViewer](https://astroviewer.net/) - 国际空间站与中国空间站的实时位置、地面轨迹与过境预报。
+- 👉 [Stuff in Space](https://stuffin.space/) - 以 3D 方式查看地球轨道上的卫星与太空垃圾。
+- 👉 [Obsearth](https://obsearth.com/) - 输入地点即可查看最近几天的卫星影像（原 Spectator Earth）。
+- 👉 [SpaceWeather](https://spaceweather.com/) - 实时太空天气：太阳活动、极光预报与近地天体动态。
+- 👉 [SolarHam](https://www.solarham.com/) - 太阳数据与极光预报，含 Kp 指数、CME 追踪与极光椭圆。
+- 👉 [Time and Date](https://www.timeanddate.com/) - 查询时间、日出日落、月相与各类天空事件。
+- 👉 [Virtual Vacation](https://virtualvacation.us/) - 坐在家里用第一视角在城市里漫步，可切换城市与行进方式。
+- 👉 [Neal.fun](https://neal.fun/) - 一系列互动知识体验，如深海、宇宙与金钱模拟器。**相当好！**🤩
+- 👉 [Pointer Pointer](https://pointerpointer.com/) - 无论光标停在哪里，都有人指着它。
+- 👉 [Hacker Typer](https://hackertyper.net/) - 随便敲键盘，就能装出黑客入侵的假终端。
+- 👉 [Find the Invisible Cow](https://findtheinvisiblecow.com/) - 靠声音寻找一头看不见的奶牛。
+- 👉 [Should See This](https://shouldseethis.com/) - 人工精选的酷炫网站目录，收录 600+ 个「值得一看」的站，点「Surprise Me」还会随机送你一个。
 
 ## 🩺 Engineering
 
@@ -167,6 +189,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [粘土电路板](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) - 一位国外网友，为了演示电路板并不是高深的产品，特别制作了一块粘土电路板。👉 [开源代码](https://github.com/FeministHardware/Making-PCBs-from-natural-clay) **相当有趣！**🤩  
 - 👉 [Valetudo](https://valetudo.cloud/) - 扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。👉 [开源代码](https://github.com/Hypfer/Valetudo)
 - 🤗 [结印](https://github.com/huanglizhuo/Ketsuin) - 一个 Web 应用，通过火影忍者的手势输入法，摄像头识别手势进行文字输入。
+- 👉 [Visual Learning](https://visual-learning.app/) - 独立创作者做的「40 台机器，全部剖开来」交互式科普仿真站，动画由实时代码与真实物理公式驱动，支持 X 光透视和「切开」模型，可查看六足机器人、V8 发动机、1.3 公里长的盾构掘进机、Vision Pro、洗衣机、抓娃娃机等内部原理。**相当好！**🤩
 
 ### 🤖 AI
 
@@ -211,7 +234,14 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
 - 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
-- 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。
+- 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。同时覆盖电子电路与代码积木，把基于项目的学习引入课堂，树立对 STEM 的信心。**相当好！**🤩
+  - 👉 [Tinkercad Circuits](https://www.tinkercad.com/circuits) - 在线搭建并仿真 Arduino 与面包板电路，不用采购器材就能做电子实验。
+- 👉 [Layerling](https://layerling.com/) - Tinkercad 最直接的替代品，开源、免注册、纯浏览器运行的 3D CAD，操作逻辑与 Tinkercad 高度相似，另外支持倒角/圆角，面向 3D 打印建模。
+- 👉 [Womp](https://womp.com/) - 基于浏览器的「流体（Liquid）3D」建模平台，靠简单布尔形变做出融合度极高的粘土质感模型，自带出色的实时渲染与灯光。
+- 👉 [3D Slash](https://www.3dslash.net/) - 3D 建模界的「我的世界」，用锤子和凿子堆叠或削减像素方块，操作极直观，非常适合小孩子入门。
+- 👉 [Vectary](https://www.vectary.com/) - 比 Tinkercad 更进阶的网页端建模工具，支持拖拽组装、照片级实时渲染与 AR 预览。
+- 👉 [Onshape](https://www.onshape.com/) - 纯云端参数化 CAD，功能接近工业级 SolidWorks，支持多人实时协作，个人与创客有免费版本。
+- 👉 [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/) - Tinkercad 的「大哥」，同为 Autodesk 出品，桌面客户端 + 云端存储，教育与个人创客可申请免费授权。
 - 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
 - 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
 - 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
@@ -234,6 +264,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [Meilisearch](https://github.com/meilisearch/meilisearch) - 一个轻量级的混合模式搜索引擎工具。
 - 👉 [GNU TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html) - 一个跨平台的桌面编辑器，主要用于编写科技文档，提供数学内容的"所见即所得"。
 - 🤗 [FlowGram.AI](https://flowgram.ai/) - 一个可组合、可视化、易于集成且可扩展的工作流开发框架与工具集，帮助开发者以更快、更简单的方式搭建 AI 工作流平台。内置可视化流程画布、节点配置表单、变量作用域链，以及开箱即用的物料（LLM、条件、代码编辑器等）。
+- 👉 [Observable](https://observablehq.com/) - 用实时代码可视化数据，边写边看结果。
 
 ### 🧮 有趣发明
 
@@ -248,6 +279,10 @@ AI时代是否每个人都会成为数字艺术家？是那些原本爱好艺术
 - 👉 [Artcyclopedia](http://www.artcyclopedia.com/) - 艺术作品与艺术家在线索引。
 - 👉 [Artsonia](https://www.artsonia.com/) - 儿童艺术作品在线展示与学校项目。
 - 👉 [Drawspace](http://www.drawspace.com/) - 绘画与素描的免费教程与练习。
+- 👉 [Rijksmuseum](https://www.rijksmuseum.nl/) - 荷兰国立博物馆开放收藏，可下载高分辨率艺术品。
+- 👉 [The Met Open Access](https://www.metmuseum.org/art/collection) - 大都会艺术博物馆的开放收藏与高清图像。
+- 👉 [WikiArt](https://www.wikiart.org/) - 250,000 件艺术品的在线档案，可按流派与艺术家浏览。
+- 👉 [The Public Domain Review](https://publicdomainreview.org/) - 打捞历史上被遗忘的视觉珍宝与公版作品。
 
 ### 🎵 音乐
 
@@ -332,6 +367,12 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [新世纪音乐-雅尼](https://zh.wikipedia.org/wiki/雅尼) - 雅尼（Yanni），著名的新世纪音乐作曲家和演奏家。📺️ [雅尼13场音乐会合集](https://www.bilibili.com/video/BV1sJ411A7Pa/)，📺️ [B站雅尼合集](https://www.bilibili.com/video/BV1XQ4y1y7i9)
 - 👉 [久石让作品](https://zh.wikipedia.org/wiki/久石让) - 久石让是一位才华横溢的音乐家，他的作品深受全球听众的喜爱。他的音乐不仅具有独特的艺术价值，也为电影和动画作品增添了无限的魅力。📺️ [久石让电影配乐合集](https://www.bilibili.com/video/BV1LN411d7Hy)，📺️ [久石让-宫崎骏动漫音乐会](https://www.bilibili.com/video/BV1oV411y7Xo)
 - 👉 [MyNoise](https://mynoise.net/) - 一个提供背景噪音和互动声景的作品集。可以自定义背景声音。比如[孕妈妈子宫中的声音](https://mynoise.net/NoiseMachines/inUteroSoundGenerator.php)
+- 👉 [Radiooooo](https://radiooooo.com/) - 选择一个国家和年代，听那个时代的音乐。
+- 👉 [Musicmap](https://musicmap.info/) - 一张音乐流派的家谱树，理清各类音乐之间的相互影响。
+- 👉 [Lofi Cafe](https://lofi.cafe/) - 舒适的 lofi 电台，适合学习、阅读与放松。
+- 👉 [A Soft Murmur](https://asoftmurmur.com/) - 混合雨声、雷声、海浪等，创造属于自己的声景。
+- 👉 [Patatap](https://patatap.com/) - 按下任意键就能同时生成音乐与动画。
+- 👉 [Listen to Wikipedia](https://listen.hatnote.com/) - 把维基百科的实时编辑转化为音符。
 
 #### 🎑 音乐欣赏
 
@@ -375,6 +416,10 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Midjourney](https://www.midjourney.com/) - 一款AI绘画工具，用户只需输入想到的文字，就能通过人工智能产出相对应的图片。
 - 👉 [Imagine.Art](https://www.imagine.art/) - 是一个基于人工智能的在线艺术创作平台，它允许用户通过简单的输入和操作，生成具有独特风格和创意的艺术作品。
 - 👉 [Say What You See](https://experiments.withgoogle.com/say-what-you-see) - 一个实验项目，通过查看Google AI生成的图像并描述您所看到的内容，学习提示艺术并提高您的图像阅读技能。类似做游戏。
+- 👉 [Zoomquilt](https://zoomquilt.org/) - 无限缩放的艺术作品，像掉进一幅没有尽头的画。
+- 👉 [Weave Silk](https://weavesilk.com/) - 用鼠标创作丝绸般的对称数字艺术。
+- 👉 [Koalas to the Max](https://koalastothemax.com/) - 不断缩放考拉，点开由圆点组成的图案。
+- 👉 [Colorfigures](https://april-zhu.com/colorfigures) - April Zhu 制作的 AI 图示技能：输入一句日常描述，就生成可旋转、可透视、带标注的等距手绘图，适合做教学插图。
 
 ### 📸 摄影
 
@@ -525,6 +570,15 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [McCrindle Research](https://mccrindle.com.au) - 一个位于澳大利亚的研究、趋势分析和未来学咨询公司，由Mark McCrindle创立。这家公司专注于提供数据驱动的见解，旨在帮助企业和组织理解社会趋势、人口统计变化以及未来的工作和生活模式。McCrindle Research因其深入的研究报告、未来学预测以及对澳大利亚和全球人口趋势的分析而闻名。
 - 👉 [中文互联网语料资源](https://corpus.cybersac.cn/#/dataSet) - 中文互联网语料资源平台发布了共2.7TB中文资料，向社会开放，专门用来训练大模型。
 - 👉 [癌症可视化资料](https://visualsonline.cancer.gov/) - 一个致力于提供高质量、科学准确的癌症视觉资料的平台。如果你对癌症科学感兴趣，或是在寻找专业的癌症视觉资料，这个网站是一个不可多得的资源库。
+- 🧾 [Worldometers](https://www.worldometers.info/) - 世界的统计数据，人口、能源、环境等按秒更新。
+- 🧾 [Internet Live Stats](https://www.internetlivestats.com/) - 当前发布的推文、搜索与互联网活动计数。
+- 🧾 [Our World in Data](https://ourworldindata.org/) - 用真实数据呈现世界状态，图表可下载复用。
+- 🧾 [Gapminder](https://www.gapminder.org/) - 用动画揭示我们对世界的错误认知。
+- 🧾 [Information is Beautiful](https://informationisbeautiful.net/) - 将复杂数据转化为精美可视化。
+- 🧾 [World Bank Open Data](https://data.worldbank.org/) - 世界银行的开放数据，覆盖各国发展指标。
+- 🧾 [TÜİK](https://data.tuik.gov.tr/) - 土耳其官方统计数据库，可作为查找各国官方统计的参照。
+- 🧾 [The Pudding](https://pudding.cool/) - 用数据讲述的视觉文章。
+- 🧾 [Kepler.gl](https://kepler.gl/demo) - 地理空间数据探索器，拖入数据即可生成可视化地图。
 
 ### 🧮 有趣问题
 
@@ -566,6 +620,8 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Katalog](https://katalog-barbaraiweins.com/) - 非常有趣的项目！一位摄影师为她的每一件个人物品拍了一张照片，放到网站上，她想告诉大家，不要低估你拥有的物品数量。
 - 👉 [HummingbirdSpot](https://hummingbirdspot.com/all-hummingbird-species/) - 这是一个美国退休女教师的网站，她立志要拍摄所有种类的蜂鸟。全世界共有366种蜂鸟，她已经拍到了277种。她还做了[衍生物品商店](https://hummingbirdspot.myspreadshop.com/)售卖基于蜂鸟品牌的服装和物品。
 - 👉 [Animation Obsessive](https://animationobsessive.substack.com/) - Animation Obsessive 是由知名动画历史学家 Roberto Serrano 创立的 Substack 电子报。它不仅仅是一个新闻网站，更像是一本专注于全球动画文化的“印刷杂志”。
+- 👉 [April Zhu](https://april-zhu.com/) - 产品架构师的个人站点，收录她做的互动小工具、图示技能与设计作品。
+- 👉 [Techartist](https://iamtechartist.com/) - 互动 3D 世界、游戏与课程的个人作品集，全部在浏览器里直接运行。
 
 ### 🏳️‍🌈 社区平台
 
