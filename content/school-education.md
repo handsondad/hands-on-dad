@@ -25,6 +25,9 @@
 - 👉 [PBS LearningMedia](https://pbslearningmedia.org/) - 教师可以使用的视频、互动内容与教案库。
 - 👉 [EdShelf](https://edshelf.com/) - 教师与学校的教育工具和应用筛选目录。
 - 👉 [Google Classroom](https://classroom.google.com/) - 免费课堂管理和作业分发平台。
+- 👉 [Teachable Figures](https://ywedai.github.io/teachable-figures/) - 一个开源 AI Agent 技能，能生成可预测、可操作、可观察的 2D/3D 互动课件，从 Transformer、人体解剖到齿轮结构都能做。👉 [开源代码](https://github.com/ywEdAi/teachable-figures)
+- 👉 [智能错题本](https://wrong-notebook.margrop.net/) - AI 拍照识题、自动解答、知识点标签、举一反三，还能组卷打印并跟踪掌握度，可自托管。👉 [开源代码](https://github.com/margrop/wrong-notebook)
+- 👉 [中小学知识图谱](https://math.pansgo.com/) - 数学（小→高）+ 英语（三年级→高中）+ 初中物理的知识体系，1644 个知识点、2403 条先修关系、6723 道题，能定位孩子到底卡在哪个基础点上。👉 [开源代码](https://github.com/xiaoyang111222/cn-math-taxonomy)
 
 ### 🧪 化学
 
@@ -51,7 +54,8 @@
 
 - 👉 [EnjoyPhysics](https://enjoyphysics.cn) - 一个关于物理实验相关内容的网站。
 - 👉 [oPhysics](https://www.ophysics.com/) - oPhysics是一个专注于物理学教育的在线资源网站，提供各种交互式模拟和动画，帮助学生和教师理解和教授物理学概念。还提供丰富的动画作品资源。**相当好！**🤩
-- 👉 [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - 科罗拉多大学博尔德分校PhET提供的针对不同年级水平的物理话题的互动物理模拟。
+- 👉 [PhET Interactive Simulations](https://phet.colorado.edu/) - 科罗拉多大学博尔德分校提供的免费互动科学模拟，涵盖物理、化学、生物、地球科学和数学。
+  - 👉 [Bending Light](https://phet.colorado.edu/en/simulations/bending-light) - 互动探索光的反射与折射，观察光线经过不同介质时的路径变化。
 - 👉 [The Physics Aviary](https://www.thephysicsaviary.com/) - 一个专注于物理教育的在线学习平台，它主要提供了一系列的互动式物理模拟实验和练习，以及教学资源，旨在帮助学生更好地理解并掌握物理概念和原理。
 - 👉 [A Free Particle](https://sites.google.com/view/afreeparticle/interactives?authuser=0) - Michael Freeman解释牛顿力学话题的互动物理模拟和游戏集合。
 - 👉 [LibreTexts.Physics](https://phys.libretexts.org/) - 提供高质量的免费教育资源，支持物理学的教学和学习，促进知识的自由传播。
@@ -62,6 +66,7 @@
 - 📚️ [《费恩曼物理学讲义三卷》](https://book.douban.com/series/5935) - 通俗易懂的物理学讲义，适合高年级学生使用。
 - 📚️ [99个物理小实验](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) 一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。
 - 📚️ [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物理教学书。它源自荷兰著名的物理演示系列丛书 [ShowdeFysica](http://nvon.nl/)，旨在通过 99 个精选的物理演示实验，帮助教师和学生直观地理解物理学概念。该平台利用 [Jupyter Book](http://teachbooks.tudelft.nl/) 技术，将传统的纸质书转化为支持视频、Python 代码模拟和实时交互的数字教材。
+- 👉 [Every Joule](https://iamtechartist.com/every-joule/) - 围绕 GCSE 能量主题做的交互式物理教材，覆盖动能、重力势能、弹性势能、功率、效率与能量守恒，靠动手操作理解能量变化。👉 [第一课](https://iamtechartist.github.io/every-joule-lesson1/)
 
 ### 🧬 生物
 
@@ -72,6 +77,9 @@
 - 📚️ [《生物学与生活》](https://book.douban.com/subject/26882918/) - 非常硬核的生物学知识，是一本在美国大学生中享有盛誉的通识读物。
 - 📚️ [《生物学之书从生命的起源到实验胚胎，生物学史上的250个里程碑》](https://weread.qq.com/web/reader/7f7322d0725f98bf7f77c54) - 探讨了生物学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 - 👉 [Breathing and Respiration](https://iamtechartist.com/breathing-and-respiration/) - 交互式 3D 生物课，把呼吸系统的结构与气体交换过程拆开来看。
+- 👉 [Dinosaurs to Birds](https://iamtechartist.com/dinosaurs-to-birds/) - 一套讲鸟类演化的 3D 生物课，用六节交互课程把化石证据摆出来，让学生观察、预测、动手，理解鸟类与恐龙之间的演化关系。
+- 🤗 [BodyVista](https://freedomintelligence.github.io/BodyVista/) - 开源的 3D 人体解剖与生理交互平台，整合约 2900 个解剖结构、12 个人体系统、7 个身体区域，支持旋转缩放、器官隐藏与剖切、结构标注和测量，另有 133 项动态演示与解剖测验。👉 [开源代码](https://github.com/FreedomIntelligence/BodyVista)
+- 🤗 [Anatomy Atelier](https://github.com/thebuggeddev/anatomy) - 用 three.js 做的交互式 3D 人体解剖浏览器，点击不同部位就能看对应知识；模型从近 900 MB 压到 28.6 MB，仍保留画质并按需加载。
 
 ### 🎤 语言
 
@@ -95,6 +103,7 @@
 - 👉 [AI辅助背单词](https://prowords.zeabur.app/) - 基于AI技术，根据你的职业背景生成贴合实际工作场景的英语例句，让记忆单词更有效、更有意义。👉 [开源代码](https://github.com/winterfx/prowords)
 - 👉 [薄冰英语语法](https://oldwestenglish.github.io/grammar) - 薄冰英语语法开源内容。
 - 👉 [HiSpeaking](https://hispeaking.com/) -  一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。
+- 👉 [Word Atlas（词光）](https://0xlei.tech/words/) - 7298 个雅思核心词，每个词配插画、例句和英美发音，用 FSRS 间隔重复安排复习，免费开源、无需注册，手机浏览器也能学。👉 [开源代码](https://github.com/designfuchen/word-atlas)
 
 ### 🌏 地理
 
@@ -107,6 +116,7 @@
 - 👉 [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - 输入城市名，查看它从数亿年前到今天所在的大陆位置。**相当好！**🤩
 - 👉 [S2Maps](https://s2maps.eu/) - EOX 的「无云」卫星影像拼图，去掉云层后可以看到超高分辨率的地表细节。
 - 👉 [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - 免费的地球观测工具，按时间与波段浏览卫星影像。
+- 👉 [Outcrop](https://outcrop.rocks/) - iPhone 和 Android 地质探索应用；将相机对准周围景观，可查看岩石种类、形成时间与大陆演变，还支持离线使用。
 - 👉 [OpenStreetMap](https://www.openstreetmap.org/) - 由志愿者共同绘制的开放世界地图，可自由使用与编辑。
 - 👉 [WikiMapia](https://wikimapia.org/) - 协作注释的世界地图，人人都能标注地点与故事。
 - 👉 [GeoGuessr](https://www.geoguessr.com/) - 随机掉入世界某地，根据街景线索猜出自己在哪里。
@@ -153,6 +163,7 @@
 - 👉 [铜匠实验室](https://lab.tongjiang.app) - 面向高中的免费互动 3D 科学课，把抽象概念做成可操作的三维演示。👉 [开源代码](https://github.com/smithjohn78390/tongjiang-lab)
 - 👉 [Learn Arduino](https://learn-arduino-red.vercel.app/) - 面向初学者的 Arduino 互动 3D 课程，从点亮 LED、按下按钮到读取光敏电阻，一步步搭出电路。
 - 👉 [ESP32-S3 Bench Guide](https://esp-labs-web.vercel.app/) - ESP32-S3 的实操手册：实时引脚图、带互动模拟器的课程与固件代码导读，支持 11 种语言。👉 [开源代码](https://github.com/agharsallah/esp-labs-web)
+- 👉 [WeduLab](https://wedulab.com/) - 提供 37 个交互式虚拟实验室，覆盖物理、化学、生物、数学、地理和历史，浮力、电路、牛顿定律、化学制氧气等知识点都能用交互实验讲。（免费使用，暂未确认开源）
 
 ### 🏢 知识库
 
@@ -182,6 +193,15 @@
 - 👉 [Open Culture](https://www.openculture.com/) - 免费文化与教育资源的档案。
 - 👉 [Wikipedia](https://www.wikipedia.org/) - 随机知识井，适合从一个词条跳到另一个词条。
 - 👉 [arXiv](https://arxiv.org/) - 科学论文的免费预印本库。
+- 👉 [Unpaywall](https://unpaywall.org/) - 浏览器插件，遇到付费墙的论文时自动帮你找合法的免费全文。
+- 👉 [DOAJ](https://doaj.org/) - 开放获取期刊目录，收录全球经过质量审核的免费学术期刊。
+- 👉 [OpenStax](https://openstax.org/) - 免费开放获取的大学教科书库，可整本下载。
+- 👉 [Elicit](https://elicit.org/) - AI 研究助手，把文献综述、结论抽取和数据整理自动化。
+- 👉 [Consensus](https://consensus.app/) - 直接用自然语言提问，答案来自已发表的论文并标注出处。
+- 👉 [Connected Papers](https://www.connectedpapers.com/) - 输入一篇论文，生成相关研究的图谱，理清前后脉络。
+- 👉 [Semantic Scholar](https://www.semanticscholar.org/) - AI 驱动的学术搜索，能提炼论文要点。
+- 👉 [SciSpace](https://scispace.com/) - 上传论文后逐段解释、答疑和翻译，帮人读懂原文献。
+- 👉 [Summarize.tech](https://www.summarize.tech/) - 给 YouTube 视频生成分段摘要，先看文字再决定要不要看。
 
 ## ✨ 教学标准
 

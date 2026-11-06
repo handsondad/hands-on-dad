@@ -214,6 +214,34 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
+下面是一批开箱可用的 AI 创作工具，按用途排：
+
+- 👉 [Gamma](https://gamma.app/) - 一句话生成整套演示文稿、网页和文档，排版由 AI 直接产出。
+- 👉 [Napkin](https://www.napkin.ai/) - 把文字里的逻辑自动画成示意图和流程图，适合讲解概念。
+- 👉 [Ideogram](https://ideogram.ai/) - 文字生成图片，擅长把画面里的英文字母画对。
+- 👉 [Leonardo.Ai](https://leonardo.ai/) - 面向游戏与设计素材的 AI 绘图平台，支持模型微调与多种风格预设。
+- 👉 [Recraft](https://www.recraft.ai/) - 生成矢量插画、图标，并保持一套品牌风格一致。
+- 👉 [Krea](https://www.krea.ai/) - 实时 AI 视觉生成与增强，边画边出图。
+- 👉 [Photoroom](https://www.photoroom.com/) - 一键抠图并生成商品图与背景。
+- 👉 [ElevenLabs](https://elevenlabs.io/) - 逼真的 AI 语音合成与配音，支持多语言与声音克隆。
+- 👉 [Udio](https://www.udio.com/) - 用文字描述生成完整歌曲，可继续扩展和重混。
+- 👉 [Pika](https://pika.art/) - 文字或图片生成短视频，支持局部修改画面元素。
+- 👉 [Sora](https://sora.com/) - OpenAI 的视频生成产品。
+- 👉 [Krisp](https://krisp.ai/) - 实时消除通话与录音里的背景噪音，并生成会议纪要。
+- 👉 [Otter](https://otter.ai/) - 会议录音自动转写、说话人分离与摘要。
+- 👉 [Cursor](https://cursor.com/) - 内置 AI 的代码编辑器，可以直接改整个项目。
+- 👉 [Lovable](https://lovable.dev/) - 描述需求直接生成可上线的网站。
+- 👉 [Bolt](https://bolt.new/) - 在浏览器里边对话边跑通全栈应用。
+
+想让 AI 自己干活的，可以看看这些 agent 技能与工具：
+
+- 🤗 [Paperclip](https://github.com/paperclipai/paperclip) - 像管理员工一样指挥一群 AI agent 的开源应用。
+- 🤗 [Skills（Matt Pocock）](https://github.com/mattpocock/skills) - 一线工程师日常在用的 Claude Code 技能集，短小好改。👉 [官网](https://aihero.dev/skills)
+- 🤗 [ECC](https://github.com/affaan-m/ECC) - 把技能、记忆与安全策略打包给 Claude Code、Codex、Cursor 等 agent 的工程化工具箱。👉 [官网](https://ecc.tools)
+- 🤗 [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - 单文件四条规则，总结 Karpathy 观察到的模型写代码常踩的坑。
+- 🤗 [claude-mem](https://github.com/thedotmack/claude-mem) - 把 agent 做过的事压缩保存，下次会话接着干而不用从零开始。
+- 🤗 [REA](https://github.com/morluto/rea) - 教 agent 逆向工程：给它一个 app 的行为，它反推出原生实现思路。👉 [官网](https://rea.tools)
+
 ### 🛠️ 工具
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
@@ -263,8 +291,46 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
 - 🤗 [Meilisearch](https://github.com/meilisearch/meilisearch) - 一个轻量级的混合模式搜索引擎工具。
 - 👉 [GNU TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html) - 一个跨平台的桌面编辑器，主要用于编写科技文档，提供数学内容的"所见即所得"。
+- 🤗 [Florilegium](https://github.com/kevinraymond/florilegium) - LuaLaTeX 插件，可在页面边缘程序化生成蓝白植物装饰；其 TikZ 绘图库也支持 pdfLaTeX，这种生成式边饰的思路也值得借鉴到网页排版。
 - 🤗 [FlowGram.AI](https://flowgram.ai/) - 一个可组合、可视化、易于集成且可扩展的工作流开发框架与工具集，帮助开发者以更快、更简单的方式搭建 AI 工作流平台。内置可视化流程画布、节点配置表单、变量作用域链，以及开箱即用的物料（LLM、条件、代码编辑器等）。
 - 👉 [Observable](https://observablehq.com/) - 用实时代码可视化数据，边写边看结果。
+
+给 AI 装上设计能力的开源仓库，做前端和课件都很有用：
+
+- 🤗 [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 给 AI 补上设计品味的技能，内置上百种配色与字体搭配及分行业设计规则。👉 [官网](https://www.uupm.cc/)
+- 🤗 [Impeccable](https://github.com/pbakaus/impeccable) - 一套给编码 agent 的设计词汇表，让它会 critique、polish 或 bolder，拦住「AI 味」设计。👉 [官网](https://impeccable.style)
+- 🤗 [Framelink Figma MCP](https://github.com/GLips/Figma-Context-MCP) - 把 Figma 链接喂给 Cursor 等 agent，直接拿到精确的布局信息。👉 [官网](https://www.framelink.ai/)
+- 🤗 [React Bits](https://github.com/DavidHDev/react-bits) - 规模最大的开源 React 动画与交互组件库。👉 [官网](https://reactbits.dev)
+- 🤗 [GSAP Skills](https://github.com/greensock/gsap-skills) - GSAP 官方技能包，教 agent 正确写时间线与滚动动画。
+- 🤗 [HyperFrames](https://github.com/heygen-com/hyperframes) - 写 HTML 就能渲染成视频，让 agent 不用 After Effects 也能出产品片。👉 [官网](https://hyperframes.heygen.com)
+- 🤗 [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) - 用任意 LLM 控制 Blender 建模、搭场景、上材质。👉 [官网](https://www.mcp-for-blender.com/)
+- 🤗 [VoiceStudio](https://github.com/debpalash/VoiceStudio) - 全本地的 ElevenLabs 替代品，配音、克隆、转录并支持 646 种语言。👉 [官网](https://voicestudio.sh)
+- 🤗 [ppt-master](https://github.com/hugohe3/ppt-master) - 把文档变成真正可编辑的 PowerPoint，保留原生形状、转场与动画。
+- 🤗 [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) - 浏览器里的「间谍卫星」模拟器，3D 地球上叠着真实航班、船只与摄像头。👉 [官网](https://maptheworld.ai)
+- 🤗 [Diagram Design](https://github.com/cathrynlavery/diagram-design) - 45 种编辑级图表设计，输出自包含的 HTML + SVG。👉 [官网](https://diagramdesign.dev)
+
+一批顺手就能用的开发、隐私与文档小工具：
+
+- 👉 [AlternativeTo](https://alternativeto.net/) - 输入任何一个软件，列出可替代它的同类工具。
+- 👉 [SimilarSites](https://www.similarsites.com/) - 找到和某个网站相似的站点。
+- 👉 [Have I Been Pwned](https://haveibeenpwned.com/) - 查自己的邮箱和密码是否出现在已知数据泄露里。
+- 👉 [VirusTotal](https://www.virustotal.com/) - 上传文件或贴 URL，用几十个引擎同时扫一遍。
+- 👉 [PrivNote](https://privnote.com/) - 生成阅后即焚的自毁便签。
+- 👉 [Temp Mail](https://temp-mail.org/) - 一次性临时邮箱，用来注册不想留真邮箱的服务。
+- 👉 [10 Minute Mail](https://10minutemail.com/) - 十分钟后自动失效的临时邮箱。
+- 👉 [file.io](https://www.file.io/) - 传一个文件，下载一次后自动删除。
+- 👉 [archive.today](https://archive.ph/) - 给网页拍快照，防止原文被改或被删。
+- 👉 [Downdetector](https://downdetector.com/) - 看某个服务是不是大范围宕机，还是只有自己连不上。
+- 👉 [Fast.com](https://fast.com/) - Netflix 出品的极简测速页。
+- 👉 [Raindrop.io](https://raindrop.io/) - 跨平台书签管理器，可收藏网页、图片和片段。
+- 👉 [Regex101](https://regex101.com/) - 在线调试正则表达式，实时解释每一段的含义。
+- 👉 [ExplainShell](https://explainshell.com/) - 粘贴一条终端命令，逐段解释每个参数在做什么。
+- 👉 [CodeBeautify](https://codebeautify.org/) - 格式化、校验与转换各种代码和数据格式。
+- 👉 [JSON Formatter](https://jsonformatter.org/) - 在线格式化与校验 JSON。
+- 👉 [Phind](https://www.phind.com/) - 面向开发者的 AI 搜索，答案带来源和代码。
+- 👉 [Smallpdf](https://smallpdf.com/) - 一整套在线 PDF 工具，压缩、转换、合并都能用。
+- 👉 [iLovePDF](https://www.ilovepdf.com/) - 免费在线合并、拆分、压缩与转换 PDF。
+- 👉 [JustWatch](https://www.justwatch.com/) - 查一部影视剧在哪个平台能看。
 
 ### 🧮 有趣发明
 
@@ -373,6 +439,11 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [A Soft Murmur](https://asoftmurmur.com/) - 混合雨声、雷声、海浪等，创造属于自己的声景。
 - 👉 [Patatap](https://patatap.com/) - 按下任意键就能同时生成音乐与动画。
 - 👉 [Listen to Wikipedia](https://listen.hatnote.com/) - 把维基百科的实时编辑转化为音符。
+- 👉 [Radio Garden](https://radio.garden/) - 拖动地球上的绿点，收听当地正在播出的电台。
+- 👉 [Every Noise at Once](https://everynoise.com/) - 把几千种音乐流派摊成一张可点击的散点地图，点一下就能试听。
+- 👉 [Tunefind](https://www.tunefind.com/) - 查某部剧集或电影某一集里出现的都是什么歌。
+- 👉 [Music For Programming](https://musicforprogramming.net/) - 一档按集编号的专注混音电台，专门配写代码时听。
+- 👉 [Coffitivity](https://coffitivity.com/) - 咖啡馆环境音的循环播放器，用来制造恰到好处的背景人声。
 
 #### 🎑 音乐欣赏
 
@@ -420,6 +491,16 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [Weave Silk](https://weavesilk.com/) - 用鼠标创作丝绸般的对称数字艺术。
 - 👉 [Koalas to the Max](https://koalastothemax.com/) - 不断缩放考拉，点开由圆点组成的图案。
 - 👉 [Colorfigures](https://april-zhu.com/colorfigures) - April Zhu 制作的 AI 图示技能：输入一句日常描述，就生成可旋转、可透视、带标注的等距手绘图，适合做教学插图。
+- 👉 [Photopea](https://www.photopea.com/) - 浏览器里几乎完整的 Photoshop 替代品，能直接打开 PSD。
+- 👉 [Squoosh](https://squoosh.app/) - Google 出的在线图片压缩，实时对比压缩前后画质。
+- 👉 [Remove.bg](https://www.remove.bg/) - 一键去掉图片背景。
+- 👉 [Cleanup.pictures](https://cleanup.pictures/) - 涂抹掉照片里多余的路人或杂物，自动补全背景。
+- 👉 [Unscreen](https://www.unscreen.com/) - 去掉视频背景，不用绿幕。
+- 👉 [Carbon](https://carbon.now.sh/) - 把代码变成一张好看的截图，适合放 slide 和文档。
+- 👉 [Ray.so](https://ray.so/) - 另一款代码截图美化工具，可调主题与窗口样式。
+- 👉 [Shots.so](https://shots.so/) - 给截图套上设备外壳、渐变背景，快速做出产品预览图。
+- 👉 [Smartmockups](https://smartmockups.com/) - 把设计稿套进真实设备的样机图里。
+- 👉 [TinEye](https://tineye.com/) - 以图搜图，用来追溯图片的原始出处。
 
 ### 📸 摄影
 
@@ -557,6 +638,7 @@ GitHub上总结的一份[Awesome Music](https://github.com/noteflakes/awesome-mu
 - 👉 [傅里叶级数的动画](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) - 数学之美：一个傅里叶级数的动画课程。
 - 👉 [阶乘的斯特林公式推导](https://www.longluo.me/blog/stirlings-formula/) - 数学之美：斯特林公式一般用来快速计算阶乘 n!，本文尝试用通俗语言推导这个公式。
 - 👉 [JRMF](https://jrmf.org/) - 一个关于数学小游戏的网站，可以直接在网站上玩耍。
+- 🤗 [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) - 用写代码的方式批量做片子：画面逐帧渲染、配乐用免费采样、配音走语音合成，内置 66 种现成风格，全程不用视频生成模型。👉 [官网](https://lemomo-ai.github.io/lemo-opuscar/)
 
 ### 📊 数据
 
