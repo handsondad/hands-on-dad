@@ -80,6 +80,8 @@
 - 👉 [Dinosaurs to Birds](https://iamtechartist.com/dinosaurs-to-birds/) - 一套讲鸟类演化的 3D 生物课，用六节交互课程把化石证据摆出来，让学生观察、预测、动手，理解鸟类与恐龙之间的演化关系。
 - 🤗 [BodyVista](https://freedomintelligence.github.io/BodyVista/) - 开源的 3D 人体解剖与生理交互平台，整合约 2900 个解剖结构、12 个人体系统、7 个身体区域，支持旋转缩放、器官隐藏与剖切、结构标注和测量，另有 133 项动态演示与解剖测验。👉 [开源代码](https://github.com/FreedomIntelligence/BodyVista)
 - 🤗 [Anatomy Atelier](https://github.com/thebuggeddev/anatomy) - 用 three.js 做的交互式 3D 人体解剖浏览器，点击不同部位就能看对应知识；模型从近 900 MB 压到 28.6 MB，仍保留画质并按需加载。
+- 👉 [iNaturalist](https://www.inaturalist.org/) - 记录和分享身边的动植物观察，借助社区与研究者共同辨认物种，在探索自然的同时参与公民科学。
+- 👉 [北京重点保护野生动物名录](https://yllhj.beijing.gov.cn/ztxx/ysdw/ysdwml/202301/P020230530574446960865.pdf) - 北京市园林绿化局发布的野生动物名录 PDF，按类群列出哺乳类、鸟类等动物及其学名，可用于认识和查阅本地受保护物种。
 
 ### 🎤 语言
 

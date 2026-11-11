@@ -86,6 +86,8 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 📚️ [《营造法式》](https://weread.qq.com/web/reader/2e132f00720527a12e1e573) - 《营造法式》是我国古代*为完整的建筑技术书籍。
 - 📚️ [《工程学之书》](https://weread.qq.com/web/reader/55632e70725f98cb556641d) - 探讨了工程学发展历史上250个令人着迷的里程碑事件，从史前期到21世纪。
 - 👉 [Pyramids of Meroë](https://artsexperiments.withgoogle.com/meroe/) - 一个动画项目，展示埃及金字塔是如何创建的。介绍那些古代工匠的运用技术智慧。
+- 🤗 [Leibniz Stepped Reckoner](https://github.com/wixette/leibniz-stepped-reckoner) - 莱布尼茨步进计算器的互动 3D 模拟器，可学习这种能进行加减乘除的早期机械计算器。👉 [在线体验](https://wixette.github.io/leibniz-stepped-reckoner/)
+- 🤗 [Jacquard Loom Simulator](https://github.com/wixette/jacquard-loom-simulator) - 互动模拟提花织机：打孔编制卡片、转动织机，观察机头如何选择每一根纱线；包含 2D/3D 机构、课程与小游戏。👉 [在线体验](https://wixette.github.io/jacquard-loom-simulator/)
 
 ### 🔢 数字工程
 
@@ -117,6 +119,7 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [Diode](https://www.withdiode.com/) - 面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。**相当好！**🤩
 - 👉 [Tinkered.ai](https://www.tinkered.ai/tinkercad) - 专门替代 Tinkercad 仿真功能的网页端工具，除 Arduino 外还支持 ESP32、树莓派 Pico 等上千种开发板，引入更真实的 SPICE 物理模拟与 AI 固件生成。
 - 👉 [Wokwi](https://wokwi.com/) - 非常流行的浏览器端微控制器模拟器，支持 ESP32、Arduino 与树莓派，是学习物联网与电子编程的绝佳工具。
+- 🤗 [Altair 8800 模拟器](https://github.com/wixette/8800-simulator) - 在浏览器中运行的 3D Altair 8800 模拟器，可查看并拆解机器结构，操作前面板与 ASR-33 电传打字机，还能运行原版 4K BASIC 和汇编器。👉 [在线体验](https://wixette.github.io/8800-simulator/)
 - 👉 [LEOLabs](https://platform.leolabs.space/visualization) - 澳大利亚LEOLab公司的卫星数据平台，提供近地轨道可视化、轨道分析功能。**相当好！**🤩
 - 👉 [佛津](https://fojin.app/) - 全球佛教古籍数字化聚合平台。
 - 👉 [Flight VIZ](https://flight-viz.com/) - 实时3D显示全球的航班。
@@ -264,6 +267,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
 - 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。同时覆盖电子电路与代码积木，把基于项目的学习引入课堂，树立对 STEM 的信心。**相当好！**🤩
   - 👉 [Tinkercad Circuits](https://www.tinkercad.com/circuits) - 在线搭建并仿真 Arduino 与面包板电路，不用采购器材就能做电子实验。
+  - 👉 [Tinkercad 3D Design](https://www.tinkercad.com/3d-design) - 直接在浏览器中创建和编辑 3D 模型。
 - 👉 [Layerling](https://layerling.com/) - Tinkercad 最直接的替代品，开源、免注册、纯浏览器运行的 3D CAD，操作逻辑与 Tinkercad 高度相似，另外支持倒角/圆角，面向 3D 打印建模。
 - 👉 [Womp](https://womp.com/) - 基于浏览器的「流体（Liquid）3D」建模平台，靠简单布尔形变做出融合度极高的粘土质感模型，自带出色的实时渲染与灯光。
 - 👉 [3D Slash](https://www.3dslash.net/) - 3D 建模界的「我的世界」，用锤子和凿子堆叠或削减像素方块，操作极直观，非常适合小孩子入门。
@@ -303,6 +307,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 🤗 [React Bits](https://github.com/DavidHDev/react-bits) - 规模最大的开源 React 动画与交互组件库。👉 [官网](https://reactbits.dev)
 - 🤗 [GSAP Skills](https://github.com/greensock/gsap-skills) - GSAP 官方技能包，教 agent 正确写时间线与滚动动画。
 - 🤗 [HyperFrames](https://github.com/heygen-com/hyperframes) - 写 HTML 就能渲染成视频，让 agent 不用 After Effects 也能出产品片。👉 [官网](https://hyperframes.heygen.com)
+- 🤗 [Anatomy](https://github.com/wheresryan22/anatomy) - 面向 AI agent 的技能，可为真实机器和复杂系统生成细节丰富、可交互的等距插画 SVG，并可加入 WebGL 着色器与 3D 效果。👉 [技能介绍](https://skills.wheresryan.sh/anatomy)
 - 🤗 [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) - 用任意 LLM 控制 Blender 建模、搭场景、上材质。👉 [官网](https://www.mcp-for-blender.com/)
 - 🤗 [VoiceStudio](https://github.com/debpalash/VoiceStudio) - 全本地的 ElevenLabs 替代品，配音、克隆、转录并支持 646 种语言。👉 [官网](https://voicestudio.sh)
 - 🤗 [ppt-master](https://github.com/hugohe3/ppt-master) - 把文档变成真正可编辑的 PowerPoint，保留原生形状、转场与动画。
