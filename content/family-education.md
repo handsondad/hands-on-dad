@@ -358,6 +358,18 @@
 - 👉 [ThinkFun](https://www.thinkfun.com/) - ThinkFun是一家专注于设计创意教育玩具和游戏的公司，旨在通过游戏化的学习体验激发孩子们的创造力、逻辑思维和解决问题的能力。
 - 👉 [在线拼图](https://img.ops-coffee.cn/) - 在线工具，多张图片拼成一张大图。可以在线完成拼图游戏。
 
+#### 🧸 儿童启蒙游戏站
+
+参考国内外主流儿童启蒙游戏站的高频品类：字母数字认知、配对记忆、拼图、涂色绘画、音乐节奏、逻辑闯关、角色扮演。
+
+- 👉 [PBS KIDS Games](https://pbskids.org/games) - 美国公共电视台儿童游戏，依托动画角色，覆盖数学、阅读、科学、社交情感等品类。
+- 👉 [Toy Theater](https://toytheater.com/) - 免费在线教育游戏，包含字母、数学、拼图、绘画、音乐等品类。
+- 👉 [Teki](https://tekilearn.com/zh-hant/games/) - 面向 4–7 岁的学习游戏，侧重识字、数学和逻辑思维。
+- 👉 [Match Doodle](https://learn.erenjoy.com/activities) - 配对记忆类小游戏，找出并匹配成对的玩具图案，锻炼观察与记忆。
+- 👉 [Cosy House](https://tininova.com/worlds/house) - 温馨的小屋场景，孩子可以自由探索、布置和角色扮演。
+- 👉 [Pulsar Kids](https://pulsarkids.com/games/logic/) - 面向 4–10 岁的免费在线学习游戏，此链接为逻辑类游戏。
+- 👉 [知多多](https://zhiduo.cc/zh) - 国内儿童启蒙类平台。
+
 ### 👓️ 阅读
 
 #### 👣 生命奇迹

@@ -53,6 +53,10 @@ STEAM是指由科学（Science）、技术（Technology）、工程（Engineerin
 - 👉 [NOVA (PBS)](https://www.pbs.org/wgbh/nova/) - 经典科学纪录片与互动资源。
 - 👉 [NASA APOD](https://apod.nasa.gov/) - NASA 每日天文图片，每张附专业解说，适合亲子每日一看。
 - 👉 [ScienceDaily](https://www.sciencedaily.com/) - 科学新闻的实时聚合，覆盖各学科最新研究。
+- 👉 [Veritasium](https://www.veritasium.com/) - 真理元素，用实验和访谈讲解科学与工程中反直觉的问题。📺️ [YouTube视频](https://www.youtube.com/@veritasium)、📺️ [B站Veritasium真理元素](https://space.bilibili.com/94742590)
+- 👉 [3Blue1Brown](https://www.3blue1brown.com/) - 用动画直观讲解数学、物理与人工智能。📺️ [YouTube视频](https://www.youtube.com/3blue1brown)、📺️ [B站官方视频](https://space.bilibili.com/88461692)
+- 📺️ [漫士沉思录](https://space.bilibili.com/266765166/) - B站UP主，用火柴人动画讲解人工智能、数学、物理和计算机科普。
+- 👉 [Matrix67: The Aha Moments](https://www.matrix67.com/) - 数学科普博主，擅长用有趣的方式讲解数学与算法。📺️ [B站Matrix67](https://space.bilibili.com/523598119)
 
 [《第一推动丛书》](https://book.douban.com/series/1700)是一套凝结了30年时光的经典科普丛书，被无数读者视为科学精神的家园。
 
